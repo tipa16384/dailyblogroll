@@ -1,0 +1,207 @@
+# feeds.yaml
+max_items_total: 12
+max_items_per_feed: 1
+min_chars_for_article: 500
+first_run_skip_backlog: false
+title: Daily Blogroll
+feeds:
+  - name: Chasing Dings!
+    url: https://chasingdings.com/feed/
+    category: Gaming
+    update_frequency: daily
+    blogger: Tipa
+  - name: An Archaeopteryx
+    url: https://anarchaeopteryx.bearblog.dev/feed/
+    update_frequency: daily
+    category: General
+    blogger: Anarchae
+  - name: Musing over Pints and Coffee
+    url: https://musingsoverpintsandcoffee.wordpress.com/feed/
+    update_frequency: daily
+    category: General
+    blogger: joargarrosh
+  - name: Heartless Gamer
+    url: https://www.heartlessgamer.com/feeds/posts/default?alt=rss
+    update_frequency: daily
+    category: Gaming
+    blogger: Heartless
+  - name: Tales of the Aggronaut
+    url: https://aggronaut.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Belghast
+  - name: Words Under My Name
+    url: https://wordsundermyname.wordpress.com/feed/
+    update_frequency: daily
+    category: Writing
+    blogger: Blockade85
+  - name: Dragonchasers
+    url: https://dragonchasers.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Nimgimli
+  - name: Inventory Full
+    url: https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
+    update_frequency: daily
+    category: Gaming
+    blogger: Bhagpuss
+  - name: Scopique
+    url: https://scopique.com/feed/
+    update_frequency: daily
+    category: Tech
+    blogger: Scopique
+  - name: The Friendly Necromancer
+    url: https://thefriendlynecromancer.blogspot.com/feeds/posts/default?alt=rss
+    update_frequency: daily
+    category: Gaming
+    blogger: The Friendly Necromancer
+  - name: The Ancient Gaming Noob
+    url: https://tagn.wordpress.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Wilhelm
+  - name: Lisette's Mxtadventures
+    url: https://lisettesmxtadventures.wordpress.com/feed/?alt=rss
+    update_frequency: daily
+    category: Writing
+    blogger: Crimson
+  - name: Monsterlady's Diary
+    url: https://monsterladysdiary.wordpress.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Emily
+  - name: Nik Kantar
+    url: https://nkantar.com/blog/feed/
+    update_frequency: daily
+    category: General
+    blogger: Nik
+  - name: The Ghastly Mirror
+    url: https://www.ghastlymirror.xyz/rss.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: Ghastly
+  - name: Frostilyte Writes
+    url: https://frostilyte.ca/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Frostilyte
+  - name: Scripting News
+    url: http://scripting.com/rss.xml
+    update_frequency: daily
+    category: Tech
+    blogger: Dave Winer
+  - name: Steve's Blog
+    url: https://forums.grc.com/forums/blog/index.rss
+    update_frequency: daily
+    category: Tech
+    blogger: Steve Gibson
+  - name: Walter Bright's D-Lang Blog
+    url: https://feeds.feedburner.com/OfficialDBlog
+    update_frequency: daily
+    category: Tech
+    blogger: D
+  - name: The Old New Thing
+    url: https://devblogs.microsoft.com/oldnewthing/feed/
+    update_frequency: daily
+    category: Tech
+    blogger: Raymond Chen
+  - name: Coding Horror
+    url: https://blog.codinghorror.com/rss/
+    update_frequency: daily
+    category: Tech
+    blogger: Jeff Atwood
+  - name: Schneier on Security
+    url: https://www.schneier.com/feed/
+    update_frequency: daily
+    category: Tech
+    blogger: Bruce Schneier
+  - name: Ongoing
+    url: https://www.tbray.org/ongoing/ongoing.atom
+    update_frequency: daily
+    category: Tech
+    blogger: Tim Bray
+  - name: Jamie Zawinski's Blog
+    url: https://cdn.jwz.org/blog/feed/
+    update_frequency: daily
+    category: Tech
+    blogger: Jamie Zawinski
+  - name: Joel on Software
+    url: https://www.joelonsoftware.com/feed/
+    update_frequency: daily
+    category: Tech
+    blogger: Joel Spolsky
+  - name: Tobold's Blog
+    url: http://feeds2.feedburner.com/ToboldsBlog
+    update_frequency: daily
+    category: Gaming
+    blogger: Tobold
+  - name: Contain's Moderate Peril
+    url: http://www.containsmoderateperil.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Roger
+  - name: Bio Break
+    url: http://biobreak.wordpress.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Syp
+  - name: In An Age
+    url: http://inanage.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Azuriel
+  - name: A Pixel Nomad
+    url: https://pixelnomad.ca/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Stargrace
+  - name: The Daily WTF
+    url: https://feeds.feedburner.com/TheDailyWtf
+    update_frequency: daily
+    category: Tech
+    blogger: Remy Porter
+  - name: Aywren's Nook
+    url: https://aywren.com/feed.xml
+    update_frequency: daily
+    category: Writing
+    blogger: Aywren
+  - name: The Boardgames Chronicle
+    url: https://theboardgameschronicle.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: The Chronicler
+  - name: Mailvaltar
+    url: https://mailvaltar.wordpress.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Mailvaltar
+  - name: Smith Talks Tech
+    url: https://smithtalkstech.com/feed/
+    update_frequency: daily
+    category: Tech
+    blogger: Pete
+  - name: CrazyKinux's Musings
+    url: https://feeds.feedburner.com/CrazykinuxsMusing
+    update_frequency: daily
+    category: Tech
+    blogger: CrazyKinux
+  - name: Tofutush's Blog
+    url: https://tofutush.github.io/feed.xml
+    update_frequency: daily
+    category: General
+    blogger: Tofutush
+  - name: Indiecator
+    url: https://indiecator.org/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Magi
+  - name: Ready Pixel One
+    url: https://feeds.feedburner.com/squarespace/AxkEtpjNxtZ
+    update_frequency: daily
+    category: Gaming
+    blogger: Pixel One
+  - name: WCRobinson
+    url: https://wcrobinson.org/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: WCRobinson
