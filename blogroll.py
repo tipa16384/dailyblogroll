@@ -21,7 +21,7 @@ ROOT = Path(__file__).parent
 STATE_PATH = ROOT / "data" / "state.json"
 STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
 if not STATE_PATH.exists(): STATE_PATH.write_text("{}", encoding="utf-8")
-BLOGROLLS_DIR = ROOT / "blogrolls"
+BLOGROLLS_DIR = ROOT / "docs"
 BLOGROLLS_DIR.mkdir(parents=True, exist_ok=True)
 
 DB_PATH = "blogroll.db"
