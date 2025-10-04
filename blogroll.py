@@ -272,6 +272,7 @@ def render_html(blog_title, items):
     jinja_vars = {}
     title = f"{blog_title}: {datetime.date.today().isoformat()}"
     jinja_vars["title"] = title
+    jinja_vars["date"] = datetime.date.today().isoformat()
 
     previous_blog = find_previous_blogroll()
     if previous_blog:
@@ -385,6 +386,7 @@ def renavigate_blogrolls():
     Go through all blogroll HTML files and add navigation links to previous and next blogrolls.
     """
     blogrolls = get_sorted_blogrolls()
+    print (f"Found {len(blogrolls)} blogrolls to renavigate.")
     for i, (datestr, filename) in enumerate(blogrolls):
         with open(BLOGROLLS_DIR / filename, "r+", encoding="utf-8") as f:
             content = f.read()
@@ -395,11 +397,11 @@ def renavigate_blogrolls():
             # Add navigation links
             if i > 0:
                 _, prev_filename = blogrolls[i - 1]
-                header = header + f'<a href="{prev_filename}">⬅️</a>'
-            header = header + f'<a href="latest.html">Daily Blogroll: {datestr[0:4]}-{datestr[4:6]}-{datestr[6:8]}</a>'
+                header = header + f'<a href="{prev_filename}?key={datestr}">⬅️</a>'
+            header = header + f'<a href="index.html?key={datestr}">Daily Blogroll: {datestr[0:4]}-{datestr[4:6]}-{datestr[6:8]}</a>'
             if i < len(blogrolls) - 1:
                 _, next_filename = blogrolls[i + 1]
-                header = header + f'<a href="{next_filename}">➡️</a>'
+                header = header + f'<a href="{next_filename}?key={datestr}">➡️</a>'
             new_h1 = f"<h1>{header}</h1>"
             content = prelude + new_h1 + antelude
             f.seek(0)

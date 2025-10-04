@@ -12,11 +12,11 @@
 <body>
     <h1>
         {% if vars.previous is defined %}
-        <a href="{{ vars.previous }}">⬅️</a>
+        <a href="{{ vars.previous }}?target={{ vars.date }}">⬅️</a>
         {% endif %}
-        <a href="latest.html">{{ vars.title }}</a>
+        <a href="index.html">{{ vars.title }}?target={{ vars.date }}</a>
         {% if vars.next is defined %}
-        <a href="{{ vars.next }}">➡️</a>
+        <a href="{{ vars.next }}?target={{ vars.date }}">➡️</a>
         {% endif %}
     </h1>
 
