@@ -1,18 +1,19 @@
-# Daily Blogroll: 2025-10-05
+# Daily Blogroll: 2025-10-06
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/10/04.html#a010619)** — Dave Winer shares his surprise at preferring the VW ID.Buzz after test-driving several EVs, hinting at possibly trading in his Tesla.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/delusions-of-a-protocol/)** — Jamie Zawinski critiques Bluesky's facade of decentralization, calling out CEO Jay Graber's contentious practices and questionable leadership.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-overfishing-in-the-southwest-atlantic.html)** — Bruce Schneier discusses the pitfalls of supply chain over-optimization, cleverly tying it into Friday's squid-themed musings.
-## Writing
-
-- **[Lisette's Mxtadventures](https://lisettesmxtadventures.wordpress.com/2025/10/01/fandom-en-espanol/)** — Crimson reflects on writing fanfics in Spanish amidst a scarcity of engagement, emphasizing the need for more non-English fan content.
 ## General
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/04/keep-up-with-the-joneses/)** — Emily shares her begrudging acceptance of Spotify, highlighting its music discovery perks despite her issues with artist compensation.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-04-bearblog-theme-css-v9/)** — Anarchae celebrates updates to Bearblog's theme, delving into CSS tweaks and longing for the days of curated online link lists.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-03-09.html)** — Tofutush humorously recounts their first driving lesson, highlighting typical beginner mishaps while keeping the roads intact.
+- **[Nik Kantar](https://nkantar.com/blog/2025/10/blaugust-2025-links-part-4/)** — Nik wraps up Blaugust 2025 with a curated list of posts, reflecting on the chaos of keeping life in balance while enjoying diverse writing.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-04-oct-week-1-digest/)** — Anarchae captures the cultural pulse with reviews of reality shows and a nod to literary pursuits, making you wonder if life's more a puzzle than a plan.
+## Tech
+
+- **[Scripting News](http://scripting.com/2025/10/05.html#a155916)** — Dave Winer reflects on the challenges of web writing evolution, nostalgically yearning for the pre-interruption era of more robust online expression.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/upgrading-our-way-through-opengl-1-x/)** — Jamie dives into the maddening saga of OpenGL upgrades, hilariously highlighting the pains of navigating its convoluted versioning.
+- **[Scopique](https://scopique.com/2025/10/05/ah-yes-my-old-enemy-lighting/)** — Scopique tackles the nuances of lighting in Blender, proving once again that in the world of digital rendering, light truly makes the magic happen.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/04/binge-watching-kaos/)** — Wilhelm reviews 'Kaos,' a Greek mythology series with Jeff Goldblum adding a quirky 70s twist to Olympus's divine drama.
+- **[Chasing Dings!](https://chasingdings.com/2025/10/05/social-media-is-a-terrible-way-to-find-blogs-to-read/)** — Tipa bemoans the fleeting nature of social media streams, advocating for good old blogs as a more reliable source of quality reads.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/05/tagn-fantasy-critic-league-2025-week-thirty-nine-shakes-up-the-pack-again/)** — Wilhelm details the shake-ups in Fantasy Critic League standings, spotlighting how recent game releases kept the competition intense.
+- **[Heartless Gamer](http://www.heartlessgamer.com/2025/09/sunday-9282025-post-packer-tie-cowboys.html)** — Heartless shares the emotional rollercoaster of being a Packers fan, capturing the stress and spectacle of their latest match against the Cowboys.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/05/aggrochat-541-seeking-trikora/)** — Belghast and crew navigate a host of gaming topics from Destiny Rising chaos to SpaceHey nostalgia, offering a delightfully chaotic episode of AggroChat.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2025/10/05/my-top-3-wargames-with-julius-caesar/)** — The Chronicler shares a love for Julius Caesar-focused wargames, pondering the endless strategic possibilities that history-inspired play provides.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/gaming-status-october-2025.html)** — Tobold introspects on his gaming journey, pondering the intricacies of memory and engagement in both digital and tabletop adventures.
