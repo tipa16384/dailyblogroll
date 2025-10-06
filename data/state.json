@@ -59,10 +59,6 @@
     "modified": "Mon, 06 Oct 2025 06:48:46 GMT",
     "last_ts": 1759622400
   },
-  "https://www.ghastlymirror.xyz/rss.xml": {
-    "etag": "\"2fb7c9fdb1050a132261697997f37381-ssl-df\"",
-    "last_ts": 1756598400
-  },
   "https://frostilyte.ca/feed/": {
     "modified": "Fri, 03 Oct 2025 23:41:57 GMT",
     "last_ts": 1759160867
@@ -89,10 +85,6 @@
     "etag": "W/\"9cab90e59b1d0afd79ae504ec32304ff\"",
     "modified": "Sat, 04 Oct 2025 21:53:04 GMT",
     "last_ts": 1759500000
-  },
-  "https://blog.codinghorror.com/rss/": {
-    "etag": "W/\"45e75-iiqE1123cYvqupPf9gNhPmBNgco\"",
-    "last_ts": 1742513593
   },
   "http://biobreak.wordpress.com/feed/": {
     "modified": "Fri, 03 Oct 2025 13:01:28 GMT",

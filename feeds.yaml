@@ -135,7 +135,7 @@ feeds:
     update_frequency: daily
     category: Gaming
     blogger: Tobold
-  - name: Contain's Moderate Peril
+  - name: Contains Moderate Peril
     url: http://www.containsmoderateperil.com/feed/
     update_frequency: daily
     category: Gaming
@@ -205,3 +205,18 @@ feeds:
     update_frequency: daily
     category: Gaming
     blogger: WCRobinson
+  - name: Time to Loot
+    url: https://www.timetoloot.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Naithin
+  - name: Axxuy
+    url: https://axxuy.xyz/blog/feed.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: Axxuy
+  - name: Hamatti
+    url: https://hamatti.org/feed/feed.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: Juhis

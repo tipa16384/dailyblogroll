@@ -134,6 +134,10 @@ def collect_new_items(cfg):
         pf_count = 0
         max_seen_ts = st.get("last_ts", 0)
 
+        if not parsed.entries:
+            debug_log.append("No new entries.")
+            continue
+
         for e in parsed.entries:
             if len(picked) >= total_cap or pf_count >= per_feed_cap:
                 debug_log.append("Feed cap reached, stopping.")
@@ -155,6 +159,8 @@ def collect_new_items(cfg):
             if already_seen(con, feed_url, guid):
                 debug_log.append(f"Skipping already seen entry: {e}")
                 continue
+
+            debug_log.append(f"Picking entry: {e.get('title','')} {url}")
 
             title = getattr(e, "title", "") or "(untitled)"
             published = getattr(e, "published", "") or getattr(e, "updated", "")
