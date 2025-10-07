@@ -6,3 +6,4 @@ markdownify
 python-slugify
 openai
 jinja2
+feedgen
