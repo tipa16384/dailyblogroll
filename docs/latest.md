@@ -1,19 +1,22 @@
-# Daily Blogroll: 2025-10-06
+# Daily Blogroll: 2025-10-07
 
-## General
-
-- **[Nik Kantar](https://nkantar.com/blog/2025/10/blaugust-2025-links-part-4/)** — Nik wraps up Blaugust 2025 with a curated list of posts, reflecting on the chaos of keeping life in balance while enjoying diverse writing.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-04-oct-week-1-digest/)** — Anarchae captures the cultural pulse with reviews of reality shows and a nod to literary pursuits, making you wonder if life's more a puzzle than a plan.
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/10/05.html#a155916)** — Dave Winer reflects on the challenges of web writing evolution, nostalgically yearning for the pre-interruption era of more robust online expression.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/upgrading-our-way-through-opengl-1-x/)** — Jamie dives into the maddening saga of OpenGL upgrades, hilariously highlighting the pains of navigating its convoluted versioning.
-- **[Scopique](https://scopique.com/2025/10/05/ah-yes-my-old-enemy-lighting/)** — Scopique tackles the nuances of lighting in Blender, proving once again that in the world of digital rendering, light truly makes the magic happen.
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2025/10/05/social-media-is-a-terrible-way-to-find-blogs-to-read/)** — Tipa bemoans the fleeting nature of social media streams, advocating for good old blogs as a more reliable source of quality reads.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/05/tagn-fantasy-critic-league-2025-week-thirty-nine-shakes-up-the-pack-again/)** — Wilhelm details the shake-ups in Fantasy Critic League standings, spotlighting how recent game releases kept the competition intense.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2025/09/sunday-9282025-post-packer-tie-cowboys.html)** — Heartless shares the emotional rollercoaster of being a Packers fan, capturing the stress and spectacle of their latest match against the Cowboys.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/05/aggrochat-541-seeking-trikora/)** — Belghast and crew navigate a host of gaming topics from Destiny Rising chaos to SpaceHey nostalgia, offering a delightfully chaotic episode of AggroChat.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2025/10/05/my-top-3-wargames-with-julius-caesar/)** — The Chronicler shares a love for Julius Caesar-focused wargames, pondering the endless strategic possibilities that history-inspired play provides.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/gaming-status-october-2025.html)** — Tobold introspects on his gaming journey, pondering the intricacies of memory and engagement in both digital and tabletop adventures.
+- **[Chasing Dings!](https://chasingdings.com/2025/10/06/the-zen-of-final-fantasy-tactics/)** — Tipa shares her OCD-level grind for tactical perfection in Final Fantasy Tactics, all for the love of Agrias.
+- **[Time to Loot](https://www.timetoloot.com/blog/journal/time-to-loot-journal-september-2025/)** — Naithin reflects on gaming burnout post-Blaugust and a borderline love-hate relationship with Borderlands 4 bugs.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/scripting-in-4x-games.html)** — Tobold criticizes Endless Legend 2's scripted gameplay for killing replay value, unlike the dynamic Age of Wonders 4.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/slackers-wannabes-and-chancers-need-not.html)** — Bhagpuss casts a skeptical eye on EQII's new creator program, questioning its stringent entry requirements for veterans.
+## Tech
+
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html)** — Bruce Schneier analyzes how AI will dominate the 2026 midterms with Republicans leading the tech charge.
+- **[Smith Talks Tech](https://smithtalkstech.com/2025/10/06/learning-journey-week-of-oct-6th-2025/)** — Pete navigates Jupyter Notebook frustrations while mastering Python, aiming to build something tangible with newfound skills.
+- **[The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20251006-00/?p=111655)** — Raymond Chen delves into the art of writing intuitive code comments that match their execution context.
+- **[Scripting News](http://scripting.com/2025/10/06.html#a210632)** — Dave Winer muses about monetizing his shopping habits via ChatGPT while reflecting on digital evangelism.
+- **[Coding Horror](https://blog.codinghorror.com/lets-talk-about-the-american-dream/)** — Jeff Atwood discusses the future of the American Dream in a socially conscious talk with Alexander Vindman.
+## General
+
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/06/8-things-i-dont-understand-about-extroverts/)** — Emily dissects her bewilderment with extroverts' need to befriend every stranger in sight.
+- **[Axxuy](https://axxuy.xyz/blog/posts/2025/on-paper/)** — Axxuy celebrates the tactile charm of paper books while acknowledging the convenience of their digital counterparts.
+## Writing
+
+- **[Words Under My Name](https://wordsundermyname.wordpress.com/2025/10/06/10-6-2025-the-only-thing-stopping-you-is-you/)** — Blockade85 urges us to push through inertia, whether it's writing, gaming, or mowing the lawn.
