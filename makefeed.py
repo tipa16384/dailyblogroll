@@ -49,7 +49,7 @@ def make_feed():
     print(rss_feed.decode('utf-8'))
 
     # Save to a file
-    fg.rss_file('rss.xml', pretty=True)
+    fg.rss_file(BLOGROLLS_DIR / 'rss.xml', pretty=True)
 
 if __name__ == "__main__":
     make_feed()
