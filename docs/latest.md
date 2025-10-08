@@ -1,22 +1,20 @@
-# Daily Blogroll: 2025-10-07
+# Daily Blogroll: 2025-10-08
 
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2025/10/06/the-zen-of-final-fantasy-tactics/)** — Tipa shares her OCD-level grind for tactical perfection in Final Fantasy Tactics, all for the love of Agrias.
-- **[Time to Loot](https://www.timetoloot.com/blog/journal/time-to-loot-journal-september-2025/)** — Naithin reflects on gaming burnout post-Blaugust and a borderline love-hate relationship with Borderlands 4 bugs.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/scripting-in-4x-games.html)** — Tobold criticizes Endless Legend 2's scripted gameplay for killing replay value, unlike the dynamic Age of Wonders 4.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/slackers-wannabes-and-chancers-need-not.html)** — Bhagpuss casts a skeptical eye on EQII's new creator program, questioning its stringent entry requirements for veterans.
 ## Tech
 
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/ai-in-the-2026-midterm-elections.html)** — Bruce Schneier analyzes how AI will dominate the 2026 midterms with Republicans leading the tech charge.
-- **[Smith Talks Tech](https://smithtalkstech.com/2025/10/06/learning-journey-week-of-oct-6th-2025/)** — Pete navigates Jupyter Notebook frustrations while mastering Python, aiming to build something tangible with newfound skills.
-- **[The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20251006-00/?p=111655)** — Raymond Chen delves into the art of writing intuitive code comments that match their execution context.
-- **[Scripting News](http://scripting.com/2025/10/06.html#a210632)** — Dave Winer muses about monetizing his shopping habits via ChatGPT while reflecting on digital evangelism.
-- **[Coding Horror](https://blog.codinghorror.com/lets-talk-about-the-american-dream/)** — Jeff Atwood discusses the future of the American Dream in a socially conscious talk with Alexander Vindman.
+- **[The Daily WTF](https://thedailywtf.com/articles/a-unique-mistake)** — Remy dives into a saga where developers end up 'inventing' primary keys long after they were established—awkward!
+- **[Scripting News](http://scripting.com/2025/10/07.html#a164125)** — Dave Winer celebrates the longevity of RSS, highlighting its resilience against big tech's attempts to stifle it—RSS, here to stay!
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/13257737/)** — Jamie Zawinski muses on the enigmatic KLF, leaving us pondering if we really know 'What time is love?'
+## Gaming
+
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/06/irrationally-large-box/)** — Belghast recounts their wrestling match with a giant TV that might be more trouble than it's worth—bring on the gaming marathons!
+- **[Ready Pixel One](https://www.readypixelone.com/blog/the-weight-of-stillness)** — In a reflective piece, Pixel One finds solace and a sense of self among Warcraft's epic narratives—sometimes we all need a pause button.
+- **[In An Age](https://inanage.com/2025/10/08/self-correcting/)** — Azuriel explores how AI content might just be bad enough to kick us off our algorithmic YouTube daze—not all bots are bad news!
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/07/no-mans-sky-are-we-going-to-get-a-voyagers-ii-update/)** — Wilhelm is craving more content for *No Man's Sky*, hoping for a follow-up to the game-altering Voyagers update.
+- **[Indiecator](https://indiecator.org/2025/10/07/tiny-aquarium-social-fishkeeping-review/)** — Magi enjoys the chill vibes of *Tiny Aquarium* but finds the social gameplay lacking a real connection—fish are nice, people are tricky.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/08/the-downside-to-the-archive/)** — Emily deals with the bot invasion on Ao3, struggling to find genuine engagement amidst the automated noise.
 ## General
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/06/8-things-i-dont-understand-about-extroverts/)** — Emily dissects her bewilderment with extroverts' need to befriend every stranger in sight.
-- **[Axxuy](https://axxuy.xyz/blog/posts/2025/on-paper/)** — Axxuy celebrates the tactile charm of paper books while acknowledging the convenience of their digital counterparts.
-## Writing
-
-- **[Words Under My Name](https://wordsundermyname.wordpress.com/2025/10/06/10-6-2025-the-only-thing-stopping-you-is-you/)** — Blockade85 urges us to push through inertia, whether it's writing, gaming, or mowing the lawn.
+- **[Nik Kantar](https://nkantar.com/blog/2025/10/blaugust-2025-afterfeels/)** — Nik reflects on a productive yet exhausting Blaugust, questioning whether consistent writing habits actually stick post-challenge.
+- **[Hamatti](https://hamatti.org/posts/networking-and-writing-as-a-catalyst-for-relationships-and-opportunities/)** — Juhis argues that writing can be more powerful than traditional networking when building lasting professional relationships—write to be remembered!
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-03-19.html)** — Tofutush vents about a self-absorbed dormmate who treats everyone like NPCs in her own personal game of life.
