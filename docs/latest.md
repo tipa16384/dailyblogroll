@@ -1,20 +1,22 @@
-# Daily Blogroll: 2025-10-08
+# Daily Blogroll: 2025-10-09
 
 ## Tech
 
-- **[The Daily WTF](https://thedailywtf.com/articles/a-unique-mistake)** — Remy dives into a saga where developers end up 'inventing' primary keys long after they were established—awkward!
-- **[Scripting News](http://scripting.com/2025/10/07.html#a164125)** — Dave Winer celebrates the longevity of RSS, highlighting its resilience against big tech's attempts to stifle it—RSS, here to stay!
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/13257737/)** — Jamie Zawinski muses on the enigmatic KLF, leaving us pondering if we really know 'What time is love?'
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/flok-license-plate-surveillance.html)** — Bruce Schneier unpacks the privacy concerns surrounding Flok's aggressive license plate tracking without warrants.
+- **[The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20251008-00/?p=111660)** — Raymond Chen explores idempotence in Windows Runtime, emphasizing correct property value setting practices.
+- **[Scripting News](http://scripting.com/2025/10/08.html#a200115)** — Dave Winer discusses political shifts, AI toolsets, and WordPress's evolution as a writing platform.
 ## Gaming
 
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/06/irrationally-large-box/)** — Belghast recounts their wrestling match with a giant TV that might be more trouble than it's worth—bring on the gaming marathons!
-- **[Ready Pixel One](https://www.readypixelone.com/blog/the-weight-of-stillness)** — In a reflective piece, Pixel One finds solace and a sense of self among Warcraft's epic narratives—sometimes we all need a pause button.
-- **[In An Age](https://inanage.com/2025/10/08/self-correcting/)** — Azuriel explores how AI content might just be bad enough to kick us off our algorithmic YouTube daze—not all bots are bad news!
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/07/no-mans-sky-are-we-going-to-get-a-voyagers-ii-update/)** — Wilhelm is craving more content for *No Man's Sky*, hoping for a follow-up to the game-altering Voyagers update.
-- **[Indiecator](https://indiecator.org/2025/10/07/tiny-aquarium-social-fishkeeping-review/)** — Magi enjoys the chill vibes of *Tiny Aquarium* but finds the social gameplay lacking a real connection—fish are nice, people are tricky.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/08/the-downside-to-the-archive/)** — Emily deals with the bot invasion on Ao3, struggling to find genuine engagement amidst the automated noise.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/08/everquest-shattering-of-ro-expansion-announced-and-up-for-pre-order/)** — Wilhelm digs into EverQuest’s 32nd expansion, Shattering of Ro, featuring new zones, raids, and the intriguing Vah Shir Druids.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2025/10/08/first-look-at-germantown-1777-from-gmt-games/)** — The Chronicler dives into Germantown 1777, a strategic board game that recreates a historic Revolutionary War battle.
+- **[Bio Break](https://biobreak.wordpress.com/2025/10/08/lotro-captain-captain/)** — Syp shares his LOTRO journey in King's Gondor, highlighting the joys of Captain playstyle and the trials of Elf Country.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/when-you-stare-into-void.html)** — Bhagpuss reflects on the grind of EverQuest II's Overseer missions, hoping for clearer guides amidst its complex systems.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/10/09/legion-remix-its-happening/)** — Stargrace takes it slow in WoW's Legion Remix, dealing with game glitches and the pressure of limited daily attempts.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/08/the-catch-up-tax/)** — Belghast battles allergies and game burnout while trying to engage with WoW’s Legion Remix and Diablo IV’s new event.
+- **[The Ghastly Mirror](https://www.ghastlymirror.xyz/blog/bugaboo-pocket-review/)** — Ghastly reviews Bugaboo Pocket, a virtual pet game where you raise bugs to rebuild forests, complete with cute hats and minigames.
 ## General
 
-- **[Nik Kantar](https://nkantar.com/blog/2025/10/blaugust-2025-afterfeels/)** — Nik reflects on a productive yet exhausting Blaugust, questioning whether consistent writing habits actually stick post-challenge.
-- **[Hamatti](https://hamatti.org/posts/networking-and-writing-as-a-catalyst-for-relationships-and-opportunities/)** — Juhis argues that writing can be more powerful than traditional networking when building lasting professional relationships—write to be remembered!
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-03-19.html)** — Tofutush vents about a self-absorbed dormmate who treats everyone like NPCs in her own personal game of life.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-08-making-tea/)** — Anarchae shares a personal take on optimizing tea-making for convenience and comfort during the colder season.
+## Writing
+
+- **[Aywren's Nook](https://aywren.com/2025/10/08/ffxiv-level-100-and-pilgrims-traverse)** — Aywren celebrates reaching level 100 in FFXIV and shares early experiences with the new Pilgrim’s Traverse Deep Dungeon.

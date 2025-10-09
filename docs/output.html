@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="Cache-Control" content="max-age=14400, must-revalidate">
-    <title>{{ vars.title }}</title>
+    <title>My Blogroll</title>
     <link rel="stylesheet" href="dailyblogroll.css">
     <link rel="icon" href="icons/favicon-calendar.ico" sizes="any">
     <link rel="icon" type="image/png" href="icons/favicon-calendar-512.png" sizes="512x512">
@@ -11,35 +11,30 @@
 </head>
 <body>
     <h1>
-        <a href="index.html">{{ vars.title }}: {{ vars.date }}</a>
+        <a href="index.html">My Blogroll: 2024-06-15</a>
         <br/>
         <span>
-        {% if vars.previous is defined %}
-        <a href="{{ vars.previous }}?target={{ vars.date }}">&lt;&lt; Previous Blogroll .....</a>
-        {% endif %}
+        
+        <a href="page1.html?target=2024-06-15">&lt;&lt; Previous Blogroll .....</a>
+        
         <a href="rss.xml"> &lt;RSS&gt; </a>
-        {% if vars.next is defined %}
-        <a href="{{ vars.next }}?target={{ vars.date }}">..... Next Blogroll &gt;&gt;</a>
-        {% endif %}
+        
+        <a href="page3.html?target=2024-06-15">..... Next Blogroll &gt;&gt;</a>
+        
         </span>
     </h1>
 
     <div class="feed-grid">
-        {% for item in vars.blogs %}
+        
         <div class="feed-element">
-            {% if item.image is defined %}
-            <a target="_blank" rel="noopener" href="{{ item.url }}">
-                <img src="{{ item.image }}" alt="{{ item.source }}" class="feed-element-image" />
+            
+            <a target="_blank" rel="noopener" href="https://chasingdings.com">
+                <img src="images/303118891c325ea66b90a1409e3c9a44a16f48d4458d738ed0cb05a1e09852bc.png" alt="" class="feed-element-image" />
             </a>
-            {% else %}
-            <strong>
-                <a target="_blank" rel="noopener" href="{{ item.url }}">{{ item.source }}</a>
-            </strong>
-            <br/>
-            {% endif %}
-            <a target="_blank" rel="noopener" href="{{ item.url }}" class="oneliner">{{ item.one_liner }}</a>
+            
+            <a target="_blank" rel="noopener" href="https://chasingdings.com" class="oneliner">This is an example blog.</a>
         </div>
-        {% endfor %}
+        
     </div>
     <div class="footer">
         <p>"Daily Blogroll" is a custom RSS feed aggregator. All links go straight to the homepages of the respective blogs. No content

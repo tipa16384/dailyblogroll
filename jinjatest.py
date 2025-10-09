@@ -11,6 +11,8 @@ def main():
     jinja_item_list = []
     jinja_vars['title'] = "My Blogroll"
     jinja_vars['previous'] = "page1.html"
+    jinja_vars['next'] = "page3.html"
+    jinja_vars['date'] = "2024-06-15"
 
     item = {}
     item['name'] = "Example Blog"
@@ -22,7 +24,8 @@ def main():
 
     output = template.render(vars=jinja_vars)
 
-    print(output)
+    with open("docs/output.html", "w") as f:
+        f.write(output)
 
 if __name__ == "__main__":
     main()
