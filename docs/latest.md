@@ -1,17 +1,20 @@
-# Daily Blogroll: 2025-10-10
+# Daily Blogroll: 2025-10-11
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/10/09/133902.html?title=cutePasteForWordland)** — Dave Winer introduces "Cute Paste" for WordLand, simplifying linking with Markdown mode in its upcoming release.
-- **[The Daily WTF](https://thedailywtf.com/articles/yes-we-have-no-bananas)** — Remy Porter shares some hilarious test-in-production errors, proving once again that reality is stranger than fiction.
-- **[The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20251009-00/?p=111664)** — Raymond Chen delves into the nuances of Windows Runtime properties, emphasizing the importance of legal default values.
-- **[Scopique](https://scopique.com/2025/10/10/losing-it-in-the-onyx-facilities/)** — Scopique recounts a frustrating yet rewarding stint in Star Citizen's Onyx Facilities, highlighting the potential of its emerging content.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/autonomous-ai-hacking-and-the-future-of-cybersecurity.html)** — Bruce Schneier warns of autonomous AI's rising prowess in cyberattacks, redefining security landscapes.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/nextclown-sso-saml/)** — Jamie Zawinski contemplates integrating a bespoke authentication system with NextCloud, exploring SAML possibilities.
 ## Gaming
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/blue-protocol-star-resonance-extremely.html)** — Bhagpuss dives into "Blue Protocol: Star Resonance" with a casual first look at its unexpected return.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2025/10/arc-raiders-projects.html)** — Heartless discusses ARC Raiders' new "Projects" feature, offering a fresh start for those keen on character wipes.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/09/jotunn-and-felblades/)** — Belghast revels in Destiny Rising's challenges with Ace, juggling Ikora quests and new gear, all while balancing multiple games.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/09/lotro-opens-transfers-from-dark-world-32-bit-servers-go-now-while-you-can/)** — Wilhelm urges LOTRO players to transfer characters from 32-bit servers before the final deadline in 2027.
-- **[Ready Pixel One](https://www.readypixelone.com/blog/roleplay-real-bonds)** — Pixel One reflects on the bonding power of roleplay events in the vibrant Second Life community.
+- **[Bio Break](https://biobreak.wordpress.com/2025/10/10/world-of-warcraft-dont-go-inside-goldshire-inn-just-dont/)** — Syp reminisces about WoW's nostalgia while cautiously avoiding the infamous Goldshire inn on Moonguard.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/10/11/the-end-of-streams-again/)** — Stargrace shifts gears from streaming to YouTube in search of a balanced creative outlet.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2025/10/10/kingdom-of-heaven-scenario-c-the-invasion-of-egypt/)** — The Chronicler explores historical what-ifs in a gripping session of Kingdom of Heaven.
+## General
+
+- **[Axxuy](https://axxuy.xyz/blog/posts/2025/guestbooks/)** — Axxuy dives into the retro charm of online guestbooks and explores creative implementations.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/11/binge-watching-rick-and-morty-season-8/)** — Wilhelm's couch-bound adventure speeds through Rick and Morty’s latest season with cats in tow.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-04-21.html)** — Tofutush shares quirky dream tales, from battlefield BBQ tanks to surreal chem-blind worlds.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-11-the-traitors-death-game-manga/)** — Anarchae delves into death game manga and its thematic resonance with modern anxieties.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/isnt-that-whatshisname-nah-looks.html)** — Bhagpuss muses over quirky music videos and the economics of art in today’s world.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/debt-budget-and-shutdowns.html)** — Tobold contrasts Belgium's non-governmental efficiency with the U.S. shutdown struggles over fiscal politics.
+## Tech
+
+- **[The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20251010-00/?p=111673)** — Raymond Chen clarifies Windows Runtime property principles and why setting unused properties can lead to unexpected behavior.
+- **[Scripting News](http://scripting.com/2025/10/11.html#a150646)** — Dave Winer updates on his projects and invites readers to a low-key subscription service for daily insights.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/today-in-christofascism-2/)** — Jamie Zawinski critiques Thiel’s apocalyptic outlook amid theatrical protests in San Francisco.
