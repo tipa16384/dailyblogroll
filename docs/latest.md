@@ -1,22 +1,18 @@
-# Daily Blogroll: 2025-10-14
+# Daily Blogroll: 2025-10-15
 
-## Writing
-
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-05-19.html)** — Tofutush takes us on a nostalgic summer ride through the exciting twists of John le Carré's spy novels.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/13/the-eve-online-csm20-candidate-list-announced/)** — Wilhelm highlights the crowded run for EVE Online's CSM20, with familiar faces and new contenders eyeing a free Iceland trip.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/10/13/gold-making-week-41-2025/)** — Stargrace shares the impact of Legion Remix on gold-making strategies and the market's ebb and flow in the long game.
-- **[Mailvaltar](https://mailvaltar.wordpress.com/2025/10/14/hagga-basin-conquered/)** — Mailvaltar unveils the thrill of exploration and adventure found in Dune: Awakening's sprawling and hazardous terrain.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/blue-protocol-star-resonance-final.html)** — Bhagpuss excitedly reflects on how Blue Protocol echoes the visual charm of FFXIV in its early stages.
-- **[Bio Break](https://biobreak.wordpress.com/2025/10/13/lotro-pushing-into-the-final-frontier/)** — Syp appreciates LOTRO's thoughtful map reuse, offering a tranquil return to Gondor with a fresh sense of discovery.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/14/into-the-mountain-cold-in-palworld/)** — Wilhelm braves Palworld's frosty peaks with a fire pet for warmth after a surprise combat ambush by aggressive Beegards.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/10/15/legion-remix-phase-1-55/)** — Stargrace is making steady progress in Legion Remix, shunning M+ dungeons but fully embracing WoW's collectible charm.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/my-next-fest-hot-picks.html)** — Bhagpuss unveils his Next Fest picks, embracing the thrill of MMORPGs and point & click adventures this season.
 ## Tech
 
-- **[The Daily WTF](https://thedailywtf.com/articles/the-bob-procedure)** — Remy Porter unearths a legacy debugging relic from the 90s that's outlived any known source control history.
-- **[The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20251013-00/?p=111677)** — Raymond Chen cautions API designers against allowing zero increments, lest users stumble into a divide-by-zero nightmare.
-- **[Scopique](https://scopique.com/2025/10/13/citizencon-direct-2025/)** — Scopique recaps a digital CitizenCon full of progress updates and a glimpse into Star Citizen's exciting 2026 plans.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html)** — Bruce Schneier dives into the chilling expansion of social media surveillance, fueled by the Trump administration's policies.
+- **[The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681)** — Raymond Chen demystifies the magic of video overlays, revealing how Windows tricked us into green screen wizardry.
+- **[Smith Talks Tech](https://smithtalkstech.com/2025/10/14/learning-journey-week-of-oct-13th-2025/)** — Pete juggles moving with learning Python, reminiscing about six-fingered hands and classic spooky intros.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html)** — Bruce Schneier highlights Apple's record-breaking $2M bounty for zero-click exploits, pushing the envelope in security rewards.
+- **[Scripting News](http://scripting.com/2025/10/14/154258.html?title=timesIveBeenAmbushedAtConferences)** — Dave Winer shares vivid tales of unexpected confrontations at conferences, weaving through music debates and privilege discussions.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-13-fantasy-life-i-140-hrs-update/)** — Anarchae is knee-deep in the grind, relishing in the evolving landscape of Fantasy Life i's Ginormosia and its treasures.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/the-morality-of-intentions-vs-outcomes.html)** — Tobold ponders whether it's intentions or outcomes that define true morality in a world driven by social perception.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/14/ineffective-cosplay/)** — Belghast shares a heartfelt reflection on coping with loss and the challenges of maintaining a semblance of normalcy.
+- **[Chasing Dings!](https://chasingdings.com/2025/10/14/falling-out-of-love-with-duolingo/)** — Tipa's on a streak-breaking farewell with Duolingo, cutting ties with hefty subscription costs and relentless ads.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/14/reevaluating-megan-foxs-mikaela/)** — Emily revisits her past criticisms, discovering a deeper appreciation for Megan Fox's constrained role in Transformers.
