@@ -109,6 +109,7 @@ feeds:
     update_frequency: daily
     category: Tech
     blogger: Raymond Chen
+    skip: True
   - name: Coding Horror
     url: https://blog.codinghorror.com/rss/
     update_frequency: daily
