@@ -109,13 +109,17 @@ def collect_new_items(cfg):
     # randomize the feed order a bit to avoid always picking the same ones first
     random.shuffle(cfg["feeds"])
 
-    group_seen = defaultdict(bool, False)
+    group_seen = defaultdict(bool)
 
     for f in cfg["feeds"]:
         debug_log.append(f"\nProcessing feed: {f.get('name','')} {f['url']}")
         if len(picked) >= total_cap:
             debug_log.append("Total cap reached, stopping.")
             break
+
+        if f.get("skip", False):
+            debug_log.append("Skipping feed as per configuration.")
+            continue
 
         group = f.get("group", None)
 

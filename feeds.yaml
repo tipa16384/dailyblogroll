@@ -97,11 +97,13 @@ feeds:
     update_frequency: daily
     category: Tech
     blogger: Steve Gibson
+    skip: True
   - name: Walter Bright's D-Lang Blog
     url: https://feeds.feedburner.com/OfficialDBlog
     update_frequency: daily
     category: Tech
     blogger: D
+    skip: True
   - name: The Old New Thing
     url: https://devblogs.microsoft.com/oldnewthing/feed/
     update_frequency: daily
@@ -172,6 +174,7 @@ feeds:
     update_frequency: daily
     category: Gaming
     blogger: The Chronicler
+    skip: True
   - name: Mailvaltar
     url: https://mailvaltar.wordpress.com/feed/
     update_frequency: daily
