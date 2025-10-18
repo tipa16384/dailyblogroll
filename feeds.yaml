@@ -10,6 +10,7 @@ feeds:
     category: Gaming
     update_frequency: daily
     blogger: Tipa
+    group: Tipa
   - name: An Archaeopteryx
     url: https://anarchaeopteryx.bearblog.dev/feed/
     update_frequency: daily
@@ -40,6 +41,7 @@ feeds:
     update_frequency: daily
     category: Gaming
     blogger: Nimgimli
+    group: Pete
   - name: Inventory Full
     url: https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily
@@ -180,6 +182,7 @@ feeds:
     update_frequency: daily
     category: Tech
     blogger: Pete
+    group: Pete
   - name: CrazyKinux's Musings
     url: https://feeds.feedburner.com/CrazykinuxsMusing
     update_frequency: daily
@@ -220,3 +223,27 @@ feeds:
     update_frequency: daily
     category: Gaming
     blogger: Juhis
+  - name: West Karana
+    url: https://westkarana.blog/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Tipa
+    group: Tipa
+  - name: Virtual Moose
+    url: https://virtualmoose.org/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Michael
+  - name: Going Commando
+    url: http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss
+    update_frequency: daily
+    category: Gaming
+    blogger: Shintar
+    group: Shintar
+  - name: Priest with a Cause
+    url: https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss
+    update_frequency: daily
+    category: Gaming
+    blogger: Shintar
+    group: Shintar
+  

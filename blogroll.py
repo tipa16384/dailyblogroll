@@ -13,6 +13,7 @@ from jinja2 import Environment, PackageLoader, select_autoescape
 import re
 from feedgen.feed import FeedGenerator
 from bs4 import BeautifulSoup
+from collections import defaultdict
 
     
 env = Environment(
@@ -108,11 +109,15 @@ def collect_new_items(cfg):
     # randomize the feed order a bit to avoid always picking the same ones first
     random.shuffle(cfg["feeds"])
 
+    group_seen = defaultdict(bool, False)
+
     for f in cfg["feeds"]:
         debug_log.append(f"\nProcessing feed: {f.get('name','')} {f['url']}")
         if len(picked) >= total_cap:
             debug_log.append("Total cap reached, stopping.")
             break
+
+        group = f.get("group", None)
 
         feed_url = f["url"]
         st = state.setdefault(feed_url, {})
@@ -162,6 +167,13 @@ def collect_new_items(cfg):
             if already_seen(con, feed_url, guid):
                 debug_log.append(f"Skipping already seen entry: {e}")
                 continue
+
+            if group and group_seen[group]:
+                debug_log.append(f"Skipping entry due to group cap: {group} {url}")
+                continue
+
+            if group:
+                group_seen[group] = True
 
             debug_log.append(f"Picking entry: {e.get('title','')} {url}")
 
