@@ -203,6 +203,7 @@ def collect_new_items(cfg):
                     "published": published,
                     "title": title.strip(),
                     "excerpt": body[:3000],
+                    "pronouns": f.get("pronouns","they/them"),
                     "ts": ts or 0
                 })
                 pf_count += 1
@@ -242,6 +243,7 @@ def call_model(items):
         PUBLISHED: {it['published']}
         AUTHOR: {it['author']}
         CATEGORY: {it['category']}
+        PRONOUNS: {it['pronouns']}
         EXCERPT:
         {it['excerpt']}
         """).strip())
