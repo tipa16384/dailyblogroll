@@ -1,15 +1,20 @@
-# Daily Blogroll: 2025-10-20
+# Daily Blogroll: 2025-10-21
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/10/19.html#a140456)** — Dave Winer explores integrating ChatGPT with streaming services to revolutionize how we find shows based on personal tastes.
 ## Gaming
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/19/progress-is-progress/)** — Emily juggles adulting while diving into Resident Evil fanfic and prepping for new game reviews.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/the-logistical-challenge-of-spiel-essen.html)** — Tobold shares the chaos and strategy behind attending the world's largest tabletop convention in Essen.
-- **[West Karana](https://westkarana.blog/2025/10/19/finished-dissimilar-demo/)** — Tipa tackles a narrative mystery RPG demo, enticed by its intriguing rules and tactical battles.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/19/aggrochat-543-helhest-arrives/)** — Belghast discusses Destiny Rising, new content in Path of Exile, and the resurgence of AA games over AAA's floundering efforts.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/19/tagn-fantasy-critic-league-2025-week-forty-one-was-not-a-fan-of-the-pikachu/)** — Wilhelm reviews a less-than-stellar week for Pokemon Legends: Z-A in the Fantasy Critic League, pondering trade regrets.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/20/grandmasters-or-bust/)** — Belghast reflects on wrestling a fridge with his dad and grinding Destiny Rising to hit that GrandMaster level.
+- **[Bio Break](https://biobreak.wordpress.com/2025/10/20/lotro-mirror-mirror-on-the-wall/)** — Syp dives into sidequests in LOTRO, appreciating their storytelling more than the epic main quests.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/20/the-september-2025-eve-online-monthly-economic-report/)** — Wilhelm wades through EVE Online's economic report, pondering CCP's spin on production and destruction stability.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/malhya-lands-of-legends-unboxing.html)** — Tobold finally unboxes Malhya after a two-year delay, finding joy despite the crowdfunded game's queue.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/next-fest-no-spoilers.html)** — Bhagpuss reminisces about EULAs while rushing through demos on the last day of Steam's Next Fest.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/10/20/gold-making-week-42-2025/)** — Stargrace scales back his auction scope, focusing on the most profitable servers during a gaming lull.
+## Tech
+
+- **[West Karana](https://westkarana.blog/2025/10/20/got-my-pebble-2-duo/)** — Tipa compares the Pebble 2 Duo with her trusty Apple Watch, highlighting battery life over features.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/agentic-ais-ooda-loop-problem.html)** — Bruce Schneier discusses how AI's vulnerability is as much about its architecture as its input.
+- **[Scripting News](http://scripting.com/2025/10/20.html#a013239)** — Dave Winer muses on open source projects going AI and the convenience of roadside EV chargers.
+- **[The Daily WTF](https://thedailywtf.com/articles/the-batch-managing-batch-file)** — Remy Porter laughs at a Linux script awkwardly managing jobs with its bash and Awk mix-up.
+- **[Smith Talks Tech](https://smithtalkstech.com/2025/10/20/learning-journey-week-of-oct-20th-2025/)** — Pete explores Phaser for game dev while juggling project delays and packing for a big move.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-19-oct-week-3-digest/)** — Anarchae dives into Liar Game while battling irritable days and pondering the perfect reading device.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-20-generating-a-toc/)** — Anarchae experiments with tools to generate Table of Contents from markdown, edging closer to a hassle-free process.
