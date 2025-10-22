@@ -48,30 +48,35 @@ feeds:
     blogger: Nimgimli
     group: Pete
     pronouns: he/him
+    required: True
   - name: Inventory Full
     url: https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily
     category: Gaming
     blogger: Bhagpuss
     pronouns: he/him
+    required: True
   - name: Scopique
     url: https://scopique.com/feed/
     update_frequency: daily
     category: Tech
     blogger: Scopique
     pronouns: he/him
+    required: True
   - name: The Friendly Necromancer
     url: https://thefriendlynecromancer.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily
     category: Gaming
     blogger: The Friendly Necromancer
     pronouns: he/him
+    required: True
   - name: The Ancient Gaming Noob
     url: https://tagn.wordpress.com/feed/
     update_frequency: daily
     category: Gaming
     blogger: Wilhelm
     pronouns: he/him
+    required: True
   - name: Lisette's Mxtadventures
     url: https://lisettesmxtadventures.wordpress.com/feed/?alt=rss
     update_frequency: daily
@@ -106,6 +111,7 @@ feeds:
     category: Tech
     blogger: Dave Winer
     pronouns: he/him
+    required: True
   - name: Steve's Blog
     url: https://forums.grc.com/forums/blog/index.rss
     update_frequency: daily
@@ -208,6 +214,7 @@ feeds:
     blogger: Pete
     group: Pete
     pronouns: he/him
+    required: True
   - name: CrazyKinux's Musings
     url: https://feeds.feedburner.com/CrazykinuxsMusing
     update_frequency: daily
@@ -219,6 +226,7 @@ feeds:
     category: General
     blogger: Tofutush
     pronouns: she/her
+    required: True
   - name: Indiecator
     url: https://indiecator.org/feed/
     update_frequency: daily
@@ -231,6 +239,7 @@ feeds:
     category: Gaming
     blogger: Pixel One
     pronouns: she/her
+    required: True
   - name: WCRobinson
     url: https://wcrobinson.org/feed/
     update_frequency: daily
@@ -260,7 +269,7 @@ feeds:
     blogger: Tipa
     group: Tipa
     pronouns: she/her
-    skip: True
+    skip: False
   - name: Virtual Moose
     url: https://virtualmoose.org/feed/
     update_frequency: daily
@@ -285,4 +294,5 @@ feeds:
     category: Gaming
     blogger: Ron Gilbert
     pronouns: he/him
+    required: True
   

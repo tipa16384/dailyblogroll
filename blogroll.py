@@ -137,7 +137,8 @@ def collect_new_items(cfg):
         # Use HTTP conditionals if we have them
         parsed = feedparser.parse(
             feed_url,
-            etag=st.get("etag")
+            etag=st.get("etag"),
+            modified=st.get("modified")
         )
 
         # Save fresh etag/modified returned by server
