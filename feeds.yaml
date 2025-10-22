@@ -277,4 +277,10 @@ feeds:
     category: Gaming
     blogger: Shintar
     group: Shintar
+  - name: Grumpy Gamer
+    url: https://www.grumpygamer.com/rss
+    update_frequency: daily
+    category: Gaming
+    blogger: Ron Gilbert
+    pronouns: he/him
   
