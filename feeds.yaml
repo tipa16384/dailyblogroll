@@ -12,6 +12,7 @@ feeds:
     blogger: Tipa
     group: Tipa
     pronouns: she/her
+    required: True
   - name: An Archaeopteryx
     url: https://anarchaeopteryx.bearblog.dev/feed/
     update_frequency: daily
@@ -259,6 +260,7 @@ feeds:
     blogger: Tipa
     group: Tipa
     pronouns: she/her
+    skip: True
   - name: Virtual Moose
     url: https://virtualmoose.org/feed/
     update_frequency: daily

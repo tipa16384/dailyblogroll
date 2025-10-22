@@ -106,12 +106,17 @@ def collect_new_items(cfg):
     min_chars = cfg.get("min_chars_for_article", 500)
     skip_backlog = cfg.get("first_run_skip_backlog", True)
 
-    # randomize the feed order a bit to avoid always picking the same ones first
-    random.shuffle(cfg["feeds"])
+    # find all the feeds marked as required
+    required_feeds = [f for f in cfg["feeds"] if f.get("required", False)]
+    debug_log.append(f"Required feeds: {[f.get('name','') for f in required_feeds]}")
+    # shuffle the non-required feeds to randomize their order
+    non_required_feeds = [f for f in cfg["feeds"] if not f.get("required", False)]
+    random.shuffle(non_required_feeds)
+    feed_list = required_feeds + non_required_feeds
 
     group_seen = defaultdict(bool)
 
-    for f in cfg["feeds"]:
+    for f in feed_list:
         debug_log.append(f"\nProcessing feed: {f.get('name','')} {f['url']}")
         if len(picked) >= total_cap:
             debug_log.append("Total cap reached, stopping.")
@@ -132,8 +137,7 @@ def collect_new_items(cfg):
         # Use HTTP conditionals if we have them
         parsed = feedparser.parse(
             feed_url,
-            etag=st.get("etag"),
-            modified=st.get("modified")
+            etag=st.get("etag")
         )
 
         # Save fresh etag/modified returned by server
@@ -194,18 +198,20 @@ def collect_new_items(cfg):
                     title = atitle
                 if len(body) < min_chars:
                     continue
-                picked.append({
+                pick_dict = {
                     "source": f.get("name") or urlparse(feed_url).netloc,
                     "author": f.get("blogger") or "",
                     "feed_url": feed_url,
                     "url": url,
+                    "guid": guid,
                     "category": f.get("category") or "General",
                     "published": published,
                     "title": title.strip(),
                     "excerpt": body[:3000],
                     "pronouns": f.get("pronouns","they/them"),
                     "ts": ts or 0
-                })
+                }
+                picked.append(pick_dict)
                 pf_count += 1
                 if ts: max_seen_ts = max(max_seen_ts, ts)
                 time.sleep(0.3)
