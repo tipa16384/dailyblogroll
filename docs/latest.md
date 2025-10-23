@@ -1,20 +1,20 @@
-# Daily Blogroll: 2025-10-22
+# Daily Blogroll: 2025-10-23
 
-## Tech
-
-- **[Chasing Dings!](https://chasingdings.com/2025/10/21/big-changes-for-advent-of-code-2025/)** — Tipa reflects on Advent of Code's upcoming format changes, shedding light on puzzle reductions and the removal of the leaderboard due to AI challenges.
-- **[The Daily WTF](https://thedailywtf.com/articles/a-percentage-of-refactoring)** — Joseph's refactoring adventure reveals a bizarre and error-prone Java function labeled a 'validate,' but functioning more like a flawed parse.
-- **[Scripting News](http://scripting.com/2025/10/21/172400.html?title=bingeworthy)** — Dave Winer brings back Bingeworthy, a beloved brainchild, with a history tied closely to the evolution of Twitter and app development.
-- **[Smith Talks Tech](https://smithtalkstech.com/2025/10/21/back-to-basics-with-python/)** — Pete brings nostalgic BASIC games into the modern era using Python, adding depth and reliving the childhood joy of tweaking and enhancing simple games.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/amazon/)** — Jamie Zawinski humorously deconstructs the media's exaggerated panic over an Amazon outage, questioning the value placed on virtual profits.
-- **[Hamatti](https://hamatti.org/posts/obsidian-is-as-simple-or-complex-as-you-make-it/)** — Juhis encourages newcomers to embrace Obsidian's simplicity, warning against overcomplication with unnecessary plugins and influencer-guided setups.
 ## Gaming
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/22/tron-identity-the-repository-mystery/)** — Emily dives into the Tron universe with her first visual novel experience, finding both charm and frustration in "Tron: Identity."
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/21/climbing-a-fiery-mountainside-in-palworld/)** — Wilhelm's latest adventure in Palworld leads him through new terrains, battling bosses and capturing companions on the way to the Eternal Pyre Tower.
-- **[Frostilyte Writes](https://frostilyte.ca/2025/10/20/i-dont-want-to-hold-your-hand-silksong/)** — Frostilyte critiques "Silksong" for breaking Hollow Knight's organic exploration vibes by marking locations on the map, which diminishes the adventure feel.
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2025/10/tales-from-casual-dune-endgamer-free.html)** — Creating fun in "Dune Awakening's" endgame, Dylan crafts impressive bases while The Friendly Necromancer introduces players to the 'FREE MAZE.'
-- **[Grumpy Gamer](https://grumpygamer.com/dbs_testing/)** — Robert Megone reveals the chaotic challenges of testing "Death by Scrolling," a fast-paced game demanding constant adaptation and playtester collaboration.
+- **[Chasing Dings!](https://chasingdings.com/2025/10/23/its-the-end-of-year-new-console-extravaganza/)** — Tipa dives deep into the Pokemon-packed Switch 2, weighing nostalgia against the need for new hardware.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/22/the-catalyst-expansion-for-eve-online-will-bring-rng-to-mining-on-november-18th/)** — Wilhelm critiques EVE Online's upcoming expansion, questioning the wisdom of injecting randomness into mining.
+- **[Heartless Gamer](http://www.heartlessgamer.com/2025/10/nighthaven-week-later.html)** — Heartless dissects New World's latest patch, wrestling with bugs and the randomness of gear upgrades.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/10/22/running-after-the-legion-remix-dopamine/)** — Stargrace hunts for adrenaline in the fast-paced world of Legion Remix but yearns for a slower, story-rich gaming experience.
+- **[Bio Break](https://biobreak.wordpress.com/2025/10/22/world-of-warcraft-the-bees-knees/)** — Syp dives into Legion Remix, trying to keep up amidst a flood of quests and limited gaming time.
 ## General
 
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/letat-cest-moi-2025-edition.html)** — Tobold examines Trump's political maneuvers, drawing parallels to historical absolutism and questioning the American response to his governance.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/ted-lasso-seasons-2-and-3-it-was-that.html)** — Bhagpuss ponders the dreamy potential of 'Ted Lasso's' season finale, as new episodes loom on the horizon.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2025/10/22/unmooring-from-work-identity-after-a-job-loss/)** — Joargarrosh explores the emotional landscape of identity and purpose after losing a job.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-22-bearblog-css-table-of-contents/)** — Anarchae demonstrates creating a responsive and stylish table of contents for Bearblog posts.
+## Tech
+
+- **[Scripting News](http://scripting.com/2025/10/22.html#a173901)** — Dave Winer reflects on how the decentralized nature of the blogosphere cannot be mimicked by platforms like Substack.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/exterminate-all-rational-ai-scrapers-redux-redux/)** — JWZ updates on the ongoing battle against AI scrapers, now in full 'high-load mode' half the time.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/a-cybersecurity-merit-badge.html)** — Bruce Schneier admires the latest cybersecurity merit badge, wishing he could earn one himself.
+- **[The Daily WTF](https://thedailywtf.com/articles/forward-not-found)** — Remy Porter muses on a hilarious misadventure in URL redirection with a colossal switch statement.
