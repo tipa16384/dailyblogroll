@@ -137,8 +137,7 @@ def collect_new_items(cfg):
         # Use HTTP conditionals if we have them
         parsed = feedparser.parse(
             feed_url,
-            etag=st.get("etag"),
-            modified=st.get("modified")
+            etag=st.get("etag")
         )
 
         # Save fresh etag/modified returned by server
@@ -179,7 +178,7 @@ def collect_new_items(cfg):
 
             if group and group_seen[group]:
                 debug_log.append(f"Skipping entry due to group cap: {group} {url}")
-                continue
+                break
 
             if group:
                 group_seen[group] = True
