@@ -1,9 +1,10 @@
 requests
 feedparser
 pyyaml
-readability
+readability-lxml
 markdownify
 python-slugify
 openai
 jinja2
 feedgen
+beautifulsoup4
