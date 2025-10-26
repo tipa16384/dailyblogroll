@@ -2,7 +2,7 @@ import feedparser
 import yaml
 
 feed_list = [
-'http://scripting.com/rss.xml'
+'https://pixelnomad.ca/feed/'
 ]
 
 feed_yaml = 'feeds.yaml'

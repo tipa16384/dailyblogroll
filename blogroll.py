@@ -75,6 +75,13 @@ def mark_seen(con, feed, guid, url, published):
                 (feed, guid, url, published))
     con.commit()
 
+def mark_unseen(feed):
+    """Delete all seen records for a given feed."""
+    con = db()
+    con.execute("DELETE FROM seen WHERE feed=?", (feed,))
+    con.commit()
+    con.close()
+
 def already_seen(con, feed, guid):
     return con.execute("SELECT 1 FROM seen WHERE feed=? AND guid=?", (feed, guid)).fetchone() is not None
 
@@ -193,11 +200,13 @@ def collect_new_items(cfg):
 
             # Fetch readable content
             try:
+                debug_log.append(f"Fetching readable content for URL: {url}")
                 atitle, body = fetch_readable(url)
                 if atitle and not title:
                     title = atitle
                 if len(body) < min_chars:
                     continue
+                debug_log.append(f"Fetched article length: {len(body)} characters")
                 pick_dict = {
                     "source": f.get("name") or urlparse(feed_url).netloc,
                     "author": f.get("blogger") or "",
@@ -211,6 +220,7 @@ def collect_new_items(cfg):
                     "pronouns": f.get("pronouns","they/them"),
                     "ts": ts or 0
                 }
+                debug_log.append(f"Picked item: {pick_dict['title']} from {pick_dict['source']}")
                 picked.append(pick_dict)
                 pf_count += 1
                 if ts: max_seen_ts = max(max_seen_ts, ts)
