@@ -1,18 +1,19 @@
-# Daily Blogroll: 2025-10-25
+# Daily Blogroll: 2025-10-26
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/24/the-search-for-a-slice-of-paradise-in-no-mans-sky/)** — Wilhelm explores base building challenges in No Man’s Sky while dreaming of paradise planets and railing against YouTube's ad overload.
-- **[Bio Break](https://biobreak.wordpress.com/2025/10/24/lotro-into-the-dark-dark-woods/)** — Syp revels in the eerie vibes of Southern Mirkwood during LOTRO's Harvestmath festival, despite a drawn-out storyline.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2025/10/turtle-wow-cant-we-be-friends-blizz.html)** — Shintar discusses Turtle WoW's legal woes while the community braces for Blizzard's lawsuit impact.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/24/keepers-league-revealed/)** — Belghast dives into Path of Exile's Keepers of the Flame reveal, excited about its revamped league mechanics.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/10/24.html#a230130)** — Dave Winer shares FeedLand insight with some WordPress breakthroughs at WordCamp Ottawa, hinting at performance improvements.
-- **[The Daily WTF](https://thedailywtf.com/articles/itsdanieltimeagain)** — Remy Porter highlights Daniel's ongoing battle with absurd password restrictions in the tech world.
-- **[West Karana](https://westkarana.blog/2025/10/23/reactions-after-two-days-with-pebble-2-duo/)** — Tipa reviews the Pebble 2 Duo, appreciating its openness but lamenting outdated support for watch faces on iOS.
-- **[Axxuy](https://axxuy.xyz/blog/posts/2025/not-so-simple/)** — Axxuy muses on broken links and the complexity of managing web archives in a constantly changing online landscape.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html)** — Bruce Schneier critiques the AI hype bubble while pondering the challenges and opportunities of machine learning.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/turning-back-time-and-facing-future-all.html)** — Bhagpuss juggles vintage tech, reflecting on the lifespan of trusty PCs and upgrading necessities for modern life.
+- **[Scripting News](http://scripting.com/2025/10/25/123208.html?title=wordpressAndAi)** — Dave Winer envisions AI-enhanced WordPress, dreaming of automated writing compilations ready at a moment's notice.
+- **[Nik Kantar](https://nkantar.com/blog/2025/10/starminder-v4/)** — Nik relaunches Starminder with an upgraded web app for managing starred GitHub projects—perfect for devs needing a nudge.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/tool/)** — Jamie Zawinski muses on requiring an oddly specific tool, mixing tech with a slice of DIY life.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/what-if-ai-investment-isnt-bubble.html)** — Tobold digs into AI's economic potential, questioning whether replacing workers with AI could disrupt the job market.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/25/panfam-is-pulling-their-staging-back-to-r-ag7w-in-perrigen-falls/)** — Wilhelm discusses strategic shifts in EVE Online, where factions stage bold moves to gain ground and resources.
+- **[Going Commando](https://swtorcommando.blogspot.com/2025/10/looking-forward-to-78.html)** — Shintar shares excitement for the upcoming SWTOR Patch 7.8, hinting at a rare story update and new gameplay features.
 ## Writing
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/23/onyx-storm-where-shadows-are-so-is-he/)** — Emily delves into the intense twists of 'Onyx Storm,' pondering its imaginative world and storytelling details.
+- **[Lisette's Mxtadventures](https://lisettesmxtadventures.wordpress.com/2025/10/21/spooky-costume-plans/)** — Crimson brainstorms last-minute costume ideas for Spooky Month, balancing flair with what’s kid-friendly for the season.
+## General
+
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-25-toronto-baseball-world-series-game-1/)** — Anarchae reflects on Toronto's sports nostalgia during the World Series, weaving personal memories into the big game.
