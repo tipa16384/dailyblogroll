@@ -1,22 +1,18 @@
-# Daily Blogroll: 2025-10-28
+# Daily Blogroll: 2025-10-29
 
 ## Gaming
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/its-all-in-dna-duet-night-abyss-that-is.html)** — Bhagpuss dives into the overwhelming world of anime action RPGs, feeling both lost in the flood and intrigued by the shiny newness.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/27/the-elections-for-csm20-in-eve-online-begin-today/)** — Wilhelm highlights the start of EVE Online's CSM20 elections, where player politics mimic real-world drama.
-- **[West Karana](https://westkarana.blog/2025/10/27/if-you-know-you-know/)** — Tipa manages monitor disasters and gaming mishaps, all while finding time for some painting procrastination.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/10/28/halloween-halloween-everywhere/)** — Stargrace enjoys Wurm Online's Halloween festivites with spirited pumpkin gigs and spooky archaeology adventures.
-- **[Bio Break](https://biobreak.wordpress.com/2025/10/27/__trashed-7/)** — Syp reboots Pillars of Eternity II, savoring its real-time combat amidst the ruins of Deadfire, preferring it to slow-paced RPGs.
-- **[Virtual Moose](https://virtualmoose.org/2025/10/27/indie-game-roundup-october-27-2025/)** — Michael highlights indie gems like the Ghost Town Pumpkin Festival, mixing treats with a call for food bank donations.
+- **[Chasing Dings!](https://chasingdings.com/2025/10/28/malifaux-4e-rasputina-vs-seamus/)** — Tipa recounts a strategic face-off in Malifaux 4e, contemplating plays and crew setups for Rasputina versus Seamus.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/10/tails-noir-preludes-completed.html)** — Bhagpuss completes 'Tails Noir: Preludes', recommending it as a satisfying expansion of the original's lore, despite its endless branching stories.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/28/the-eve-online-crimson-harvest-event-ramps-up-as-it-enters-its-final-week/)** — Wilhelm notes the extended rewards in EVE Online's Crimson Harvest, offering rare ship blueprints to committed players.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/10/covenant.html)** — Tobold dives into 'Covenant', a complex board game about rebuilding Moria, with intricate mechanics that challenge casual play.
+- **[Going Commando](https://swtorcommando.blogspot.com/2025/10/lets-talk-about-czerka-combat-enhancers.html)** — Shintar shares mixed feelings about new Czerka combat enhancers in SWTOR, noting the inconsistency and sometimes underwhelming effects of these stims.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/28/paper-trail-leaving-the-nest/)** — Emily reflects on completing 'Paper Trail', an indie game that combines heartfelt storytelling with origami-inspired puzzles.
 ## Tech
 
-- **[Scopique](https://scopique.com/2025/10/27/fake-it-while-you-make-it/)** — Scopique shares the struggles and small triumphs of creating Star Citizen videos while battling the eternal quest for better audio quality.
-- **[Scripting News](http://scripting.com/2025/10/27.html#a212851)** — Dave Winer tackles tech issues in FeedLand, while reflecting on Canadian travels and the sanity of email pop-ups.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/hand-cranked-they-live-transformation/)** — JWZ crafts a nostalgic 'They Live' transformation, echoing late '80s vibes with a dash of bubblegum commentary.
-- **[The Daily WTF](https://thedailywtf.com/articles/a-government-data-center)** — Remy Porter recounts a massive data loss incident in South Korea, blaming poor design for a lack of backup compatibility.
-## Writing
-
-- **[Aywren's Nook](https://aywren.com/2025/10/27/second-life-haunted-beach-house)** — Aywren transforms a beach house into a spooky spectacle for Halloween in Second Life, despite the sunny setting.
-## General
-
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-10-27-self-host-foss-rant/)** — Anarchae vents frustrations with self-hosting FOSS, capturing the trials of reluctant tech troubleshooting.
+- **[Scripting News](http://scripting.com/2025/10/28.html#a015633)** — Dave Winer muses over faster mobile interfaces for WordPress News and critiques Elon Musk's Wikipedia alternative, Grokipedia.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/10/monkey-jailbreak-2/)** — Jamie Zawinski reports on another chaotic monkey escape, this time involving aggressive, disease-carrying rhesus monkeys still causing havoc.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html)** — Bruce Schneier analyzes how scams exploiting payment due texts are stealing credit card details to fuel a billion-dollar fraud enterprise.
+- **[Hamatti](https://hamatti.org/posts/progressive-enhancement-is-a-crucial-design-principle-for-smart-devices/)** — Juhis advocates for progressive enhancement in smart device design, criticizing the industry's reliance on unstable third-party services.
+- **[The Daily WTF](https://thedailywtf.com/articles/a-truly-bad-comparison)** — Remy Porter finds humor in the overly complex approach to boolean comparisons in C by an inventive coder.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia)** — Tim Bray explores Grokipedia's comprehensive yet flawed entries, reflecting on its potential against Wikipedia's well-known strengths and weaknesses.
