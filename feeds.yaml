@@ -295,4 +295,10 @@ feeds:
     blogger: Ron Gilbert
     pronouns: he/him
     required: True
-  
+  - name: Midnight
+    url: https://westkarana.xyz/rss.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: Midnight
+    pronouns: he/him
+    required: True
