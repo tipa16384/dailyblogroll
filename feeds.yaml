@@ -301,4 +301,5 @@ feeds:
     category: Gaming
     blogger: Midnight
     pronouns: he/him
-    required: True
+    required: False
+    skip: True
