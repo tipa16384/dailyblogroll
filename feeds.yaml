@@ -13,34 +13,46 @@ feeds:
     group: Tipa
     pronouns: she/her
     required: True
+    mastodon: me
+    bluesky: me
   - name: An Archaeopteryx
     url: https://anarchaeopteryx.bearblog.dev/feed/
     update_frequency: daily
     category: General
     blogger: Anarchae
+    mastodon: "@anarchaeopteryx"
+    bluesky: "@anarchaeopteryx.bsky.social"
   - name: Musing over Pints and Coffee
     url: https://musingsoverpintsandcoffee.wordpress.com/feed/
     update_frequency: daily
     category: General
     blogger: joargarrosh
+    mastodon: "@Joar"
+    bluesky: "Joar"
   - name: Heartless Gamer
     url: https://www.heartlessgamer.com/feeds/posts/default?alt=rss
     update_frequency: daily
     category: Gaming
     blogger: Heartless
     pronouns: he/him
+    mastodon: "@heartlessgamer"
+    bluesky: "@heartlessgamer.com"
   - name: Tales of the Aggronaut
     url: https://aggronaut.com/feed/
     update_frequency: daily
     category: Gaming
     blogger: Belghast
     pronouns: he/him
+    mastodon: "@belghast"
+    bluesky: "@belghast.com"
   - name: Words Under My Name
     url: https://wordsundermyname.wordpress.com/feed/
     update_frequency: daily
     category: Writing
     blogger: Blockade85
     pronouns: he/him
+    mastodon: "@Blockade85"
+    bluesky: "@blockade85.bsky.social"
   - name: Dragonchasers
     url: https://dragonchasers.com/feed/
     update_frequency: daily
@@ -49,6 +61,8 @@ feeds:
     group: Pete
     pronouns: he/him
     required: True
+    mastodon: "@nimgimli"
+    bluesky: "@dragonchasers.com"
   - name: Inventory Full
     url: https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily
@@ -56,6 +70,8 @@ feeds:
     blogger: Bhagpuss
     pronouns: he/him
     required: True
+    mastodon: Bhagpuss
+    bluesky: "@inventoryfull.bsky.social"
   - name: Scopique
     url: https://scopique.com/feed/
     update_frequency: daily
@@ -63,6 +79,8 @@ feeds:
     blogger: Scopique
     pronouns: he/him
     required: True
+    mastodon: "@scopique"
+    bluesky: "@scopique.bsky.social"
   - name: The Friendly Necromancer
     url: https://thefriendlynecromancer.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily
@@ -70,6 +88,8 @@ feeds:
     blogger: The Friendly Necromancer
     pronouns: he/him
     required: True
+    mastodon: "@Stingite"
+    bluesky: "@friendlynecro.bsky.social"
   - name: The Ancient Gaming Noob
     url: https://tagn.wordpress.com/feed/
     update_frequency: daily
@@ -77,6 +97,8 @@ feeds:
     blogger: Wilhelm
     pronouns: he/him
     required: True
+    mastodon: "@wilhelm_arcturus@mas.to"
+    bluesky: "TAGN"
   - name: Lisette's Mxtadventures
     url: https://lisettesmxtadventures.wordpress.com/feed/?alt=rss
     update_frequency: daily
@@ -88,6 +110,8 @@ feeds:
     category: Gaming
     blogger: Emily
     pronouns: she/her
+    mastodon: "@monsterladysdiary.com@monsterladysdiary.com"
+    bluesky: "@monsterlady.bsky.social"
   - name: Nik Kantar
     url: https://nkantar.com/blog/feed/
     update_frequency: daily
@@ -105,6 +129,8 @@ feeds:
     category: Gaming
     blogger: Frostilyte
     pronouns: he/him
+    bluesky: "Frostilyte"
+    mastodon: "Frostilyte"
   - name: Scripting News
     url: http://scripting.com/rss.xml
     update_frequency: daily
@@ -112,6 +138,8 @@ feeds:
     blogger: Dave Winer
     pronouns: he/him
     required: True
+    mastodon: "@davew@mastodon.social"
+    bluesky: "@scripting.com"
   - name: Steve's Blog
     url: https://forums.grc.com/forums/blog/index.rss
     update_frequency: daily
@@ -161,6 +189,8 @@ feeds:
     category: Gaming
     blogger: Tobold
     pronouns: he/him
+    mastodon: Tobold
+    bluesky: Tobold
   - name: Contains Moderate Peril
     url: http://www.containsmoderateperil.com/feed/
     update_frequency: daily
@@ -173,18 +203,24 @@ feeds:
     category: Gaming
     blogger: Syp
     pronouns: he/him
+    mastodon: Syp
+    bluesky: "@sypster.bsky.social"
   - name: In An Age
     url: http://inanage.com/feed/
     update_frequency: daily
     category: Gaming
     blogger: Azuriel
     pronouns: he/him
+    mastodon: Azuriel
+    bluesky: Azuriel
   - name: A Pixel Nomad
     url: https://pixelnomad.ca/feed/
     update_frequency: daily
     category: Gaming
     blogger: Stargrace
     pronouns: she/her
+    mastodon: "@stargrace"
+    bluesky: "@stargrace.bsky.social"
   - name: The Daily WTF
     url: https://feeds.feedburner.com/TheDailyWtf
     update_frequency: daily
@@ -196,6 +232,8 @@ feeds:
     category: Writing
     blogger: Aywren
     pronouns: she/her
+    mastodon: "@Aywren"
+    bluesky: "@aywren.bsky.social"
   - name: The Boardgames Chronicle
     url: https://theboardgameschronicle.com/feed/
     update_frequency: daily
@@ -207,6 +245,8 @@ feeds:
     update_frequency: daily
     category: Gaming
     blogger: Mailvaltar
+    mastodon: Mailvaltar
+    bluesky: Mailvaltar
   - name: Smith Talks Tech
     url: https://smithtalkstech.com/feed/
     update_frequency: daily
@@ -215,11 +255,15 @@ feeds:
     group: Pete
     pronouns: he/him
     required: True
+    mastodon: "@nimgimli"
+    bluesky: "@dragonchasers.com"
   - name: CrazyKinux's Musings
     url: https://feeds.feedburner.com/CrazykinuxsMusing
     update_frequency: daily
     category: Tech
     blogger: CrazyKinux
+    bluesky: "@crazykinux.bsky.social"
+    mastodon: "CrazyKinux"
   - name: Tofutush's Blog
     url: https://tofutush.github.io/feed.xml
     update_frequency: daily
@@ -227,6 +271,8 @@ feeds:
     blogger: Tofutush
     pronouns: she/her
     required: True
+    mastodon: Tofutush"
+    bluesky: "@tofutush.bsky.social"
   - name: Indiecator
     url: https://indiecator.org/feed/
     update_frequency: daily
@@ -245,6 +291,8 @@ feeds:
     update_frequency: daily
     category: Gaming
     blogger: WCRobinson
+    mastodon: WCRobinson
+    bluesky: WCRobinson
   - name: Time to Loot
     url: https://www.timetoloot.com/feed/
     update_frequency: daily
@@ -256,6 +304,8 @@ feeds:
     update_frequency: daily
     category: Gaming
     blogger: Axxuy
+    mastodon: "@axxuy@pony.social"
+    bluesky: "@axxuy.xyz"
   - name: Hamatti
     url: https://hamatti.org/feed/feed.xml
     update_frequency: daily
@@ -270,12 +320,16 @@ feeds:
     group: Tipa
     pronouns: she/her
     skip: False
+    mastodon: me
+    bluesky: me
   - name: Virtual Moose
     url: https://virtualmoose.org/feed/
     update_frequency: daily
     category: Gaming
     blogger: Michael
     pronouns: he/him
+    bluesky: "@virtualmoose.bsky.social"
+    mastodon: "@virtualmoose.org@virtualmoose.org"
   - name: Going Commando
     url: http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily

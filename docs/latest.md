@@ -1,22 +1,17 @@
-# Daily Blogroll: 2025-11-01
+# Daily Blogroll: 2025-11-02
 
-## Writing
-
-- **[Chasing Dings!](https://chasingdings.com/2025/10/31/gormenghast-book-1-titus-groan/)** — Tipa dives into the rich, isolated world of Gormenghast, urging readers not to miss its wonderous narrative peaks.
-- **[Aywren's Nook](https://aywren.com/2025/10/31/2025-blog-backlog-challenge)** — Aywren vows to conquer her writing backlog by year’s end, determined to chronicle gaming adventures before memories fade.
 ## Gaming
 
-- **[Dragonchasers](https://dragonchasers.com/2025/10/31/october-2025/)** — Nimgimli reflects on a Halloween filled with decorations and unmemorable game endings, fueled by the joys of "Little Rocket Lab."
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/10/31/october-2025-in-review/)** — Wilhelm triumphs over WordPress' timezone gremlins while humorously fending off Kindle mishaps and nostalgic game updates.
-- **[In An Age](https://inanage.com/2025/11/01/never-the-straw-you-want/)** — Azuriel bids farewell to Hearthstone over frustrating event quests, marking a bitter end to over a decade-long journey.
-- **[Bio Break](https://biobreak.wordpress.com/2025/10/31/lotro-happy-halloween/)** — Syp journeys through Southern Mirkwood, appreciating the views while juggling gaming breaks and family adventures.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2025/10/what-stage-are-we-at-today.html)** — Heartless navigates through the grief stages following the end of New World, currently stuck in a hopeful bargaining phase.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/10/31/dancing-for-strangers/)** — Belghast tackles the launch day grind of Path of Exile's Keepers League, embodying spooky vibes and raiding triumphs.
-- **[WCRobinson](https://wcrobinson.org/2025/10/31/hades-ii-review-a-brilliantly-bewitching-return-to-the-underworld/)** — WCRobinson eagerly reviews Hades II, celebrating its captivating expansion on the original's formula with new characters and secrets.
+- **[Chasing Dings!](https://chasingdings.com/2025/11/01/quick-reviews/)** — Tipa dives into a meditative mouse adventure and a hellish auto-shooter from Ron Gilbert—perfect for a cozy evening in.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/01/binge-watching-invasion/)** — Wilhelm wrestles with Apple's streaming overhaul and a sci-fi series that misses the mark on alien suspense.
+- **[Virtual Moose](https://virtualmoose.org/2025/11/01/indie-game-roundup-november-1-2025/)** — Michael highlights a batch of indie delights, from interactive fiction to retro vibes, perfect for cozy fall gaming.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/11/master-of-command.html)** — Tobold explores a strategy game meshing Total War tactics with strategic looting amid the Seven Years' War.
+- **[Frostilyte Writes](https://frostilyte.ca/2025/11/01/month-in-review-silksong-hades-2-more/)** — Frostilyte tackles epic sequels and indie showcases, urging players to wishlist and explore new gaming adventures.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/10/31.html#a150107)** — Dave Winer gets Feedland up to speed, offering a smoother ride through automated scaling delights.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html)** — Bruce Schneier marvels at a Smithsonian giant squid while tackling unblogged security stories in classic squid blog fashion.
+- **[Scripting News](http://scripting.com/2025/11/02.html#a105056)** — Dave Winer shares thoughts on respectful email sign-ups and the enduring confusion of RSS naming conventions.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/11/the-wind-princess-nausicaa-tribute.html)** — CrazyKinux marvels at a heartfelt tribute to Miyazaki's world, crafted with love and reverence by a passionate team.
 ## General
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/10/31/were-fate-rocket-sabotage-regia-music-of-october-2025/)** — Emily reflects on an emotional October, finding solace in eclectic tunes spanning Taylor Swift to classics like KISS.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-01-oct-week-5-digest/)** — Anarchae reflects on spooky reads and sports thrills, making time for jigsaws and cozy Fall pastimes.
+- **[Axxuy](https://axxuy.xyz/blog/posts/2025/october-review/)** — Axxuy embraces seasonal changes and maritime tunes, despite Halloween's rainy interruption.

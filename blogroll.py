@@ -218,15 +218,17 @@ def collect_new_items(cfg):
                     "title": title.strip(),
                     "excerpt": body[:3000],
                     "pronouns": f.get("pronouns","they/them"),
-                    "ts": ts or 0
+                    "ts": ts or 0,
+                    "mastodon": f.get("mastodon",""),
+                    "bluesky": f.get("bluesky","")
                 }
                 debug_log.append(f"Picked item: {pick_dict['title']} from {pick_dict['source']}")
                 picked.append(pick_dict)
                 pf_count += 1
                 if ts: max_seen_ts = max(max_seen_ts, ts)
                 time.sleep(0.3)
-            except Exception:
-                debug_log.append(f"Error processing entry: {e}")
+            except Exception as err:
+                debug_log.append(f"Error processing entry: {err}")
                 # ignore this entry on error
                 pass
 
@@ -397,6 +399,17 @@ def main():
     print("Wrote", md_path)
     renavigate_blogrolls()
     make_feed()
+    write_intro(items, "mastodon")
+    write_intro(items, "bluesky")
+
+def write_intro(items, platform):
+    """Write an intro post for Mastodon or Bluesky based on the items."""
+    tags = [item[platform] for item in items if item[platform]]
+    content = ", ".join(tags) + " and more!"
+    filename = BLOGROLLS_DIR / f"intro_{platform}.txt"
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"Wrote intro for {platform} to", filename)
 
 def get_sorted_blogrolls():
     """
