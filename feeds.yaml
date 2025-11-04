@@ -357,3 +357,18 @@ feeds:
     pronouns: he/him
     required: False
     skip: True
+  - name: usebox.net
+    url: https://www.usebox.net/jjm/blog/index.xml
+    update_frequency: weekly
+    category: Tech
+    blogger: JJM
+    pronouns: he/him
+    required: True
+  - name: Kimimi the Game Eating She-Monster
+    url: https://kimimithegameeatingshemonster.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Kimimi
+    pronouns: she/her
+    mastodon: Kimimi
+    bluesky: "@kimimithegameeatingshemonster.com"
