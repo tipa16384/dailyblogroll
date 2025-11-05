@@ -1,20 +1,22 @@
-# Daily Blogroll: 2025-11-04
+# Daily Blogroll: 2025-11-05
 
-## General
-
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/sunny-sleep.html)** — Bhagpuss explores how Rashida Jones' new AppleTV+ show 'Sunny' quenches the sitcom thirst with a twist of sci-fi amid Kyoto's allure.
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2025/11/team-tom-update-nov-2025-thank-you-and.html)** — A heartfelt update from The Friendly Necromancer shares gratitude for support amid his ongoing health journey.
-- **[Virtual Moose](https://virtualmoose.org/2025/11/03/roller-rinks-are-the-best/)** — Michael reminisces about roller rinks' nostalgic charm while navigating kids and top 40 tunes.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-03-a-secret-professional-bearblog/)** — Anarchae reflects on the delicate balance of maintaining anonymity while job hunting in the digital age.
 ## Gaming
 
-- **[Scopique](https://scopique.com/2025/11/03/dispatch/)** — Scopique dives into 'Dispatch,' a game that breathes new life into superhero tropes with humor and open-ended gameplay.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/03/the-race-to-level-71-in-pokemon-go-and-onward-to-level-72/)** — Wilhelm chronicles the climb to level 71 in Pokémon Go and the strange appeal of task-focused progression.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/11/04/night-striker-gear-loves-the-old-embraces-the-new/)** — Kimimi dives into 'Night Striker Gear,' celebrating retro graphics with modern flair in this exciting shmup.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/03/gold-making-week-44-2025/)** — Stargrace strategizes over potentially lucrative pet trades amid a chaotic gaming schedule.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/03/unfamiliar-arms/)** — Belghast enjoys Path of Exile's new Breach mechanic but finds himself over-farming in an ever-enticing league.
+- **[Chasing Dings!](https://chasingdings.com/2025/11/04/backed-the-vectrex-mini/)** — Tipa dives into the charm of the Vectrex console while backing the nostalgic Vectrex Mini Kickstarter.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/04/rough-night-2/)** — Belghast navigates a sleepless night with gaming achievements amidst real-life interruptions.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/05/guess-who-is-joining-the-everquest-2-content-creator-program/)** — Stargrace excitedly announces her return to the EverQuest II scene as part of the content creator program.
+- **[Hamatti](https://hamatti.org/posts/my-writing-inspiration-lives-through-cycles/)** — Juhis reflects on the fluctuating cycles of writing inspiration and the challenge of overcoming creative ruts.
+- **[Heartless Gamer](http://www.heartlessgamer.com/2025/11/sunday-1122025-post-packers-lose-to.html)** — Heartless vents frustration over the Packers' loss to the Panthers and questions managerial decisions.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/11/03.html#a142547)** — Dave Winer highlights the power of WebSockets for faster feeds, aiming to simplify syndication beyond RSS.
-- **[usebox.net](https://www.usebox.net/jjm/blog/learning-a-bit-of-vga/)** — JJM nostalgically navigates DOS programming to master VGA tricks for an old-school gaming vibe.
-- **[The Daily WTF](https://thedailywtf.com/articles/solve-a-captcha-to-continue)** — Remy Porter humorously deconstructs a woeful captcha implementation that's easy pickings for bots.
+- **[Scripting News](http://scripting.com/2025/11/04.html#a131304)** — Dave Winer reflects on political shifts and the importance of integrity, even in unlikely alliances.
+- **[The Daily WTF](https://thedailywtf.com/articles/undefined-tasks)** — Remy Porter unveils the mystery of crashing C# applications due to unnoticed background task exceptions.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/11/pi-4-spi-lossage/)** — Jamie Zawinski troubleshoots issues with the Pi 4 and MAX7219, pondering why older setups worked better.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html)** — Bruce Schneier warns about the latest digital scam hitting payroll systems through social engineering.
+## General
+
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-04-bearblog-theme-css-v12-14/)** — Anarchae shares updates on their Bearblog theme iterations, adding customization and improving usability.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2025/11/04/zooming-out-what-this-year-has-taught-me-about-priorities/)** — Joargarrosh considers the shifts in life plans, highlighting the importance of stepping back to see the big picture.
+## Writing
+
+- **[Aywren's Nook](https://aywren.com/2025/11/04/backlog-blogging-echoes-of-the-plum-grove)** — Aywren explores the uniquely challenging world of Echoes of the Plum Grove, blending cozy gaming with harsh realities.
