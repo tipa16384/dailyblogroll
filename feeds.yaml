@@ -29,6 +29,15 @@ feeds:
     blogger: joargarrosh
     mastodon: "@Joar"
     bluesky: "Joar"
+    group: Joar
+  - name: MMO Casual
+    url: https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss
+    update_frequency: daily
+    category: Gaming
+    blogger: joargarrosh
+    mastodon: "@Joar"
+    bluesky: "Joar"
+    group: Joar
   - name: Heartless Gamer
     url: https://www.heartlessgamer.com/feeds/posts/default?alt=rss
     update_frequency: daily
@@ -372,3 +381,20 @@ feeds:
     pronouns: she/her
     mastodon: Kimimi
     bluesky: "@kimimithegameeatingshemonster.com"
+  - name: Cliffski's Blog
+    url: https://www.positech.co.uk/cliffsblog/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Cliffski
+    pronouns: he/him
+    bluesky: "@cliffharris.bsky.social"
+    mastodon: Cliffski
+  - name: Into the Void
+    url: https://www.travelleritv.blog/feed/
+    update_frequency: monthly
+    category: Gaming
+    blogger: The Rambler crew
+    pronouns: they/them
+    mastodon: "@SAFCOcast@dice.camp"
+    bluesky: "@safcocast.bsky.social"
+  

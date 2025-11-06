@@ -1,22 +1,22 @@
-# Daily Blogroll: 2025-11-05
+# Daily Blogroll: 2025-11-06
 
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2025/11/04/backed-the-vectrex-mini/)** — Tipa dives into the charm of the Vectrex console while backing the nostalgic Vectrex Mini Kickstarter.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/04/rough-night-2/)** — Belghast navigates a sleepless night with gaming achievements amidst real-life interruptions.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/05/guess-who-is-joining-the-everquest-2-content-creator-program/)** — Stargrace excitedly announces her return to the EverQuest II scene as part of the content creator program.
-- **[Hamatti](https://hamatti.org/posts/my-writing-inspiration-lives-through-cycles/)** — Juhis reflects on the fluctuating cycles of writing inspiration and the challenge of overcoming creative ruts.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2025/11/sunday-1122025-post-packers-lose-to.html)** — Heartless vents frustration over the Packers' loss to the Panthers and questions managerial decisions.
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/11/04.html#a131304)** — Dave Winer reflects on political shifts and the importance of integrity, even in unlikely alliances.
-- **[The Daily WTF](https://thedailywtf.com/articles/undefined-tasks)** — Remy Porter unveils the mystery of crashing C# applications due to unnoticed background task exceptions.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/11/pi-4-spi-lossage/)** — Jamie Zawinski troubleshoots issues with the Pi 4 and MAX7219, pondering why older setups worked better.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html)** — Bruce Schneier warns about the latest digital scam hitting payroll systems through social engineering.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-04-bearblog-theme-css-v12-14/)** — Anarchae shares updates on their Bearblog theme iterations, adding customization and improving usability.
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2025/11/04/zooming-out-what-this-year-has-taught-me-about-priorities/)** — Joargarrosh considers the shifts in life plans, highlighting the importance of stepping back to see the big picture.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/or-you-could-always-yknow-write-less.html)** — Bhagpuss reflects on the unexpected reduction of gaming time, shifting priorities, and the unique joys of a slower pace in semi-retirement.
+- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2025/09/11/a-solar-farm-after-6-months-maintenance-report/)** — Cliffski navigates the ups and downs of solar farm maintenance, emphasizing the balance between cost and care.
+## Tech
+
+- **[Scripting News](http://scripting.com/2025/11/05.html#a000956)** — Dave Winer dives into the latest tech updates and political commentary while underscoring his disapproval of pundits ignoring voter sentiments.
+- **[Smith Talks Tech](https://smithtalkstech.com/2025/11/05/googles-project-suncatcher-is-blowing-my-mind/)** — Pete is amazed by Google's space data center project, marking a thrilling intersection of AI demands and space industry ambitions.
+- **[The Daily WTF](https://thedailywtf.com/articles/future-documentation)** — Remy Porter highlights the chaos of incomplete documentation masquerading as a roadmap, leaving developers baffled in WTF territory.
+## Gaming
+
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2025/11/legion-remix-what-am-i-even-doing.html)** — Shintar navigates the highs and lows of Legion Remix in WoW, questioning the motivations and impact of game updates.
+- **[West Karana](https://westkarana.blog/2025/11/05/darkquest-4-basically-heroquest/)** — Tipa considers trading in board game setup hassles for the convenience of digital adventures with DarkQuest 4.
+- **[Bio Break](https://biobreak.wordpress.com/2025/11/05/lotro-captains-cant-die-can-they/)** — Syp explores LOTRO's Mirkwood, battling costume-clad goblins and mysterious vampires in a gloomy questing atmosphere.
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2025/11/october-month-in-review.html)** — Joar finds a new 'employer' in his wife post-job loss, juggling gaming commitments with household duties.
+- **[Into the Void](https://www.travelleritv.blog/2025/11/05/itv-session-42-lightning-bugs/)** — SAFCO's thrilling escape from bioelectric bugs mixes sci-fi strategy and action in the jungles of Uetonah.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/06/the-broseidon-gambit/)** — Stargrace recounts Broseidon's bold and disastrous planning move in EVE Online, sparking chaos and strategic drama.
 ## Writing
 
-- **[Aywren's Nook](https://aywren.com/2025/11/04/backlog-blogging-echoes-of-the-plum-grove)** — Aywren explores the uniquely challenging world of Echoes of the Plum Grove, blending cozy gaming with harsh realities.
+- **[Lisette's Mxtadventures](https://lisettesmxtadventures.wordpress.com/2025/11/02/halloween-week-in-review/)** — Crimson shares delightful DIY Halloween makeup mishaps and successes, embracing festive creativity over perfect execution.
