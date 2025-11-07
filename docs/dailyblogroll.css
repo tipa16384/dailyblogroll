@@ -90,3 +90,40 @@ h1 span a, h1 span a:visited, h1 span a:link {
     vertical-align:middle;
     margin-bottom:5px;
 }
+
+.columns {
+    /*background-color: antiquewhite;*/
+    column-width: 260px;
+    column-gap: 2rem;
+    padding: 10px;
+    column-rule: 1px solid antiquewhite
+}
+
+.article-element {
+    background-color: darkslategray;
+    break-inside: avoid;
+    margin-bottom: 1.5rem;
+    padding: 10px;
+    border-radius: 16px;
+}
+
+.article-element a, .article-element a:visited {
+    color: #e5cc10;
+    text-decoration: none;
+}
+
+.article-element a.oneliner {
+    color: white;
+}
+
+.article-element img {
+    display: block;
+    /*width: 100%;*/
+    max-width: 240px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    clear: both;
+    margin-bottom: 5px;
+}
