@@ -448,6 +448,7 @@ def renavigate_blogrolls():
     blogrolls = get_sorted_blogrolls()
     print (f"Found {len(blogrolls)} blogrolls to renavigate.")
     for i, (datestr, filename) in enumerate(blogrolls):
+        friendly_date = datetime.strptime(datestr, "%Y-%m-%d").strftime("%d %B %Y")
         with open(BLOGROLLS_DIR / filename, "r+", encoding="utf-8") as f:
             content = f.read()
             if "<h1>" in content:
@@ -458,11 +459,11 @@ def renavigate_blogrolls():
                 # Add navigation links
                 if i > 0:
                     _, prev_filename = blogrolls[i - 1]
-                    header = header + f'<a href="{prev_filename}?key={datestr}">⬅️</a>'
-                header = header + f'<a href="index.html?key={datestr}">Daily Blogroll: {datestr[0:4]}-{datestr[4:6]}-{datestr[6:8]}</a>'
+                    header = header + f'<a href="{prev_filename}">⬅️</a>'
+                header = header + f'<a href="index.html?key={datestr}">The Daily Blogroll &mdash; {friendly_date}</a>'
                 if i < len(blogrolls) - 1:
                     _, next_filename = blogrolls[i + 1]
-                    header = header + f'<a href="{next_filename}?key={datestr}">➡️</a>'
+                    header = header + f'<a href="{next_filename}">➡️</a>'
                 new_h1 = f"<h1>{header}</h1>"
                 content = prelude + new_h1 + antelude
             if '<div class="newspaper-headline">' in content:
@@ -470,7 +471,7 @@ def renavigate_blogrolls():
                 prelude, starttag, remainder = content.partition('<div class="newspaper-headline">')
                 _, endtag, antelude = remainder.partition("</div>")
                 content = prelude + starttag
-                content = content + f'<a href="index.html">Daily Blogroll: {datestr[0:4]}-{datestr[4:6]}-{datestr[6:8]}</a>'
+                content = content + f'<a href="index.html">The Daily Blogroll &mdash; {friendly_date}</a>'
                 content = content + "<br/><span>"
                 if i > 0:
                     _, prev_filename = blogrolls[i - 1]
