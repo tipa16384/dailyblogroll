@@ -9,8 +9,9 @@
     <link rel="icon" type="image/png" href="icons/favicon-calendar-512.png" sizes="512x512">
     <link rel="apple-touch-icon" href="icons/apple-touch-icon-calendar-180.png" sizes="180x180">
 </head>
-<body>
-    <h1>
+<body class="newspaper">
+    <div class="newspaper-container">
+    <div class="newspaper-headline">
         <a href="index.html">{{ vars.title }}</a>
         <br/>
         <span>
@@ -22,7 +23,8 @@
         <a href="{{ vars.next }}?target={{ vars.date }}">..... Next Blogroll &gt;&gt;</a>
         {% endif %}
         </span>
-    </h1>
+    </div>
+    </div>
 
     <div class="columns">
         {% for item in vars.blogs %}

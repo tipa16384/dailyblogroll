@@ -30,6 +30,7 @@ BLOGROLLS_DIR.mkdir(parents=True, exist_ok=True)
 
 DB_PATH = "blogroll.db"
 CFG_PATH = "feeds.yaml"
+BLOG_TEMPLATE = "newspapertemplate.html"
 
 SYSTEM = """You are compiling a 'Daily Blogroll'—a terse, link-heavy roundup.
 Style: one sentence per item (max ~30 words), credit the blog by name, add a quick take in a casual, conversational but concise manner.
@@ -342,7 +343,7 @@ def render_html(blog_title, items):
         jinja_item_list.append(item_dict)
 
     jinja_vars["blogs"] = jinja_item_list
-    template = env.get_template("dailyblogtemplate.html")
+    template = env.get_template(BLOG_TEMPLATE)
     output = template.render(vars=jinja_vars)
 
     slug = slugify(title)
@@ -449,20 +450,37 @@ def renavigate_blogrolls():
     for i, (datestr, filename) in enumerate(blogrolls):
         with open(BLOGROLLS_DIR / filename, "r+", encoding="utf-8") as f:
             content = f.read()
-            # separate the content before the <h1> tag into a variable "prelude" and the content after the </h1> tag as the antelude
-            prelude, starttag, _ = content.partition("<h1>")
-            _, endtag, antelude = content.partition("</h1>")
-            header = ''
-            # Add navigation links
-            if i > 0:
-                _, prev_filename = blogrolls[i - 1]
-                header = header + f'<a href="{prev_filename}?key={datestr}">⬅️</a>'
-            header = header + f'<a href="index.html?key={datestr}">Daily Blogroll: {datestr[0:4]}-{datestr[4:6]}-{datestr[6:8]}</a>'
-            if i < len(blogrolls) - 1:
-                _, next_filename = blogrolls[i + 1]
-                header = header + f'<a href="{next_filename}?key={datestr}">➡️</a>'
-            new_h1 = f"<h1>{header}</h1>"
-            content = prelude + new_h1 + antelude
+            if "<h1>" in content:
+                # separate the content before the <h1> tag into a variable "prelude" and the content after the </h1> tag as the antelude
+                prelude, starttag, _ = content.partition("<h1>")
+                _, endtag, antelude = content.partition("</h1>")
+                header = ''
+                # Add navigation links
+                if i > 0:
+                    _, prev_filename = blogrolls[i - 1]
+                    header = header + f'<a href="{prev_filename}?key={datestr}">⬅️</a>'
+                header = header + f'<a href="index.html?key={datestr}">Daily Blogroll: {datestr[0:4]}-{datestr[4:6]}-{datestr[6:8]}</a>'
+                if i < len(blogrolls) - 1:
+                    _, next_filename = blogrolls[i + 1]
+                    header = header + f'<a href="{next_filename}?key={datestr}">➡️</a>'
+                new_h1 = f"<h1>{header}</h1>"
+                content = prelude + new_h1 + antelude
+            if '<div class="newspaper-headline">' in content:
+                # separate the content before the <div class="newspaper-headline"> tag into a variable "prelude" and the content after the </div> tag as the antelude
+                prelude, starttag, remainder = content.partition('<div class="newspaper-headline">')
+                _, endtag, antelude = remainder.partition("</div>")
+                content = prelude + starttag
+                content = content + f'<a href="index.html">Daily Blogroll: {datestr[0:4]}-{datestr[4:6]}-{datestr[6:8]}</a>'
+                content = content + "<br/><span>"
+                if i > 0:
+                    _, prev_filename = blogrolls[i - 1]
+                    content = content + f'<a href="{prev_filename}">&lt;&lt; Previous Blogroll .....</a>'
+                content = content + '<a href="rss.xml"> &lt;RSS&gt; </a>'
+                if i < len(blogrolls) - 1:
+                    _, next_filename = blogrolls[i + 1]
+                    content = content + f'<a href="{next_filename}">..... Next Blogroll &gt;&gt;</a>'
+                content = content + "</span>"
+                content = content + endtag + antelude
             f.seek(0)
             f.write(content)
             f.truncate()

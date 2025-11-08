@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
 body {
     font-family: Arial, sans-serif;
     background-color: black;
@@ -91,8 +93,43 @@ h1 span a, h1 span a:visited, h1 span a:link {
     margin-bottom:5px;
 }
 
+.newspaper {
+    background-color: #1A2424;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.newspaper .newspaper-headline {
+    width: max-content;
+    text-align: center;
+    font-size: 24pt;
+    background-color: darkslategray;
+    color: #F1F0E9;
+    border-radius: 16px;
+    font-family: 'Merriweather', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 0.4em;
+    padding: 20px;
+}
+
+.newspaper-container {
+    display: flex;
+    justify-content: center;
+}
+
+.newspaper .newspaper-headline span {
+    font-size: 10pt;
+}
+
+.newspaper .newspaper-headline a, .newspaper .newspaper-headline a:visited, .newspaper .newspaper-headline a:link {
+    color: #F1F0E9;
+    text-decoration: none;
+}
+
 .columns {
-    /*background-color: antiquewhite;*/
     column-width: 260px;
     column-gap: 2rem;
     padding: 10px;
@@ -102,7 +139,7 @@ h1 span a, h1 span a:visited, h1 span a:link {
 .article-element {
     background-color: darkslategray;
     break-inside: avoid;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     padding: 10px;
     border-radius: 16px;
 }
@@ -113,7 +150,7 @@ h1 span a, h1 span a:visited, h1 span a:link {
 }
 
 .article-element a.oneliner {
-    color: white;
+    color: #C7E5E2;
 }
 
 .article-element img {
@@ -126,4 +163,5 @@ h1 span a, h1 span a:visited, h1 span a:link {
     float: none;
     clear: both;
     margin-bottom: 5px;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.5));
 }
