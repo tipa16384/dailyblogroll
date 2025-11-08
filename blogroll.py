@@ -87,16 +87,57 @@ def mark_unseen(feed):
 def already_seen(con, feed, guid):
     return con.execute("SELECT 1 FROM seen WHERE feed=? AND guid=?", (feed, guid)).fetchone() is not None
 
-def fetch_readable(url, timeout=15):
-    r = requests.get(url, timeout=timeout, headers={"User-Agent":"DailyBlogrollBot/1.0"})
-    r.raise_for_status()
+def fetch_readable(url, timeout=15, max_retries=5, debug_log=None):
+    def log(msg):
+        if debug_log is not None:
+            debug_log.append(msg)
+
+    delay = 2  # initial backoff seconds
+    headers = {
+        "User-Agent": "DailyBlogrollBot/1.0 (+https://chasingdings.com/)"  # slightly more legit
+    }
+
+    for _ in range(max_retries):
+        r = requests.get(url, timeout=timeout, headers=headers)
+        # if OK, break out and parse
+        if r.status_code == 200:
+            break
+
+        # rate-limited
+        if r.status_code == 429:
+            log(f"Rate limited when fetching {url}, retrying after delay.")
+            retry_after = r.headers.get("Retry-After")
+            if retry_after:
+                time.sleep(int(retry_after))
+            else:
+                time.sleep(delay)
+                delay *= 2
+            continue
+
+        # transient upstream errors you might also want to retry
+        if r.status_code in (502, 503, 504):
+            log(f"Transient error {r.status_code} when fetching {url}, retrying after delay.")
+            time.sleep(delay)
+            delay *= 2
+            continue
+
+        # other errors: raise immediately
+        r.raise_for_status()
+
+    else:
+        # loop exhausted
+        r.raise_for_status()
+
+    # ---- your original parsing logic ----
     doc = Document(r.text)
     html = doc.summary()
     text = md(html)
     title = (doc.title() or "").strip()
+
     # fallback if readability failed
     if len(text.strip()) < 200:
         text = md(r.text)
+
     return title, text
 
 def load_cfg():
@@ -203,7 +244,7 @@ def collect_new_items(cfg):
             # Fetch readable content
             try:
                 debug_log.append(f"Fetching readable content for URL: {url}")
-                atitle, body = fetch_readable(url)
+                atitle, body = fetch_readable(url, debug_log=debug_log)
                 if atitle and not title:
                     title = atitle
                 if len(body) < min_chars:
@@ -317,7 +358,8 @@ def render_html(blog_title, items):
     title in heading, each cell should be a div with a the blog name/link in bold, then the one-liner
     """
     jinja_vars = {}
-    title = f"{blog_title}: {datetime.date.today().isoformat()}"
+    today = datetime.date.today()
+    title = f'The Daily Blogroll — {today.strftime("%A, %-d %B %Y")}'
     jinja_vars["title"] = title
     jinja_vars["date"] = datetime.date.today().isoformat()
 
@@ -346,8 +388,7 @@ def render_html(blog_title, items):
     template = env.get_template(BLOG_TEMPLATE)
     output = template.render(vars=jinja_vars)
 
-    slug = slugify(title)
-    filename = f"{slug}.html"
+    filename = f"daily-blogroll-{today.strftime('%Y-%m-%d')}.html"
     path = BLOGROLLS_DIR / filename
     with open(path, "w", encoding="utf-8") as f:
         f.write(output)
@@ -448,7 +489,7 @@ def renavigate_blogrolls():
     blogrolls = get_sorted_blogrolls()
     print (f"Found {len(blogrolls)} blogrolls to renavigate.")
     for i, (datestr, filename) in enumerate(blogrolls):
-        friendly_date = datetime.strptime(datestr, "%Y-%m-%d").strftime("%d %B %Y")
+        friendly_date = datetime.datetime.strptime(datestr, "%Y%m%d").strftime("%A, %-d %b %Y")
         with open(BLOGROLLS_DIR / filename, "r+", encoding="utf-8") as f:
             content = f.read()
             if "<h1>" in content:
