@@ -70,8 +70,6 @@ feeds:
     group: Pete
     pronouns: he/him
     required: True
-    mastodon: "@nimgimli"
-    bluesky: "@dragonchasers.com"
   - name: Inventory Full
     url: https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily
@@ -264,8 +262,6 @@ feeds:
     group: Pete
     pronouns: he/him
     required: True
-    mastodon: "@nimgimli"
-    bluesky: "@dragonchasers.com"
   - name: CrazyKinux's Musings
     url: https://feeds.feedburner.com/CrazykinuxsMusing
     update_frequency: daily
