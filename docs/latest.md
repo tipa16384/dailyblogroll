@@ -1,20 +1,22 @@
-# Daily Blogroll: 2025-11-09
+# Daily Blogroll: 2025-11-10
 
-## General
-
-- **[Dragonchasers](https://dragonchasers.com/2025/11/08/the-end-of-social-media-for-me-i-mean/)** — Nimgimli reminisces about Twitter's early days and shares his gradual shift from social media to more productive pursuits.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/this-content-isnt-available.html)** — Bhagpuss deals with a frustrating YouTube glitch, highlighting a widespread issue many users face.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-08-15.html)** — Tofutush recounts a summer adventure exploring Kunming and Dali, weaving travel mishaps and local delights.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-08-nov-week-1-digest/)** — Anarchae reflects on a week of reading mysteries, watching TV, and battling potential winter colds.
-- **[Hamatti](https://hamatti.org/posts/whats-the-story-my-front-page-tells/)** — Juhis reflects on the challenges of presenting a multifaceted personal homepage that captures diverse interests.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/08/the-no-mans-sky-holidays-2025-expedition-schedule/)** — Wilhelm outlines *No Man’s Sky* holiday expeditions, a nostalgic treat for players to re-run past adventures.
-- **[Virtual Moose](https://virtualmoose.org/2025/11/08/indie-game-roundup-november-8-2025/)** — Michael highlights promising indie games, reminding us that there's a treasure trove of creativity beyond AAA titles.
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2025/11/08/is-indie-game-dev-even-viable-as-a-business-in-2025/)** — Cliffski questions the viability of indie game development, pondering the tough market realities.
-- **[Going Commando](https://swtorcommando.blogspot.com/2025/11/another-season-of-feasting.html)** — Shintar delights in the Feast of Prosperity event in SWTOR, enjoying its lively, community-driven chaos.
+- **[Chasing Dings!](https://chasingdings.com/2025/11/09/mailfaux-fields-of-faux/)** — Tipa shares her intense experiences at the Fields of Faux tournament, facing master players and grappling with strategic challenges in the world of Malifaux.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/09/tagn-fantasy-critic-league-2025-week-forty-four-and-arc-raiders-ascendant/)** — Wilhelm celebrates ARC Raiders' leap to a high score, giving his Fantasy Critic League points a substantial boost while navigating the gaming landscape.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/09/aggrochat-546-bouncing-balls-of-death/)** — Belghast and crew dive into a spectrum of gaming adventures, from Path of Exile to VTM Bloodlines 2, sharing their insights and excitement.
+- **[Time to Loot](https://www.timetoloot.com/blog/journal/time-to-loot-journal-october-2025/)** — Naithin reflects on gaming goals and the excitement for Where Winds Meet, despite contemplating a slower blogging pace through year-end.
+- **[Indiecator](https://indiecator.org/2025/10/29/10-indie-horror-games-that-really-got-under-my-skin/)** — Magi lists indie horror games that creep into your psyche, offering a uniquely unsettling night gaming experience.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/11/eu5-first-run.html)** — Tobold explores the intricate world of Europa Universalis V, achieving unexpected success and planning a fresh start for a more authentic journey.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/11/10/einhander-digging-deep-really-really-deep/)** — Kimimi critically dissects Einhänder, finding it lacking the excitement of its contemporaries despite its promising setup and intriguing stages.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/10/lions-mane-vestige-room-the-baubleshire/)** — Stargrace showcases her cozy, halfling-themed housing build in EQ2, a delightful narrative of creative spatial design.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/11/08.html#a152308)** — Dave Winer explores the power of customizable writing tools in a fully flexible social network environment.
-- **[usebox.net](https://www.usebox.net/jjm/blog/alttab-is-fantastic/)** — JJM finds 'alttab' the perfect solution for quick window switching in i3wm, easing the jump from Mac to Linux.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/11/reflections-on-dune-part-two.html)** — CrazyKinux praises Villeneuve's Dune adaptation, finally seeing the Arrakis long imagined brought to life.
+- **[Scripting News](http://scripting.com/2025/11/09.html#a135612)** — Dave Winer muses on WordLand's open competition strategy and welcomes readers to subscribe to a non-intrusive, optional newsletter.
+## Writing
+
+- **[Aywren's Nook](https://aywren.com/2025/11/07/steam-gaming-gas-station-simulator)** — Aywren gives a lighthearted rundown on Gas Station Simulator, juggling pumps and snacks in a charmingly chaotic Route 66 setting.
+- **[Words Under My Name](https://wordsundermyname.wordpress.com/2025/11/09/11-9-2025-up-for-air/)** — Blockade85 feels rejuvenated by medication adjustments and takes on life with a new motivation, even tackling a busy training week ahead.
+## General
+
+- **[Virtual Moose](https://virtualmoose.org/2025/11/09/blog-roundup-november-9-2025/)** — Michael shares a selection of compelling blog reads, from interactive fiction to a personal gaming club, along with some local Michigan tidbits.

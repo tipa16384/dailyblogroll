@@ -276,7 +276,7 @@ feeds:
     blogger: Tofutush
     pronouns: she/her
     required: True
-    mastodon: Tofutush"
+    mastodon: Tofutush
     bluesky: "@tofutush.bsky.social"
   - name: Indiecator
     url: https://indiecator.org/feed/
