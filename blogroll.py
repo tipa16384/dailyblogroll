@@ -212,18 +212,18 @@ def collect_new_items(cfg):
             guid = getattr(e, "id", None) or getattr(e, "link", None)
             url = getattr(e, "link", "")
             if not guid or not url:
-                debug_log.append(f"Skipping entry without GUID or URL: {e}")
+                debug_log.append(f"Skipping entry without GUID or URL")
                 continue
 
             # Core filter: only newer than last_ts
             ts = entry_timestamp(e)
             if ts is not None and ts <= st.get("last_ts", 0):
-                debug_log.append(f"Skipping entry older than last_ts: {e}")
+                debug_log.append(f"Skipping entry older than last_ts: {url}")
                 continue
 
             # (Optional) also keep your existing GUID-based de-dup:
             if already_seen(con, feed_url, guid):
-                debug_log.append(f"Skipping already seen entry: {e}")
+                debug_log.append(f"Skipping already seen entry: {url}")
                 continue
 
             if group and group_seen[group]:
