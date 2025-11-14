@@ -1,20 +1,22 @@
-# Daily Blogroll: 2025-11-13
+# Daily Blogroll: 2025-11-14
 
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2025/11/12/you-had-one-job-dark-quest-4/)** — Tipa tests Dark Quest 4, finding it simplifies HeroQuest's co-op chaos into a single-player console experience.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/blue-protocol-star-resonance-death-and.html)** — Bhagpuss dives into Blue Protocol, enjoying its minimalist combat and captivating storylines despite his sputtering, elderly PC.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/12/no-mans-sky-expedition-2-beachhead-redux-lets-talk-freighters/)** — Wilhelm relives the joy of freighter adventures in No Man's Sky's Expedition 2 Redux, despite a non-functional hyperdrive.
-- **[Bio Break](https://biobreak.wordpress.com/2025/11/12/rift-pass-the-fresh-reroll-please/)** — Syp is lured back to RIFT by a community reroll event, praising its smooth gameplay charm.
-- **[Virtual Moose](https://virtualmoose.org/2025/11/11/indie-game-roundup-november-11-2025/)** — Michael spotlights a host of creative indie games, from a nocturnal walking sim to retro-inspired racers.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/11/history-in-eu5.html)** — Tobold explores the intricate historical simulations in EU5, discussing its fresh approach to geo-political storytelling.
-- **[In An Age](https://inanage.com/2025/11/10/un-necesse-ary/)** — Azuriel returns to Necesse post-launch to find it lacks the depth promised by its early description.
+- **[Dragonchasers](https://dragonchasers.com/2025/11/13/ball-x-pit-weird-and-addicting/)** — Nimgimli dives into Ball X Pit, an addictive mix of Vampire Survivors and Breakout that'll keep you bouncing projectiles and leveling up for hours on end.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/rag-tag-grab-bag-sold-as-seen-no-refunds.html)** — Bhagpuss highlights a massive 275% XP boost in EverQuest II celebrating Extra Life donations—time to level up those characters!
+- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2025/11/ding-200-max-level-in-dune-awakening.html)** — Hitting level 200 in Dune Awakening, The Friendly Necromancer reflects on grinding through the Secret Lab and setting personal 'Tom-goals' for achievements.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/13/in-which-i-fish-and-play-with-water-in-enshrouded/)** — Wilhelm explores the new watery update in Enshrouded, casting a line into its fishing mechanics amidst shader compiling woes.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/13/a-new-signal/)** — Stargrace shares her transition back to exploration in New Eden with Signal Cartel, embracing the quiet satisfaction of locating cosmic relics.
+- **[Axxuy](https://axxuy.xyz/blog/posts/2025/reading-makes-me-feel-like-a-better-writer/)** — Axxuy finds solace in reading, realizing the low bar for publication encourages confidence in their writing journey.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/11/12.html#a215502)** — Dave Winer discusses the launch of markdown docs to open up text like podcasting has for audio.
-- **[The Daily WTF](https://thedailywtf.com/articles/lucky-thirteen)** — Remy Porter critiques a mind-bogglingly inefficient C# class filled with unused ArrayLists and quirky code snafus.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2025/11/03/Time-to-Migrate)** — Tim Bray urges a transition to Mastodon, praising its ad-free, open communication reminiscent of classic email.
+- **[Scripting News](http://scripting.com/2025/11/13.html#a141708)** — Dave Winer discusses synchronizing blog posts with FeedLand and WordPress using WebSockets, connecting the dots across platforms.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2025/11/13/Kendzior-Case-Study)** — Tim Bray examines the suspension of Sarah Kendzior on Bluesky, contrasting it with Mastodon's approach to trust and safety.
+- **[The Daily WTF](https://thedailywtf.com/articles/will-you-still-need-me)** — Remy Porter laughs off tech glitches from health insurance oddities to Copilot's time-traveling assumptions about actor ages.
 ## Writing
 
-- **[Axxuy](https://axxuy.xyz/blog/posts/2025/blogging-makes-me-feel-like-a-worse-writer/)** — Axxuy reflects on the challenges of casual blogging and self-assessment in their writing journey.
-- **[Aywren's Nook](https://aywren.com/2025/11/12/paralives-a-sims-replacement)** — Aywren expresses cautious optimism for Paralives as a potential alternative to The Sims amidst EA buyout concerns.
+- **[Aywren's Nook](https://aywren.com/2025/11/13/steam-hardware-an-interesting-announcement)** — Aywren unpacks Valve's new Steam Hardware lineup, pondering its impact while sticking with tried-and-true gear for now.
+## General
+
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/11/9/paying-for-domestic-services)** — Roger questions the cultural attitudes toward domestic services, considering them efficient amid the backdrop of class dynamics.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-12-life-update/)** — Anarchae shares personal health challenges while balancing meds, IBS, and the relentless pursuit of job applications and creative projects.

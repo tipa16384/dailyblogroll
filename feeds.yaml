@@ -180,6 +180,8 @@ feeds:
     update_frequency: daily
     category: Tech
     blogger: Tim Bray
+    bluesky: Tim Bray
+    mastodon: "@timbray@cosocial.ca"
   - name: Jamie Zawinski's Blog
     url: https://cdn.jwz.org/blog/feed/
     update_frequency: daily
@@ -199,11 +201,13 @@ feeds:
     mastodon: Tobold
     bluesky: Tobold
   - name: Contains Moderate Peril
-    url: http://www.containsmoderateperil.com/feed/
+    url: http://www.containsmoderateperil.com/blog?format=rss
     update_frequency: daily
     category: Gaming
     blogger: Roger
     pronouns: he/him
+    bluesky: "@rogertayloredwards.bsky.social"
+    mastodon: "@rogeredwards"
   - name: Bio Break
     url: http://biobreak.wordpress.com/feed/
     update_frequency: daily
