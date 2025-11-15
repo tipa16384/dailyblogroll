@@ -1,22 +1,18 @@
-# Daily Blogroll: 2025-11-14
+# Daily Blogroll: 2025-11-15
 
 ## Gaming
 
-- **[Dragonchasers](https://dragonchasers.com/2025/11/13/ball-x-pit-weird-and-addicting/)** — Nimgimli dives into Ball X Pit, an addictive mix of Vampire Survivors and Breakout that'll keep you bouncing projectiles and leveling up for hours on end.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/rag-tag-grab-bag-sold-as-seen-no-refunds.html)** — Bhagpuss highlights a massive 275% XP boost in EverQuest II celebrating Extra Life donations—time to level up those characters!
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2025/11/ding-200-max-level-in-dune-awakening.html)** — Hitting level 200 in Dune Awakening, The Friendly Necromancer reflects on grinding through the Secret Lab and setting personal 'Tom-goals' for achievements.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/13/in-which-i-fish-and-play-with-water-in-enshrouded/)** — Wilhelm explores the new watery update in Enshrouded, casting a line into its fishing mechanics amidst shader compiling woes.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/13/a-new-signal/)** — Stargrace shares her transition back to exploration in New Eden with Signal Cartel, embracing the quiet satisfaction of locating cosmic relics.
-- **[Axxuy](https://axxuy.xyz/blog/posts/2025/reading-makes-me-feel-like-a-better-writer/)** — Axxuy finds solace in reading, realizing the low bar for publication encourages confidence in their writing journey.
+- **[Chasing Dings!](https://chasingdings.com/2025/11/14/octopath-traveler-0-youre-the-octopath/)** — Tipa dives into Octopath Traveler 0, where you're the sole hero navigating multiple job paths and rebuilding a town after disaster.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/its-real-if-i-say-its-real.html)** — Bhagpuss muses on the shift from traditional MMORPGs to AI-infused gaming, pondering how tech disruption shapes our play.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/14/the-october-2025-eve-online-monthly-economic-report/)** — Wilhelm analyzes the EVE Online economic report, highlighting the influx of commodities from in-game events like Crimson Harvest.
+- **[Bio Break](https://biobreak.wordpress.com/2025/11/14/world-of-warcraft-the-trouble-with-treble/)** — Syp struggles through WoW's Legion Remix, taming rare pets and marveling at the evolving Highmountain landscape.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/15/eve-online-my-first-rescue/)** — Stargrace shares her experience aiding a stranded pilot in EVE Online, feeling the thrill of space camaraderie and unique gameplay moments.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/14/snowblind/)** — Belghast explores a new Elementalist build in Path of Exile, reveling in Golem buffs and elemental chaos.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/11/14/sword-and-fairy-inn-intense-customer-service-meets-classic-rpg-fantasy/)** — Kimimi juggles running an inn with fantasy heroes in Sword and Fairy Inn, finding chaos and charm in every order.
+- **[In An Age](https://inanage.com/2025/11/14/impressions-stalker-2/)** — Azuriel reflects on Stalker 2's open-world mechanics, noting its eurojank vibe and the impact of its delayed A-Life system.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/11/13.html#a141708)** — Dave Winer discusses synchronizing blog posts with FeedLand and WordPress using WebSockets, connecting the dots across platforms.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2025/11/13/Kendzior-Case-Study)** — Tim Bray examines the suspension of Sarah Kendzior on Bluesky, contrasting it with Mastodon's approach to trust and safety.
-- **[The Daily WTF](https://thedailywtf.com/articles/will-you-still-need-me)** — Remy Porter laughs off tech glitches from health insurance oddities to Copilot's time-traveling assumptions about actor ages.
-## Writing
-
-- **[Aywren's Nook](https://aywren.com/2025/11/13/steam-hardware-an-interesting-announcement)** — Aywren unpacks Valve's new Steam Hardware lineup, pondering its impact while sticking with tried-and-true gear for now.
-## General
-
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/11/9/paying-for-domestic-services)** — Roger questions the cultural attitudes toward domestic services, considering them efficient amid the backdrop of class dynamics.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-12-life-update/)** — Anarchae shares personal health challenges while balancing meds, IBS, and the relentless pursuit of job applications and creative projects.
+- **[Scopique](https://scopique.com/2025/11/14/throwback-to-simpler-times/)** — Scopique uses Blender to reminisce about the 80s while upgrading his YouTube channel backdrop for that retro vibe.
+- **[Scripting News](http://scripting.com/2025/11/14.html#a182534)** — Dave Winer expresses admiration for Pluribus while navigating nostalgic notes of WordPress development.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/11/astra-arcanum-first-look-at-solar.html)** — CrazyKinux dives into ASTRA ARCANUM, a gritty TTRPG with rich solar-system lore and a magical twist.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html)** — Bruce Schneier highlights a study on pilot whales consuming massive amounts of squid—a veritable feast of marine life data.
