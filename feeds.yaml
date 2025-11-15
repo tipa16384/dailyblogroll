@@ -395,4 +395,11 @@ feeds:
     pronouns: they/them
     mastodon: "@SAFCOcast@dice.camp"
     bluesky: "@safcocast.bsky.social"
-  
+  - name: Life on the Wicked Stage
+    url: https://warnercrocker.com/feed/
+    update_frequency: daily
+    category: General
+    blogger: Warner
+    pronouns: he/him
+    bluesky: "@warnercrocker.bsky.social"
+    mastodon: "@warnercrocker@mastodon.social"
