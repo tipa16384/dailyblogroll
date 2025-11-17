@@ -103,7 +103,7 @@ feeds:
     category: Gaming
     blogger: Wilhelm
     pronouns: he/him
-    required: True
+    required: False
     mastodon: "@wilhelm_arcturus@mas.to"
     bluesky: "TAGN"
   - name: Lisette's Mxtadventures
@@ -403,3 +403,11 @@ feeds:
     pronouns: he/him
     bluesky: "@warnercrocker.bsky.social"
     mastodon: "@warnercrocker@mastodon.social"
+  - name: Luna's Gaming Log
+    url: https://lunasgaminglog.com/feed/
+    update_frequency: weekly
+    category: Gaming
+    blogger: Luna
+    pronouns: she/her
+    bluesky: "@lunasgaminglog.com"
+    mastodon: Luna

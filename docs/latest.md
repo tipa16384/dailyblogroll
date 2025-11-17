@@ -1,22 +1,20 @@
-# Daily Blogroll: 2025-11-16
+# Daily Blogroll: 2025-11-17
 
-## Gaming
-
-- **[Dragonchasers](https://dragonchasers.com/2025/11/15/winter-burrow-early-first-look/)** — Nimgimli dives into the cozy yet chilly world of Winter Burrow, offering a survivalbox experience with a cute mouse twist.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/15/introducing-your-csm20-representatives/)** — Wilhelm lays out the freshly elected CSM20 team for EVE Online, highlighting the inner workings of its voting process.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/11/professional-review-bombing.html)** — Tobold tackles the controversial subject of professional review bombing, focusing on Arc Raiders and review biases.
-- **[Aywren's Nook](https://aywren.com/2025/11/14/ffxiv-main-change-the-allagans-finally-win)** — Aywren decides to consolidate efforts in FFXIV by making Amon her main, aiming to fend off burnout before Fan Fest.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/11/15/thoughts-on-blogging-part-23)** — Roger delves into blog maintenance post-Blaugust, noting unexplained traffic spikes possibly from China.
-- **[Virtual Moose](https://virtualmoose.org/2025/11/14/indie-game-roundup-november-14-2025/)** — Michael enthuses over the latest indie games and Tim Curry's memoir, carving a niche for retro and quirky gems.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/11/15/hogwarts-legacy-nostalgic-magic/)** — Emily embraces the nostalgic magic of Hogwarts Legacy, although the later grind dims the initial enchantment.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/11/15.html#a151359)** — Dave Winer explores AI 'pseudo-people' and the importance of never mistaking them for real human interaction.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/a-quick-technical-update.html)** — Bhagpuss dives into setting up his new budget gaming PC, pondering its ability to handle modern games like New World.
+- **[Scripting News](http://scripting.com/2025/11/16.html#a155533)** — Dave Winer explores the integration of his blogging spaces and wrestles with finding elusive podcast RSS feeds.
 ## General
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-08-31.html)** — Tofutush shares the cultural shock and challenges of adapting to energetic college life in the US.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-15-nov-week-2-digest/)** — Anarchae reflects on winter frustrations and catches up with Ottolengui’s mystery novels and game guides.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/11/15/little-feat-wraps-it-up/)** — Warner fondly remembers Little Feat's musical legacy as news of their final tour stirs up backstage nostalgia.
-## Writing
+- **[Virtual Moose](https://virtualmoose.org/2025/11/16/blog-roundup-november-16-2025/)** — Michael celebrates web anniversaries and shares highlights from gaming blogs, including Gaming Alexandria's decade milestone.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/11/16/sunday-morning-reading-129/)** — Warner delves into the complex layers of media influence, societal issues, and the personal side of business in his weekly roundup.
+## Gaming
 
-- **[Lisette's Mxtadventures](https://lisettesmxtadventures.wordpress.com/2025/11/15/mini-sketchbook-update-2/)** — Crimson's artistic journey takes a twist with impromptu inspiration from a music festival and League videos.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2025/11/15/winter-burrow-review-guest-writing/)** — Luna shares her exciting journey of reviewing Winter Burrow as a guest writer, marking a new milestone for her blog.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/11/compound-interest-in-eu5.html)** — Tobold breaks down how economic growth through compound interest lets him outshine France in EU5 despite humble beginnings.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/16/tagn-fantasy-critic-league-2025-week-forty-five-and-bhagpuss-is-set/)** — Wilhelm reviews the latest Fantasy Critic League results, highlighting how AI usage in ARC Raiders sparked review backlash.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/11/17/i-left-for-newer-horizons/)** — Emily reflects on her love-hate relationship with Animal Crossing: New Horizons and how game changes reshaped her experience.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/17/warcraft-gold-making-week-46-2025/)** — Stargrace shares her return to WoW gold making post-ban, reporting a lucrative week despite no pet sales.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/16/aggrochat-547-the-gabe-cube/)** — Belghast and the crew tackle a packed roster of gaming topics, from Destiny Rising to new Steam hardware announcements.
+- **[Heartless Gamer](http://www.heartlessgamer.com/2025/11/i-really-like-no-mans-sky-but.html)** — Heartless enjoys the vast universe of No Man's Sky, though something still feels unfulfilled despite its seamless adventure.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2025/11/living-in-moment.html)** — Shintar discusses the disparity between WoW Classic's nostalgia and the retail focus on upcoming content, urging players to enjoy the present.
