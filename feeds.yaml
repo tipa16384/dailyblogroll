@@ -26,10 +26,11 @@ feeds:
     url: https://musingsoverpintsandcoffee.wordpress.com/feed/
     update_frequency: daily
     category: General
-    blogger: joargarrosh
+    blogger: Joar
     mastodon: "@Joar"
     bluesky: "Joar"
     group: Joar
+    pronouns: he/him
   - name: MMO Casual
     url: https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily
@@ -38,6 +39,7 @@ feeds:
     mastodon: "@Joar"
     bluesky: "Joar"
     group: Joar
+    pronouns: he/him
   - name: Heartless Gamer
     url: https://www.heartlessgamer.com/feeds/posts/default?alt=rss
     update_frequency: daily
@@ -111,6 +113,7 @@ feeds:
     update_frequency: daily
     category: Writing
     blogger: Crimson
+    pronouns: they/them
   - name: Monsterlady's Diary
     url: https://monsterladysdiary.wordpress.com/feed/
     update_frequency: daily
@@ -170,11 +173,13 @@ feeds:
     update_frequency: daily
     category: Tech
     blogger: Jeff Atwood
+    pronouns: he/him
   - name: Schneier on Security
     url: https://www.schneier.com/feed/
     update_frequency: daily
     category: Tech
     blogger: Bruce Schneier
+    pronouns: he/him
   - name: Ongoing
     url: https://www.tbray.org/ongoing/ongoing.atom
     update_frequency: daily
@@ -182,16 +187,19 @@ feeds:
     blogger: Tim Bray
     bluesky: Tim Bray
     mastodon: "@timbray@cosocial.ca"
+    pronouns: he/him
   - name: Jamie Zawinski's Blog
     url: https://cdn.jwz.org/blog/feed/
     update_frequency: daily
     category: Tech
     blogger: Jamie Zawinski
+    pronouns: he/him
   - name: Joel on Software
     url: https://www.joelonsoftware.com/feed/
     update_frequency: daily
     category: Tech
     blogger: Joel Spolsky
+    skip: True
   - name: Tobold's Blog
     url: http://feeds2.feedburner.com/ToboldsBlog
     update_frequency: daily
@@ -258,6 +266,7 @@ feeds:
     blogger: Mailvaltar
     mastodon: Mailvaltar
     bluesky: Mailvaltar
+    pronouns: he/him
   - name: Smith Talks Tech
     url: https://smithtalkstech.com/feed/
     update_frequency: daily
@@ -273,6 +282,7 @@ feeds:
     blogger: CrazyKinux
     bluesky: "@crazykinux.bsky.social"
     mastodon: "CrazyKinux"
+    pronouns: he/him
   - name: Tofutush's Blog
     url: https://tofutush.github.io/feed.xml
     update_frequency: daily
@@ -345,12 +355,14 @@ feeds:
     category: Gaming
     blogger: Shintar
     group: Shintar
+    pronouns: she/her
   - name: Priest with a Cause
     url: https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily
     category: Gaming
     blogger: Shintar
     group: Shintar
+    pronouns: she/her
   - name: Grumpy Gamer
     url: https://www.grumpygamer.com/rss
     update_frequency: daily
@@ -410,4 +422,12 @@ feeds:
     blogger: Luna
     pronouns: she/her
     bluesky: "@lunasgaminglog.com"
-    mastodon: Luna
+    mastodon: "Luna"
+  - name: Leeks Cosy Corner
+    url: https://leekscosycorner.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Krista
+    pronouns: she/her
+    mastodon: Krista
+    bluesky: "@leekscosycorner.com"
