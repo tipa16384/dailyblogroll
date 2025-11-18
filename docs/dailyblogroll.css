@@ -138,7 +138,7 @@ h1 span a, h1 span a:visited, h1 span a:link {
 }
 
 .article-element {
-    background-color: darkslategray;
+    background-color: #2f4f4f;
     break-inside: avoid;
     margin-bottom: 1rem;
     padding: 10px;
@@ -165,4 +165,27 @@ h1 span a, h1 span a:visited, h1 span a:link {
     clear: both;
     margin-bottom: 5px;
     filter: drop-shadow(0 4px 8px rgba(0,0,0,0.5));
+}
+
+.stack {
+    position: relative;
+    width: 240px;   /* or auto */
+    height: 160px;  /* or auto */
+}
+
+.stack img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;    /* ensures perfect overlap */
+    height: 100%;
+    object-fit: cover;
+}
+
+.stack .bg {
+    z-index: 1;
+}
+
+.stack .fg {
+    z-index: 2;
 }

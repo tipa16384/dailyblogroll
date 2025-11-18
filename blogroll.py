@@ -290,8 +290,6 @@ def collect_new_items(cfg):
 def call_model(items):
     client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
-    #print (f"Client: {dir(client)}")
-
     today = datetime.date.today().strftime("%B %d, %Y")
 
     # Build compact user content
@@ -310,36 +308,51 @@ def call_model(items):
         """).strip())
 
     resp = client.responses.create(
-        model="gpt-4o",
+        # ← main change: the model
+        model="gpt-5.1",   # or "gpt-5" if you want the base
         instructions=SYSTEM,
         input=[{
             "role": "user",
             "content": [
-                {"type": "input_text",
-                "text": f"Date: {today}. Create one-liners for these posts. Keep each line under ~30 words. Do not include the URL in the one-liner; it will be added automatically. If the author name is given, use that instead of the blog name when referring to the author of the blog within the one-liner. The category should be your best guess from Gaming, Tech, Writing, or General."},
-                *[{"type": "input_text", "text": c} for c in chunks],
+                {
+                    "type": "input_text",
+                    "text": (
+                        f"Date: {today}. Create one-liners for these posts. "
+                        "Keep each line under ~30 words. Do not include the URL "
+                        "in the one-liner; it will be added automatically. "
+                        "If the author name is given, use that instead of the "
+                        "blog name when referring to the author of the blog "
+                        "within the one-liner. The category should be your "
+                        "best guess from Gaming, Tech, Writing, or General."
+                    ),
+                },
+                *[
+                    {"type": "input_text", "text": c}
+                    for c in chunks
+                ],
             ],
         }],
+        # ← keep using text.format for JSON schema with Responses API
         text={
             "format": {
                 "type": "json_schema",
-                "name": "DailyBlogrollItems",  # <-- required here
-                "schema": SCHEMA,              # <-- your Python dict schema
-                "strict": True                 # optional but recommended
+                "name": "DailyBlogrollItems",
+                "schema": SCHEMA,
+                "strict": True,
             }
         },
-#        temperature=0.3,
         max_output_tokens=1500,
         metadata={"prompt_cache_key": "daily-blogroll-v1"},
     )
 
+    # Parsing stays exactly the same
     try:
-        data = json.loads(resp.output[0].content[0].text)
+        raw = resp.output[0].content[0].text
+        data = json.loads(raw)
     except Exception as e:
         print("Error parsing response:", e)
-        # write to a file for inspection
         with open("debug_response.json", "w", encoding="utf-8") as f:
-            f.write(resp.output[0].content[0].text)
+            f.write(raw if "raw" in locals() else str(resp))
         return []
 
     return data["items"]
