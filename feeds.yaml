@@ -245,6 +245,7 @@ feeds:
     update_frequency: daily
     category: Tech
     blogger: Remy Porter
+    skip: True
   - name: Aywren's Nook
     url: https://aywren.com/feed.xml
     update_frequency: daily
