@@ -1,20 +1,22 @@
-# Daily Blogroll: 2025-11-19
+# Daily Blogroll: 2025-11-20
 
 ## Gaming
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/alpha-beta-early-access-its-all-same-to.html)** — Bhagpuss looks back on eight years of lukewarm Ashes of Creation hype, pricey beta pledges, and a housing obsession that somehow kept him on board anyway.
-- **[Aywren's Nook](https://aywren.com/2025/11/18/guild-wars-reforged-a-dream-come-true)** — Aywren celebrates Guild Wars Reforged as a dream comeback for GW1, remembering how its story focus, flexible builds, and henchmen-friendly design saved MMOs for her.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/18/pile-of-shame/)** — Belghast juggles health mysteries, an emotional garage clean-up for a future 3D printer, and Path of Exile Icetrap mapping while grinding sulphite for his Righteous Fire delve main.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/11/18/relics-recur-of-origin-once-more-with-less-feeling/)** — Kimimi revisits Relics Recur of Origin, a lavish 1999 remake that clarifies story and adds flair but trades away the original’s mystery and tactile, timing-heavy combat.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/18/the-catalyst-expansion-arrives-in-eve-online/)** — Wilhelm tours EVE Online’s Catalyst expansion, from long-awaited PLEX transaction logs to the new SOE Odysseus command ship and destroyer-class mining hulls like the Pioneer.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/18/awkward-coffee-in-wormhole-scented-air/)** — Stargrace recounts a painfully biased Signal Cartel coffee chat on Pandemic Horde’s Dronelands exit, quietly nursing her mug as a displaced explorer among gleeful Imperials.
-- **[Virtual Moose](https://virtualmoose.org/2025/11/18/indie-game-roundup-november-18-2025/)** — Michael’s indie roundup hits PS1-filtered Gnorts Vs. the Greylenoids, VIDEOVERSE’s console debut, Drill Bird, Sektori, ThinkyCon Jam puzzlers, and even a coloring book on Itch.
+- **[Chasing Dings!](https://chasingdings.com/2025/11/19/frosthaven-28-summit-meeting/)** — Tipa recounts a brutal, errata-twisted Frosthaven Algox summit where fragile faction leaders, card burnout, and some creative rules-lawyering turn an “easy” escort into a tense replayed escape.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/ride-your-pony-new-world-style.html)** — Bhagpuss power-levels a Swashbuckler in EverQuest II, resurrects his UI on a new PC, and spends the rest of his time grinding New World mount time-trial “races.”
+- **[Aywren's Nook](https://aywren.com/2025/11/19/ffxiv-luck-smiled-upon-me)** — Aywren’s main-swap grind in FFXIV finally pays off as she squeaks out the Mehwapyarra FATE mount with seconds left, then snags the elusive Caduceus minion on yet another “snek run.”
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/19/wurm-online-whats-in-a-deed/)** — Stargrace tours her long-lived Wurm Online deed, Quail Cove, from secure mines to holiday-packed Archives, showing how fences, cozy touches, and endless projects make the place truly hers.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/19/eg7-q2-2025-financials-reveal-problems-in-the-house-of-daybreak/)** — Wilhelm digs into EG7’s rough Q3 2025 numbers, highlighting Daybreak’s worrying revenue slide even as acquisitions like Palia’s Singularity 6 had once made things look rosy.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/11/20/birdcage-learning-to-fly/)** — Kimimi admires Birdcage’s gorgeous shmup aesthetics but finds its timer-heavy, punishing “intended” difficulty so relentless from stage one that it feels exhausting instead of satisfyingly challenging
+- **[Going Commando](https://swtorcommando.blogspot.com/2025/11/star-wars-visions-season-3.html)** — Shintar runs through Star Wars: Visions season 3, weighing anime-only shorts like The Duel: Payback, The Ninth Jedi: Child of Hope, and surprise favorite Yuko’s Treasure.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/19/games-to-watch-spirit-vale-hytale-guild-wars-reforged/)** — Belghast spotlights upcoming titles, from one-dev Ragnarok-like MMO Spirit Vale to revived voxel RPG Hytale and nostalgic Guild Wars Reforged, as fresh projects to keep an eye on.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/11/18.html#a225905)** — Dave Winer debugs FeedLand’s Node.js backend, fixes quirky RSS edge cases like Aaron Swartz’s Paul Graham feed, and evangelizes dynamic OPML as the next big network-of-feeds move.
-- **[Smith Talks Tech](https://smithtalkstech.com/2025/11/18/gemini-3-builds-me-an-app/)** — Pete has Gemini 3 whip up a custom “what should I play next?” gaming tracker, then runs into the familiar wall of deployment hassles and missing auth.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-17-more-organizing-of-bearblog/)** — Anarchae is wrangling their Bearblog CSS into cleaner, indexed theme pages, warning followers to expect a flood of WIP reposts rather than shiny new tricks.
-- **[The Daily WTF](https://thedailywtf.com/articles/using-an-ade-ancient-development-environment)** — Remy Porter shares Greta’s war stories from a cursed pseudo-C++ IDE that corrupts designer files, targets Pentium Pro-era 32-bit, and wraps an unmodifiable Pascal library.
+- **[Scripting News](http://scripting.com/2025/11/19.html#a140139)** — Dave Winer argues Bluesky and Mastodon aren’t really “on the web,” pushes WordPress–ActivityPub promotion, reminisces about weblogs.com, and muses on political coverage that forgets the people.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html)** — Bruce Schneier boosts Kendra Albert’s USENIX Security talk on how bug bounty contracts can gag vulnerability researchers, undermining the original promise of coordinated disclosure.
+## Writing
+
+- **[Frostilyte Writes](https://frostilyte.ca/2025/11/18/a-not-so-brief-ramble-about-how-ill-be-doing-my-best-of-2025-post/)** — Frostilyte overthinks—in a good way—how to handle his 2025 “Best Games” list, debating whether older first-time plays like Fire Emblem Fates or Dark Souls: Remastered still belong.
 ## General
 
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2025/11/16/Long-Links)** — Tim Bray serves a politics-heavy Long Links, from TPM’s history-of-blogging series to sobering reads on Trump-era absurdities and Zohran Mamdani discourse.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2025/11/19/what-it-means-to-support-someone-elses-dream/)** — Joar reflects on parenting older kids, realizing support means backing their changing dreams, asking good questions, and stepping back while they steer their own lives.
