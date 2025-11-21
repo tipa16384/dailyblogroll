@@ -1,22 +1,20 @@
-# Daily Blogroll: 2025-11-20
+# Daily Blogroll: 2025-11-21
 
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2025/11/19/frosthaven-28-summit-meeting/)** — Tipa recounts a brutal, errata-twisted Frosthaven Algox summit where fragile faction leaders, card burnout, and some creative rules-lawyering turn an “easy” escort into a tense replayed escape.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/ride-your-pony-new-world-style.html)** — Bhagpuss power-levels a Swashbuckler in EverQuest II, resurrects his UI on a new PC, and spends the rest of his time grinding New World mount time-trial “races.”
-- **[Aywren's Nook](https://aywren.com/2025/11/19/ffxiv-luck-smiled-upon-me)** — Aywren’s main-swap grind in FFXIV finally pays off as she squeaks out the Mehwapyarra FATE mount with seconds left, then snags the elusive Caduceus minion on yet another “snek run.”
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/11/19/wurm-online-whats-in-a-deed/)** — Stargrace tours her long-lived Wurm Online deed, Quail Cove, from secure mines to holiday-packed Archives, showing how fences, cozy touches, and endless projects make the place truly hers.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/19/eg7-q2-2025-financials-reveal-problems-in-the-house-of-daybreak/)** — Wilhelm digs into EG7’s rough Q3 2025 numbers, highlighting Daybreak’s worrying revenue slide even as acquisitions like Palia’s Singularity 6 had once made things look rosy.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/11/20/birdcage-learning-to-fly/)** — Kimimi admires Birdcage’s gorgeous shmup aesthetics but finds its timer-heavy, punishing “intended” difficulty so relentless from stage one that it feels exhausting instead of satisfyingly challenging
-- **[Going Commando](https://swtorcommando.blogspot.com/2025/11/star-wars-visions-season-3.html)** — Shintar runs through Star Wars: Visions season 3, weighing anime-only shorts like The Duel: Payback, The Ninth Jedi: Child of Hope, and surprise favorite Yuko’s Treasure.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/19/games-to-watch-spirit-vale-hytale-guild-wars-reforged/)** — Belghast spotlights upcoming titles, from one-dev Ragnarok-like MMO Spirit Vale to revived voxel RPG Hytale and nostalgic Guild Wars Reforged, as fresh projects to keep an eye on.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/all-news-thats-fit-to-steal-eqii-rage.html)** — Bhagpuss rounds up MMO news with snarky drive‑bys on EverQuest II’s Rage of Cthurath expansion, Soulframe’s prelude, and the Guild Wars Reforged buzz.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2025/11/new-changes-and-new-people-coming-to.html)** — Shintar digs into Blizzard’s Burning Crusade Classic anniversary plans and what Group Finder, Dual Spec, and UI “quality of life” changes mean for WoW Classic Era and Hardcore.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/20/eve-online-first-glance-at-the-catalyst-2d-map/)** — Wilhelm gives CCP’s new Catalyst 2D map a cautious thumbs‑up, especially for untangling EVE Online’s notoriously messy Drone regions, while still mourning the old 3D star spaghetti.
+- **[Bio Break](https://biobreak.wordpress.com/2025/11/19/lotro-enter-the-ultimate-lotro-challenger/)** — Syp rolls a Stout‑Axe Captain in LOTRO on Fearless +2 difficulty, min‑maxing pies, Shire quests, auction house gear, and Viking aesthetics for a hardcore deed‑completionist run.
+- **[Aywren's Nook](https://aywren.com/2025/11/20/osrs-getting-started-with-sailing-as-a-newer-player)** — Aywren walks newer Old School RuneScape players through unlocking the new Sailing skill in Port Sarim, running the Pandemonium quest, and enjoying chill, auto‑cruising raft vibes.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/11/when-stars-still-whisper-discovering.html)** — CrazyKinux rediscovers The Escapist’s “The Making of EVE Online” documentary and reflects on how single‑shard design, meaningful loss, and player‑driven drama keep New Eden timeless.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/11/19.html#a140139)** — Dave Winer argues Bluesky and Mastodon aren’t really “on the web,” pushes WordPress–ActivityPub promotion, reminisces about weblogs.com, and muses on political coverage that forgets the people.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html)** — Bruce Schneier boosts Kendra Albert’s USENIX Security talk on how bug bounty contracts can gag vulnerability researchers, undermining the original promise of coordinated disclosure.
-## Writing
-
-- **[Frostilyte Writes](https://frostilyte.ca/2025/11/18/a-not-so-brief-ramble-about-how-ill-be-doing-my-best-of-2025-post/)** — Frostilyte overthinks—in a good way—how to handle his 2025 “Best Games” list, debating whether older first-time plays like Fire Emblem Fates or Dark Souls: Remastered still belong.
+- **[Scripting News](http://scripting.com/2025/11/20.html#a155104)** — Dave Winer tunes FeedLand’s change detection, consults ChatGPT about RSS pubDate semantics, then side‑eyes Amazon’s new Alexa AI for playing faux‑human inside your house.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/11/17/screen-capture-software-and-hdr)** — Roger tracks down why his game screenshots look washed out, blaming HDR monitors and digging into how HDR vs SDR affects captures from Windows, 4K TVs, and modern titles.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html)** — Bruce Schneier highlights Anthropic’s report on a Chinese state‑sponsored group using agentic AI tools to autonomously execute cyberespionage across dozens of high‑value global targets.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/11/happy-bitblt-day-to-all-who-celebrate/)** — jwz celebrates BitBLT’s 50th with PARC lore, a Byte magazine deep cut, and his own BlitSpin hack, reminding us how this humble bitmap routine underpins modern GUIs and graphics tricks.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2025/11/19/what-it-means-to-support-someone-elses-dream/)** — Joar reflects on parenting older kids, realizing support means backing their changing dreams, asking good questions, and stepping back while they steer their own lives.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/11/20/thieves-get-picky-and-only-want-iphones/)** — Warner can’t help chuckling at London thieves who rob a guy, then hand back his Samsung with a dismissive “don’t want no Samsung,” turning resale value into the latest fanboy metric.
+- **[West Karana](https://westkarana.blog/2025/11/18/iron-flame-by-rebecca-yarros/)** — Tipa reviews Rebecca Yarros’s Iron Flame as a page‑turning but romance‑heavy middle Empyrean book, more Order of the Phoenix than Wheel of Time in her dragon‑school saga.

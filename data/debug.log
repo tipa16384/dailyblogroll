@@ -1,20 +1,25 @@
 Required feeds: ['Chasing Dings!', 'Dragonchasers', 'Inventory Full', 'Scopique', 'The Friendly Necromancer', 'Scripting News', 'Smith Talks Tech', "Tofutush's Blog", 'Ready Pixel One', 'Grumpy Gamer', 'usebox.net']
 
 Processing feed: Chasing Dings! https://chasingdings.com/feed/
-Picking entry: Frosthaven #28: Summit Meeting https://chasingdings.com/2025/11/19/frosthaven-28-summit-meeting/
-Fetching readable content for URL: https://chasingdings.com/2025/11/19/frosthaven-28-summit-meeting/
-Fetched article length: 3697 characters
-Picked item: Frosthaven #28: Summit Meeting from Chasing Dings!
-Feed cap reached, stopping.
+Skipping entry older than last_ts: https://chasingdings.com/2025/11/19/frosthaven-28-summit-meeting/
+Skipping entry older than last_ts: https://chasingdings.com/2025/11/17/lost-worlds-not-so-lost-anymore/
+Skipping entry older than last_ts: https://chasingdings.com/2025/11/14/octopath-traveler-0-youre-the-octopath/
+Skipping entry older than last_ts: https://chasingdings.com/2025/11/12/you-had-one-job-dark-quest-4/
+Skipping entry older than last_ts: https://chasingdings.com/2025/11/10/does-ai-need-to-be-in-everything/
+Skipping entry older than last_ts: https://chasingdings.com/2025/11/09/mailfaux-fields-of-faux/
+Skipping entry older than last_ts: https://chasingdings.com/2025/11/04/backed-the-vectrex-mini/
+Skipping entry older than last_ts: https://chasingdings.com/2025/11/02/heroquest-first-light-5-the-horrors-of-synchroform/
+Skipping entry older than last_ts: https://chasingdings.com/2025/11/01/quick-reviews/
+Skipping entry older than last_ts: https://chasingdings.com/2025/10/31/gormenghast-book-1-titus-groan/
 
 Processing feed: Dragonchasers https://dragonchasers.com/feed/
 No new entries.
 
 Processing feed: Inventory Full https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
-Picking entry: Ride Your Pony, New World Style https://bhagpuss.blogspot.com/2025/11/ride-your-pony-new-world-style.html
-Fetching readable content for URL: https://bhagpuss.blogspot.com/2025/11/ride-your-pony-new-world-style.html
-Fetched article length: 5587 characters
-Picked item: Ride Your Pony, New World Style from Inventory Full
+Picking entry: All The News That's Fit To Steal: EQII Rage Of Cthurath, Soulframe Preludes and Guild Wars Reforged https://bhagpuss.blogspot.com/2025/11/all-news-thats-fit-to-steal-eqii-rage.html
+Fetching readable content for URL: https://bhagpuss.blogspot.com/2025/11/all-news-thats-fit-to-steal-eqii-rage.html
+Fetched article length: 8190 characters
+Picked item: All The News That's Fit To Steal: EQII Rage Of Cthurath, Soulframe Preludes and Guild Wars Reforged from Inventory Full
 Feed cap reached, stopping.
 
 Processing feed: Scopique https://scopique.com/feed/
@@ -48,9 +53,9 @@ Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2
 Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/04/unnatural-selection-vr-pitch-slides.html
 
 Processing feed: Scripting News http://scripting.com/rss.xml
-Picking entry:  http://scripting.com/2025/11/19.html#a140139
-Fetching readable content for URL: http://scripting.com/2025/11/19.html#a140139
-Fetched article length: 4058 characters
+Picking entry:  http://scripting.com/2025/11/20.html#a155104
+Fetching readable content for URL: http://scripting.com/2025/11/20.html#a155104
+Fetched article length: 3175 characters
 Picked item: (untitled) from Scripting News
 Feed cap reached, stopping.
 
@@ -382,12 +387,166 @@ Skipping entry older than last_ts: https://grumpygamer.com/why_adventure_games_s
 Processing feed: usebox.net https://www.usebox.net/jjm/blog/index.xml
 No new entries.
 
-Processing feed: Frostilyte Writes https://frostilyte.ca/feed/
-Picking entry: A Not So Brief Ramble About How I’ll Be Doing My Best of 2025 Post https://frostilyte.ca/2025/11/18/a-not-so-brief-ramble-about-how-ill-be-doing-my-best-of-2025-post/
-Fetching readable content for URL: https://frostilyte.ca/2025/11/18/a-not-so-brief-ramble-about-how-ill-be-doing-my-best-of-2025-post/
-Fetched article length: 8972 characters
-Picked item: A Not So Brief Ramble About How I’ll Be Doing My Best of 2025 Post from Frostilyte Writes
+Processing feed: The Ghastly Mirror https://www.ghastlymirror.xyz/rss.xml
+Skipping already seen entry: https://www.ghastlymirror.xyz/blog/blaugust-2025-ending/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/bugaboo-pocket-review/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/what-ive-been-playing/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/welcome-blaugust-2025/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming-itchio-valve/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming-updates/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/blaugust-2025-were-back-baby/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/portugal-blackout/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/witches-vampires-secrets-of-ashbury-review/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/delores-a-thimbleweed-mini-adventures-walkthrough/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/update-2022-posts-archived/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/steam-replay-2024/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/site-moved/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/animal-crossing-making-friends/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/animal-crossing-day-never-was/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/animal-crossing-gc-welcome-to-batvale/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/blog-hosting-recomendations/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/welcome-to-blaugust-2023/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/what-ive-been-up-to-2023/
+
+Processing feed: Nik Kantar https://nkantar.com/blog/feed/
+No new entries.
+
+Processing feed: Time to Loot https://www.timetoloot.com/feed/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-october-2025/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-september-2025/
+Skipping entry older than last_ts: https://www.timetoloot.com/other/accidentally-songs/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-august-2025/
+Skipping entry older than last_ts: https://www.timetoloot.com/game/wuthering-waves/screenshot-saturday-wuthering-waves-2-6-edition/
+Skipping entry older than last_ts: https://www.timetoloot.com/other/youd-never-guess-but/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/thinking-out-loud-2/
+Skipping entry older than last_ts: https://www.timetoloot.com/game/final-fantasy-xiv/the-far-edge-of-fate/
+Skipping entry older than last_ts: https://www.timetoloot.com/gaming/coming-games-of-interest-blaugust-2025-edition/
+Skipping entry older than last_ts: https://www.timetoloot.com/game/final-fantasy-xiv/ffxiv-keeps-asking-if-im-back/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/the-standards-we-heap-upon-ourselves/
+Skipping entry older than last_ts: https://www.timetoloot.com/game/other-games/screenshot-saturday-deadzone-rogue/
+Skipping entry older than last_ts: https://www.timetoloot.com/game/other-games/hollow-knight-silksong-is-real/
+Skipping entry older than last_ts: https://www.timetoloot.com/gaming/cyberpunk-2077-shouldve-launched-in-early-access/
+Skipping entry older than last_ts: https://www.timetoloot.com/game/other-games/gamescom-2025-kicks-off/
+
+Processing feed: Lisette's Mxtadventures https://lisettesmxtadventures.wordpress.com/feed/?alt=rss
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/25/little-joys-the-numbers/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/23/trying-seasonal-drinks/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/21/little-joys-frog-bowl/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/20/4-years-of-semi-failed-cooking-attempts/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/15/life-has-been-a-juggle-fest/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/08/25/making-a-finished-product/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/08/22/recovery-day-3/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/08/19/one-less-tooth/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/08/18/less-features-less-convenience/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/08/17/driving-endurance/
+
+Processing feed: Axxuy https://axxuy.xyz/blog/feed.xml
+No new entries.
+
+Processing feed: Coding Horror https://blog.codinghorror.com/rss/
+No new entries.
+
+Processing feed: Leeks Cosy Corner https://leekscosycorner.com/feed/
+Skipping entry older than last_ts: https://leekscosycorner.com/2025/11/17/momento-demo/
+Skipping entry older than last_ts: https://leekscosycorner.com/2025/11/16/pokemon-pokopia-trailer-ext/
+Skipping entry older than last_ts: https://leekscosycorner.com/2025/11/12/paralives-early-access/
+Skipping entry older than last_ts: https://leekscosycorner.com/2025/11/06/a-pizza-delivery-review/
+Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/30/acnh-version-three-news/
+Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/27/infinity-nikki-golden-season/
+Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/20/starsand-island-snf-demo/
+Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/18/fading-serenades/
+Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/15/snoopy-the-great-mystery-club/
+Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/08/essential-tips-for-beginners-in-the-pokemon-trading-card-game/
+
+Processing feed: Heartless Gamer https://www.heartlessgamer.com/feeds/posts/default?alt=rss
+Skipping already seen entry: http://www.heartlessgamer.com/2025/11/sunday-11162025-packers-beat-giants.html
+Skipping entry older than last_ts: http://www.heartlessgamer.com/2025/11/i-really-like-no-mans-sky-but.html
+Skipping entry older than last_ts: http://www.heartlessgamer.com/2025/11/forward-to-stella-montis.html
+Skipping entry older than last_ts: http://www.heartlessgamer.com/2025/11/monday-11102025-post-packers-lose-and.html
+Skipping entry older than last_ts: http://www.heartlessgamer.com/2025/11/acceptance-at-last.html
+
+Processing feed: Priest with a Cause https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss
+Picking entry: New Changes and New People Coming to Classic Era https://priestwithacause.blogspot.com/2025/11/new-changes-and-new-people-coming-to.html
+Fetching readable content for URL: https://priestwithacause.blogspot.com/2025/11/new-changes-and-new-people-coming-to.html
+Fetched article length: 5605 characters
+Picked item: New Changes and New People Coming to Classic Era from Priest with a Cause
 Feed cap reached, stopping.
+
+Processing feed: Ongoing https://www.tbray.org/ongoing/ongoing.atom
+No new entries.
+
+Processing feed: The Ancient Gaming Noob https://tagn.wordpress.com/feed/
+Picking entry: EVE Online – First Glance at the Catalyst 2D Map https://tagn.wordpress.com/2025/11/20/eve-online-first-glance-at-the-catalyst-2d-map/
+Fetching readable content for URL: https://tagn.wordpress.com/2025/11/20/eve-online-first-glance-at-the-catalyst-2d-map/
+Fetched article length: 9974 characters
+Picked item: EVE Online – First Glance at the Catalyst 2D Map from The Ancient Gaming Noob
+Feed cap reached, stopping.
+
+Processing feed: Luna's Gaming Log https://lunasgaminglog.com/feed/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/11/18/little-corners/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/11/15/winter-burrow-review-guest-writing/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/11/11/steam-deck-anniversary/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/11/04/my-october-log/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/11/01/november-poll/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/10/31/favorite-october-demos/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/10/28/many-nights-a-whisper/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/10/14/steam-next-fest-october-2025/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/10/07/game-pass-decline/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/09/30/my-september-log/
+
+Processing feed: Life on the Wicked Stage https://warnercrocker.com/feed/
+Picking entry: Thieves Get Picky And Only Want iPhones https://warnercrocker.com/2025/11/20/thieves-get-picky-and-only-want-iphones/
+Fetching readable content for URL: https://warnercrocker.com/2025/11/20/thieves-get-picky-and-only-want-iphones/
+Fetched article length: 1894 characters
+Picked item: Thieves Get Picky And Only Want iPhones from Life on the Wicked Stage
+Feed cap reached, stopping.
+
+Processing feed: Contains Moderate Peril http://www.containsmoderateperil.com/blog?format=rss
+Picking entry: Screen Capture Software and HDR https://www.containsmoderateperil.com/blog/2025/11/17/screen-capture-software-and-hdr
+Fetching readable content for URL: https://www.containsmoderateperil.com/blog/2025/11/17/screen-capture-software-and-hdr
+Fetched article length: 1681 characters
+Picked item: Screen Capture Software and HDR from Contains Moderate Peril
+Feed cap reached, stopping.
+
+Processing feed: Tobold's Blog http://feeds2.feedburner.com/ToboldsBlog
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/11/compound-interest-in-eu5.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/11/professional-review-bombing.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/11/history-in-eu5.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/11/the-hobbit-there-and-back-again.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/11/eu5-bug-reporting.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/11/eu5-first-run.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/11/europa-universalis-v-first-impressions.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/11/gaming-status-november-2025.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/11/master-of-command.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/eu5-between-game-and-simulation.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/work-slop.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/covenant.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/what-if-ai-investment-isnt-bubble.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/spiel-essen-2025-how-it-went-for-me.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/letat-cest-moi-2025-edition.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/malhya-lands-of-legends-unboxing.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/the-logistical-challenge-of-spiel-essen.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/failing-backwards-in-metaphor-refantazio.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/sounds-like-admission-of-failure.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/the-morality-of-intentions-vs-outcomes.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/delving-deeper-into-endless-legend-2.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/debt-budget-and-shutdowns.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/scripting-in-4x-games.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/gaming-status-october-2025.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/10/giving-up-and-getting-rich.html
+
+Processing feed: WCRobinson https://wcrobinson.org/feed/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/10/31/hades-ii-review-a-brilliantly-bewitching-return-to-the-underworld/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/10/02/dave-the-diver-review-this-delightful-deep-sea-rpg-has-a-delectable-sushi-twist/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/09/14/my-5-favourite-announcements-from-the-nintendo-direct-12-09-25/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/09/09/did-my-hopes-for-the-switch-2-become-a-reality/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/08/25/lucies-quest-why-my-pokemon-diamond-playthrough-has-been-so-unique/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/08/10/mario-kart-world-review-a-stunning-racer-that-misses-a-few-tricks/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/08/03/how-fire-kings-are-helping-me-learn-competitive-play-in-yu-gi-oh-master-duel/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/07/29/mid-year-update-edinburgh-marathon-2025-the-nintendo-switch-2-more/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/05/04/blog-update-marathon-training-the-switch-2-what-im-watching-more/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/03/09/6-of-my-favourite-video-game-expansions/
 
 Processing feed: Indiecator https://indiecator.org/feed/
 Skipping entry older than last_ts: https://indiecator.org/2025/10/29/10-indie-horror-games-that-really-got-under-my-skin/
@@ -421,294 +580,83 @@ Skipping entry older than last_ts: https://indiecator.org/2025/08/01/blaugust-is
 Skipping entry older than last_ts: https://indiecator.org/2025/07/19/stop-killing-games/
 Skipping entry older than last_ts: https://indiecator.org/2025/07/11/blaugust-2025-is-coming-join-us/
 
-Processing feed: MMO Casual https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/11/leveling-seasonal-character-in-diablo-4.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/11/moving-back-into-wow-alts.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/11/october-month-in-review.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/10/back-to-regular-leveling.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/10/legion-remix-initial-thoughts.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/10/september-in-review.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/09/first-legendary-obtained.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/09/fractals.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/09/in-home-stretch.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/09/a-look-back-on-august.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-remixing-legion-again-but.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-how-i-come-up-with-things.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-update-on-leveling.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-my-initial-thoughts-on.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-evolution-of-world-of.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-back-to-leveling.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-back-to-school.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-initial-thoughts-on-karesh.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-buried-under-xbox.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-why-i-keep-playing-and.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025-swimming-junior-nationals.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/08/blaugust-2025.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/07/leveling-is-faster-but-is-it-better.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/07/going-crazy-with-timewalking.html
-Skipping entry older than last_ts: https://wowaltaddiction.blogspot.com/2025/07/good-leveling-progress-and-june-in.html
-
 Processing feed: Joel on Software https://www.joelonsoftware.com/feed/
+Skipping feed as per configuration.
+
+Processing feed: The Old New Thing https://devblogs.microsoft.com/oldnewthing/feed/
 Skipping feed as per configuration.
 
 Processing feed: Midnight https://westkarana.xyz/rss.xml
 Skipping feed as per configuration.
 
-Processing feed: Aywren's Nook https://aywren.com/feed.xml
-Picking entry: FFXIV: Luck Smiled Upon Me https://aywren.com/2025/11/19/ffxiv-luck-smiled-upon-me
-Fetching readable content for URL: https://aywren.com/2025/11/19/ffxiv-luck-smiled-upon-me
-Fetched article length: 5086 characters
-Picked item: FFXIV: Luck Smiled Upon Me from Aywren's Nook
-Feed cap reached, stopping.
-
-Processing feed: Words Under My Name https://wordsundermyname.wordpress.com/feed/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/11/09/11-9-2025-up-for-air/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/10/26/10-26-2025-go-find-yourself/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/10/06/10-6-2025-the-only-thing-stopping-you-is-you/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/09/21/9-21-2025-play-smarter-not-harder/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/09/15/9-15-2025-it-sucks-but-its-mine/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/08/31/blaugust2025-day-31-end-of-the-line/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/08/30/blaugust2025-day-30-dont-think-about-it/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/08/29/blaugust2025-day-29-not-pleased-to-meet-me/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/08/28/blaugust2025-day-28-feeling-it/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/08/27/blaugust2025-day-27-show-your-work/
-
-Processing feed: Leeks Cosy Corner https://leekscosycorner.com/feed/
-Skipping entry older than last_ts: https://leekscosycorner.com/2025/11/17/momento-demo/
-Skipping entry older than last_ts: https://leekscosycorner.com/2025/11/16/pokemon-pokopia-trailer-ext/
-Skipping entry older than last_ts: https://leekscosycorner.com/2025/11/12/paralives-early-access/
-Skipping entry older than last_ts: https://leekscosycorner.com/2025/11/06/a-pizza-delivery-review/
-Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/30/acnh-version-three-news/
-Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/27/infinity-nikki-golden-season/
-Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/20/starsand-island-snf-demo/
-Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/18/fading-serenades/
-Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/15/snoopy-the-great-mystery-club/
-Skipping entry older than last_ts: https://leekscosycorner.com/2025/10/08/essential-tips-for-beginners-in-the-pokemon-trading-card-game/
-
-Processing feed: A Pixel Nomad https://pixelnomad.ca/feed/
-Picking entry: [Wurm Online] What’s in a Deed https://pixelnomad.ca/2025/11/19/wurm-online-whats-in-a-deed/
-Fetching readable content for URL: https://pixelnomad.ca/2025/11/19/wurm-online-whats-in-a-deed/
-Fetched article length: 1805 characters
-Picked item: [Wurm Online] What’s in a Deed from A Pixel Nomad
-Feed cap reached, stopping.
-
-Processing feed: Walter Bright's D-Lang Blog https://feeds.feedburner.com/OfficialDBlog
-Skipping feed as per configuration.
-
-Processing feed: The Boardgames Chronicle https://theboardgameschronicle.com/feed/
-Skipping feed as per configuration.
-
-Processing feed: Steve's Blog https://forums.grc.com/forums/blog/index.rss
-Skipping feed as per configuration.
-
-Processing feed: The Ancient Gaming Noob https://tagn.wordpress.com/feed/
-Picking entry: EG7 Q2 2025 Financials Reveal Problems in the House of Daybreak https://tagn.wordpress.com/2025/11/19/eg7-q2-2025-financials-reveal-problems-in-the-house-of-daybreak/
-Fetching readable content for URL: https://tagn.wordpress.com/2025/11/19/eg7-q2-2025-financials-reveal-problems-in-the-house-of-daybreak/
-Fetched article length: 9383 characters
-Picked item: EG7 Q2 2025 Financials Reveal Problems in the House of Daybreak from The Ancient Gaming Noob
-Feed cap reached, stopping.
-
-Processing feed: Time to Loot https://www.timetoloot.com/feed/
-Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-october-2025/
-Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-september-2025/
-Skipping entry older than last_ts: https://www.timetoloot.com/other/accidentally-songs/
-Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-august-2025/
-Skipping entry older than last_ts: https://www.timetoloot.com/game/wuthering-waves/screenshot-saturday-wuthering-waves-2-6-edition/
-Skipping entry older than last_ts: https://www.timetoloot.com/other/youd-never-guess-but/
-Skipping entry older than last_ts: https://www.timetoloot.com/blog/thinking-out-loud-2/
-Skipping entry older than last_ts: https://www.timetoloot.com/game/final-fantasy-xiv/the-far-edge-of-fate/
-Skipping entry older than last_ts: https://www.timetoloot.com/gaming/coming-games-of-interest-blaugust-2025-edition/
-Skipping entry older than last_ts: https://www.timetoloot.com/game/final-fantasy-xiv/ffxiv-keeps-asking-if-im-back/
-Skipping entry older than last_ts: https://www.timetoloot.com/blog/the-standards-we-heap-upon-ourselves/
-Skipping entry older than last_ts: https://www.timetoloot.com/game/other-games/screenshot-saturday-deadzone-rogue/
-Skipping entry older than last_ts: https://www.timetoloot.com/game/other-games/hollow-knight-silksong-is-real/
-Skipping entry older than last_ts: https://www.timetoloot.com/gaming/cyberpunk-2077-shouldve-launched-in-early-access/
-Skipping entry older than last_ts: https://www.timetoloot.com/game/other-games/gamescom-2025-kicks-off/
-
 Processing feed: Schneier on Security https://www.schneier.com/feed/
-Picking entry: Legal Restrictions on Vulnerability Disclosure https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html
-Fetching readable content for URL: https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html
-Fetched article length: 3364 characters
-Picked item: Legal Restrictions on Vulnerability Disclosure from Schneier on Security
+Picking entry: AI as Cyberattacker https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html
+Fetching readable content for URL: https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html
+Fetched article length: 2437 characters
+Picked item: AI as Cyberattacker from Schneier on Security
 Feed cap reached, stopping.
 
-Processing feed: Axxuy https://axxuy.xyz/blog/feed.xml
-No new entries.
-
-Processing feed: Priest with a Cause https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/11/living-in-moment.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/11/legion-remix-what-am-i-even-doing.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/10/turtle-wow-interesting-changes-for.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/10/turtle-wow-cant-we-be-friends-blizz.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/10/first-thoughts-about-legion-remix.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/10/the-island-of-balor.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/10/exploring-forests-of-northwind.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/09/the-state-of-my-wow-ing.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/09/dragonmaw-retreat-custom-dungeon.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/09/turtle-wow-different-stonetalon-wetlands.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/09/enjoyable-wow-videos-on-exploration.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/09/turtling-on.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/09/my-first-dungeon-on-turtle-wow-was-messy.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/09/i-decided-to-try-turtle-wow-before-it.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/08/could-turtle-wow-be-catalyst-for-classic.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/08/struggling-to-enjoy-journey-in-mop.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/08/the-midnight-expansion-reveal.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/08/karesh-and-story-of-war-within.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/08/season-2-roundup.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/08/setting-foot-into-classic-pandaria.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/07/comparing-zekvir-and-underpin.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/07/lorewalking-impressions.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/07/mop-pre-patch-impressions.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/06/cata-continued.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2025/06/retail-bits-bobs.html
-
-Processing feed: Heartless Gamer https://www.heartlessgamer.com/feeds/posts/default?alt=rss
-Skipping already seen entry: http://www.heartlessgamer.com/2025/11/sunday-11162025-packers-beat-giants.html
-Skipping entry older than last_ts: http://www.heartlessgamer.com/2025/11/i-really-like-no-mans-sky-but.html
-Skipping entry older than last_ts: http://www.heartlessgamer.com/2025/11/forward-to-stella-montis.html
-Skipping entry older than last_ts: http://www.heartlessgamer.com/2025/11/monday-11102025-post-packers-lose-and.html
-Skipping entry older than last_ts: http://www.heartlessgamer.com/2025/11/acceptance-at-last.html
-
-Processing feed: Luna's Gaming Log https://lunasgaminglog.com/feed/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/11/18/little-corners/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/11/15/winter-burrow-review-guest-writing/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/11/11/steam-deck-anniversary/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/11/04/my-october-log/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/11/01/november-poll/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/10/31/favorite-october-demos/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/10/28/many-nights-a-whisper/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/10/14/steam-next-fest-october-2025/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/10/07/game-pass-decline/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/09/30/my-september-log/
-
-Processing feed: The Ghastly Mirror https://www.ghastlymirror.xyz/rss.xml
-Skipping already seen entry: https://www.ghastlymirror.xyz/blog/blaugust-2025-ending/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/bugaboo-pocket-review/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/what-ive-been-playing/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/welcome-blaugust-2025/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming-itchio-valve/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming-updates/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/blaugust-2025-were-back-baby/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/portugal-blackout/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/witches-vampires-secrets-of-ashbury-review/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/delores-a-thimbleweed-mini-adventures-walkthrough/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/update-2022-posts-archived/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/steam-replay-2024/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/site-moved/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/animal-crossing-making-friends/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/animal-crossing-day-never-was/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/animal-crossing-gc-welcome-to-batvale/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/blog-hosting-recomendations/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/welcome-to-blaugust-2023/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/what-ive-been-up-to-2023/
-
-Processing feed: Kimimi the Game Eating She-Monster https://kimimithegameeatingshemonster.com/feed/
-Picking entry: Birdcage: Learning to fly https://kimimithegameeatingshemonster.com/2025/11/20/birdcage-learning-to-fly/
-Fetching readable content for URL: https://kimimithegameeatingshemonster.com/2025/11/20/birdcage-learning-to-fly/
-Fetched article length: 6265 characters
-Picked item: Birdcage: Learning to fly from Kimimi the Game Eating She-Monster
+Processing feed: Bio Break http://biobreak.wordpress.com/feed/
+Picking entry: LOTRO: Enter the ultimate LOTRO challenger! https://biobreak.wordpress.com/2025/11/19/lotro-enter-the-ultimate-lotro-challenger/
+Fetching readable content for URL: https://biobreak.wordpress.com/2025/11/19/lotro-enter-the-ultimate-lotro-challenger/
+Fetched article length: 3573 characters
+Picked item: LOTRO: Enter the ultimate LOTRO challenger! from Bio Break
 Feed cap reached, stopping.
-
-Processing feed: The Daily WTF https://feeds.feedburner.com/TheDailyWtf
-Skipping feed as per configuration.
-
-Processing feed: WCRobinson https://wcrobinson.org/feed/
-Skipping entry older than last_ts: https://wcrobinson.org/2025/10/31/hades-ii-review-a-brilliantly-bewitching-return-to-the-underworld/
-Skipping entry older than last_ts: https://wcrobinson.org/2025/10/02/dave-the-diver-review-this-delightful-deep-sea-rpg-has-a-delectable-sushi-twist/
-Skipping entry older than last_ts: https://wcrobinson.org/2025/09/14/my-5-favourite-announcements-from-the-nintendo-direct-12-09-25/
-Skipping entry older than last_ts: https://wcrobinson.org/2025/09/09/did-my-hopes-for-the-switch-2-become-a-reality/
-Skipping entry older than last_ts: https://wcrobinson.org/2025/08/25/lucies-quest-why-my-pokemon-diamond-playthrough-has-been-so-unique/
-Skipping entry older than last_ts: https://wcrobinson.org/2025/08/10/mario-kart-world-review-a-stunning-racer-that-misses-a-few-tricks/
-Skipping entry older than last_ts: https://wcrobinson.org/2025/08/03/how-fire-kings-are-helping-me-learn-competitive-play-in-yu-gi-oh-master-duel/
-Skipping entry older than last_ts: https://wcrobinson.org/2025/07/29/mid-year-update-edinburgh-marathon-2025-the-nintendo-switch-2-more/
-Skipping entry older than last_ts: https://wcrobinson.org/2025/05/04/blog-update-marathon-training-the-switch-2-what-im-watching-more/
-Skipping entry older than last_ts: https://wcrobinson.org/2025/03/09/6-of-my-favourite-video-game-expansions/
-
-Processing feed: Musing over Pints and Coffee https://musingsoverpintsandcoffee.wordpress.com/feed/
-Picking entry: What It Means To Support Someone Else’s Dream https://musingsoverpintsandcoffee.wordpress.com/2025/11/19/what-it-means-to-support-someone-elses-dream/
-Fetching readable content for URL: https://musingsoverpintsandcoffee.wordpress.com/2025/11/19/what-it-means-to-support-someone-elses-dream/
-Fetched article length: 2982 characters
-Picked item: What It Means To Support Someone Else’s Dream from Musing over Pints and Coffee
-Feed cap reached, stopping.
-
-Processing feed: Lisette's Mxtadventures https://lisettesmxtadventures.wordpress.com/feed/?alt=rss
-Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/11/15/mini-sketchbook-update-2/
-Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/11/06/mini-sketchbooks-update-1/
-Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/11/02/halloween-week-in-review/
-Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/10/21/spooky-costume-plans/
-Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/10/01/fandom-en-espanol/
-Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/25/little-joys-the-numbers/
-Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/23/trying-seasonal-drinks/
-Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/21/little-joys-frog-bowl/
-Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/20/4-years-of-semi-failed-cooking-attempts/
-Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/15/life-has-been-a-juggle-fest/
-
-Processing feed: Ongoing https://www.tbray.org/ongoing/ongoing.atom
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/11/16/Long-Links
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/11/13/Kendzior-Case-Study
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/11/01/Blog-Search-Pagefind
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/11/03/Time-to-Migrate
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/10/15/Current-Music
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/09/26/GenAI-Predictions
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/10/01/C2PA-For-Social-Media
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/09/18/C2PA-Investigations
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/09/13/Maritime-Wrap
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/09/01/Maritime-Colors
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/08/30/Maritime-Wildlife
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/08/27/Maritime-Vacation
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/08/04/Long-Links
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/07/29/DeGoogling
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/07/21/Automaton-merge-war
-Skipping entry older than last_ts: https://www.tbray.org/ongoing/When/202x/2025/07/09/Saskatchewan
-
-Processing feed: Going Commando http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss
-Picking entry: Star Wars: Visions Season 3 https://swtorcommando.blogspot.com/2025/11/star-wars-visions-season-3.html
-Fetching readable content for URL: https://swtorcommando.blogspot.com/2025/11/star-wars-visions-season-3.html
-Fetched article length: 4611 characters
-Picked item: Star Wars: Visions Season 3 from Going Commando
-Feed cap reached, stopping.
-
-Processing feed: Coding Horror https://blog.codinghorror.com/rss/
-Skipping already seen entry: https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/
-Skipping entry older than last_ts: https://blog.codinghorror.com/lets-talk-about-the-american-dream/
-Skipping entry older than last_ts: https://blog.codinghorror.com/stay-gold-america/
-Skipping entry older than last_ts: https://blog.codinghorror.com/the-great-filter-comes-for-us-all/
-Skipping entry older than last_ts: https://blog.codinghorror.com/i-fight-for-the-users/
-Skipping entry older than last_ts: https://blog.codinghorror.com/the-2030-self-driving-car-bet/
-Skipping entry older than last_ts: https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era/
-Skipping entry older than last_ts: https://blog.codinghorror.com/building-a-pc-part-ix-downsizing/
-Skipping entry older than last_ts: https://blog.codinghorror.com/the-rise-of-the-electric-scooter/
-Skipping entry older than last_ts: https://blog.codinghorror.com/electric-geek-transportation-systems/
-Skipping entry older than last_ts: https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/
-Skipping entry older than last_ts: https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/
-Skipping entry older than last_ts: https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/
-Skipping entry older than last_ts: https://blog.codinghorror.com/there-is-no-longer-any-such-thing-as-computer-security/
-Skipping entry older than last_ts: https://blog.codinghorror.com/to-serve-man-with-software/
-
-Processing feed: An Archaeopteryx https://anarchaeopteryx.bearblog.dev/feed/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2025-11-17-more-organizing-of-bearblog/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2025-11-15-nov-week-2-digest/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2025-11-12-life-update/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2025-11-11-celebrity-traitors-s1-2025/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2025-11-08-nov-week-1-digest/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2025-11-04-bearblog-theme-css-v12-14/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2025-11-03-a-secret-professional-bearblog/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2025-11-02-jigsaw-puzzle-monet-water-lilies/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2025-11-01-oct-week-5-digest/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2025-10-30-fantasy-life-i-180-hrs-update/
-
-Processing feed: Virtual Moose https://virtualmoose.org/feed/
-No new entries.
 
 Processing feed: Tales of the Aggronaut https://aggronaut.com/feed/
-Picking entry: Games to Watch: Spirit Vale, Hytale, Guild Wars Reforged https://aggronaut.com/2025/11/19/games-to-watch-spirit-vale-hytale-guild-wars-reforged/
-Fetching readable content for URL: https://aggronaut.com/2025/11/19/games-to-watch-spirit-vale-hytale-guild-wars-reforged/
-Fetched article length: 5657 characters
-Picked item: Games to Watch: Spirit Vale, Hytale, Guild Wars Reforged from Tales of the Aggronaut
+Skipping entry older than last_ts: https://aggronaut.com/2025/11/19/games-to-watch-spirit-vale-hytale-guild-wars-reforged/
+Skipping entry older than last_ts: https://aggronaut.com/2025/11/18/pile-of-shame/
+Skipping entry older than last_ts: https://aggronaut.com/2025/11/17/ice-trap-of-hollowness-elementalist/
+Skipping entry older than last_ts: https://aggronaut.com/2025/11/16/aggrochat-547-the-gabe-cube/
+Skipping entry older than last_ts: https://aggronaut.com/2025/11/14/snowblind/
+Skipping entry older than last_ts: https://aggronaut.com/2025/11/12/freezy-boom-revisited/
+Skipping entry older than last_ts: https://aggronaut.com/2025/11/11/oops-an-audiobook/
+Skipping entry older than last_ts: https://aggronaut.com/2025/11/10/onslaught-with-friends/
+Skipping entry older than last_ts: https://aggronaut.com/2025/11/09/aggrochat-546-bouncing-balls-of-death/
+Skipping entry older than last_ts: https://aggronaut.com/2025/11/07/blog-woes-and-maru-booms/
+
+Processing feed: Cliffski's Blog https://www.positech.co.uk/cliffsblog/feed/
+No new entries.
+
+Processing feed: Aywren's Nook https://aywren.com/feed.xml
+Picking entry: OSRS: Getting Started with Sailing as a Newer Player https://aywren.com/2025/11/20/osrs-getting-started-with-sailing-as-a-newer-player
+Fetching readable content for URL: https://aywren.com/2025/11/20/osrs-getting-started-with-sailing-as-a-newer-player
+Fetched article length: 5504 characters
+Picked item: OSRS: Getting Started with Sailing as a Newer Player from Aywren's Nook
 Feed cap reached, stopping.
 
-Processing feed: In An Age http://inanage.com/feed/
+Processing feed: CrazyKinux's Musings https://feeds.feedburner.com/CrazykinuxsMusing
+Picking entry: When the stars still whisper—"The Making of EVE Online" http://www.crazykinux.ca/2025/11/when-stars-still-whisper-discovering.html
+Fetching readable content for URL: http://www.crazykinux.ca/2025/11/when-stars-still-whisper-discovering.html
+Fetched article length: 3280 characters
+Picked item: When the stars still whisper—"The Making of EVE Online" from CrazyKinux's Musings
+Feed cap reached, stopping.
+
+Processing feed: Musing over Pints and Coffee https://musingsoverpintsandcoffee.wordpress.com/feed/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/11/19/what-it-means-to-support-someone-elses-dream/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/11/11/when-volunteering-becomes-a-second-job/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/11/04/zooming-out-what-this-year-has-taught-me-about-priorities/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/10/22/unmooring-from-work-identity-after-a-job-loss/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/10/15/when-the-ground-shifts-learning-to-stay-flexible/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/09/22/redefining-retirement/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/09/17/the-geography-of-change/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/09/09/when-is-it-time-to-leave-the-table/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2024/01/02/2023-year-in-review/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2020/06/03/thoughts-from-a-privileged-white-asshole/
+
+Processing feed: West Karana https://westkarana.blog/feed/
+Picking entry: “Iron Flame” by Rebecca Yarros https://westkarana.blog/2025/11/18/iron-flame-by-rebecca-yarros/
+Fetching readable content for URL: https://westkarana.blog/2025/11/18/iron-flame-by-rebecca-yarros/
+Fetched article length: 2768 characters
+Picked item: “Iron Flame” by Rebecca Yarros from West Karana
+Feed cap reached, stopping.
+
+Processing feed: Jamie Zawinski's Blog https://cdn.jwz.org/blog/feed/
+Picking entry: Happy BitBLT Day to all who celebrate https://www.jwz.org/blog/2025/11/happy-bitblt-day-to-all-who-celebrate/
+Fetching readable content for URL: https://www.jwz.org/blog/2025/11/happy-bitblt-day-to-all-who-celebrate/
+Fetched article length: 2060 characters
+Picked item: Happy BitBLT Day to all who celebrate from Jamie Zawinski's Blog
+Feed cap reached, stopping.
+
+Processing feed: A Pixel Nomad https://pixelnomad.ca/feed/
 Total cap reached, stopping.
