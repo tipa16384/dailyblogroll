@@ -1,20 +1,22 @@
-# Daily Blogroll: 2025-11-21
+# Daily Blogroll: 2025-11-22
 
 ## Gaming
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/all-news-thats-fit-to-steal-eqii-rage.html)** — Bhagpuss rounds up MMO news with snarky drive‑bys on EverQuest II’s Rage of Cthurath expansion, Soulframe’s prelude, and the Guild Wars Reforged buzz.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2025/11/new-changes-and-new-people-coming-to.html)** — Shintar digs into Blizzard’s Burning Crusade Classic anniversary plans and what Group Finder, Dual Spec, and UI “quality of life” changes mean for WoW Classic Era and Hardcore.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/20/eve-online-first-glance-at-the-catalyst-2d-map/)** — Wilhelm gives CCP’s new Catalyst 2D map a cautious thumbs‑up, especially for untangling EVE Online’s notoriously messy Drone regions, while still mourning the old 3D star spaghetti.
-- **[Bio Break](https://biobreak.wordpress.com/2025/11/19/lotro-enter-the-ultimate-lotro-challenger/)** — Syp rolls a Stout‑Axe Captain in LOTRO on Fearless +2 difficulty, min‑maxing pies, Shire quests, auction house gear, and Viking aesthetics for a hardcore deed‑completionist run.
-- **[Aywren's Nook](https://aywren.com/2025/11/20/osrs-getting-started-with-sailing-as-a-newer-player)** — Aywren walks newer Old School RuneScape players through unlocking the new Sailing skill in Port Sarim, running the Pandemonium quest, and enjoying chill, auto‑cruising raft vibes.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/11/when-stars-still-whisper-discovering.html)** — CrazyKinux rediscovers The Escapist’s “The Making of EVE Online” documentary and reflects on how single‑shard design, meaningful loss, and player‑driven drama keep New Eden timeless.
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/11/20.html#a155104)** — Dave Winer tunes FeedLand’s change detection, consults ChatGPT about RSS pubDate semantics, then side‑eyes Amazon’s new Alexa AI for playing faux‑human inside your house.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/11/17/screen-capture-software-and-hdr)** — Roger tracks down why his game screenshots look washed out, blaming HDR monitors and digging into how HDR vs SDR affects captures from Windows, 4K TVs, and modern titles.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/11/ai-as-cyberattacker.html)** — Bruce Schneier highlights Anthropic’s report on a Chinese state‑sponsored group using agentic AI tools to autonomously execute cyberespionage across dozens of high‑value global targets.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/11/happy-bitblt-day-to-all-who-celebrate/)** — jwz celebrates BitBLT’s 50th with PARC lore, a Byte magazine deep cut, and his own BlitSpin hack, reminding us how this humble bitmap routine underpins modern GUIs and graphics tricks.
+- **[Chasing Dings!](https://chasingdings.com/2025/11/21/pokemon-legends-z-a-rolls-credits/)** — Tipa rolls credits on Pokémon Legends: Z-A and finds Kalos nostalgia hits harder for X/Y veterans than for a newcomer tourist in post-disaster Lumiose.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/21/new-metas-new-weapons-and-new-pcs/)** — Belghast battles a nasty crud while poking at GW2’s new Starlight Weald metas and min-maxing Destiny Rising champs like Maru, exotic grenade launchers and all.
+- **[Going Commando](https://swtorcommando.blogspot.com/2025/11/an-expansion-tease-peculiar-controversy.html)** — Shintar recaps SWTOR’s 7.8 dev stream, from Galactic Threads déjà vu and missing EU voice-overs to stronghold hook upgrades and Papa Keith teasing the next roadmap.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2025/11/21/assemble-with-care/)** — Ellie falls for Assemble With Care, a brief, cozy Ustwo puzzler where gently fixing treasured gadgets matters more than the low-stakes brainteasers themselves.
+- **[Bio Break](https://biobreak.wordpress.com/2025/11/21/pillars-of-eternity-ii-slumming-it-on-purpose/)** — Syp’s Pillars of Eternity II crew escapes sprawling Neketaka for bite-sized island quests, only to wrestle titans, cave grubs, and messy faction politics anyway.
 ## General
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/11/20/thieves-get-picky-and-only-want-iphones/)** — Warner can’t help chuckling at London thieves who rob a guy, then hand back his Samsung with a dismissive “don’t want no Samsung,” turning resale value into the latest fanboy metric.
-- **[West Karana](https://westkarana.blog/2025/11/18/iron-flame-by-rebecca-yarros/)** — Tipa reviews Rebecca Yarros’s Iron Flame as a page‑turning but romance‑heavy middle Empyrean book, more Order of the Phoenix than Wheel of Time in her dragon‑school saga.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/late-night-brainstorms.html)** — Bhagpuss postpones a Hazbin Hotel season two review to gush over Aimee Fatale tracks, YouTube rabbit holes, and his delightfully unsynced, personality-filled devices.
+- **[In An Age](https://inanage.com/2025/11/21/authentic-wirehead/)** — Azuriel riffs on Bhagpuss, AI music tests, and placebo wine to argue that if we can’t spot or don’t care about machine-made art, we’re halfway to wirehead futures.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/11/21/scene-painting-a-history-of-hamlets-at-the-national-theatre/)** — Warner gushes over Ben Stones’ massive Hamlet mural at the National Theatre and uses it to celebrate old-school scenic painting in an age of projections.
+## Tech
+
+- **[Scopique](https://scopique.com/2025/11/21/up-next/)** — Scopique turns Star Citizen recording experiments into a deep dive on OBS audio routing, Discord capture, and building a slick new Blender intro instead of actually picking the next game series.
+- **[Scripting News](http://scripting.com/2025/11/21.html#a153818)** — Dave Winer tweaks how FeedLand detects RSS item changes, laments optional GUIDs, and quietly nudges loyal readers toward his nightly email roundup.
+- **[Zarf Updates](https://blog.zarfhome.com/2025/11/mad-drunk-on-the-mead-of-poetry)** — Andrew Plotkin marvels that a new paper on poetic jailbreaks for LLMs eerily echoes his old joke about rhyming commands undermining Sydney and friends.
+## Writing
+
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-21-a-modern-wizard/)** — Anarchae unpacks Ottolengui’s A Modern Wizard as a weird, genre-bending mix of courtroom drama, mesmerist thriller, and Faustian science-philosophy experiment.

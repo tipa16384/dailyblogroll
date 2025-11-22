@@ -432,3 +432,18 @@ feeds:
     pronouns: she/her
     mastodon: Krista
     bluesky: "@leekscosycorner.com"
+  - name: Zarf Updates
+    url: https://blog.zarfhome.com/feeds/posts/default.rss
+    category: Gaming
+    blogger: Andrew Plotkin
+    pronouns: he/him
+    mastodon: "@zarfeblong@mastodon.gamedev.place"
+    bluesky: "@eblong.com"
+  - name: The Almighty Backlog
+    url: https://thealmightybacklog.wordpress.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Ellie
+    pronouns: she/her
+    mastodon: "@euphoriagremlin@retro.pizza"
+    bluesky: "@ellie.wubrgsky.org"
