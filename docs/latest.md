@@ -1,22 +1,20 @@
-# Daily Blogroll: 2025-11-27
+# Daily Blogroll: 2025-11-28
 
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2025/11/26/analogue-3d-play-your-nintendo-64-games-again/)** — Tipa unboxes the Analogue 3D, weighs $250 N64 nostalgia against blurry S-Video captures, and grumbles about missing FPGA cores and screenshot support.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/26/stubbornness-prevails/)** — Belghast and Ace bash their heads against brutal Destiny Rising Grandmaster content, then unwind with Morgran’s Hunt farming and disappointingly useless exotics.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/11/27/demeo-x-dungeons-dragons-battlemarked-roll-playing/)** — Kimimi revels in Battlemarked’s virtual tabletop Demeo x D&D mashup, praising its tactile miniatures, single-table focus, and delightfully hazardous diorama battlefields.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/26/how-much-nostalgia-can-an-mmorpg-franchise-sustain/)** — Wilhelm uses Coca-Cola Classic, EverQuest progression servers, and WoW Classic to ask how long MMOs can live off recycled nostalgia before it just becomes the new normal.
-- **[Bio Break](https://biobreak.wordpress.com/2025/11/26/pillars-of-eternity-ii-grand-theft-wizard/)** — Syp burgles a powerful mage in Pillars of Eternity II, shuffles party members, and savors big dungeons over Deadfire’s interminable loading screens and so-so main story.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2025/11/26/fire-emblem-the-blazing-blade/)** — Ellie digs into Fire Emblem: The Blazing Blade on GBA, contrasting its tougher, classic SRPG roots with the series’ later, friendlier entries like Awakening and Fates.
 ## Tech
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/11/and-wed-have-gotten-away-with-it-too-if.html)** — Bhagpuss muses on AI hype, bubbles, and business disillusionment, wondering which flavor of disappointment will actually land first.
-- **[Scripting News](http://scripting.com/2025/11/26.html#a015933)** — Dave Winer wants TV companion podcasts where the *characters* from Succession and Severance debrief the chaos, then pivots into building an "uncentralized" writer’s web atop WordPress.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/11/openai-says-dead-teen-violated-tos-when-he-used-chatgpt-to-plan-suicide/)** — jwz links an Ars Technica report on OpenAI blaming a dead teen’s TOS violation, filing it under his ongoing chronicle of AI corporate ghoulishness.
-## Writing
+- **[Scripting News](http://scripting.com/2025/11/27/145439.html?title=connectingApplesAndOrangesOnTheWeb)** — Dave Winer argues that WordPress plus FeedLand, rssCloud, and open web plumbing can basically do what a Mastodon instance does, without the monolithic all‑in‑one baggage.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/11/27/your-internet-router)** — Roger weighs replacing his EE ISP router with a third‑party Wi‑Fi 6/7 box, and decides extra tinkering, lost support, and minimal gain just aren’t worth the hassle.
+## Gaming
 
-- **[Aywren's Nook](https://aywren.com/2025/11/26/i-love-the-daily-blogroll)** — Aywren gushes about Tipa’s Daily Blogroll as both a cozy RSS-style discovery tool and a sneaky motivator to hit publish more often.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/11/the-end-of-mecklenburg.html)** — Tobold wraps a 260‑hour Europa Universalis V ironman run as Mecklenburg, then eyes a Portugal campaign that may need console‑command cheating to stop Castille’s inevitable stomp.
+- **[Virtual Moose](https://virtualmoose.org/2025/11/27/my-micro-fiction-games-jam-2025-entry/)** — Michael jumps into the Micro Fiction Games Jam with Microscope, a 280‑character petri‑dish TTRPG inspired by The 7th Guest’s notorious microscope puzzle, and nudges others to try making one too.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/11/28/tane-o-maku-tori-room-to-grow/)** — Kimimi falls for WonderSwan puzzler Tane o Maku Tori’s sweet crow‑and‑swallow story while cursing its frog hordes and juggling raindrops through devious vertical water channels.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/11/27/warlock-and-dragon-swapped/)** — Emily recounts a delightful dream where she and Spyro villain Ripto body‑swap, grudgingly team up with Gulp and Crush, and lean into classic Freaky Friday‑style rival‑truce hijinks.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-27-fantasy-life-i-final-review/)** — After 260 hours with Fantasy Life i, Anarchae deems it a comfy, low‑challenge grindfest with great transmog but forgettable story and an exhausting, RNG‑ridden 100% endgame.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2025/11/26/the-quiet-work-of-moving-on/)** — Joar reflects on decluttering before a house sale, finding letters, gadgets, and mementos that turn cleaning into a quiet reckoning with past selves.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/11/26/finishing-ken-burns-the-american-revolution/)** — Warner finishes Ken Burns’ The American Revolution and lauds its myth-busting, letter-driven storytelling while lamenting how many will dodge its uncomfortable echoes in today’s politics.
+- **[Words Under My Name](https://wordsundermyname.wordpress.com/2025/11/27/11-27-2025-playing-scared/)** — Blockade85 riffs on Joe Burrow’s refusal to play scared and resolves to stop letting anxiety and “what ifs” block change in work, hobbies, and everyday routines.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2025/11/23/Soccer-vs-Football)** — Tim Bray relives an absurdly dramatic Whitecaps vs LAFC MLS semifinal and explains how that singular stadium roar has ruined most other TV sports for him.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/11/27/thanksgiving-spaghetti/)** — Belghast’s Thanksgiving post is a raw, grateful reflection on surviving his wife’s sudden death, leaning on friends, and how demanding cats are quietly giving his days structure and purpose.
+- **[West Karana](https://westkarana.blog/2025/11/27/i-finished-first-in-the-2025-manchester-road-race/)** — Tipa “finishes first” in the Manchester Road Race by bailing after a quarter mile, then plots a treadmill‑powered comeback from home gym decluttering to actually running it next year.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/27/the-coffee/)** — Wilhelm, a non‑coffee‑drinker, becomes his wife’s meticulous morning barista, weaponizes decaf at the office once, and muses on how obsessive care somehow makes her daily cup taste better.
