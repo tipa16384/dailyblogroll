@@ -238,6 +238,7 @@ feeds:
     pronouns: she/her
     mastodon: "@stargrace"
     bluesky: "@stargrace.bsky.social"
+    required: True
   - name: The Daily WTF
     url: https://feeds.feedburner.com/TheDailyWtf
     update_frequency: daily
