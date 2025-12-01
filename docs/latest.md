@@ -1,18 +1,20 @@
-# Daily Blogroll: 2025-11-30
+# Daily Blogroll: 2025-12-01
 
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2025/11/29/return-to-erenshor/)** — Tipa revisits EverQuest-inspired Erenshor and happily cranks the new Server Admin Panel sliders to fix the brutal old-school grind without losing that simulated-group MMO vibe.
-- **[Ready Pixel One](https://www.readypixelone.com/blog/toward-an-uncharted-shore)** — Pixel One, writing as Aly, pens a tender in-character WoW letter about leaving Dornogal for an unmapped Kalimdor island with Stargrace and ever-faithful Zang.
-- **[Virtual Moose](https://virtualmoose.org/2025/11/29/virtues-heaven-thoughts/)** — Michael falls hard for Virtue’s Heaven, a melee-only anti-capitalist Metroid-like whose upgrades, town visits, and gloriously juicy explosions finally click on a second attempt.
-- **[Indiecator](https://indiecator.org/2025/11/30/good-boy-observer-interactive-gamescom-interview/)** — Magi’s Gamescom chat with Observer Interactive unveils Good Boy, a “PETroidvania” where departed dogs explore space as memory-fragmented rovers based on the devs’ own pups.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/11/back-through-wormhole-rediscovering-new.html)** — CrazyKinux gets pulled back into EVE Online, marveling at modern skill queues, AIR Career Program hand-holding, Opportunities guidance, and a more cinematic soundtrack over old New Eden nostalgia.
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/11/29/165203.html?title=wordpressRssFeedIssue)** — Dave Winer digs into why some WordPress and Jetpack RSS feeds expose site and post IDs and others don’t, breaking his dream of one-click in-reader editing and discourse.
+- **[Dragonchasers](https://dragonchasers.com/2025/11/30/november-2025/)** — Nimgimli juggles a drawn-out house move with Wuthering Waves burnout, cozy My Time At Sandrock vibes, and ongoing obsessions with Ball X Pit and Winter Burrow.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/01/gold-making-week-48-2025/)** — Stargrace eyes Midnight’s player housing early access, grumbles about Blizzard’s double-dip pricing, and still pulls nearly 5 million gold mostly from big-ticket transmogs.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/30/november-2025-in-review/)** — Wilhelm’s November recap covers modest WordAds riches, pondering a WordPress Business plan and new theme, and a San Diego escape highlighted by the Dr. Seuss–inspired Geisel Library.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/11/foundation-quality-of-life-update-1.html)** — CrazyKinux takes a break from EVE to restart Foundation in Greenshire, digging into its “more freedom, less friction” QoL update with slick selection tools, saner walls, and smarter patrols.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2025/12/01/december-2025-poll/)** — Luna’s December poll asks which in-game season vibe you’re living in, recaps pixel art’s win over hand-drawn and 3D, and gushes about A Space for the Unbound’s gorgeous pixels.
+- **[Virtual Moose](https://virtualmoose.org/2025/11/30/blog-roundup-november-30-2025/)** — Michael revels in fresh snow and curates a game-heavy roundup spanning Foolish Mortals, AdventureX coverage, Zork’s open-source release, IGF 2026 picks, retro Bonk, early CRPG history, and more.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-29-weird-women/)** — Anarchae raves about Weird Women, a powerhouse anthology of 19th–early 20th century women’s horror, spotlighting Clemence Housman’s “The Were-Wolf” as prime anime-ready feminist lycanthropy.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/11/29/snow-day-and-night/)** — Warner checks in from a properly wintry post-Thanksgiving Chicago, where ten inches of snow means multiple sidewalk passes but the snow blower thankfully does the real work.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/11/29/the-sound-of-rolling-waves/)** — Emily chooses beach over mountains, reminiscing about Cuban and Caribbean trips, snorkeling in Punta Cana, and happily reading in the shade instead of chasing a tan.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/29/binge-watching-more-seasons-into-autumn/)** — Wilhelm speed-runs autumn TV: messy political drama in The Diplomat, a breakup-mandatory season of that Kristen Bell rabbi romcom, and yet another undead spin on The Walking Dead.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day.html)** — Bhagpuss kicks off his Advent Calendar with Kate Bush’s “December Will Be Magic Again,” easing into the season with music instead of MMO grind.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/11/29/thinking-out-loud)** — Roger’s latest “Thinking Out Loud” muses on newspaper delivery “progress,” eye-watering UK Christmas card costs, and the mystery of who half those holiday recipients even are.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/11/30/cut-fast-in-stars-tipping-deed-music-of-november-2025/)** — Emily processes a painful friendship breakup through Linkin Park’s “Cut The Bridge,” Luke Combs’ “Fast Car,” and Britney’s dreamlike “Swimming in the Stars,” all about escape and acceptance.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-30-nov-week-4-digest/)** — Anarchae’s weekly digest covers new rechargeable batteries, JLab Go Pop+ earbuds, serious tea thermos plans, and a strong rec for the Weird Women supernatural fiction anthology.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/11/30/sunday-morning-reading-131/)** — Warner’s snowy Chicago Sunday reading list jumps from Emily Bressler’s corporate satire to Chicago theater’s struggles, Zuckerberg’s ritual apologies, and whether quantum computers’ “impossible” math,
+## Tech
+
+- **[Scripting News](http://scripting.com/2025/11/30.html#a163943)** — Dave Winer riffs on Frontier’s legacy, pitches Drummer as the ideal headless web-app shell, and celebrates a rare, timely Jetpack bug fix as real “working together.”
