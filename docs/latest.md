@@ -1,20 +1,20 @@
-# Daily Blogroll: 2025-12-01
+# Daily Blogroll: 2025-12-02
 
-## Gaming
-
-- **[Dragonchasers](https://dragonchasers.com/2025/11/30/november-2025/)** — Nimgimli juggles a drawn-out house move with Wuthering Waves burnout, cozy My Time At Sandrock vibes, and ongoing obsessions with Ball X Pit and Winter Burrow.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/01/gold-making-week-48-2025/)** — Stargrace eyes Midnight’s player housing early access, grumbles about Blizzard’s double-dip pricing, and still pulls nearly 5 million gold mostly from big-ticket transmogs.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/11/30/november-2025-in-review/)** — Wilhelm’s November recap covers modest WordAds riches, pondering a WordPress Business plan and new theme, and a San Diego escape highlighted by the Dr. Seuss–inspired Geisel Library.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/11/foundation-quality-of-life-update-1.html)** — CrazyKinux takes a break from EVE to restart Foundation in Greenshire, digging into its “more freedom, less friction” QoL update with slick selection tools, saner walls, and smarter patrols.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2025/12/01/december-2025-poll/)** — Luna’s December poll asks which in-game season vibe you’re living in, recaps pixel art’s win over hand-drawn and 3D, and gushes about A Space for the Unbound’s gorgeous pixels.
-- **[Virtual Moose](https://virtualmoose.org/2025/11/30/blog-roundup-november-30-2025/)** — Michael revels in fresh snow and curates a game-heavy roundup spanning Foolish Mortals, AdventureX coverage, Zork’s open-source release, IGF 2026 picks, retro Bonk, early CRPG history, and more.
 ## General
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day.html)** — Bhagpuss kicks off his Advent Calendar with Kate Bush’s “December Will Be Magic Again,” easing into the season with music instead of MMO grind.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/11/29/thinking-out-loud)** — Roger’s latest “Thinking Out Loud” muses on newspaper delivery “progress,” eye-watering UK Christmas card costs, and the mystery of who half those holiday recipients even are.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/11/30/cut-fast-in-stars-tipping-deed-music-of-november-2025/)** — Emily processes a painful friendship breakup through Linkin Park’s “Cut The Bridge,” Luke Combs’ “Fast Car,” and Britney’s dreamlike “Swimming in the Stars,” all about escape and acceptance.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-11-30-nov-week-4-digest/)** — Anarchae’s weekly digest covers new rechargeable batteries, JLab Go Pop+ earbuds, serious tea thermos plans, and a strong rec for the Weird Women supernatural fiction anthology.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/11/30/sunday-morning-reading-131/)** — Warner’s snowy Chicago Sunday reading list jumps from Emily Bressler’s corporate satire to Chicago theater’s struggles, Zuckerberg’s ritual apologies, and whether quantum computers’ “impossible” math,
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_2.html)** — Bhagpuss’s advent calendar door two is a quietly festive pick: “Snow Is Falling In Manhattan” from Chilly Gonzales with Jarvis Cocker and Feist setting the seasonal mood.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/11/30.html#a163943)** — Dave Winer riffs on Frontier’s legacy, pitches Drummer as the ideal headless web-app shell, and celebrates a rare, timely Jetpack bug fix as real “working together.”
+- **[Scripting News](http://scripting.com/2025/12/01.html#a144337)** — Dave Winer riffs on forgotten link culture, tap-to-pay NYC subway rides, WordPress RSS hacks, AI breaking dev exclusivity, and archiving Scripting News on GitHub.
+- **[Smith Talks Tech](https://smithtalkstech.com/2025/12/01/can-ai-help-those-who-suffer-from-memory-loss/)** — Pete imagines a personalized wearable AI companion for people with Alzheimer’s, quietly cueing names, routines, medicine, and memories without pretending to replace human care.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/01/adventures-in-plastic-poop/)** — Belghast, sick but stubborn, sets up a Bambu Lab P1S with AMS and dives into FDM 3D printing, Benchy tests, and beginner hiccups in the garage.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html)** — Bruce Schneier compares AI to social media’s rise, warning that powerful digital systems can either empower or control us depending on the political choices we make now.
+## Gaming
+
+- **[Ready Pixel One](https://www.readypixelone.com/blog/meet-the-runelight-sisters)** — Pixel One introduces Alyannìa Runelight, a shy Dalaran-trained mage turned warlock and Black Harvest graduate, adventuring with voidwalker Zanggarth for the Reliquary in Warcraft’s lore.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/12/01/skygunner-sky-high-shooting/)** — Kimimi falls for Skygunner’s brass-and-steam skies once she abandons “expert” controls for Star Fox-style handling and starts mastering its rolls, EX actions, and many targeting options.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2025/12/02/my-november-log/)** — Luna recaps a stormy but productive November of blog milestones and standout indie gem Fading Serenades, an inventory-driven parcel-delivery adventure that’s still living rent-free in her head.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-01-raidou-remastered-first-impressions/)** — Anarchae’s first hours with Raidou Remastered find a reworked SMT-style Taisho-era mystery, modernized combat, and a tone somewhere between mainline SMT bleakness and Persona’s human focus.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2025/12/01/infinity-nikki-itzaland-begins/)** — Krista’s cosy guide tours Infinity Nikki’s Miraland, walking new stylists through Wishfield’s regions, fast travel via Warp Spires, and the new Terra Alliance zone Itzaland.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/eu5-portugal-first-century.html)** — Tobold’s first century in Europa Universalis V as Portugal leans on mods and console cheats to keep Spain friendly while he quietly hoards Atlantic islands and explores toward Madagascar.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/how-that-twenty-year-old-gears-of-war.html)** — CrazyKinux reminisces about Gears of War’s haunting “Mad World” teaser while cleaning his blog and sees Gears of War: E-Day as a deliberate return to that quieter, darker tone.
