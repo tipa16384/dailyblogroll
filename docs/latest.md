@@ -1,20 +1,22 @@
-# Daily Blogroll: 2025-12-02
+# Daily Blogroll: 2025-12-03
 
 ## General
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_2.html)** — Bhagpuss’s advent calendar door two is a quietly festive pick: “Snow Is Falling In Manhattan” from Chilly Gonzales with Jarvis Cocker and Feist setting the seasonal mood.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_3.html)** — Bhagpuss opens day three of his advent calendar with Lucie, Too’s “Winter Song,” pairing a snowy screenshot with a seasonal music pick.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/12/01.html#a144337)** — Dave Winer riffs on forgotten link culture, tap-to-pay NYC subway rides, WordPress RSS hacks, AI breaking dev exclusivity, and archiving Scripting News on GitHub.
-- **[Smith Talks Tech](https://smithtalkstech.com/2025/12/01/can-ai-help-those-who-suffer-from-memory-loss/)** — Pete imagines a personalized wearable AI companion for people with Alzheimer’s, quietly cueing names, routines, medicine, and memories without pretending to replace human care.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/01/adventures-in-plastic-poop/)** — Belghast, sick but stubborn, sets up a Bambu Lab P1S with AMS and dives into FDM 3D printing, Benchy tests, and beginner hiccups in the garage.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html)** — Bruce Schneier compares AI to social media’s rise, warning that powerful digital systems can either empower or control us depending on the political choices we make now.
+- **[Scripting News](http://scripting.com/2025/12/02.html#a024719)** — Dave Winer talks RSS in WordPress, a speedy WordPress feed fix, ponders an AI-powered Google rival, and spins up wild Pluribus theories between spins of “Old Folks Boogie.”
+- **[West Karana](https://westkarana.blog/2025/12/02/advent-of-code-2025-day-2-gift-shop/)** — Tipa wrangles Advent of Code’s cursed gift shop IDs with a Lua brute-force pattern repeater, then reflects on how a tidy regex solution might have looked.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/kohlers-600-month-toilet-camera-uses-your-turds-to-train-ai/)** — jwz skewers Kohler’s Dekoda toilet-cam for decrypting your “end-to-end encrypted” poop pics to train AI, mocking a subscription that tells you you’re shitting blood.
 ## Gaming
 
-- **[Ready Pixel One](https://www.readypixelone.com/blog/meet-the-runelight-sisters)** — Pixel One introduces Alyannìa Runelight, a shy Dalaran-trained mage turned warlock and Black Harvest graduate, adventuring with voidwalker Zanggarth for the Reliquary in Warcraft’s lore.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/12/01/skygunner-sky-high-shooting/)** — Kimimi falls for Skygunner’s brass-and-steam skies once she abandons “expert” controls for Star Fox-style handling and starts mastering its rolls, EX actions, and many targeting options.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2025/12/02/my-november-log/)** — Luna recaps a stormy but productive November of blog milestones and standout indie gem Fading Serenades, an inventory-driven parcel-delivery adventure that’s still living rent-free in her head.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-01-raidou-remastered-first-impressions/)** — Anarchae’s first hours with Raidou Remastered find a reworked SMT-style Taisho-era mystery, modernized combat, and a tone somewhere between mainline SMT bleakness and Persona’s human focus.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2025/12/01/infinity-nikki-itzaland-begins/)** — Krista’s cosy guide tours Infinity Nikki’s Miraland, walking new stylists through Wishfield’s regions, fast travel via Warp Spires, and the new Terra Alliance zone Itzaland.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/eu5-portugal-first-century.html)** — Tobold’s first century in Europa Universalis V as Portugal leans on mods and console cheats to keep Spain friendly while he quietly hoards Atlantic islands and explores toward Madagascar.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/how-that-twenty-year-old-gears-of-war.html)** — CrazyKinux reminisces about Gears of War’s haunting “Mad World” teaser while cleaning his blog and sees Gears of War: E-Day as a deliberate return to that quieter, darker tone.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/02/temu-mccree/)** — Belghast grinds his Path of Exile Ice Trap Elementalist toward 100, min-maxing Incursion temples, Omens of Amelioration, and league achievements without resorting to cheesy carries.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/1/still-wakes-the-deep)** — Roger follows Disco Elysium with Still Wakes The Deep, praising its tense North Sea oil rig horror, stealthy puzzle gameplay, and strong narrative enough to spring for the Siren’s Rest DLC.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/02/the-great-odebeinn-yard-sale/)** — Stargrace’s E returns to Odebeinn in EVE Online for an asset-safety yard sale, offloading bittersweet Horde-era junk and memories for a few ISK and some closure.
+- **[Aywren's Nook](https://aywren.com/2025/12/02/ffxiv-amons-tea-and-tomes)** — Aywren turns her FFXIV house into Amon’s Tea and Tomes, a festive RP hotspot with café, AllagNet internet corner, stage, aquarium eatery, and Triple Triad table.
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2025/12/november-month-in-review.html)** — Joar logs 45 November gaming hours split between Diablo 4 alts, WoW alt army prep for player housing, a bit of Guild Wars 2, and fresh Elder Scrolls Online content.
+- **[Frostilyte Writes](https://frostilyte.ca/2025/12/01/month-in-review-hades-2-motionrec-citizen-sleeper-2-more/)** — Frostilyte laments a derailed Slip ’n Slime guide, then crowns Hades 2 his game of the year after clearing the story, epilogue, and every achievement—including a brutal 32 Fear run.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/02/return-to-forza-horizon-5/)** — Wilhelm eyes holiday gaming, nabs Forza Horizon 5 on sale while mulling its DLC, reminiscing about Horizon 4, and already daydreaming of Japan in Forza Horizon 6.
+## Writing
+
+- **[Axxuy](https://axxuy.xyz/blog/posts/2025/november-review/)** — Axxuy recaps a distraction-heavy November of sparse blogging, half-finished poetry goals, and restorative live music, accepting that long-term blogging naturally ebbs and flows.

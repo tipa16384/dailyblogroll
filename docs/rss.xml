@@ -7,13 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Dec 2025 12:40:12 +0000</lastBuildDate>
-    <item>
-      <title>The Daily Blogroll — Friday, 28 November 2025</title>
-      <link>https://westkarana.xyz/daily-blogroll-2025-11-28.html</link>
-      <guid isPermaLink="false">https://westkarana.xyz/daily-blogroll-2025-11-28.html</guid>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 03 Dec 2025 11:15:20 +0000</lastBuildDate>
     <item>
       <title>The Daily Blogroll — Saturday, 29 November 2025</title>
       <link>https://westkarana.xyz/daily-blogroll-2025-11-29.html</link>
@@ -37,6 +31,12 @@
       <link>https://westkarana.xyz/daily-blogroll-2025-12-02.html</link>
       <guid isPermaLink="false">https://westkarana.xyz/daily-blogroll-2025-12-02.html</guid>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Daily Blogroll — Wednesday, 3 December 2025</title>
+      <link>https://westkarana.xyz/daily-blogroll-2025-12-03.html</link>
+      <guid isPermaLink="false">https://westkarana.xyz/daily-blogroll-2025-12-03.html</guid>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

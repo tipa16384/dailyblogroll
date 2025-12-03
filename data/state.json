@@ -12,7 +12,7 @@
     "last_ts": 1763133900
   },
   "https://aggronaut.com/feed/": {
-    "last_ts": 1764596961,
+    "last_ts": 1764683111,
     "modified": "Mon, 24 Nov 2025 14:55:14 GMT"
   },
   "https://wordsundermyname.wordpress.com/feed/": {
@@ -25,9 +25,9 @@
     "last_ts": 1764519294
   },
   "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"a9d2d1916a4ecf45a1d2eca5c4b71d7320a1f75d490c25db64704047dd25efeb\"",
-    "modified": "Tue, 02 Dec 2025 08:36:13 GMT",
-    "last_ts": 1764659640
+    "etag": "W/\"cd2b9128726d306d02f94c9f1fef60e1e966af3a62ff5c07967161e69dbb4185\"",
+    "modified": "Wed, 03 Dec 2025 10:06:54 GMT",
+    "last_ts": 1764756300
   },
   "https://scopique.com/feed/": {
     "etag": "\"a321b623a7d6242f8ef9e998b8f310bd\"",
@@ -35,16 +35,16 @@
     "last_ts": 1764088035
   },
   "https://thefriendlynecromancer.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"86e325859e21be221ba1524cc22417d6d1ddfac86cca7accbb7437f67b738b90\"",
-    "modified": "Tue, 02 Dec 2025 02:07:53 GMT",
+    "etag": "W/\"46e037bb9cbba2f8a58f7e8d119a715d07ee98feb781e731ad5984f17b22704b\"",
+    "modified": "Wed, 03 Dec 2025 05:16:40 GMT",
     "last_ts": 1763043900
   },
   "https://www.antipope.org/charlie/blog-static/atom.xml": {
     "last_ts": 0
   },
   "https://tagn.wordpress.com/feed/": {
-    "modified": "Sun, 30 Nov 2025 19:27:31 GMT",
-    "last_ts": 1764526506
+    "modified": "Tue, 02 Dec 2025 21:52:20 GMT",
+    "last_ts": 1764692127
   },
   "https://lisettesmxtadventures.wordpress.com/feed/?alt=rss": {
     "modified": "Tue, 30 Sep 2025 12:28:34 GMT",
@@ -60,8 +60,8 @@
     "last_ts": 1761350400
   },
   "https://frostilyte.ca/feed/": {
-    "modified": "Wed, 26 Nov 2025 22:53:25 GMT",
-    "last_ts": 1763500003
+    "modified": "Tue, 02 Dec 2025 18:00:28 GMT",
+    "last_ts": 1764635282
   },
   "http://scripting.com/rss.html": {
     "etag": "\"c39a3e45f1bb8de4eca4e203be266c3a\"",
@@ -105,8 +105,8 @@
     "last_ts": 1764668160
   },
   "https://cdn.jwz.org/blog/feed/": {
-    "modified": "Tue, 02 Dec 2025 09:18:05 GMT",
-    "last_ts": 1764321269
+    "modified": "Wed, 03 Dec 2025 05:40:41 GMT",
+    "last_ts": 1764737492
   },
   "http://inanage.com/feed/": {
     "modified": "Sat, 29 Nov 2025 18:07:34 GMT",
@@ -121,14 +121,14 @@
     "last_ts": 1760274000
   },
   "http://scripting.com/rss.xml": {
-    "etag": "\"db551873b2306bfdfd27ed9a1c345f75\"",
-    "modified": "Tue, 02 Dec 2025 02:59:44 GMT",
-    "last_ts": 1764600217
+    "etag": "\"c76eb61171cca14af62e7cd10c3b7cd0\"",
+    "modified": "Wed, 03 Dec 2025 02:50:23 GMT",
+    "last_ts": 1764730039
   },
   "https://aywren.com/feed.xml": {
-    "etag": "\"69275e06-9e19\"",
-    "modified": "Wed, 26 Nov 2025 20:07:34 GMT",
-    "last_ts": 1764187623
+    "etag": "W/\"692f041f-a0e2\"",
+    "modified": "Tue, 02 Dec 2025 15:22:07 GMT",
+    "last_ts": 1764688893
   },
   "https://chasingdings.com/feed/": {
     "modified": "Sat, 29 Nov 2025 13:00:00 GMT",
@@ -143,7 +143,7 @@
     "last_ts": 1763928000
   },
   "https://smithtalkstech.com/feed/": {
-    "etag": "W/\"708dd0ac63c0fc704fa00292a9168ae6\"",
+    "etag": "\"708dd0ac63c0fc704fa00292a9168ae6\"",
     "modified": "Mon, 01 Dec 2025 21:47:46 GMT",
     "last_ts": 1764625059
   },
@@ -156,7 +156,7 @@
     "last_ts": 1764674580
   },
   "https://indiecator.org/feed/": {
-    "modified": "Sun, 30 Nov 2025 11:26:48 GMT",
+    "modified": "Sun, 30 Nov 2025 11:27:35 GMT",
     "last_ts": 1764501902
   },
   "https://tofutush.github.io/feed.xml": {
@@ -173,14 +173,14 @@
     "last_ts": 1764601200
   },
   "https://www.timetoloot.com/feed/": {
-    "etag": "\"dcc9835004535dd5a7a6d3a9d265850b\"",
-    "modified": "Mon, 01 Dec 2025 08:36:00 GMT",
+    "etag": "\"cabff796db45e4d6bc3e30e53f86e776\"",
+    "modified": "Wed, 03 Dec 2025 10:05:00 GMT",
     "last_ts": 1762646738
   },
   "https://axxuy.xyz/blog/feed.xml": {
-    "etag": "\"69162cb5-cb80\"",
-    "modified": "Thu, 13 Nov 2025 19:08:37 GMT",
-    "last_ts": 1762992000
+    "etag": "\"692f380c-cc7a\"",
+    "modified": "Tue, 02 Dec 2025 19:03:40 GMT",
+    "last_ts": 1764547200
   },
   "https://blog.codinghorror.com/rss/": {
     "etag": "W/\"45ed7-FaQ5qdMh3UbgATqBxjQmwzmKYRE\"",
@@ -195,8 +195,8 @@
     "last_ts": 1755302400
   },
   "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"3360eb4add348e118966bb29f580e85b6820233342273af6cf77f752e00b8a14\"",
-    "modified": "Mon, 01 Dec 2025 08:04:20 GMT",
+    "etag": "W/\"b7bfb5277889c9cc8877ee086fbf51eaa80096f95f5b318608d4d80876b06d6b\"",
+    "modified": "Tue, 02 Dec 2025 15:44:20 GMT",
     "last_ts": 1764006480
   },
   "https://virtualmoose.org/feed/": {
@@ -205,8 +205,8 @@
     "last_ts": 1764516309
   },
   "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"07d19fd74ca892a998260b6b1774339f9472f6775f846da40f135f75ebdc27d3\"",
-    "modified": "Mon, 01 Dec 2025 03:47:14 GMT",
+    "etag": "W/\"3a157e9fd4c8816248036d1e0e03b2a160c4c85fbf8a8f69c4124b066613d1dc\"",
+    "modified": "Tue, 02 Dec 2025 15:44:56 GMT",
     "last_ts": 1763681160
   },
   "https://www.grumpygamer.com/rss": {
@@ -215,8 +215,8 @@
     "last_ts": 1761078925
   },
   "https://pixelnomad.ca/feed/": {
-    "modified": "Mon, 01 Dec 2025 11:17:42 GMT",
-    "last_ts": 1764587853
+    "modified": "Tue, 02 Dec 2025 20:46:21 GMT",
+    "last_ts": 1764708263
   },
   "https://westkarana.xyz/rss.xml": {
     "etag": "W/\"690348f9-4008\"",
@@ -233,14 +233,14 @@
     "last_ts": 1764572400
   },
   "https://westkarana.blog/feed/": {
-    "etag": "W/\"07eec8adf0c2b4718c5d0b7e4a582fdd\"",
-    "modified": "Thu, 27 Nov 2025 15:50:19 GMT",
-    "last_ts": 1764258619
+    "etag": "W/\"3f2341617e3b0ed8771d78ddfd070c7e\"",
+    "modified": "Wed, 03 Dec 2025 01:46:18 GMT",
+    "last_ts": 1764726156
   },
   "https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0c73a1cc4d76979f2971234d38388a816c8df66289ac38e81de31a9f5dad73e7\"",
-    "modified": "Thu, 27 Nov 2025 20:32:12 GMT",
-    "last_ts": 1764097140
+    "etag": "W/\"c1326fcf3dac477a72678d19c396ebbaaf65b811f116dad17864d81bbc775b41\"",
+    "modified": "Tue, 02 Dec 2025 01:17:30 GMT",
+    "last_ts": 1764638220
   },
   "https://www.positech.co.uk/cliffsblog/feed/": {
     "etag": "\"7b07a86e7a8bf2756dc377c666f0256d\"",
@@ -253,8 +253,8 @@
     "last_ts": 1763568408
   },
   "http://www.containsmoderateperil.com/blog?format=rss": {
-    "etag": "W/\"8b02b8991dd9de934c353f2fbfd09804\"",
-    "last_ts": 1764459120
+    "etag": "W/\"a59509aa582957611ee0f3f365fe99e9\"",
+    "last_ts": 1764626381
   },
   "https://warnercrocker.com/feed/": {
     "modified": "Sun, 30 Nov 2025 13:42:08 GMT",
