@@ -1,22 +1,20 @@
-# Daily Blogroll: 2025-12-03
+# Daily Blogroll: 2025-12-04
 
 ## General
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_3.html)** — Bhagpuss opens day three of his advent calendar with Lucie, Too’s “Winter Song,” pairing a snowy screenshot with a seasonal music pick.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_4.html)** — Bhagpuss’s advent calendar door opens on Nancy Sinatra’s “It’s Such A Lonely Time Of Year,” keeping the seasonal vibe firmly in cozy, slightly melancholic music territory.
+- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2025/12/team-tom-update-kick-cancers-kras.html)** — The Friendly Necromancer shares a raw life update on his mom’s health, KRAS mutation results, ongoing immunotherapy, music therapy jams, family time, and rocking ninja pigs at the infusion center.
+- **[Virtual Moose](https://virtualmoose.org/2025/12/03/end-of-the-year-music-wrapped-thing/)** — Michael skips Spotify Wrapped to drag Spotify itself and instead fires off quick-hit recs from goth-leaning Bandcamp finds, game soundtracks like Promise Mascot Agency, and assorted rock favorites.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/theseus-the-tank-engine/)** — jwz riffs on a gloriously cursed Thomas the Tank Engine image, pondering sentient Ship of Theseus vibes, Toy Story sex-doll canon, and his long-running train-based nightmare fuel series.
+- **[Heartless Gamer](http://www.heartlessgamer.com/2025/11/sunday-11232025-post-packers-beat.html)** — Heartless revels in the Packers turning the Vikings upside down in a dominant win, complete with a cheeky “9 was really 6 all along” scoreboard gag.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/12/02.html#a024719)** — Dave Winer talks RSS in WordPress, a speedy WordPress feed fix, ponders an AI-powered Google rival, and spins up wild Pluribus theories between spins of “Old Folks Boogie.”
-- **[West Karana](https://westkarana.blog/2025/12/02/advent-of-code-2025-day-2-gift-shop/)** — Tipa wrangles Advent of Code’s cursed gift shop IDs with a Lua brute-force pattern repeater, then reflects on how a tidy regex solution might have looked.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/kohlers-600-month-toilet-camera-uses-your-turds-to-train-ai/)** — jwz skewers Kohler’s Dekoda toilet-cam for decrypting your “end-to-end encrypted” poop pics to train AI, mocking a subscription that tells you you’re shitting blood.
+- **[Scripting News](http://scripting.com/2025/12/03.html#a143322)** — Dave Winer wrangles a cascading Node upgrade fiasco, migrates a “virtual-virtual” server, muses about bash with ChatGPT commands, then quietly nudges you toward Scripting News’ nightly email.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/03/alan-dye-leaving-apple-for-meta/)** — Warner unpacks Apple design chief Alan Dye’s jump to lead Meta’s new AI-infused hardware/software design studio, reading it as another sign of big shifts coming to Cupertino’s product philosophy.
 ## Gaming
 
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/02/temu-mccree/)** — Belghast grinds his Path of Exile Ice Trap Elementalist toward 100, min-maxing Incursion temples, Omens of Amelioration, and league achievements without resorting to cheesy carries.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/1/still-wakes-the-deep)** — Roger follows Disco Elysium with Still Wakes The Deep, praising its tense North Sea oil rig horror, stealthy puzzle gameplay, and strong narrative enough to spring for the Siren’s Rest DLC.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/02/the-great-odebeinn-yard-sale/)** — Stargrace’s E returns to Odebeinn in EVE Online for an asset-safety yard sale, offloading bittersweet Horde-era junk and memories for a few ISK and some closure.
-- **[Aywren's Nook](https://aywren.com/2025/12/02/ffxiv-amons-tea-and-tomes)** — Aywren turns her FFXIV house into Amon’s Tea and Tomes, a festive RP hotspot with café, AllagNet internet corner, stage, aquarium eatery, and Triple Triad table.
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2025/12/november-month-in-review.html)** — Joar logs 45 November gaming hours split between Diablo 4 alts, WoW alt army prep for player housing, a bit of Guild Wars 2, and fresh Elder Scrolls Online content.
-- **[Frostilyte Writes](https://frostilyte.ca/2025/12/01/month-in-review-hades-2-motionrec-citizen-sleeper-2-more/)** — Frostilyte laments a derailed Slip ’n Slime guide, then crowns Hades 2 his game of the year after clearing the story, epilogue, and every achievement—including a brutal 32 Fear run.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/02/return-to-forza-horizon-5/)** — Wilhelm eyes holiday gaming, nabs Forza Horizon 5 on sale while mulling its DLC, reminiscing about Horizon 4, and already daydreaming of Japan in Forza Horizon 6.
-## Writing
-
-- **[Axxuy](https://axxuy.xyz/blog/posts/2025/november-review/)** — Axxuy recaps a distraction-heavy November of sparse blogging, half-finished poetry goals, and restorative live music, accepting that long-term blogging naturally ebbs and flows.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/03/lotro-kingdoms-of-harad-expansion/)** — Wilhelm covers LOTRO’s Kingdoms of Harad launch, legendary item traceries breaking things again, a DECTRACERY fix code, and the new level 160 trek into the sun-scorched South.
+- **[Zarf Updates](https://blog.zarfhome.com/2025/12/level-9-code-archive)** — Andrew Plotkin celebrates Mike Austin’s massive open-source dump of Level 9’s A-Code compiler, docs, and assembly-heavy game sources, even if the floppy-era toolchain is delightfully gnarly.
+- **[In An Age](https://inanage.com/2025/12/01/sorta-black-friday-2025-edition/)** — Azuriel’s Black Friday mostly turns into a wishlist of big-name PC games, a couple of Switch controllers, and plans to clear backlog giants like Outer Worlds 2 and FF7 Rebirth.
+- **[The Ghastly Mirror](https://www.ghastlymirror.xyz/blog/happy-late-halloween-2025-heres-what-ive-been-playing/)** — Ghastly’s belated Halloween roundup dives into older games like the surprisingly eerie Piglet’s Big Game, praising its dreamlike Pooh-world level design and kid-friendly psychological spooks.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/03/climbing-back-on-the-wagon/)** — Belghast talks about using mechanically chill games as audiobook time, then reviews a recent fantasy reading streak centered on Brigands & Breadknives and other cozy-adjacent novels.
