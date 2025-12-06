@@ -1,22 +1,20 @@
-# Daily Blogroll: 2025-12-05
+# Daily Blogroll: 2025-12-06
 
-## General
-
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_5.html)** — Bhagpuss’s advent calendar opens to a melting snowman and Kaela Kimura, serving up a cozy little slice of winter music blogging.
-- **[Aywren's Nook](https://aywren.com/2025/12/03/irl-on-the-first-day-of-unemployment)** — Aywren reflects on being laid off from a long-time tech writing job, financial stability, and what comes next in a very human, AI-skeptical post.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/04/living-in-the-past-with-apple-music-replay/)** — Warner uses Apple Music Replay to realize he’s been soundtracking today’s turmoil with Crosby, Stills, Nash & Young, The Grateful Dead, and Bob Dylan-heavy Girl From the North Country.
 ## Gaming
 
-- **[Scopique](https://scopique.com/2025/12/04/star-citizen-grab-bag-for-dec-4th-2025/)** — Scopique vents about Star Citizen’s 4.5 engineering rework, a buggy Nyx and Levski, the IAE free-fly chaos, and whether new ships like the Salvation and Golem OX are worth the credits.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/eu5-one-month-later-buying.html)** — Tobold’s 160 hours in Europa Universalis V boil down to this: a deep, very slow grand strategy that’s great if you accept long runs and disruptive balance patches.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/12/05/power-dolls-stat-tastic/)** — Kimimi dives into Power Dolls on PC-98, where a dense 96-page manual, intricate stats, and punishing deployment choices make its mech tactics as intimidating as they are fascinating.
-- **[Frostilyte Writes](https://frostilyte.ca/2025/12/03/baseless-review/)** — Frostilyte reviews Baseless, a shoot-’em-up where firing your gun is also how you move, creating a frustrating-but-addictive solo passion project from Andrew Armstrong.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/04/a-legacy-reforged/)** — Belghast checks out Guild Wars Reforged’s visual facelift and bustling starter zones, shares a download tip, and celebrates snagging new hand-cannon hero Jaren in Destiny Rising.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/04/my-twitch-time-in-2025-where-i-am-clearly-all-about-the-drops/)** — Wilhelm’s Twitch recap shows 559 “watched” hours mostly spent AFK farming drops in EVE Online, No Man’s Sky, World of Tanks, World of Warcraft, and Palia.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/island-life-in-everquest-ii.html)** — Bhagpuss riffs off Wilhelm’s Palia cash shop post to talk hoarding premium currency, GW2’s storage bloat, and how EverQuest II’s pay-to-play-ish shop still can’t beat his choice paralysis.
+- **[West Karana](https://westkarana.blog/2025/12/05/advent-of-code-2025-day-5-cafeteria/)** — Tipa breaks down Advent of Code’s “Cafeteria” range-merging puzzle and the grim realization that Picotron Lua doesn’t even have a sort to help.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/3/lotro-the-state-of-the-game-in-late-2025)** — Roger surveys LOTRO’s new Kingdoms of Harad expansion, praising its stable, Tolkien-nerd niche while side‑eyeing Middle-eastern stereotypes and another round of gear and virtue grind.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/05/friday-bullet-points-about-dates-and-implications-for-next-year-and-beyond/)** — Wilhelm reacts to WoW Midnight’s surprisingly early March 2026 launch, Blizzard’s apparent apathy toward TBC Classic, and Hello Games’ dateless Light No Fire tease testing player patience.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/railroad-tiles.html)** — Tobold reviews Railroad Tiles, a tile-based spin on Railroad Ink that’s prettier, puzzly, and firmly in “fun filler” territory for his board game nights.
+- **[Zarf Updates](https://blog.zarfhome.com/2025/12/late-fall-puzzle-games)** — Andrew Plotkin samples late‑fall puzzle fare, from org‑chart sleuthing in A Case of Fraud to fungus‑blasting mystery Ambrosia Sky, digging the deduction but wishing some endings landed harder.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/12/04/212143.html?title=flipSwitches)** — Dave Winer reminisces about MORE, LBBS, and Manila to argue that great software lets you instantly flip views on the same data with zero friction.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html)** — Bruce Schneier flags a new anonymous phone carrier that lets you sign up with nothing more than a zip code.
-## Writing
+- **[Scopique](https://scopique.com/2025/12/06/whether-to-stick-it-or-get-stuck-to/)** — Scopique weighs self-hosting PeerTube versus using Fedihost, wrestling with Linux friction, AI-meddling YouTube, and how much hassle “owning your videos” is really worth.
+- **[Scripting News](http://scripting.com/2025/12/05.html#a142948)** — Dave Winer muses on WordPress as a stable API, why “AI is autocomplete on steroids” is nonsense, and how Texas gerrymandering might blow up in the GOP’s face.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html)** — Bruce Schneier notes that the so‑called vampire squid sports the largest cephalopod genome sequenced so far and opens the floor for this week’s stray security stories.
+## General
 
-- **[Hamatti](https://hamatti.org/posts/about-writing-and-audience/)** — Juhis argues you should write online for yourself first, not a niche persona, and let whatever audience shows up enjoy the honest, whole-life blogging—especially as a developer.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-09-14.html)** — Tofutush explains how learning chemistry in Chinese—element radicals, intuitive naming, even new characters—makes the periodic table and inorganic compounds click way better than the Latin-flavored 영어
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/05/phillip-bump-and-clumsy-nazi-comparisons/)** — Warner responds to Phillip Bump’s Hitler–Trump piece, arguing that even imperfect Nazi comparisons should be warning enough to stop today’s xenophobic politics in their tracks.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-04-headphone-reviews-continued/)** — Anarchae continues the tiny-ears saga, comparing JLab Go Pop+, JBuds Mini, and Soundcore P20i while cursing touch controls, gloves, and the eternal hunt for earbuds with real buttons.
