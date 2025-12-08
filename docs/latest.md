@@ -1,20 +1,20 @@
-# Daily Blogroll: 2025-12-07
+# Daily Blogroll: 2025-12-08
 
-## General
-
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_7.html)** — Bhagpuss’ advent calendar hits Day 7 with a wintry image and a Roberta Flack pick to keep the seasonal vibes mellow and musical.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/looking-back-on-arcane-and-experience.html)** — CrazyKinux reflects on family rewatches of Arcane, marveling at Fortiche’s painterly animation, Vi and Jinx’s emotional core, and Season 2’s denser League of Legends mysticism.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/06/the-colors-of-bears-packers-weekend/)** — Warner muses on Chicago’s snow-covered lead-up to Bears–Packers, where winter whites finally mute Mother Nature’s usual green-and-gold betrayal of the home team.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2025/12/02/Bell-Combinatorics)** — Tim Bray weaves Afro-Cuban bell patterns, West African drumming, and hospice memories of Tracy into a meditation on rhythm, mortality, and the math underlying music.
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/12/06.html#a150949)** — Dave Winer reminisces about BYTE-era product reviews, tweaks FeedLand’s change detection, and notes AI-powered helpers like Telex and Google Forms quietly reshaping everyday software.
-- **[usebox.net](https://www.usebox.net/jjm/blog/learning-ocaml/)** — JJM pivots from hard-to-cross-compile Haskell games to experimenting with OCaml, dune, and tsdl, comparing result-based IO to familiar monadic Haskell patterns.
-- **[West Karana](https://westkarana.blog/2025/12/06/advent-of-code-2025-day-6-trash-compactor/)** — Tipa tackles Advent of Code’s Trash Compactor in Lua, hand-rolling reduce-style logic for commutative math before part two flips the script with cephalopod-flavored notation.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/video-text-remover/)** — Jamie Zawinski hunts for a Mac alternative to Hitpaw Watermark Remover to drive ffmpeg delogo filters manually, with zero AI and minimal grifter-laced search results.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/06/ccp-dramatically-drops-asset-safety-prices-for-supers-and-titans/)** — Wilhelm revisits EVE Online’s fraught history with asset safety, wormhole loot pinatas, Forsaken Fortress betrayals, and CCP Swift’s PanFam-era smash-and-grab windfalls.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/05/druids-strongholds-and-the-searing/)** — Belghast parses Path of Exile II’s 0.4.0 reveal, feeling lukewarm on Druids, charge-based Spell Totems, and missing endgame fixes while grinding Calamity Ops and strongholds.
-- **[WCRobinson](https://wcrobinson.org/2025/12/06/pokemon-legends-z-a-review-a-real-time-revolution-in-the-process-of-evolution/)** — WCRobinson dives into Pokémon Legends: Z-A on Switch 2, praising Kalos’ makeover, Lumiose City’s glow, and long-awaited X/Y follow-up vibes despite some rough edges.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/05/eqii-its-tiiii-frostfell/)** — Stargrace dives back into EverQuest II’s Frostfell, scooping shinies, crafting holiday décor, debating a Maj’Dul coercer boost, and eyeing the incoming Rage of Cthurath expansion.
+- **[Chasing Dings!](https://chasingdings.com/2025/12/07/heroquest-first-light-the-ring-of-return/)** — Tipa’s HeroQuest group nabs the Ring of Return from under Qwindrak and Kessandria’s noses, plays a stint as Dread Warriors, and preps nervously for the Tomb of the Fire King.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/you-dont-want-to-do-it-like-that.html)** — Bhagpuss pokes at EverQuest II housing, defends his legion of crafters, and reflects on why his Weaponsmith was a charmingly useless roleplay choice.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2025/12/04/detective-grimoire-secrets-of-the-swamp/)** — Ellie dives into Detective Grimoire: Secrets of the Swamp, embracing her newfound love of quirky, Layton‑style mystery adventures starring oddballs and an allegedly murderous cryptid.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2025/12/07/infinity-nikki-one-year/)** — Krista celebrates a year in Infinity Nikki, from magical Miraland story beats to endless outfit experiments, seasonal updates, and fresh excitement for the new Itzaland storyline.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/jump-clones-in-eve-online-beginners.html)** — CrazyKinux breaks down EVE Online’s 2025 jump clone system: no clone grades, no SP loss, just clean deaths, lost implants, and flexible loadouts with a 24‑hour cooldown.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/07/tagn-fantasy-critic-league-2025-week-forty-eight-and-ramping-up-for-the-final-act/)** — Wilhelm checks back in on the 2025 Fantasy Critic League as Routine and Marvel Cosmic Invasion scores shake up the mid‑table and budgets finally hit zero.
+- **[Into the Void](https://www.travelleritv.blog/2025/12/07/into-the-void-refs-notes-session-43/)** — The Rambler crew logs a Traveller session that’s all roleplay, split‑party plate‑spinning, and a new NPC inspired by Alan Dean Foster, with nary a PC shot fired.
+## Tech
+
+- **[Scripting News](http://scripting.com/2025/12/07.html#a160041)** — Dave Winer answers the eternal “how does this work with Twitter and friends?” with a blunt “it doesn’t,” and quietly pitches his Scripting News nightly email instead of naggy pop‑ups.
+## General
+
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-07-dec-week-1-digest/)** — Anarchae recaps a brain‑foggy week of Traitors marathons, Raptors malaise, FLi and FFXIV, endless earbuds testing, job applications, and missing the grounding presence of a cat.
+- **[Virtual Moose](https://virtualmoose.org/2025/12/07/updated-the-button-wall/)** — Michael remodels his Cool Site Zone, turning an overwhelming 88×31 button wall into a more readable blogroll and invites folks to send in their own tiny web buttons.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/07/sunday-morning-reading-132/)** — Warner shovels snow, starts a new play out of nowhere, and curates links on Christmas essays, Frank Gehry, Beckett’s hands, Hamnet, Noah Baumbach, and ominous contemporary politics.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/5/origin-story)** — Roger spotlights the Origin Story podcast, praising its witty, research‑heavy dives into politics, ideology, and pop culture without the usual hectoring partisanship.
