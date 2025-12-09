@@ -407,6 +407,7 @@ feeds:
     pronouns: they/them
     mastodon: "@SAFCOcast@dice.camp"
     bluesky: "@safcocast.bsky.social"
+    skip: True
   - name: Life on the Wicked Stage
     url: https://warnercrocker.com/feed/
     update_frequency: daily

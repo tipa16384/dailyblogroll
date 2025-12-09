@@ -1,20 +1,20 @@
-# Daily Blogroll: 2025-12-08
+# Daily Blogroll: 2025-12-09
 
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2025/12/07/heroquest-first-light-the-ring-of-return/)** — Tipa’s HeroQuest group nabs the Ring of Return from under Qwindrak and Kessandria’s noses, plays a stint as Dread Warriors, and preps nervously for the Tomb of the Fire King.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/you-dont-want-to-do-it-like-that.html)** — Bhagpuss pokes at EverQuest II housing, defends his legion of crafters, and reflects on why his Weaponsmith was a charmingly useless roleplay choice.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2025/12/04/detective-grimoire-secrets-of-the-swamp/)** — Ellie dives into Detective Grimoire: Secrets of the Swamp, embracing her newfound love of quirky, Layton‑style mystery adventures starring oddballs and an allegedly murderous cryptid.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2025/12/07/infinity-nikki-one-year/)** — Krista celebrates a year in Infinity Nikki, from magical Miraland story beats to endless outfit experiments, seasonal updates, and fresh excitement for the new Itzaland storyline.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/jump-clones-in-eve-online-beginners.html)** — CrazyKinux breaks down EVE Online’s 2025 jump clone system: no clone grades, no SP loss, just clean deaths, lost implants, and flexible loadouts with a 24‑hour cooldown.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/07/tagn-fantasy-critic-league-2025-week-forty-eight-and-ramping-up-for-the-final-act/)** — Wilhelm checks back in on the 2025 Fantasy Critic League as Routine and Marvel Cosmic Invasion scores shake up the mid‑table and budgets finally hit zero.
-- **[Into the Void](https://www.travelleritv.blog/2025/12/07/into-the-void-refs-notes-session-43/)** — The Rambler crew logs a Traveller session that’s all roleplay, split‑party plate‑spinning, and a new NPC inspired by Alan Dean Foster, with nary a PC shot fired.
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/12/07.html#a160041)** — Dave Winer answers the eternal “how does this work with Twitter and friends?” with a blunt “it doesn’t,” and quietly pitches his Scripting News nightly email instead of naggy pop‑ups.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-07-dec-week-1-digest/)** — Anarchae recaps a brain‑foggy week of Traitors marathons, Raptors malaise, FLi and FFXIV, endless earbuds testing, job applications, and missing the grounding presence of a cat.
-- **[Virtual Moose](https://virtualmoose.org/2025/12/07/updated-the-button-wall/)** — Michael remodels his Cool Site Zone, turning an overwhelming 88×31 button wall into a more readable blogroll and invites folks to send in their own tiny web buttons.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/07/sunday-morning-reading-132/)** — Warner shovels snow, starts a new play out of nowhere, and curates links on Christmas essays, Frank Gehry, Beckett’s hands, Hamnet, Noah Baumbach, and ominous contemporary politics.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/5/origin-story)** — Roger spotlights the Origin Story podcast, praising its witty, research‑heavy dives into politics, ideology, and pop culture without the usual hectoring partisanship.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_9.html)** — Bhagpuss’s advent calendar doors open today on “Santa’s Rap” by The Treacherous Three, mixing festive vibes with a musical deep cut instead of MMO loot.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/08/who-knows-what-to-believe/)** — Warner wrestles with our fact-optional culture, critiques AI hype as bubble territory, and points readers to Cory Doctorow’s “Reverse Centaur’s Guide to Life After AI” speech.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/a-triumph-of-capitalism.html)** — Tobold argues pension crises stem from pay-as-you-go systems and political mismanagement, contrasting them with individually funded, compound-interest-driven capitalist pension models.
+## Tech
+
+- **[Scripting News](http://scripting.com/2025/12/08.html#a223014)** — Dave Winer shares his OPML blogroll, shows off a websockets-powered ‘best blogroll ever,’ and then riffs on why Pluribus can’t quite match Breaking Bad or Better Call Saul.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/from-wanderers-to-warp-bubbles-why-go.html)** — CrazyKinux unpacks Erik Wernquist and Sonny White’s “Go Incredibly Fast,” a quiet manifesto for nuclear locomotives and warp-bubble dreams carrying Carl Sagan’s exploratory spirit forward.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2025/12/07/Thin-Spots-In-the-AI-Bubble)** — Tim Bray sketches why the GenAI bubble will hurt when it pops, highlighting fragile, power-hungry GPUs and tricky depreciation that may leave less enduring infrastructure than past tech manias.
+## Gaming
+
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/08/plastic-spaghetti/)** — Belghast juggles recovery, Guild Wars Reforged, hardcore Path of Exile grinding to 100, and 3D-printing shenanigans while min-maxing Kingsmarch shipments for juicy Mirror Shards.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/08/warcraft-gold-making-week-49-2025/)** — Stargrace eases off the auction grind in WoW, leans on transmog and recipes for income, and notes that player housing furniture is the hot gold-maker before Midnight lands.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/12/08/sonic-the-hedgehog-2-very-special-stages/)** — Kimimi revisits Sonic 2’s half-pipe special stages, celebrating their 16-bit wow factor, careful design, and how they turned simple ring-chasing into thrilling pseudo-3D spectacle.
+- **[Going Commando](https://swtorcommando.blogspot.com/2025/12/the-subscriber-login-event-in-rear-view.html)** — Shintar looks back on SWTOR’s subscriber login event, happily converting tokens into Rakata gear, ship droid customisations, and a menagerie of Cartel Market pets before it vanishes.
+- **[Virtual Moose](https://virtualmoose.org/2025/12/08/landlord-quest-thoughts/)** — Michael recommends Landlord Quest, a short anti-capitalist comedy point-and-click with multiple endings, sharp jokes, and retro SCUMM vibes that lets you watch a landlord eat dirt.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/08/no-mans-sky-running-the-relics-expedition-as-fast-as-i-can/)** — Wilhelm speedruns No Man’s Sky’s Relics expedition using Reddit tips, front-loading milestones on the starter planet to dodge holiday burnout from the nonstop expedition reruns.
