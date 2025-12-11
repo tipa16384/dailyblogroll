@@ -1,22 +1,20 @@
-# Daily Blogroll: 2025-12-10
+# Daily Blogroll: 2025-12-11
 
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2025/12/09/dragonstrike-in-my-kitchen/)** — Tipa takes Fighting Hedgehog’s DragonStrike, a mathy board-game riff on SSI’s old dragon-flight sim, for a spin with kitchen-table dogfights and very exhausted dragons.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2025/12/no-guild-housing-for-me-i-guess.html)** — Shintar finds WoW’s long‑awaited housing oddly empty, especially with guild neighborhoods gated behind ten “active” players and none of SWTOR’s cozy sense of place.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/09/what-is-guild-wars-reforged/)** — Wilhelm digs into Guild Wars Reforged, a thoughtful refresh of the 2005 classic that updates textures and UI without turning it into a full remaster.
-- **[Bio Break](https://biobreak.wordpress.com/2025/12/08/world-of-warcraft-dead-fish-and-bare-bones-houses/)** — Syp juggles Legion achievement grinds and WoW’s chaotic housing launch, settling into a moody Duskwood cottage while nursing decor envy and a very provisional front yard.
-- **[In An Age](https://inanage.com/2025/12/09/of-all-time/)** — Azuriel muses on GOAT discourse, space-opera RPGs like Mass Effect and The Outer Worlds, and how “all time” often really means “the last few years I remember.”
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2025/12/09/lake-and-seasons-greetings-review/)** — Luna revisits Lake and its Season’s Greetings DLC, praising Providence Oaks’ cozy mail-delivery vibes and snowy holiday chill as a perfect December pick for the Cozy Gaming Club.
 ## General
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_10.html)** — Bhagpuss’s advent calendar door opens on some delightfully offbeat Christmas music picks, with a dash of K‑Mart nostalgia.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/7/no-one-lives-2012)** — Roger reviews No One Lives, digging into Luke Evans’s unsettling turn in Ryuhei Kitamura’s gory, philosophizing horror-thriller.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_11.html)** — Bhagpuss’s advent calendar hits day 11 with a couple of retro Christmas tracks and a festive dance-photo vibe instead of the usual MMO chatter.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-09-19.html)** — Tofutush charts her shift from dog person to cat lover, crediting Warrior Cats, soft fur, and her mom’s cat Sandstorm over an over-enthusiastic poodle.
+- **[Axxuy](https://axxuy.xyz/blog/posts/2025/spotify-wrapped/)** — Axxuy skips #SpotifyWrapped stats and instead vibes through 2025 listening: Stan Rogers on CD, Earthsea-themed dungeon synth, and random library jazz rips.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/honsky-dot-cx-adjustable-anus-clamp/)** — jwz highlights an Amazon “adjustable anus clamp” listing with deadpan delight, filing it alongside his long-running archive of goatse-adjacent internet weirdness.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/12/09.html#a235547)** — Dave Winer riffs on why RSS still matters, shows off his inbound RSS code for WordPress, and wonders why the Twitter-likes feel so quiet lately.
-## Writing
+- **[Scripting News](http://scripting.com/2025/12/10.html#a154304)** — Dave Winer revisits RSS feed discovery 23 years on, asks feed-reader devs for input, and pivots into inflation fears, Trump economics, and a quiet plug for his nightly email.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html)** — Bruce Schneier flags an FBI alert about AI-powered fake kidnapping scams using bogus photos and videos, predicting crooks will automate the whole thing.
+- **[West Karana](https://westkarana.blog/2025/12/10/advent-of-code-2025-day-10-factory/)** — Tipa tackles Advent of Code Day 10 with BFS over Dijkstra for XOR button puzzles, then breaks out Python’s Z3 solver when the part 2 math gets serious.
+- **[Hamatti](https://hamatti.org/posts/where-are-we-going-indieweb/)** — Juhis reflects on what “IndieWeb” should mean by 2030, arguing for broad, welcoming definitions of indie presence beyond strict self-hosting purity tests.
+## Gaming
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-09-16.html)** — Tofutush recalls a third‑grade silkworm project that turns from gleeful worm shenanigans to a grim lesson in rats, cocoons, and childhood curiosity.
-- **[Words Under My Name](https://wordsundermyname.wordpress.com/2025/12/09/12-9-2025-light-a-spark/)** — Blockade85 writes about climbing out of a long mental-health fog, getting back on meds, and slowly rekindling plans for writing, drawing, and more polished game streams.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/10/why-i-stopped-drawing/)** — Emily unpacks how perfectionism and chasing 3D realism smothered her joy in drawing, and how she’s found comfort leaning into writing and low-pressure visual art instead.
+- **[Mailvaltar](https://mailvaltar.wordpress.com/2025/12/08/a-winter-of-horrors/)** — Mailvaltar’s new PS5 fuels a “Winter of Horrors” marathon with Silent Hill 2, Silent Hill f, and a stack of Resident Evil, with SHf’s dark 1960s Japan really knocking him flat.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2025/12/10/super-hydorah/)** — Ellie finally digs into Super Hydorah, using its retro shmup charms to muse on why certain games—Gradius, R-Type, Turrican and their arcade kin—lodge in our brains for years.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/gaming-status-december-2025.html)** — Tobold reports 180+ hours sunk into Europa Universalis V, a near-finished Tidal Blades 2 campaign, and a looming choice among several crowdfunded board game epics.
+- **[Aywren's Nook](https://aywren.com/2025/12/10/ffxiv-groovy-once-more)** — Aywren clears all Arcadion raids in FFXIV with friends, nabs the Groovy Glasses and a Black Kitten minion, and celebrates a big jump in Amon’s achievement rank.
