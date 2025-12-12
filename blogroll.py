@@ -309,7 +309,7 @@ def call_model(items):
 
     resp = client.responses.create(
         # ← main change: the model
-        model="gpt-5.1",   # or "gpt-5" if you want the base
+        model="gpt-5.2",   # or "gpt-5" if you want the base
         instructions=SYSTEM,
         input=[{
             "role": "user",
