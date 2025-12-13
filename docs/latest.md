@@ -1,22 +1,22 @@
-# Daily Blogroll: 2025-12-12
+# Daily Blogroll: 2025-12-13
 
 ## Gaming
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_12.html)** — Bhagpuss’s Advent Calendar hits Day 12 with a quick holiday music pick—Yemi Alade’s “Merry Christmas O!”—a simple, festive breather in video form.
-- **[Ready Pixel One](https://www.readypixelone.com/blog/rootedinlegacy)** — Pixel One shares how Second Life sorority Alpha Omega Mu mixes roleplay with real charity, marking Founder’s Day by fundraising for the National MS Society through grief and leadership changes.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/12/12/power-dolls-2-plus-dash-more-with-more-on-top/)** — Kimimi digs into Windows 95’s Power Dolls 2 Plus Dash, praising how it welds Power Dolls 2 and Dash into one continuous hex-strategy campaign with UI upgrades and fussier ammo/loadouts.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/10/eve-online-quiet-work-in-the-quiet-places/)** — Stargrace writes a moody EVE Online vignette about drifting a cloaked Helios through wormhole space to quietly restock a rescue cache—tiny supplies, big kindness, deep J-space hush.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/11/pandemic-horde-is-shutting-down-key-corps-to-fold-into-the-initiative/)** — Wilhelm reports big EVE Online org news: Pandemic Horde is shuttering, core corps (like Blessed Beans and Horde Vanguard) are heading to The Initiative, with Gobloons issued to ease asset safety pain.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/11/rare-currency-burned/)** — Belghast’s Path of Exile progress log has him grinding league challenges, burning cheap Blackstar invitations, and using pricey crafting currency (including Hinekora’s Lock) just to tick off “Expensiv
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/11/solar-ash-through-the-voids-of-time/)** — Emily calls Solar Ash “ethereal,” digging its black-hole Ultravoid setting, speedy skating platforming, Time-Slip slowdown option, and giant climb-the-boss fights while Rei teams with the AI Cyd.
-## General
-
-- **[Scripting News](http://scripting.com/2025/12/11.html#a165142)** — Dave Winer links a post arguing Democrats lost 2024 via an inept campaign, then makes a polite pitch for Scripting News’ nightly email—no obnoxious exit popups, promise.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/avatar-fire-and-ash-back-to-pandora.html)** — CrazyKinux keeps the family tradition rolling: after years of rewatches, an IMAX Way of Water outing, and a Disney Pandora visit, they’re heading back for Avatar: Fire and Ash.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/12/ballsy-christmas-decorations/)** — Warner spots a neighborhood going big on Christmas yard decor despite early snow, and shares a photo of a particularly bold (and, yeah, ballsy) display.
-## Writing
-
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-09-24.html)** — Tofutush reflects on her mom reacting to Uyghur script in Xinjiang, and uses it to unpack how “I can’t understand it” can turn into a blind spot for empathy.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_13.html)** — Bhagpuss’s Advent Calendar Day 13 is basically a quick music pick: “Christmas In Riverdale” by The Archies, like a tiny holiday vibe break mid-scroll.
+- **[Scopique](https://scopique.com/2025/12/12/the-2025-video-game-awards/)** — Scopique speed-runs the 2025 VGAs (mostly for trailers), calling out stuff like The Free Shepherd, Exodus, Star Wars: Fate of the Old Republic, and Solasta II.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/12/guild-war-reforged-and-a-party-divided/)** — Wilhelm wrangles the very-2005 vibes of Guild Wars Reforged with friends—Steam installs, Prophecies confusion, chaotic character names, and finally grouping up in Ascalon anyway.
+- **[In An Age](https://inanage.com/2025/12/12/review-nex-playground/)** — Azuriel reviews the Nex Playground motion console (kinda Kinect/Wii Sports but controller-free), breaks down the subscription costs, and says it’s probably worth it if your kids aren’t Fortnite-brain-
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/12/shadow-drop-paladin-and-game-awards/)** — Belghast watches The Game Awards for a Path of Exile II Twitch drop, then rage-loves Diablo IV shadow-dropping Paladin (preorder required) and starts rambling trailers like Control Resonant.
 ## Tech
 
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html)** — Bruce Schneier spotlights research training AI agents to exploit smart contracts, including benchmarks of real-world exploited contracts and simulated zero-day finds—another reminder that “code is law
+- **[Scripting News](http://scripting.com/2025/12/12.html#a161156)** — Dave Winer muses about an alternate-history Twitter (WordPress-style), jokes about “Your Own Twitter” with AI actors, then nerds out on making custom APIs in WordLand/FeedLand.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/what-if-the-torment-nexus-was-fundamental-to-wordpress/)** — Jamie Zawinski is super not impressed with the idea of baking an AI/LLM straight into WordPress core, like a permanent “spicy autocomplete slop firehose” you can’t uninstall.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/bearblog-theme-css-v16/)** — Anarchae drops a huge Bearblog CSS v16 update—link labels (like Youtube/Amazon), pagination, post lists by month/year, and site search—plus some nerdy CSS tricks with selectors and unicode.
+## Writing
+
+- **[Ready Pixel One](https://www.readypixelone.com/blog/shadowsstirsistersendure)** — Pixel One writes an in-world letter from Dornogal, with Windrunner-family drama (Alleria, Sylvanas, Vereesa) and weird “radiant song” visions pulling everyone toward Silvermoon.
+## General
+
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/12/hidden-gems/)** — Emily talks about Microsoft killing its movies/TV app, then finding surprisingly solid “hidden gem” streaming on CTV and CBC Gem—ads and all—while rewatching stuff like Schitt’s Creek.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/11/a-year-in-social-media)** — Roger does a one-year check-in on juggling Twitter/X, Mastodon, and Bluesky, and basically decides the politics overload is wrecking the vibe so he’s stepping back (probably ditching X).
+- **[Axxuy](https://axxuy.xyz/blog/posts/2025/a-busy-winter-day/)** — Axxuy speed-dumps a day-in-the-life: baking pumpkin stuff, messing with car tires, buying a Christmas tree, getting a date cancelled, and setting up music scrobbling—busy but kinda normal.
