@@ -1,22 +1,22 @@
-# Daily Blogroll: 2025-12-14
+# Daily Blogroll: 2025-12-15
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/12/13.html#a155922)** — Dave Winer is kinda freaking out (same) about cloning Scripting News in WordPress/Daveverse, plus a wild drone+Peloton-by-satellite idea and a “comments are blog posts” rant.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/pranic-lift-777/)** — Jamie Zawinski shares PRANIC LIFT 777, basically another one of his “look at this weird/cool retro tech design” link posts, with a big preview image and a pile of related throwbacks.
-- **[West Karana](https://westkarana.blog/2025/12/12/advent-of-code-2025-day-12-christmas-tree-farm/)** — Tipa sees Advent of Code 2025 Day 12 yelling “NP-hard bin packing,” panics, sleeps on it, then wakes up and the simple checks actually work anyway—so it’s Merry Christmas, problem solved.
 ## Gaming
 
-- **[Going Commando](https://swtorcommando.blogspot.com/2025/12/patch-78-ramblings.html)** — Shintar is loving SWTOR patch 7.8 chaos: flashpoint skips in Legacy of the Rakata, waiting out early bugs, then finally digging into Galactic Threads and wondering how class/faction differences change
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/lightning-train-buying-on-pedigree.html)** — Tobold basically bought the board game Lightning Train on vibes (and Paul Dennen’s resume), and after unboxing and solo-testing, he’s super hyped for its bag-building plus 19th-century US railbuilding
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/13/discord-attempts-to-sum-up-my-2025-with-a-checkpoint/)** — Wilhelm clicks Discord’s year recap and gets stats like 4,097 messages and 27,190 emojis, then spirals into “wait, what dates is this even counting?” (honestly fair).
-- **[Bio Break](https://biobreak.wordpress.com/2025/12/12/pillars-of-eternity-ii-2/)** — Syp in Pillars of Eternity II is living pirate life: wipes slavers at Crookspur, steamrolls Fort Deadlight at level 15, then stumbles into Beast of Winter DLC with undead dragons and tougher fights.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2025/12/08/starsand-island-extended-demo/)** — Krista speed-runs Starsand Island’s extended demo to day 10, recapping cozy farming/fishing vibes, plus the early-2026 release plans and that Switch 2 launch + ruins combat/bosses news.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_15.html)** — Bhagpuss’s Advent Calendar rolls on with a music-flavored Day 15, pairing a retro Christmas tree snap with shout-outs to Swansea Sound and The Very Most.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/15/warcraft-gold-making-week-50-2025/)** — Stargrace’s Warcraft gold-making week: 23 sales for just under 3 million gold, mostly recipes (some transmog), plus some TSM stats wrangling and year-end recap thoughts.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2025/12/15/heartopia-final-test/)** — Krista rounds up Heartopia’s cozy life-sim pitch—free-to-play multiplayer, no stamina or checklists, deep home/outfit customization, seamless town exploration, and 2026 plans for Steam plus mobile.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/14/tagn-fantasy-critic-league-2025-week-forty-nine-and-last-call-for-releases/)** — Wilhelm checks in on the Fantasy Critic League stretch run: Skate Story lands an 84.8 and shuffles the top race, while Ultimate Sheep Raccoon releases but still lacks enough reviews.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/foundation-beginners-guide-to-setting.html)** — CrazyKinux lays out a Foundation first-hour playbook: prioritize fish starts, embrace organic villager-made roads, keep walking distances tight, and stabilize early gold via a Manor House Tax Office +
+- **[Virtual Moose](https://virtualmoose.org/2025/12/12/the-50-indie-game-challenge/)** — Michael takes the Bluesky “name 50 indie games” dare and delivers a readable mega-list that goes beyond Steam, spotlighting itch.io picks, jams, and a bunch of personal favorites.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/13/spilled-keeping-the-ocean-clean/)** — Emily reviews Spilled!, a short, cute cleanup game where you boat around scooping oil and trash, recycling for upgrades, rescuing animals, and even taking on a surprise boss ship.
+## Tech
+
+- **[Scripting News](http://scripting.com/2025/12/14/142421.html?title=aReallySimpleSocialWeb)** — Dave Winer argues the social web already runs on RSS, and calls for a 2026 push to make social apps support two-way RSS—plus he’s offering to help.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html)** — Bruce Schneier posts his latest speaking schedule, with stops from Chicago (library and Capricon) to Munich, NYC, Cambridge (Ross Anderson Lecture), and RSAC 2026 in San Francisco.
 ## Writing
 
-- **[Lisette's Mxtadventures](https://lisettesmxtadventures.wordpress.com/2025/11/28/musings/)** — Crimson’s talking exhaustion and friendship stuff, using Wind Breaker’s Sakura (and even an MHA comparison) to explain wanting anime-style “perceptive friends” while feeling too tired to open up.
-- **[Aywren's Nook](https://aywren.com/2025/12/12/irl-the-2026-planner-project)** — Aywren bought a 2026 yearly planner on Black Friday and is nerding out over the sturdy cover, month tabs, daily pages, ribbons, note sections, and using gel pens to avoid fountain-pen smears.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-13-the-call-of-cthulhu/)** — Anarchae tries Lovecraft for the first time and kinda hates how the annotated edition won’t shut up, plus “The Rats in the Walls” hits way too hard and now rats-in-the-city news is ruining life.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-09-30.html)** — Tofutush reflects on a lifelong reading habit, from childhood read-alouds to library binges, and weighs why paper books feel better—right up until ebooks win on convenience.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/rip-john-varley/)** — Jamie Zawinski mourns sci-fi writer John Varley, shares how his “Eight Worlds” and Overdrawn at the Memory Bank blew his mind, and laments how much of Varley’s work is out of print.
 ## General
 
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html)** — Bruce Schneier posts a Reddit video of a giant squid munching a diamondback squid, with a squid biologist explaining why more surface sightings happen now (aka everyone has cameras).
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-14-dec-week-2-digest/)** — Anarchae’s week-two digest mixes noisy-neighbor struggles and website tinkering with Lovecraft reading, lots of The Traitors (Canada and USA), a bit of Raidou, and Raptors disappointment.

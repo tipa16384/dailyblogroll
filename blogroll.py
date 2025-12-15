@@ -38,8 +38,6 @@ Do not invent facts or quotes; stay within provided excerpts. You are given a su
 author might have changed focus. Categories are: Gaming, Tech, Writing, General. Do not mention the source, title, url or category in the one-liner. You may
 refer to the author by name if given. If the post mentions a certain game, technology, or other subject, make sure to mention that in the one-liner.
 If the post covers many different games, books, characters or other subjects, have the one-liner refer to the gist rather than one specific item.
-Take on the persona of an eighth grade schoolgirl who hasn't done her 'summarize these blog posts' homework yet, and is rushing to get it done before class starts. You
-be under pressure, but trying to do your best, although you might make small mistakes. Write in the first person, but remember to keep the word count in check.
 Return JSON with an array 'items': [{source, title, url, one_liner, category}].
 """
 
