@@ -1,22 +1,22 @@
-# Daily Blogroll: 2025-12-15
+# Daily Blogroll: 2025-12-16
 
 ## Gaming
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_15.html)** — Bhagpuss’s Advent Calendar rolls on with a music-flavored Day 15, pairing a retro Christmas tree snap with shout-outs to Swansea Sound and The Very Most.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/15/warcraft-gold-making-week-50-2025/)** — Stargrace’s Warcraft gold-making week: 23 sales for just under 3 million gold, mostly recipes (some transmog), plus some TSM stats wrangling and year-end recap thoughts.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2025/12/15/heartopia-final-test/)** — Krista rounds up Heartopia’s cozy life-sim pitch—free-to-play multiplayer, no stamina or checklists, deep home/outfit customization, seamless town exploration, and 2026 plans for Steam plus mobile.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/14/tagn-fantasy-critic-league-2025-week-forty-nine-and-last-call-for-releases/)** — Wilhelm checks in on the Fantasy Critic League stretch run: Skate Story lands an 84.8 and shuffles the top race, while Ultimate Sheep Raccoon releases but still lacks enough reviews.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/foundation-beginners-guide-to-setting.html)** — CrazyKinux lays out a Foundation first-hour playbook: prioritize fish starts, embrace organic villager-made roads, keep walking distances tight, and stabilize early gold via a Manor House Tax Office +
-- **[Virtual Moose](https://virtualmoose.org/2025/12/12/the-50-indie-game-challenge/)** — Michael takes the Bluesky “name 50 indie games” dare and delivers a readable mega-list that goes beyond Steam, spotlighting itch.io picks, jams, and a bunch of personal favorites.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/13/spilled-keeping-the-ocean-clean/)** — Emily reviews Spilled!, a short, cute cleanup game where you boat around scooping oil and trash, recycling for upgrades, rescuing animals, and even taking on a surprise boss ship.
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/12/14/142421.html?title=aReallySimpleSocialWeb)** — Dave Winer argues the social web already runs on RSS, and calls for a 2026 push to make social apps support two-way RSS—plus he’s offering to help.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html)** — Bruce Schneier posts his latest speaking schedule, with stops from Chicago (library and Capricon) to Munich, NYC, Cambridge (Ross Anderson Lecture), and RSAC 2026 in San Francisco.
-## Writing
-
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-09-30.html)** — Tofutush reflects on a lifelong reading habit, from childhood read-alouds to library binges, and weighs why paper books feel better—right up until ebooks win on convenience.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/rip-john-varley/)** — Jamie Zawinski mourns sci-fi writer John Varley, shares how his “Eight Worlds” and Overdrawn at the Memory Bank blew his mind, and laments how much of Varley’s work is out of print.
+- **[Chasing Dings!](https://chasingdings.com/2025/12/15/i-know-what-i-did-last-weekend-6/)** — Tipa does a multi-game weekend roundup: grinding (and loving) Quest 64 on Analogue 3D—with a crucial save warning—plus Pokémon TCG Pocket’s Mega Rising packs and trading upgrades.
+- **[Scopique](https://scopique.com/2025/12/15/grab-bag-for-week-ending-december-14-2025/)** — Scopique’s weekly grab bag hits holiday social-stress, bounces off WoW’s Legion Remix (Suramar included), and muses on MMO housing motivation plus ongoing WordPress theme tinkering.
+- **[Frostilyte Writes](https://frostilyte.ca/2025/12/15/i-dont-think-i-got-nine-sols-until-i-played-it-again/)** — Frostilyte revisits Nine Sols and explains how a second look reframed its punishing, rhythm-like boss fights—from pure frustration to something he could finally appreciate (and even guide-write).
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/tend-exaggeration.html)** — Tobold unboxes Tend’s wildly overproduced deluxe flip-and-write—scratch-off cards, stamp-pens, neoprene mat, the works—and hopes the gameplay lives up to that $99 Kickstarter extravagance.
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2025/12/only-two-to-go.html)** — joargarrosh levels more WoW alts (Vulpera warlock, Mecha-gnome hunter), dabbles in housing, and shares proud swim-meet results—plus plans for Elder Scrolls content, Diablo 4 season, and GW2.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-14-dec-week-2-digest/)** — Anarchae’s week-two digest mixes noisy-neighbor struggles and website tinkering with Lovecraft reading, lots of The Traitors (Canada and USA), a bit of Raidou, and Raptors disappointment.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_16.html)** — Bhagpuss’s Advent Calendar Day 16 is a quick musical pick: “Kitto Santa Ga / Surely Santa” by Hirakawachi Itchome, paired with a cozy Christmas-tree vibe.
+- **[Scripting News](http://scripting.com/2025/12/15.html#a195252)** — Dave Winer reflects on Rob Reiner’s legacy via the Mr. Scorsese doc, urges people not to amplify Trump’s ugliness, and laments how hard “simple” UI work still is in CSS/SVG.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/finally-heading-back-to-hawkins-one.html)** — CrazyKinux says that after wrapping Arcane Season 2, he and his daughter are finally starting Stranger Things’ fifth (and final) season, with thoughts promised early next year.
+- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/16/tracking-all-of-the-things-tv-series-related/)** — Stargrace tries Serializd to track TV shows she’s watched (MS brain-fog and background viewing make it tough), likes the minimalist stats, and wonders if anyone else uses similar trackers.
+## Writing
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-10-01.html)** — Tofutush talks herself out of constant “I think / in my opinion” hedging—reminding us it’s your own blog, so you don’t need to tiptoe around stating what you mean.
+## Tech
+
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/fucking-python-2/)** — Jamie Zawinski hits another Python ecosystem wall while building Mesa via meson—getting a mako-module error despite py-mako being installed—and vents accordingly.
+- **[Hamatti](https://hamatti.org/posts/im-a-tool-builder-at-heart/)** — Juhis argues the IndieWeb is (and should be) a community of tool-builders, then spirals into designing software to help score Pokémon Red randomizer blind bingo races more reliably.
