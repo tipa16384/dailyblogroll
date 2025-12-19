@@ -1,22 +1,22 @@
-# Daily Blogroll: 2025-12-18
+# Daily Blogroll: 2025-12-19
 
-## Gaming
-
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_18.html)** — Bhagpuss keeps the Advent Calendar rolling with a pair of Christmas music picks—Eels’ “Everything’s Gonna Be Cool This Christmas” and Birdcloud’s “Cool Christmas.”
-- **[Scopique](https://scopique.com/2025/12/17/star-citizen-what-the-hell-is-going-on-with-engineering/)** — Scopique breaks down Star Citizen’s “engineering” ship-maintenance sim—components, fuses, fires, wear—and why the PTU rollout plus player feedback tweaks could reshape combat more than master modes.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/15/lotro-standing-stone-games-test-ui-scaling)** — Roger checks out LOTRO Update 46.1 on Bullroarer and likes the new 2K/4K UI scaling slider and per-element sizing, even with WIP rough edges like unscaled cursor and fuzzy icons.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/17/gracie-glowers/)** — Belghast shares a Gracie-the-cat sulk story, then vents that Path of Exile 2 mapping feels tedious—rare-hunting for loot, spiky deaths, weak defenses, and a league mechanic that breaks flow.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/12/17/advanced-power-dolls-2-for-some-of-the-fans/)** — Kimimi clarifies what Advanced Power Dolls 2 actually is (PC-98, 1996) and says it’s mostly “more of Dash/Plus Dash,” but with tougher, longer missions aimed squarely at veterans.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/eu5-portugal-finished.html)** — Tobold wraps 220 hours of Europa Universalis V as Portugal: colonization and Divert Trade eventually print absurd ducats, but trade quirks (like missing tea) and broken economics made it boring.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2025/12/16/my-best-games-of-2025/)** — Luna rounds up her favorite 2025 releases, spotlighting under-loved picks and gushing over Rune Factory: Guardians of Azuma for its Japanese-inspired setting, town management, and escapist RPG vibe.
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/12/17.html#a214438)** — Dave Winer argues the web needs user-owned storage that apps can access (hello, Markdown editors without silo lock-in), and riffs on always-on mics after Android/ChatGPT spoke up uninvited.
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2025/12/17/eventually-a-simpler-more-local-website/)** — Cliffski wants to simplify decades of Positech web hosting sprawl—too many game-specific servers and logins—after quitting third-party publishing, juggling a “large company,” and prioritizing health.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html)** — Bruce Schneier tracks the surge in deliberate internet shutdowns—from Afghanistan’s Taliban-ordered blackout amid earthquake fallout to spikes across Africa and beyond—arguing they’re infrastructure-k
 ## General
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-10-10.html)** — Tofutush journals a miserable seasonal cold abroad—sore throat, hoarse voice, overpriced DayQuil/NyQuil, clinic says “not COVID,” so it’s water, rest, and toughing it out.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_19.html)** — Bhagpuss’s advent calendar drops two “Blue Christmas” picks—Tiger La Flor and Porky Pig—paired with a moody blue-lights photo for a quick seasonal music detour.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/18/the-passage-of-time)** — Roger gets candid about aging, mortality, and whether time actually grants wisdom or healing—then wryly wonders if our whole sense of time is a Swiss/Greenwich confidence trick.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/the-donut-shop-ends-police-discount-guy-is-no-longer-deputy-director-of-the-fbi/)** — Jamie Zawinski digs into the performative “predator eyes” outrage aesthetic—jaw-clenching, air-chewing, Andrew Tate vibes—and why that body-language act sells to a particular audience.
+## Tech
+
+- **[Scripting News](http://scripting.com/2025/12/18/135613.html?title=inoreaderAndDynamicOpml)** — Dave Winer tries Inoreader’s dynamic OPML subscriptions with his FeedLand podcast list, confirms it syncs adds/removes, and shares the step-by-step setup for keeping readers aligned.
+- **[Hamatti](https://hamatti.org/posts/advent-of-code-2025-retrospective/)** — Juhis reflects on Advent of Code 2025’s shorter 12-day format, finishing all 24 stars in Python, and wonders if his polished “pythonic” writeups should shift toward more beginner step-by-steps.
 ## Writing
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/17/mutant-lake-date-until-spikes-come/)** — Emily recounts an X-Men dream where her OC reconciles with Wolverine, goes boating and swimming… until creepy retracting lake spikes wreck the date and force a panic-wake escape.
+- **[West Karana](https://westkarana.blog/2025/12/18/re-reading-john-varleys-thunder-lightning-trilogy/)** — Tipa revisits John Varley’s Heinlein-homage “Thunder & Lightning” books, recaps the wild Mars-race premise, and admits Red Thunder still feels more “gee whiz” than great.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/18/the-steam-winter-sale-2025-has-begun/)** — Wilhelm rounds up the Steam Winter Sale 2025 (through Jan 5) with a few standout discounts, plus a nudge to vote in the Steam Awards—even if the magic’s faded a bit.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/12/19/kingdom-grandprix-the-faster-the-better/)** — Kimimi explains why Raizing’s Kingdom Grandprix looks like a shmup but plays like a race, where screen position controls speed and even bumping enemies at pace can work in your favor.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/making-sense-of-pvp-in-eve-online.html)** — CrazyKinux talks through learning small-ship PvP in EVE Online with a Merlin fit (MWD/scram/web/shield buffer), then plans smarter rigging to patch EM/thermal holes and grow into T2.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/18/oops-fun-happened/)** — Belghast bounces back into Path of Exile II after fixing a squishy build by ditching armor expectations and leaning on Cloak of Flame-style physical-to-elemental damage shifting for calmer mapping.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/18/the-steam-and-the-gog-train/)** — Emily weighs Steam vs GOG—loving GOG’s DRM-free ownership and preservation stance, but sticking with Steam’s all-in-one library, deals, and sheer backlog rather than starting over.
+- **[Virtual Moose](https://virtualmoose.org/2025/12/16/indie-game-roundup-december-16-2025/)** — Michael’s indie roundup serves a grab-bag of new bites—brutal platforming with Ken Griffey Jr. taunts, a Vampire Survivors-ish Robo Attack 3D, PICO-8 Advent Calendar treats, and more.
