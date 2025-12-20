@@ -1,22 +1,20 @@
-# Daily Blogroll: 2025-12-19
+# Daily Blogroll: 2025-12-20
 
 ## General
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_19.html)** — Bhagpuss’s advent calendar drops two “Blue Christmas” picks—Tiger La Flor and Porky Pig—paired with a moody blue-lights photo for a quick seasonal music detour.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/18/the-passage-of-time)** — Roger gets candid about aging, mortality, and whether time actually grants wisdom or healing—then wryly wonders if our whole sense of time is a Swiss/Greenwich confidence trick.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/the-donut-shop-ends-police-discount-guy-is-no-longer-deputy-director-of-the-fbi/)** — Jamie Zawinski digs into the performative “predator eyes” outrage aesthetic—jaw-clenching, air-chewing, Andrew Tate vibes—and why that body-language act sells to a particular audience.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_20.html)** — Bhagpuss keeps the Advent Calendar rolling with a snowy “White Christmas” double-feature—Lou Reed and Iggy Pop versions queued up for a moody holiday listen.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/19/left-behind-in-the-holiday-rush/)** — Warner Crocker spots a lonely little holiday castoff in a grocery aisle, snaps a photo, feels a moment of sadness, and moves on—small scene, big seasonal vibe.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html)** — Bruce Schneier’s Friday Squid Blogging shares a Reddit “petting a squid” video (Humboldt, maybe) and opens the comments for whatever security news you’ve been chewing on.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/12/18/135613.html?title=inoreaderAndDynamicOpml)** — Dave Winer tries Inoreader’s dynamic OPML subscriptions with his FeedLand podcast list, confirms it syncs adds/removes, and shares the step-by-step setup for keeping readers aligned.
-- **[Hamatti](https://hamatti.org/posts/advent-of-code-2025-retrospective/)** — Juhis reflects on Advent of Code 2025’s shorter 12-day format, finishing all 24 stars in Python, and wonders if his polished “pythonic” writeups should shift toward more beginner step-by-steps.
-## Writing
-
-- **[West Karana](https://westkarana.blog/2025/12/18/re-reading-john-varleys-thunder-lightning-trilogy/)** — Tipa revisits John Varley’s Heinlein-homage “Thunder & Lightning” books, recaps the wild Mars-race premise, and admits Red Thunder still feels more “gee whiz” than great.
+- **[Scripting News](http://scripting.com/2025/12/19.html#a153308)** — Dave Winer riffs on “feed sharing” via dynamic OPML, pokes at Inoreader’s HTML clips, and caps it off with a Keurig-fueled hot-coffee epiphany.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/what-are-your-favorite-shadertoys/)** — Jamie Zawinski built a Shadertoy-compatible XScreenSaver module and asks for great shader links, while laying out the messy blockers: CC BY-NC-SA defaults, no license filtering, and Cloudflare hassles
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-19-sonarr-time/)** — Anarchae finally sets up Sonarr on a NAS to clean up TV files for Jellyfin (plus hardlinks via qbittorrent), then hits a wall with jellyfin-mpv-shim’s rough docs and crash loop.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/18/the-steam-winter-sale-2025-has-begun/)** — Wilhelm rounds up the Steam Winter Sale 2025 (through Jan 5) with a few standout discounts, plus a nudge to vote in the Steam Awards—even if the magic’s faded a bit.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2025/12/19/kingdom-grandprix-the-faster-the-better/)** — Kimimi explains why Raizing’s Kingdom Grandprix looks like a shmup but plays like a race, where screen position controls speed and even bumping enemies at pace can work in your favor.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/making-sense-of-pvp-in-eve-online.html)** — CrazyKinux talks through learning small-ship PvP in EVE Online with a Merlin fit (MWD/scram/web/shield buffer), then plans smarter rigging to patch EM/thermal holes and grow into T2.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/18/oops-fun-happened/)** — Belghast bounces back into Path of Exile II after fixing a squishy build by ditching armor expectations and leaning on Cloak of Flame-style physical-to-elemental damage shifting for calmer mapping.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/18/the-steam-and-the-gog-train/)** — Emily weighs Steam vs GOG—loving GOG’s DRM-free ownership and preservation stance, but sticking with Steam’s all-in-one library, deals, and sheer backlog rather than starting over.
-- **[Virtual Moose](https://virtualmoose.org/2025/12/16/indie-game-roundup-december-16-2025/)** — Michael’s indie roundup serves a grab-bag of new bites—brutal platforming with Ken Griffey Jr. taunts, a Vampire Survivors-ish Robo Attack 3D, PICO-8 Advent Calendar treats, and more.
+- **[Virtual Moose](https://virtualmoose.org/2025/12/19/many-nights-a-whisper-thoughts/)** — Michael recommends Many Nights a Whisper, a ~60-minute archery-and-wishes adventure that mixes light and heavy prompts, gives choices weight, and ends with one tense make-or-break long shot.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/19/friday-bullet-points-in-the-midst-of-the-holidays/)** — Wilhelm does holiday bullet points, led by EverQuest’s 2026 TLP plans—Frostreaver’s player-polled rules and Lethar starting at The Serpent’s Spine with “personal loot.”
+- **[In An Age](https://inanage.com/2025/12/18/normal-people-dont-care/)** — Azuriel digs into the Larian generative-AI kerfuffle—Schreier’s interview, Vincke’s clarifications, and the “you can’t afford not to try stuff” mindset—before zooming out to what people actually care.
+- **[Hamatti](https://hamatti.org/posts/i-played-some-games-this-year/)** — Juhis shares a human-curated favorites list from games played this year, from hundreds of hours in NHL 21 to the forever-comfort of Stardew Valley and its still-coming updates.
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/19/praise-the-chinchilla/)** — Belghast recaps Destiny Rising reset runs—Grandmaster Blitz chills, a rough Calamity Ops, then a clutch title unlock—plus pure Dawning chaos thanks to the inexplicable guild-hall “Dawning Chinchilla.”
+- **[Going Commando](https://swtorcommando.blogspot.com/2025/12/happy-14th-birthday-swtor.html)** — Shintar marks SWTOR’s 14th birthday, tracing how the voice actor strike stretched story updates into a 558-day drought and turned 2025 into a dynamic-encounters-and-Bessi-customizations kind of year.
