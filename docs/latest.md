@@ -1,20 +1,20 @@
-# Daily Blogroll: 2025-12-20
+# Daily Blogroll: 2025-12-21
 
-## General
-
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_20.html)** — Bhagpuss keeps the Advent Calendar rolling with a snowy “White Christmas” double-feature—Lou Reed and Iggy Pop versions queued up for a moody holiday listen.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/19/left-behind-in-the-holiday-rush/)** — Warner Crocker spots a lonely little holiday castoff in a grocery aisle, snaps a photo, feels a moment of sadness, and moves on—small scene, big seasonal vibe.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html)** — Bruce Schneier’s Friday Squid Blogging shares a Reddit “petting a squid” video (Humboldt, maybe) and opens the comments for whatever security news you’ve been chewing on.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2025/12/19.html#a153308)** — Dave Winer riffs on “feed sharing” via dynamic OPML, pokes at Inoreader’s HTML clips, and caps it off with a Keurig-fueled hot-coffee epiphany.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/what-are-your-favorite-shadertoys/)** — Jamie Zawinski built a Shadertoy-compatible XScreenSaver module and asks for great shader links, while laying out the messy blockers: CC BY-NC-SA defaults, no license filtering, and Cloudflare hassles
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-19-sonarr-time/)** — Anarchae finally sets up Sonarr on a NAS to clean up TV files for Jellyfin (plus hardlinks via qbittorrent), then hits a wall with jellyfin-mpv-shim’s rough docs and crash loop.
+- **[Chasing Dings!](https://chasingdings.com/2025/12/20/the-2025-daily-blogroll-awards/)** — Tipa riffs on the generative-AI backlash (hello, Larian/Baldur’s Gate 3), then explains how she built a Daily Blogroll-style RSS summarizer with the OpenAI API and GPT models.
+## General
+
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/inventory-full-advent-calendar-2025-day_21.html)** — Bhagpuss’s Advent Calendar Day 21 is a quick music-forward holiday drop, pairing “Sometimes You Have to Work On Christmas” with picks from Harvey Danger, Crowder, and “The Elf Song.”
+- **[Scripting News](http://scripting.com/2025/12/20/180029.html?title=earlyAfternoonBlogging)** — Dave Winer circles around why we’re wired to judge, why “view from nowhere” is a myth, and how a Bronx 4 train ride made other people’s hidden lives click into focus.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2025/12/20/digital-jukeboxes)** — Roger digs into how digital jukeboxes survive in pubs via revenue-splitting “free machine” deals, then lands on the real point: it’s nice when the landlord doesn’t control all the music.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/21/sunday-morning-reading-134/)** — Warner says Sunday Morning Reading is still on hiatus mid travel-day, wrapping up a 10-day grandparent stint as the family migrates from old house to “Special Christmas House.”
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2025/12/18/Humanist-Plumbing)** — Tim Bray tells a dripping-faucet story about routing around “late-stage capital” by asking neighbors for a plumber, only to hit the reality of back-ordered warranty parts until May.
 ## Gaming
 
-- **[Virtual Moose](https://virtualmoose.org/2025/12/19/many-nights-a-whisper-thoughts/)** — Michael recommends Many Nights a Whisper, a ~60-minute archery-and-wishes adventure that mixes light and heavy prompts, gives choices weight, and ends with one tense make-or-break long shot.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/19/friday-bullet-points-in-the-midst-of-the-holidays/)** — Wilhelm does holiday bullet points, led by EverQuest’s 2026 TLP plans—Frostreaver’s player-polled rules and Lethar starting at The Serpent’s Spine with “personal loot.”
-- **[In An Age](https://inanage.com/2025/12/18/normal-people-dont-care/)** — Azuriel digs into the Larian generative-AI kerfuffle—Schreier’s interview, Vincke’s clarifications, and the “you can’t afford not to try stuff” mindset—before zooming out to what people actually care.
-- **[Hamatti](https://hamatti.org/posts/i-played-some-games-this-year/)** — Juhis shares a human-curated favorites list from games played this year, from hundreds of hours in NHL 21 to the forever-comfort of Stardew Valley and its still-coming updates.
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/19/praise-the-chinchilla/)** — Belghast recaps Destiny Rising reset runs—Grandmaster Blitz chills, a rough Calamity Ops, then a clutch title unlock—plus pure Dawning chaos thanks to the inexplicable guild-hall “Dawning Chinchilla.”
-- **[Going Commando](https://swtorcommando.blogspot.com/2025/12/happy-14th-birthday-swtor.html)** — Shintar marks SWTOR’s 14th birthday, tracing how the voice actor strike stretched story updates into a 558-day drought and turned 2025 into a dynamic-encounters-and-Bessi-customizations kind of year.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2025/12/20/pokemon-ultra-sun-ultra-moon/)** — Ellie finally goes into Pokémon Ultra Sun/Ultra Moon mostly blind, excited for Necrozma, Rainbow Rocket, and the multiverse weirdness—while chasing that old-school thrill of discovery in Alola.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/what-makes-good-campaign-board-game.html)** — Tobold weighs what makes a great campaign board game—narrative adventure versus learning/setup workload—using Malhya’s hundreds-of-icons “hieroglyphics” problem as a cautionary tale.
+- **[Frostilyte Writes](https://frostilyte.ca/2025/12/20/the-best-games-of-2025/)** — Frostilyte celebrates a huge indie-heavy 2025 and starts spotlighting under-the-radar favorites, kicking off with why Monster Train 2’s deckbuilding flexibility still shines even at top difficulty.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/20/guild-wars-reforged-we-make-a-guild-and-arenanet-changes-the-rules/)** — Wilhelm and Potshot form a Guild Wars guild (naming is the real endgame), dream of a boar-themed cloak, then promptly learn what level-6 travel to Lion’s Arch looks like: repeated wipes.
+- **[Virtual Moose](https://virtualmoose.org/2025/12/21/itch-io-winter-game-sale-2025-recommendations/)** — Michael gets grumpy about Steam-only recs and posts Itch.io Winter Sale picks instead, boosting Indiepocalypse plus games like Liberation, Minerva’s Labyrinth, Inspector Waffles, and Cyclopean.
+- **[Bio Break](https://biobreak.wordpress.com/2025/12/19/wow-classic-murloc-says-mrgghllgle/)** — Syp sticks with comfy WoW Classic, leveling a Druid through Stranglethorn Vale, daydreaming about Classic+ housing, snapping a pirate-and-ninja guild event, and saluting murloc tenacity.
