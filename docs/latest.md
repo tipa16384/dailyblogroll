@@ -1,22 +1,20 @@
-# Daily Blogroll: 2025-12-27
+# Daily Blogroll: 2025-12-28
 
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2025/12/26/steam-winter-sale-dispatch/)** — Tipa dug into Dispatch, a superhero-tinged 911 Operator meets visual novel from ex-Telltale/Critical Role talent, with stat-based dispatching, hacky minigames, and romance-driven choices.
-- **[Dragonchasers](https://dragonchasers.com/2025/12/26/winter-burrow-finished/)** — Nimgimli wrapped Winter Burrow and found the cozy-mouse survival vibes fade when you play sporadically—cold management gets tedious, decorating’s optional, and the newly added map helps a lot.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2025/12/starting-to-wrap-up-legion-remix.html)** — Shintar is planning the end of WoW’s Legion Remix, with most achievements done, but calls out the chaotic stacked XP leveling that leaves you undergeared and praying for dungeon/raid carries.
-- **[Virtual Moose](https://virtualmoose.org/2025/12/27/made-a-playdate-game-with-my-kids/)** — Michael made a tiny free Playdate game with his 6- and 8-year-olds using Pulp (Bitsy-style), with the kids handling design/writing while he tackled coding/art—and learned a ton.
-- **[A Pixel Nomad](https://pixelnomad.ca/2025/12/27/when-the-loot-table-knows-your-lore/)** — Stargrace finds EVE Online’s Winter Nexus loot table oddly sentimental: an industrial-sized bubble bath shipment addressed to R-AG7W, turning old war memories into a tinsel-wrapped in-joke.
-- **[Hamatti](https://hamatti.org/posts/we-played-a-full-scarlet-and-violet-progression-series/)** — Juhis recounts finishing a full Pokémon TCG Scarlet & Violet Progression Series by opening virtual packs and building decks each round—fun, messy deckbuilding lessons, and plans for another block next
+- **[Chasing Dings!](https://chasingdings.com/2025/12/27/steam-winter-sale-seafarer-the-ship-sim/)** — Tipa follows a Greatest Showman nitpick down an Age-of-Sail research rabbit hole, then ends up buying Seafarer: the Ship Sim to scratch the commercial-shipping itch.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/strolling-through-void-rage-of-cthurath.html)** — Bhagpuss checks in on EverQuest II: Rage of Cthurath as a casual soloer—fun, decent value, thinner story, and noticeably shorter Signature questlines that make alts feel doable again.
+- **[In An Age](https://inanage.com/2025/12/27/review-death-howl/)** — Azuriel reviews Death Howl, a “Soulslike deck builder” with grid battles and brutal fights—evocative vibes and clever death-howls loop, but frustratingly limited combat info and constrained deck depth
+- **[Time to Loot](https://www.timetoloot.com/blog/journal/time-to-loot-journal-november-2025/)** — Naithin’s very-late November(ish) journal: Where Winds Meet quest goals smashed (multiplayer lag woes), Wuthering Waves 3.0 looks promising, and a neat hours breakdown across a bunch of games.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/recall.html)** — Tobold reviews board game Recall from Spiel Essen: a fiddly, long setup and a 4-hour teach-and-play, with key/slot action combos that ramp complexity fast—maybe too long for regular nights.
 ## Tech
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/cultured-creative-tech-savvy-thats-me.html)** — Bhagpuss pokes at YouTube’s new Recap, notes the weird rollout and channel quirks, and shares a handy workaround URL—then admits the results were kinda underwhelming.
-- **[Scripting News](http://scripting.com/2025/12/26/155628.html?title=theFogOfNewsInThe2020s)** — Dave Winer riffs on Sarah Kendzior’s frustration with “new” Epstein revelations, arguing news ownership keeps repeating the same truths, and pushes publishing on the open web with replaceable services
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-25-tv-media-trackers-2025/)** — Anarchae vents that TV/media trackers like trakt and Serializd lock or lack exports, so they’re back to self-hosting and sticking with Completionator for games because CSV export matters most.
+- **[Scripting News](http://scripting.com/2025/12/27.html#a205835)** — Dave Winer argues AI’s next big win for developers is helping us design a simpler general-purpose programming language—because today’s browser-to-server JavaScript complexity is just too much.
+- **[usebox.net](https://www.usebox.net/jjm/blog/and-that-was-2025/)** — JJM’s 2025 recap: lots of gamedev but no releases, physical editions for 2024 games, Skyrim dominating playtime, and a late-year surge of OCaml that might replace the Haskell plan.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html)** — Bruce Schneier spotlights new research on oval squid camouflage—disruptive vs mottled patterns, contrast thresholds, and posture tied to sitting or hovering—plus the usual open thread for security ch聊
 ## General
 
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/lobster-heist/)** — Jamie Zawinski links a report on a $400K lobster shipment hijacked en route to Illinois Costco locations, and adds it to his growing, absurdly specific “heist” running gag.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/26/the-search-for-the-coat/)** — Warner tells the tale of a beloved SCOTTeVEST Brad Thor Alpha Coat—35+ pockets, gadget-carrying glory—and how his wife tracked down a replacement as a determined Christmas gift mission.
-## Writing
-
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/27/yes-i-post-spoilers-deal-with-it/)** — Emily lays it out: her reviews for books, movies, and video games will include spoilers because she wants to ramble honestly—she’ll warn you, but dodging spoilers is on you.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/27/the-before-times/)** — Warner Crocker reflects on post-Christmas Chicago gatherings and how “the before times” (pre-Trump, pre-COVID) gave way to loss, new marriages, scattered kids, Zoom traditions, and constant change.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/27/my-books-of-2025/)** — Wilhelm rounds up his 2025 reading—39 books tracked on Goodreads despite the Bezos grumbles—leaning into escapism and calling out how Roman political fiction (hello Cicero trilogy) hits a little close
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/26/numb-christmas/)** — Belghast writes through a hollow, workday-after-Christmas haze after losing his spouse, sharing family time, awkward in-law dynamics, and coping via small projects like 3D-printed Star Wars and LEGO
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2025/12/26/measuring-success-when-the-metrics-disappear/)** — Joar explores life after leaving traditional work: when performance metrics vanish, old productivity checklists feel empty, and “success” shifts toward unquantifiable wins like relationships, presence
