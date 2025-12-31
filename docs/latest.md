@@ -1,22 +1,22 @@
-# Daily Blogroll: 2025-12-30
+# Daily Blogroll: 2025-12-31
 
 ## Gaming
 
-- **[Dragonchasers](https://dragonchasers.com/2025/12/29/early-thoughts-on-relic-hunters-legends/)** — Nimgimli tried Relic Hunters Legends via Game Pass for Microsoft Rewards, and after 5 hours found the kid-coded twin-stick looter-shooter fine-but-forgettable, especially solo.
-- **[Going Commando](https://swtorcommando.blogspot.com/2025/12/what-to-expect-from-swtor-in-2026.html)** — Shintar digs into SWTOR’s rare 2026 roadmap, flags ongoing DirectX 12 progress without a date, and runs through 7.8.1 highlights like Torian/Kira date nights and “Master’s Enigma.”
-- **[Tobold's Blog](http://tobolds.blogspot.com/2025/12/board-game-collection-cleanup.html)** — Tobold tackles board-game shelf overload, arguing collecting isn’t playing, and describes giving away big-box titles like Malhya, Tainted Grail, and Artisans of Splendent Vale via a forum.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/29/guild-wars-reforged-and-wandering-the-diessa-lowlands/)** — Wilhelm and Potshot push alts ahead in Guild Wars Reforged, carefully navigating The Breach into Diessa Lowlands with henchmen, quests, and hard-learned lessons about not facepulling everything.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2025/12/when-passion-shows-in-every-detail-zlin.html)** — CrazyKinux is smitten with Zlín City: Arch Moderna’s trailer, praising Polyperfect’s hand-built models and photogrammetry for that tabletop-miniature vibe, and says he’s signed up for the playtest.
-## General
-
-- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/never-mind-music-just-look-at-pictures.html)** — Bhagpuss recaps the 2025 Inventory Full Advent Calendar, thanking Redbeard and Tipa, then nerds out on the behind-the-scenes process—especially the images that took the most work.
+- **[Scopique](https://scopique.com/2025/12/30/reflections-on-a-steam-sale-winter-2025/)** — Scopique feels the Steam Sale slump—too many lobby shooters/PvPvE and not enough fresh hooks—then digs into Lovecrafty picks like Shadows of the Forbidden Gods and Cyclopean: The Great Abyss.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/30/looking-back-at-2025-i-really-have-to-just-focus-on-the-highs-again/)** — Wilhelm’s 2025 gaming industry look-back tries to ignore the layoffs/greed/AI nonsense and cling to the highs, from WoW finally getting housing and Classic variants galore to EVE Online expansions and
+- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/30/season-of-providence/)** — Belghast breaks down Destiny Rising’s new season/act starring an alt-universe Kabr, with new modes and a Crota’s End-style raid, but he’s unimpressed by Kabr’s kit and is mostly in it for the event
 ## Tech
 
-- **[Scopique](https://scopique.com/2025/12/29/2026-a-prequel/)** — Scopique skips the 2025 retrospective and instead lays out 2026 goals: daily Obsidian notes, app-use tracking across games and tools like Blender/Resolve, and setting achievable targets.
-- **[Scripting News](http://scripting.com/2025/12/29.html#a211118)** — Dave Winer says WordLand II is getting genuinely useful, with Instant Outlines in Drummer helping a small group coordinate work—plus a low-key nudge to subscribe to the nightly email.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-10-18.html)** — Tofutush documents her 11ty image gallery setup: a huge JSON metadata file sorted via a JS data module, plus Liquid filters to slice art by author and date.
-- **[Grumpy Gamer](https://grumpygamer.com/sqlite_comments/)** — Ron Gilbert explains replacing Hugo comment flat-files with a PHP+SQLite setup after spam/maintenance pain, spinning up a new server and happily dodging a return to MySQL.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html)** — Bruce Schneier argues AI is already reshaping democratic governance quietly, spotlighting Medicare/insurance algorithm decisions and policy shifts that expand AI’s role in approving—or denying—care.
+- **[Scripting News](http://scripting.com/2025/12/30.html#a172155)** — Dave Winer nods to Manton Reece on why Micro.blog uses Markdown for interop, then riff-blogs from stormy power-outage logistics to artsy movies and a quiet plug for his nightly email.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/30/my-year-in-the-apple-fruit-basket-2025/)** — Warner’s 2025 Apple recap is equal parts weary and practical: doubts about Tim Cook-era corporate vibes, disgust at AI “slop,” and a mostly-incremental hardware year (iPhone 17 Pro, AirPods Pro 3, and
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html)** — Bruce Schneier flags a Wired report on scammers using AI-generated “broken item” photos to claim refunds, with comments noting the same trick showing up in Airbnb-style fake damage charges.
 ## Writing
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-29-blogging/)** — Anarchae crunches six months of Bearblog stats—sites/themes made, 130 posts, visitors/reads—then lists top posts and referrers, noting the meta stuff about Bearblog draws the most attention.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-10-26.html)** — Tofutush compares herself to her character Sparky, then spirals into a blunt self-check on not relating to fictional people, “getting personalities,” and what that might mean for real relationships.
+- **[Hamatti](https://hamatti.org/posts/year-in-review-2025/)** — Juhis does an end-of-year reflection with hopes like “become a better writer,” notes pride and positive feedback as readership grows, and frames 2025 as a return of some much-needed optimism.
+## General
+
+- **[Bio Break](https://biobreak.wordpress.com/2025/12/29/taking-stock-of-my-physical-music-collection-in-2025/)** — Syp checks in on his renewed CD-collecting hobby: a quieter 2025 but still ~2,500 discs, a $6 Goodwill boombox surprise hit, a big re-sort with duplicates purged, and dreams of a modded iPod Mini and
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/30/what-i-listened-to-in-2025/)** — Emily revives a year-end listening roundup (Spotify Wrapped and memory), gushing over Transformers-infused metal from The Cybertronic Spree, Bionicle-inspired concept albums by the Le-Koro Band, and a
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-30-media/)** — Anarchae’s annual media log tallies a mystery-heavy year—38 fiction books, lots of podcasts, reality TV via Drag Race and The Traitors, and under-10 games played but with huge time sinks like Baldur’s
+- **[Axxuy](https://axxuy.xyz/blog/posts/2025/music-stacks/)** — Axxuy’s been buying CDs to rip (and even dabbling in vinyl) and hits the classic physical-media dilemma—what do you do with the discs afterward?—while praising libraries for the underrated joy of just
