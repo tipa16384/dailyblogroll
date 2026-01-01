@@ -1,22 +1,22 @@
-# Daily Blogroll: 2025-12-31
+# Daily Blogroll: 2026-01-01
 
 ## Gaming
 
-- **[Scopique](https://scopique.com/2025/12/30/reflections-on-a-steam-sale-winter-2025/)** — Scopique feels the Steam Sale slump—too many lobby shooters/PvPvE and not enough fresh hooks—then digs into Lovecrafty picks like Shadows of the Forbidden Gods and Cyclopean: The Great Abyss.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/30/looking-back-at-2025-i-really-have-to-just-focus-on-the-highs-again/)** — Wilhelm’s 2025 gaming industry look-back tries to ignore the layoffs/greed/AI nonsense and cling to the highs, from WoW finally getting housing and Classic variants galore to EVE Online expansions and
-- **[Tales of the Aggronaut](https://aggronaut.com/2025/12/30/season-of-providence/)** — Belghast breaks down Destiny Rising’s new season/act starring an alt-universe Kabr, with new modes and a Crota’s End-style raid, but he’s unimpressed by Kabr’s kit and is mostly in it for the event
-## Tech
-
-- **[Scripting News](http://scripting.com/2025/12/30.html#a172155)** — Dave Winer nods to Manton Reece on why Micro.blog uses Markdown for interop, then riff-blogs from stormy power-outage logistics to artsy movies and a quiet plug for his nightly email.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/30/my-year-in-the-apple-fruit-basket-2025/)** — Warner’s 2025 Apple recap is equal parts weary and practical: doubts about Tim Cook-era corporate vibes, disgust at AI “slop,” and a mostly-incremental hardware year (iPhone 17 Pro, AirPods Pro 3, and
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html)** — Bruce Schneier flags a Wired report on scammers using AI-generated “broken item” photos to claim refunds, with comments noting the same trick showing up in Airbnb-style fake damage charges.
-## Writing
-
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-10-26.html)** — Tofutush compares herself to her character Sparky, then spirals into a blunt self-check on not relating to fictional people, “getting personalities,” and what that might mean for real relationships.
-- **[Hamatti](https://hamatti.org/posts/year-in-review-2025/)** — Juhis does an end-of-year reflection with hopes like “become a better writer,” notes pride and positive feedback as readership grows, and frames 2025 as a return of some much-needed optimism.
+- **[Dragonchasers](https://dragonchasers.com/2025/12/31/december-2025/)** — Nimgimli’s December recap is mostly moving chaos, but he still sneaks in My Time At Sandrock progress, wraps up Winter Burrow, and keeps a daily Ball X Pit streak.
+- **[Indiecator](https://indiecator.org/2025/12/31/trash-goblin-review-cozy-shop-keeping-sim/)** — Magi reviews Trash Goblin, a cozy fantasy shop sim where you chisel and clean trinkets Picross-style, manage time slots, and sell oddities to a parade of quirky customers.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2025/12/31/december-2025-in-review/)** — Wilhelm wraps December with blog stats: daily posting streak intact (2,104 straight days), 393 posts in 2025, and pageviews up—then shrugs that all web traffic is basically lies.
+- **[Zarf Updates](https://blog.zarfhome.com/2025/12/adorable-little-games)** — Andrew Plotkin speed-recommends three “adorable little games”—Despelote, Many Nights a Whisper, and Keeper—praising their vibe, weird worlds, and punchy storytelling (with one finicky final shot).
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2025/12/2025-year-in-review.html)** — Joar hits 52 max-level WoW alts (level 73 and counting on the last one), then lines up ESO, Diablo IV seasonal runs, and Guild Wars 2 expansion plans—because the leveling never ends.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2025/12/retail-wow-me-in-2025.html)** — Shintar breaks down her 2025 Retail WoW year via the new warband screen, spotlighting her level 80 draenei warrior main, dropping Mythic+ after season one, and lots of duo delves and professions.
 ## General
 
-- **[Bio Break](https://biobreak.wordpress.com/2025/12/29/taking-stock-of-my-physical-music-collection-in-2025/)** — Syp checks in on his renewed CD-collecting hobby: a quieter 2025 but still ~2,500 discs, a $6 Goodwill boombox surprise hit, a big re-sort with duplicates purged, and dreams of a modded iPod Mini and
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2025/12/30/what-i-listened-to-in-2025/)** — Emily revives a year-end listening roundup (Spotify Wrapped and memory), gushing over Transformers-infused metal from The Cybertronic Spree, Bionicle-inspired concept albums by the Le-Koro Band, and a
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2025-12-30-media/)** — Anarchae’s annual media log tallies a mystery-heavy year—38 fiction books, lots of podcasts, reality TV via Drag Race and The Traitors, and under-10 games played but with huge time sinks like Baldur’s
-- **[Axxuy](https://axxuy.xyz/blog/posts/2025/music-stacks/)** — Axxuy’s been buying CDs to rip (and even dabbling in vinyl) and hits the classic physical-media dilemma—what do you do with the discs afterward?—while praising libraries for the underrated joy of just
+- **[Inventory Full](https://bhagpuss.blogspot.com/2025/12/the-inventory-full-pick-of-year-2025.html)** — Bhagpuss rounds up his 2025 music picks with a very him set of rules, YouTube replays, and CD buys—plus some funny side-eye about wishlists and who made the cut.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2025/12/31/my-viewing-and-reading-picks-for-2025/)** — Warner shares his 2025 viewing-and-reading picks, leaning toward “complexity” over “best of,” with shout-outs like The Pitt and Adolescence plus a short stack of books.
+## Tech
+
+- **[Scopique](https://scopique.com/2026/01/01/and-now-for-hopefully-something-completely-different/)** — Scopique sets 2026 goals: make one Blender composition per quarter, keep improving without deadline pressure, and wrestle with how AI hype and corporate app-dev burnout are killing the joy.
+- **[Scripting News](http://scripting.com/2025/12/31.html#a233607)** — Dave Winer signs off 2025 with a quiet “bring on 2026,” and notes he fixed the nightly email unsubscribe flow—if it still glitches, he points you to a GitHub issue thread.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2025/12/eargapping/)** — Jamie Zawinski riffs on “eargapping” after a report on Bluetooth headphone chip exploits, highlighting how attackers could connect without pairing to snoop audio, dump data, or even brick devices.
+## Writing
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-11-17.html)** — Tofutush walks through how The Iron Ragdoll evolved from a Homestuck fanventure, scrapping the old Hillslope Mysteries arc and reworking characters and lore into Coastline Middle School.
