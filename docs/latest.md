@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-01-04
+# Daily Blogroll: 2026-01-05
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/01/03.html#a160700)** — Dave Winer vents about copy-pasting into five social silos instead of real web interop, then reflects on how easy wars start, blog archives, and his new nightly Scripting News email.
-- **[Grumpy Gamer](https://grumpygamer.com/hu_comments/)** — Ron Gilbert is polishing a Hugo comments script (flat files or SQLite, Discord notifications) and admits the real trick is public promises—same motivation hack he uses for game dev.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/snarkatron-appreciation-post/)** — Jamie Zawinski adds a self-test mode to the Snarkatron and celebrates that most of its 27-year-old pixels are still kicking—retrocomputing joy with a side of glitch appreciation.
-- **[In An Age](https://inanage.com/2026/01/02/infiltration/)** — Azuriel watches workplace AI go from “don’t paste sensitive notes into ChatGPT” to a walled-off setup where one programmer uses Copilot to build a massive form in 100 hours—and worries about junior岗位.
 ## Gaming
 
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/01/the-original-vale-of-eternal-blossoms.html)** — Shintar tours WoW’s original Vale of Eternal Blossoms in Mists of Pandaria Classic before it gets wrecked again, contrasting it with the later “ravaged” version she first experienced.
-- **[Bio Break](https://biobreak.wordpress.com/2026/01/02/syps-gaming-goals-for-january-2026/)** — Syp reviews a busy December (finishing Pillars of Eternity II, grabbing Rogue Trader and more) and maps January plans across LOTRO zones, WoW retail/classic prepatches, and finally starting Rogue|_end
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/01/03/fitness-games-for-2026/)** — Krista rounds up fitness games as a low-pressure New Year’s move-more plan, from Wii Fit classics to Ring Fit Adventure, with a quick history lesson and a big “moderation” disclaimer.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/01/01/january-2026-poll/)** — Luna kicks off 2026 with a reader poll on favorite console/handheld playstyles, shares last month’s “seasons in games” results (Autumn wins), and notes the blog’s on break until Jan 13.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/01/narrascope-call-for-stuff)** — Andrew Plotkin announces NarraScope 2026 (Albany, June 12–14) is taking submissions for talks, games, and a new “Experience” track for embodied/physical-digital narrative—deadline Jan 31.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/baldurs-gate-3-its-just-game.html)** — Bhagpuss finds Baldur’s Gate 3 more Larian than classic Baldur’s Gate—addictive and intense, but episodic, slow to progress, and packed with talky quest sprawl.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/04/tagn-fantasy-critic-league-2026-week-one-the-draft-and-lessons-learned/)** — Wilhelm recaps TAGN’s Fantasy Critic League 2026 draft day—date and pick-count mixups, new rules, auto-picks galore, one manual rescue pick, and lessons learned for next time.
+- **[West Karana](https://westkarana.blog/2025/12/31/picotron-will-probably-not-make-me-rich-and-famous/)** — Tipa ports Sword for Hire from Python to Lua for Picotron, gets inspired by what others are building, and experiments with dithered scene transitions while wrestling cartridge-size limits.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/01/05/upcoming-2026-releases/)** — Krista spotlights seven 2026 games she’s excited to try—mixing cozy-leaning indies with bigger names like Mario Tennis Fever and Monster Hunter Stories 3: Twisted Reflection.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/01/05/power-dolls-6-mission-failed/)** — Kimimi reviews Power Dolls 6’s shift to streamlined 3D mech action, but the foggy, sterile presentation and janky details (floating parts, limited dodging) sap the big-explosions fun.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/01/05/wow-gold-making-week-1-2026/)** — Stargrace’s WoW gold-making week nets nearly 5M, led by an 800k+ Rich Purple Silk Shirt pattern, and she doubles down on server-arbitrage while keeping posting time manageable.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/01/04.html#a011742)** — Dave Winer argues for owning your own online distribution as a co-op (no VC, billionaires, or government), plugs FeedLand politics and the nightly Scripting News email.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/01/silencing-my-computer.html)** — Tobold tracks down a too-loud water-cooled PC: radiator fans stuck at 100% for years, new Corsair fans plus dust cleanup, then BIOS fan curves for quiet temps—even in BG3.
 ## General
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/03/well-that-happened/)** — Warner reacts to news of the U.S. invading Venezuela and kidnapping its president and wife, calling the press conference shaky improv and warning the fallout will get even wilder.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/01/the-purpose-of-international-law.html)** — Tobold unpacks how international law works by consent, arguing the U.S. grabbing Maduro risks “open season” on leaders and triggers the Pottery Barn rule—now you own Venezuela’s mess.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/03/binge-watching-the-beast-in-me-and-pluribus/)** — Wilhelm double-features Pluribus (a Vince Gilligan hive-mind sci-fi he reads as an AI metaphor) and The Beast in Me, with some “it’s fine, not THAT good” binge-watching realism.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/04/i-resolve-to-live/)** — Belghast shares a deeply personal resolution: after losing his spouse and drifting in numbness, he wants 2026 to be about genuinely living life again, not just passing time.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-01-04-week-1-digest/)** — Anarchae’s week-one digest hits a new Panasonic hot water dispenser, returning to weekly qigong, and reading Otto Penzler’s female-detectives anthology (including a surprisingly light Christie).
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/04/sunday-morning-reading-136/)** — Warner’s Sunday link roundup riffs on a wild Venezuela news weekend, propaganda and MAGA infighting, plus pieces on Grok/X abuse, enshittification-resistant internet ideas, and blogging’s comeback.
+## Writing
+
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/01/01/when-he-was-wicked-faithfulness-to-the-deceased/)** — Emily reviews Bridgerton’s When He Was Wicked, unpacking Francesca’s grief and fear of “unfaithfulness” after John’s death, and her slow-burn, conflicted romance with Michael.
