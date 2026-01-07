@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-01-06
+# Daily Blogroll: 2026-01-07
 
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2026/01/05/holiday-grab-bag-dune-palworld-quest-64/)** — Tipa wrangles Dune: Awakening base relocation drama—private servers, Solari scrambling, missing thopters, and rebuilding foundations—while worrying the whole server cluster’s going quiet.
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/01/trying-to-make-2026-awesome-dune-bg3.html)** — The Friendly Necromancer journals a rough reset—bereavement, flu, ongoing immunotherapy—then talks Dune feeling like chores and a Baldur’s Gate 3 clown-cleric run deep into Act 3.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/1/4/tainted-grail-the-fall-of-avalon-initial-thoughts)** — Roger shares early thoughts on Tainted Grail: The Fall of Avalon—use-based skill leveling, generous skill points, crafting through persistence, and tough combat that rewards movement, timing, and mana
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/01/04/the-almighty-backlog-games-of-the-year-2025/)** — Ellie celebrates eight years of reviews with a comfy “games of 2025” list—12 monthly picks and why they stuck, plus a nod to how writing helps keep her gaming habits (and head) healthier.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/01/galactic-season-9-in-review.html)** — Shintar wraps SWTOR Galactic Season 9 after finishing all meta achievements, praising the flashpoint-heavy theme and mostly chill groups, while noting veteran-only weeklies made guild nights harder to
-- **[Bio Break](https://biobreak.wordpress.com/2026/01/05/world-of-warcraft-the-tragic-tale-of-the-iron-chainkini/)** — Syp feels a bit aimless in World of Warcraft, so he’s leveling a Death Knight toward prepatch, trophy-hunting (hello, Onyxia head), decor-scavenging in Northrend, and buying the Iron Chainkini.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/05/the-steam-winter-sale-2025-wraps-up-with-awards-and-stats/)** — Wilhelm closes out Steam’s Winter Sale with the Steam Awards (none of his votes won), grumbles about “popularity contest” vibes, and digs into Best of Steam 2025 seller/player stats tiers.
-## General
-
-- **[Scopique](https://scopique.com/2026/01/05/trippin/)** — Scopique vents about the headache of planning a June UK-to-Ireland trip—rental car rules kill England/Scotland, and his wife goes full spreadsheet mode to lock down Ireland lodging.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/when-is-door-not-door.html)** — Bhagpuss admits Baldur’s Gate 3 is eating his life—25 hours since Saturday—and vents about quest journals that send you NPC-hunting unless you peek at guides.
+- **[Scopique](https://scopique.com/2026/01/06/voting-on-star-citizen-politics/)** — Scopique wants Star Citizen to make Imperator elections matter in-game, pitching something Powerplay-ish from Elite Dangerous as a way to add systems beyond “shoot and loot.”
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/01/06/a-plague-tale-innocence-he-who-controls-the-rats-controls-the-world/)** — Emily reviews A Plague Tale: Innocence, digging its grim 1300s France plague-and-rats horror and stealth gameplay as Amicia protects Hugo while crafting tools to outsmart soldiers and swarms.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/01/the-visible-zorker-2)** — Andrew Plotkin releases Visible Zorker 2, letting you play Zork II while watching ZIL calls, variables, maps, and timers live—plus source code and commentary (spoilers, obviously).
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/01/05.html#a161953)** — Dave Winer posts a WordLand video demo (cranky audio caveats), cheers apps building on FeedLand, notes NPR asking for listener news, and admits ChatGPT has replaced Photoshop for quick edits.
-- **[Grumpy Gamer](https://grumpygamer.com/this_time_for_sure/)** — Ron Gilbert declares 2026 his “year of Linux,” fed up with Apple lock-down vibes, then lists practical dev worries like C++ IDEs, Mac code signing, drivers, distro choice, and backups.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-01-05-homepage-dashboard-customization/)** — Anarchae shares sanitized YAML configs for the Homepage dashboard, comparing it to Homarr and explaining how it tames too many self-hosted tabs (Sonarr/Radarr/Prowlarr) without making Firefox chaos.
-## Writing
+- **[Scripting News](http://scripting.com/2026/01/06.html#a143837)** — Dave Winer explains why he picked David Frum as 2025 Blogger of the Year, praising the “don’t conform” podcasting ethos and urging writers to avoid new Substack-shaped traps.
+- **[Hamatti](https://hamatti.org/posts/i-added-booklore-to-my-homelab/)** — Juhis sets up the open-source BookLore in his homelab to corral ebooks from Kindle/iPad/NAS, run an OPDS server, and maybe nudge himself toward a Kobo next year.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/01/01/Quamina-2026)** — Tim Bray ships a hefty Quamina PR adding `+` and `*` regex support, then shares hard-won automata lessons: collect real testcases and break features into small, shippable deliverables.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/06/nikita-prokopov-takedown-of-macos-tahoe-icons-is-iconic/)** — Warner Crocker points to Nikita Prokopov’s thorough teardown of macOS Tahoe’s menu icons, arguing Apple’s “icon for everything” idea creates inconsistent metaphors and a distracting mess.
+## General
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-05.html)** — Tofutush reminisces about seeing real snow for the first time—train-window flakes, powdery failed snowmen, risky frozen-river logic, warm maze-bed sleeping, and a sky packed with stars.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/06/2025-year-in-review-the-movies/)** — Belghast recaps 2025 movies he mostly just enjoyed, highlights Happy Gilmore 2 as a surprise win, dings Tron: Ares as the letdown, and experiments with an alternate narration track.
+- **[Heartless Gamer](http://www.heartlessgamer.com/2026/01/sunday-142026-post-packers-lose-to.html)** — Heartless calls Packers–Vikings the worst football game he’s seen, thanks to resting players and piling injuries, but shrugs it off since Green Bay still limps into the playoffs.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/big-beautiful-stickers-the-best-stickers/)** — Jamie Zawinski flags the DOI’s 2026 rule update that can void national park passes altered with stickers—seemingly aimed at people covering Trump’s face on the pass image.
+- **[Nik Kantar](https://nkantar.com/blog/2026/01/2026-just-better/)** — Nik ditches grand goal-setting and makes a simple pact with 2026: he’ll try to be better than 2025, and hopes the year will meet him halfway.
