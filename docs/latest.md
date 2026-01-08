@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-01-07
+# Daily Blogroll: 2026-01-08
 
-## Gaming
-
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/when-is-door-not-door.html)** — Bhagpuss admits Baldur’s Gate 3 is eating his life—25 hours since Saturday—and vents about quest journals that send you NPC-hunting unless you peek at guides.
-- **[Scopique](https://scopique.com/2026/01/06/voting-on-star-citizen-politics/)** — Scopique wants Star Citizen to make Imperator elections matter in-game, pitching something Powerplay-ish from Elite Dangerous as a way to add systems beyond “shoot and loot.”
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/01/06/a-plague-tale-innocence-he-who-controls-the-rats-controls-the-world/)** — Emily reviews A Plague Tale: Innocence, digging its grim 1300s France plague-and-rats horror and stealth gameplay as Amicia protects Hugo while crafting tools to outsmart soldiers and swarms.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/01/the-visible-zorker-2)** — Andrew Plotkin releases Visible Zorker 2, letting you play Zork II while watching ZIL calls, variables, maps, and timers live—plus source code and commentary (spoilers, obviously).
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/01/06.html#a143837)** — Dave Winer explains why he picked David Frum as 2025 Blogger of the Year, praising the “don’t conform” podcasting ethos and urging writers to avoid new Substack-shaped traps.
-- **[Hamatti](https://hamatti.org/posts/i-added-booklore-to-my-homelab/)** — Juhis sets up the open-source BookLore in his homelab to corral ebooks from Kindle/iPad/NAS, run an OPDS server, and maybe nudge himself toward a Kobo next year.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/01/01/Quamina-2026)** — Tim Bray ships a hefty Quamina PR adding `+` and `*` regex support, then shares hard-won automata lessons: collect real testcases and break features into small, shippable deliverables.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/06/nikita-prokopov-takedown-of-macos-tahoe-icons-is-iconic/)** — Warner Crocker points to Nikita Prokopov’s thorough teardown of macOS Tahoe’s menu icons, arguing Apple’s “icon for everything” idea creates inconsistent metaphors and a distracting mess.
 ## General
 
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/06/2025-year-in-review-the-movies/)** — Belghast recaps 2025 movies he mostly just enjoyed, highlights Happy Gilmore 2 as a surprise win, dings Tron: Ares as the letdown, and experiments with an alternate narration track.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2026/01/sunday-142026-post-packers-lose-to.html)** — Heartless calls Packers–Vikings the worst football game he’s seen, thanks to resting players and piling injuries, but shrugs it off since Green Bay still limps into the playoffs.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/big-beautiful-stickers-the-best-stickers/)** — Jamie Zawinski flags the DOI’s 2026 rule update that can void national park passes altered with stickers—seemingly aimed at people covering Trump’s face on the pass image.
-- **[Nik Kantar](https://nkantar.com/blog/2026/01/2026-just-better/)** — Nik ditches grand goal-setting and makes a simple pact with 2026: he’ll try to be better than 2025, and hopes the year will meet him halfway.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/i-got-my-mtv.html)** — Bhagpuss swaps Baldur’s Gate time for MTV REWIND, a YouTube-API-powered nostalgia machine with decade channels, period ads, and an absurd pile of music videos.
+- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/01/07/1-7-2026-lighten-up/)** — Blockade85 wants more whimsy in the post-holiday gray stretch—Christmas lights down, football ending, work dull—so he’s considering year-round wall lights to keep his space feeling fun.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/07/hearts-filthy-lesson/)** — Belghast reflects on a fledgling chat-based relationship ending abruptly, and why online intimacy can feel turbocharged (hello, IRC nostalgia) while still being fragile without real-world grounding.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/artisanal-locally-sourced-poop/)** — Jamie Zawinski points to Mission Local’s comic on San Francisco’s ridiculous sewer system, filing it neatly under “things that are both horrifying and extremely on-brand for this blog.”
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/avatar-fire-and-ash-stunning-to-look-at.html)** — CrazyKinux gives Avatar: Fire and Ash a 3/5—gorgeous visuals, a compelling Fire-and-Ash tribe tease, but rushed character arcs and familiar beats left him (and his teens) shrugging.
+## Tech
+
+- **[Scopique](https://scopique.com/2026/01/07/bootleg-hardware/)** — Scopique ditches a flaky Huion K40 and rolls the dice on a Temu-tier “Stream Dock,” then finds its VSD Craft software is basically Stream Deck’s UI in a trenchcoat.
+- **[Scripting News](http://scripting.com/2026/01/07.html#a205927)** — Dave Winer shows how ChatGPT can spit out Font-Awesome-quality SVG icons on demand, then pivots to OG metadata weirdness where the “wrong” image shows up in Bluesky/WordPress flows.
+## Writing
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-09.html)** — Tofutush raves about John le Carré’s A Perfect Spy, digging into its semi-autobiographical angle and the book’s twisty letter chapters that juggle third-person “he” and first-person “I.”
+- **[West Karana](https://westkarana.blog/2026/01/07/in-other-worlds-by-a-a-attanasio/)** — Tipa finally rereads Attanasio’s In Other Worlds and loves the relentless weird: a bartender converted to light wakes 130 billion years ahead inside a black-hole bubble with eld skyles and gravity-isd
+## Gaming
+
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/01/07/lego-batman-2-dc-super-heroes/)** — Ellie revisits LEGO Batman 2 and maps why it’s a turning point for LEGO games: full voice acting plus an open-world structure that ditched the old hub format.
+- **[The Ghastly Mirror](https://www.ghastlymirror.xyz/blog/steam-replay-2025/)** — Ghastly runs through Steam Replay 2025—Slay the Spire, Bugaboo Pocket, LOTRO—plus lots of retro play, and laments how Webfishing fizzled out amid abandonment, harassment, and server chaos.
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/01/2025-year-in-review-part-2.html)** — Joar breaks down 2025 playtime stats (TempusGameIt-style): WoW dominates, with GW2/Diablo 4/ESO trailing; he hit max on a Gnome Hunter and is now wrestling an over-tuned ESO boss.
