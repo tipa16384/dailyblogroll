@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-01-08
+# Daily Blogroll: 2026-01-09
 
 ## General
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/i-got-my-mtv.html)** — Bhagpuss swaps Baldur’s Gate time for MTV REWIND, a YouTube-API-powered nostalgia machine with decade channels, period ads, and an absurd pile of music videos.
-- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/01/07/1-7-2026-lighten-up/)** — Blockade85 wants more whimsy in the post-holiday gray stretch—Christmas lights down, football ending, work dull—so he’s considering year-round wall lights to keep his space feeling fun.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/07/hearts-filthy-lesson/)** — Belghast reflects on a fledgling chat-based relationship ending abruptly, and why online intimacy can feel turbocharged (hello, IRC nostalgia) while still being fragile without real-world grounding.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/artisanal-locally-sourced-poop/)** — Jamie Zawinski points to Mission Local’s comic on San Francisco’s ridiculous sewer system, filing it neatly under “things that are both horrifying and extremely on-brand for this blog.”
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/avatar-fire-and-ash-stunning-to-look-at.html)** — CrazyKinux gives Avatar: Fire and Ash a 3/5—gorgeous visuals, a compelling Fire-and-Ash tribe tease, but rushed character arcs and familiar beats left him (and his teens) shrugging.
-## Tech
-
-- **[Scopique](https://scopique.com/2026/01/07/bootleg-hardware/)** — Scopique ditches a flaky Huion K40 and rolls the dice on a Temu-tier “Stream Dock,” then finds its VSD Craft software is basically Stream Deck’s UI in a trenchcoat.
-- **[Scripting News](http://scripting.com/2026/01/07.html#a205927)** — Dave Winer shows how ChatGPT can spit out Font-Awesome-quality SVG icons on demand, then pivots to OG metadata weirdness where the “wrong” image shows up in Bluesky/WordPress flows.
-## Writing
-
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-09.html)** — Tofutush raves about John le Carré’s A Perfect Spy, digging into its semi-autobiographical angle and the book’s twisty letter chapters that juggle third-person “he” and first-person “I.”
-- **[West Karana](https://westkarana.blog/2026/01/07/in-other-worlds-by-a-a-attanasio/)** — Tipa finally rereads Attanasio’s In Other Worlds and loves the relentless weird: a bartender converted to light wakes 130 billion years ahead inside a black-hole bubble with eld skyles and gravity-isd
+- **[Dragonchasers](https://dragonchasers.com/2026/01/08/move-finally-completed/)** — Nimgimli finally wraps the chaotic two-apartment move, says bittersweet goodbyes (and a lot of cardboard), and looks ahead to unpacking hell and a rough 2025.
+- **[Scripting News](http://scripting.com/2026/01/08/155252.html?title=wasTheIceMurderPrecalculated)** — Dave Winer watches coverage of Renee Nicole Good’s killing and asks whether the ICE violence was planned—or a stress test of the rule-based order, depending on whether the shooter is identified andpro
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/1/8/my-local-cinema-part-2)** — Roger shares good news: Sidcup’s cinema is back as Castle Sidcup, with a cosy refurb, competitive prices, and plans for everything from new releases to cult classics plus accessible community-friendly
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/01/08/the-centre-of-the-spectrum/)** — Emily reflects on drifting into a “neutral zone” politically—still pro inclusion and democracy, but increasingly wary of censorship and privacy-invasive policies like the UK’s Online Safety Act age
 ## Gaming
 
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/01/07/lego-batman-2-dc-super-heroes/)** — Ellie revisits LEGO Batman 2 and maps why it’s a turning point for LEGO games: full voice acting plus an open-world structure that ditched the old hub format.
-- **[The Ghastly Mirror](https://www.ghastlymirror.xyz/blog/steam-replay-2025/)** — Ghastly runs through Steam Replay 2025—Slay the Spire, Bugaboo Pocket, LOTRO—plus lots of retro play, and laments how Webfishing fizzled out amid abandonment, harassment, and server chaos.
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/01/2025-year-in-review-part-2.html)** — Joar breaks down 2025 playtime stats (TempusGameIt-style): WoW dominates, with GW2/Diablo 4/ESO trailing; he hit max on a Gnome Hunter and is now wrestling an over-tuned ESO boss.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/a-ghost-of-chance-is-sony-trying-to.html)** — Bhagpuss digs into Sony’s patented AI “Ghost” gameplay helper—trained on Twitch/YouTube to offer in-game guidance—and wonders if it’s a genuinely less annoying alternative to tabbing out for spoilers.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/08/two-hundred-and-ninety-million-skill-points/)** — Wilhelm hits 290M skill points in EVE Online (over 409M across characters), crediting events, accelerators, and implants—because The Imperium’s new carrier doctrine has him finally training with a
+- **[Time to Loot](https://www.timetoloot.com/gaming/looking-back-on-gaming-2025-edition/)** — Naithin does his 2025 gaming recap with charts and top-10 lists, plus a slightly conflicted milestone: 12 straight months of Wuthering Waves, and a cooling-off from Honkai Star Rail over ‘must pull’
+## Tech
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-10.html)** — Tofutush explains how her site’s character relationships graph works, leaning on D3.js force-directed examples and practical tweaks (like ditching invalidation and wrangling data) to make it usable.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/eyeball-landscape/)** — Jamie Zawinski discovers the *Brazil* “eyeball” sequence was actually filmed and immediately considers updating the Peepers xscreensaver—plus a fun aside about Terry Gilliam and *1984*.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html)** — Bruce Schneier notes Palo Alto’s crosswalk signals got hacked, and the post-mortem is painfully mundane: the city never changed the devices’ default passwords.
+## Writing
+
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/08/words-fail/)** — Warner Crocker drops a spare, punchy meditation on how words have turned mean and meaningless—weaponized, ineffective, and failing us—while still insisting they ought to matter.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/01/09/ats-fueled-by-diesel-and-sarcasm/)** — Stargrace kicks off an American Truck Simulator roleplay series with a Reno-to-Elko haul of waste paper, noting snowy pines, desert quiet, and a $488 diesel fill-up that feels like a mortgage—luckily
