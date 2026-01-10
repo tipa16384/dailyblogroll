@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-01-09
+# Daily Blogroll: 2026-01-10
 
-## General
-
-- **[Dragonchasers](https://dragonchasers.com/2026/01/08/move-finally-completed/)** — Nimgimli finally wraps the chaotic two-apartment move, says bittersweet goodbyes (and a lot of cardboard), and looks ahead to unpacking hell and a rough 2025.
-- **[Scripting News](http://scripting.com/2026/01/08/155252.html?title=wasTheIceMurderPrecalculated)** — Dave Winer watches coverage of Renee Nicole Good’s killing and asks whether the ICE violence was planned—or a stress test of the rule-based order, depending on whether the shooter is identified andpro
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/1/8/my-local-cinema-part-2)** — Roger shares good news: Sidcup’s cinema is back as Castle Sidcup, with a cosy refurb, competitive prices, and plans for everything from new releases to cult classics plus accessible community-friendly
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/01/08/the-centre-of-the-spectrum/)** — Emily reflects on drifting into a “neutral zone” politically—still pro inclusion and democracy, but increasingly wary of censorship and privacy-invasive policies like the UK’s Online Safety Act age
 ## Gaming
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/a-ghost-of-chance-is-sony-trying-to.html)** — Bhagpuss digs into Sony’s patented AI “Ghost” gameplay helper—trained on Twitch/YouTube to offer in-game guidance—and wonders if it’s a genuinely less annoying alternative to tabbing out for spoilers.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/08/two-hundred-and-ninety-million-skill-points/)** — Wilhelm hits 290M skill points in EVE Online (over 409M across characters), crediting events, accelerators, and implants—because The Imperium’s new carrier doctrine has him finally training with a
-- **[Time to Loot](https://www.timetoloot.com/gaming/looking-back-on-gaming-2025-edition/)** — Naithin does his 2025 gaming recap with charts and top-10 lists, plus a slightly conflicted milestone: 12 straight months of Wuthering Waves, and a cooling-off from Honkai Star Rail over ‘must pull’
-## Tech
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/patty-and-hag.html)** — Bhagpuss checks in from Baldur’s Gate 3: 45 hours deep, lots of trap-disarming and save-scumming, a surprisingly manageable Auntie Ethel hag fight, and some grumbling about awful pathing.
+- **[Scopique](https://scopique.com/2026/01/09/how-arc-raiders-helps-me-embrace-sucking-at-arc-raiders/)** — Scopique digs into ARC Raiders’ extraction-shooter pain: aggression-based matchmaking sounds promising, but the real lesson is you’re the weakest thing out there and death means losing your kit.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/01/2026-igf-nominees)** — Andrew Plotkin scans the 2026 IGF nominees, cheers the love for “weird little games,” name-checks favorites like Type Help and Roottrees, and adds a loud “okay fine” to the Titanium Court hype.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/01/08/zwei-my-happy-place/)** — Kimimi gushes over Zwei as pure comfort-RPG magic—sparkly scenery, gentle acoustic tunes, whimsical villages, and kid-heroes Pipiro and Pockle—like getting that “first enchanted RPG” feeling back.
+- **[Bio Break](https://biobreak.wordpress.com/2026/01/09/wow-classic-bouncing-around-the-world-of-warcraft/)** — Syp’s WoW Classic grind crawls through the 30s/40s, debates sticking with Druid vs waiting for Shaman, enjoys Greatfather Winter tradition, and finds new appreciation for vanilla’s cross-world travel.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/01/sengoku-dynasty.html)** — Tobold tries Sengoku Dynasty post-1.1 as a cozy survival-crafting village builder—fast travel, Japanese theme, villagers for automation—and happily turns off raids (or toggles infinite health) to skip
+## General
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-10.html)** — Tofutush explains how her site’s character relationships graph works, leaning on D3.js force-directed examples and practical tweaks (like ditching invalidation and wrangling data) to make it usable.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/eyeball-landscape/)** — Jamie Zawinski discovers the *Brazil* “eyeball” sequence was actually filmed and immediately considers updating the Peepers xscreensaver—plus a fun aside about Terry Gilliam and *1984*.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html)** — Bruce Schneier notes Palo Alto’s crosswalk signals got hacked, and the post-mortem is painfully mundane: the city never changed the devices’ default passwords.
+- **[Scripting News](http://scripting.com/2026/01/09.html#a141626)** — Dave Winer shares a bleak drive-time thought about ICE expanding into a nationwide secret-police vibe, then pitches a social-web tweak: make replies private unless the recipient chooses to repost.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/09/why-its-worth-being-angry/)** — Warner Crocker balances grandkids’ laughter with a heavy news week, arguing that feeling angry can sharpen resolve—and asking what sacrifices the comfortable are willing to make for others closer to
+- **[Axxuy](https://axxuy.xyz/blog/posts/2026/2025-review/)** — Axxuy recaps 2025: 100 blog posts and too much traffic-stat staring, plus the media roundup—finally playing Stardew Valley, returning to Runescape, and blasting through ~30 library-supplied books.
 ## Writing
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/08/words-fail/)** — Warner Crocker drops a spare, punchy meditation on how words have turned mean and meaningless—weaponized, ineffective, and failing us—while still insisting they ought to matter.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/01/09/ats-fueled-by-diesel-and-sarcasm/)** — Stargrace kicks off an American Truck Simulator roleplay series with a Reno-to-Elko haul of waste paper, noting snowy pines, desert quiet, and a $488 diesel fill-up that feels like a mortgage—luckily
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-11.html)** — Tofutush marks a year-plus of blogging—37 posts and counting—reflecting on site tinkering, tag organization, design angst, privacy worries, plus IRL updates like classes, Anki-based Uyghur study, and寒
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/01/07/what-the-resume-never-captured/)** — Joar reflects on what 35 years in accounting/finance taught beyond bullet points: judgment, “something smells off” instincts, reading rooms and power dynamics, and staying skeptical without turning c
+## Tech
+
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-01-08-anarchaeopteryx-theme-css-v17/)** — Anarchae ships Anarchaeopteryx Theme CSS v17 with a new callout/infobox (HTML+CSS included), cleans up dead links, and drops the guestbook after Azure took the hosting down.
