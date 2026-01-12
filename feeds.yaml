@@ -447,3 +447,11 @@ feeds:
     pronouns: she/her
     mastodon: "@euphoriagremlin@retro.pizza"
     bluesky: "@ellie.wubrgsky.org"
+  - name: READ ONLY MEMO
+    url: https://readonlymemo.com/rss/
+    update_frequency: daily
+    category: Gaming
+    blogger: Wes
+    pronouns: he/him
+    mastodon: Wes Fenlon
+    bluesky: "@wes.readonlymemo.com"

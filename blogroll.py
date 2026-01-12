@@ -263,7 +263,8 @@ def collect_new_items(cfg):
                     "pronouns": f.get("pronouns","they/them"),
                     "ts": ts or 0,
                     "mastodon": f.get("mastodon",""),
-                    "bluesky": f.get("bluesky","")
+#                    "bluesky": f.get("bluesky","") # BlueSky considers this spammy; omit for now
+                    "bluesky": f.get("blogger") or ""
                 }
                 debug_log.append(f"Picked item: {pick_dict['title']} from {pick_dict['source']}")
                 picked.append(pick_dict)
