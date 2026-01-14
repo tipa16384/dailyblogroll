@@ -1,20 +1,18 @@
-# Daily Blogroll: 2026-01-13
+# Daily Blogroll: 2026-01-14
 
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/01/13.html#a224042)** — Dave Winer recaps a great WordPress-community deep-dive on his WordLand/FeedLand “WordPress as OS” vision—everything as posts linked into arbitrary graphs—plus a low-key plug for his nightly email.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/01/1980s-hacker-manifesto.html)** — Bruce Schneier revisits The Mentor’s 1980s “Conscience of a Hacker,” quoting its defiant “crime is curiosity” vibe and the argument that exploring systems gets labeled criminal while worse harms go un
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/13/apples-new-siri-will-be-googles-gemini/)** — Warner reacts to Apple’s multi-year deal to power the delayed “new Siri” with Google Gemini, calling it a surrender and wondering whether users see it this spring or not until WWDC 2026.
+- **[West Karana](https://westkarana.blog/2026/01/12/banned-on-bluesky/)** — Tipa explains how her Python + RSS + GPT + Jinja Daily Blogroll workflow triggered a Bluesky spam warning—especially @-mentioning lots of bloggers—despite linking straight to originals with no ads.
 ## Gaming
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/if-in-doubt-run-like-hell-or-how-to-say.html)** — Bhagpuss is 55 hours deep into Baldur’s Gate 3 and still in Act 1, wondering if 150+ hour epics are a blessing or a game-eating curse.
-- **[Scopique](https://scopique.com/2026/01/12/tea-leaves-or-wishful-thinking-mining-in-star-citizen/)** — Scopique digs into Star Citizen Alpha 4.6 patch notes and the “Clearing the Air” event, then tests 4.5 mining in a Prospector and comes away disappointed.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-14.html)** — Tofutush hilariously argues Pikmin Bloom turns players into tiny tyrants—expeditions, mushroom battles, nectar “addiction,” and “releasing” pikmin—while admitting it’s still pretty fun.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/01/12/little-kitty-big-city-everybody-wants-to-be-a-cat/)** — Emily purrs through Little Kitty Big City’s low-stress cat chaos—animal sidequests, shiny-collecting for hats, fast-travel potholes, and human mischief—while climbing toward home atop the city.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/01/13/eve-dressing-up/)** — Stargrace opens an EVE Online Winter Nexus box and pulls a Men’s Rubedo Richesse Jacket worth 100M+ ISK, immediately shipping the fancy loot off to avoid doing something dumb.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/12/dig-a-hole-find-some-coal/)** — Belghast’s gaming life is scattered—weekly FFXIV cactpot, wrapping up Path of Exile achievements after PoE II, and keeping Destiny Rising in daily-maintenance mode for guild upkeep.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/12/the-december-2025-eve-online-monthly-economic-report-and-a-summary-of-overall-destruction-in-2025/)** — Wilhelm rounds up EVE Online’s December 2025 MER—production up, mining shifts, weird Active ISK Delta, asset safety sink spike—and caps it with 2025’s destruction totals and Drone Regions fallout.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/01/12/dirty-pair-project-eden-neither-lovely-or-angelic/)** — Kimimi tears into Dirty Pair: Project Eden for weak weapons, lifeless sprites, robotic enemy spawns, and undercooked level design—proof not every film tie-in on old hardware deserved to exist.
-## General
-
-- **[Scripting News](http://scripting.com/2026/01/12/145655.html?title=nothingsGonnaBringThemBack)** — Dave Winer reflects on the Grateful Dead’s core being gone, pairs it with “He’s Gone,” and ties their share-it-freely philosophy back to software and the web.
-- **[Virtual Moose](https://virtualmoose.org/2026/01/11/touched-grass-and-volunteered-at-the-library-today/)** — Michael swaps basement coding for library volunteering, chats with local groups (amateur radio, YIMBY, pollinators), and makes the case that doing something offline beats doomscroll psychic damage.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-01-12-traitors-uk-s04e0406/)** — Anarchae live-blogs Traitors UK S4E04-06 with late-night vibes: the secret Traitor reveal, production-meta gripes, surprise banishments, and appreciation for at least one standout knitted jumper.
-## Writing
-
-- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/01/11/1-11-2026-becoming-human/)** — Blockade85 reflects on turning 35 and wanting to finally live—dreaming of cons like MAGFest/AGDQ, travel, and big experiences—while unpacking guilt, responsibility, and comfort-zone fear.
+- **[Aywren's Nook](https://aywren.com/2026/01/13/steam-gaming-squeakross-home-squeak-home)** — Aywren falls hard for Squeakross: Home Squeak Home, a cozy Picross-with-pet-rats gem on Steam Deck where puzzles unlock furniture, outfits, stickers, and even nudge real rat-shelter support.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/13/goodbye-anthem/)** — Belghast says farewell to Anthem as servers go dark, remembering the killer “Iron Man suit” feel and soundtrack despite thin content—then pivots to grinding Path of Exile challenges the hard way.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/13/looking-back-on-the-2025-eve-online-winter-nexus-event/)** — Wilhelm reviews EVE Online’s Winter Nexus 2025, liking the relaxed mining track (and doing it twice) while noting New Eden’s constant competition—so he sneaks into quiet high-sec storms to grind.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/1/13/lotro-tweaking-your-game-installation)** — Roger shares quick LOTRO fixes: disable Per Pixel Lighting to stop cave/rock texture strobing, plus practical install tweaks like SSD, 64-bit client, and using the standalone launcher over Steam.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/01/11/heartopia-need-to-know/)** — Krista rounds up the basics on Heartopia, a new cozy multiplayer life-sim about friendships, hobbies, and deep house/outfit customization—plus launch platforms (TapTap PC, iOS/Android) and cross-play.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/01/galactic-threads-things-are-starting-to.html)** — Shintar digs into SWTOR 7.8’s Galactic Threads, praising the “old-school” feel and the three any-order mini-arcs (Tatooine/Hoth/Elom), with spoiler-packed notes on Malgus, Shae, and the Hidden Chain.
+- **[Hamatti](https://hamatti.org/posts/gaming-for-busy-people/)** — Juhis talks “busy adult” gaming: Switch/Steam Deck sleep mode makes 10-minute sessions workable, steering him toward roguelikes and quick runs—plus recs like Lonely Mountains, Slay the Spire, and Into
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/01/drifting-between-games.html)** — joargarrosh bounces between MMOs: FFXIV queues killed the momentum, Diablo 4’s season didn’t stick, ESO’s Solstice finale feels brutally one-shotty, and GW2’s mechanist run is the bright spot—for now.
