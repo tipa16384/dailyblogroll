@@ -35,7 +35,7 @@ feeds:
     url: https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily
     category: Gaming
-    blogger: joargarrosh
+    blogger: Joar
     mastodon: "@Joar"
     bluesky: "Joar"
     group: Joar
@@ -71,14 +71,14 @@ feeds:
     blogger: Nimgimli
     group: Pete
     pronouns: he/him
-    required: True
+    required: false
   - name: Inventory Full
     url: https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily
     category: Gaming
     blogger: Bhagpuss
     pronouns: he/him
-    required: True
+    required: False
     mastodon: Bhagpuss
     bluesky: "@inventoryfull.bsky.social"
   - name: Scopique
@@ -87,7 +87,7 @@ feeds:
     category: Tech
     blogger: Scopique
     pronouns: he/him
-    required: True
+    required: False
     mastodon: "@scopique"
     bluesky: "@scopique.bsky.social"
   - name: The Friendly Necromancer
@@ -274,7 +274,7 @@ feeds:
     blogger: Pete
     group: Pete
     pronouns: he/him
-    required: True
+    required: False
   - name: CrazyKinux's Musings
     url: https://feeds.feedburner.com/CrazykinuxsMusing
     update_frequency: daily
@@ -289,7 +289,7 @@ feeds:
     category: General
     blogger: Tofutush
     pronouns: she/her
-    required: True
+    required: False
     mastodon: Tofutush
     bluesky: "@tofutush.bsky.social"
   - name: Indiecator
@@ -304,7 +304,7 @@ feeds:
     category: Gaming
     blogger: Pixel One
     pronouns: she/her
-    required: True
+    required: False
   - name: WCRobinson
     url: https://wcrobinson.org/feed/
     update_frequency: daily
@@ -369,7 +369,7 @@ feeds:
     category: Gaming
     blogger: Ron Gilbert
     pronouns: he/him
-    required: True
+    required: False
   - name: Midnight
     url: https://westkarana.xyz/rss.xml
     update_frequency: daily
@@ -384,7 +384,7 @@ feeds:
     category: Tech
     blogger: JJM
     pronouns: he/him
-    required: True
+    required: False
   - name: Kimimi the Game Eating She-Monster
     url: https://kimimithegameeatingshemonster.com/feed/
     update_frequency: daily
