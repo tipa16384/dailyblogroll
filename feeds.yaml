@@ -105,7 +105,7 @@ feeds:
     category: Gaming
     blogger: Wilhelm
     pronouns: he/him
-    required: False
+    required: True
     mastodon: "@wilhelm_arcturus@mas.to"
     bluesky: "TAGN"
   - name: Lisette's Mxtadventures
@@ -455,3 +455,27 @@ feeds:
     pronouns: he/him
     mastodon: Wes Fenlon
     bluesky: "@wes.readonlymemo.com"
+  - name: nicole express
+    url: https://nicole.express/feed.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: Nicole
+    pronouns: she/her
+    mastodon: "@nicole@oldbytes.space"
+    bluesky: "@nicole.express"
+  - name: Quarter Circle Forward
+    url: https://quartercircleforward.blog/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Andrew
+    pronouns: he/him
+    mastodon: Andrew Lokken
+    bluesky: "@andrewlokken.bsky.social"
+  - name: RPG Codex
+    url: https://rpgcodex.net/rss.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: RPG Codex
+    pronouns: they/them
+    mastodon: RPG Codex
+    bluesky: RPG Codex
