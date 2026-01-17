@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-01-16
+# Daily Blogroll: 2026-01-17
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/15/the-catalyst-expansion-mining-changes-through-the-eyes-of-a-casual-miner/)** — Wilhelm revisits EVE Online mining in the Catalyst era as a casual, dodging null-sec rules and CCP’s old waste mechanics while using AIR Daily Goals and a mission-running alt.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/15/hytale-is-another-minecraft/)** — Belghast digs into Hytale’s messy Hypixel/Riot history and says it plays like a deeply modded Minecraft out of the box—better combat, nicer visuals, lots of smart QoL tweaks.
-- **[Quarter Circle Forward](https://quartercircleforward.blog/2026/01/09/quest-64-check-in-week-1/)** — Andrew brings back his weekly Check-In format with Quest 64, walking through Brian’s monastery start and the element-raising “leveling” system—water for heals, then earth for power.
-- **[nicole express](https://nicole.express/2026/put-your-clothes-back-on.html)** — Nicole explores the tech side of Japanese arcade mahjong—starting with Janputer—and why dedicated button panels (and a ton of them) make home play and MAME setups trickier than expected.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/arcane-vs-mighty-nein.html)** — Bhagpuss compares first seasons of Arcane and The Mighty Nein, and despite LoL skepticism, ends up calling Arcane one of the best-looking animated shows he’s ever seen.
-- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/01/16/a-winter-of-horrors-part-ii/)** — Mailvaltar’s horror run hits a snag: Resident Evil 4 remake looks great but feels like nonstop mob fights and surprise spawns, so he pivots back to appreciating Silent Hill 2.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/making-living-in-eve-online-blueprint.html)** — CrazyKinux kicks off a blueprint-style EVE Online ISK series built around “earn vs keep,” outlining a climb from starter cash to scalable income engines without top-10 fluff.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/16/new-world-finds-its-destiny-revealed-a-shut-down-date-of-january-31-2027/)** — Wilhelm notes Amazon finally put a date on New World: Aeternum’s finale—delisted Jan 15, 2026, servers offline Jan 31, 2027, with Nighthaven stretched to the end.
+- **[RPG Codex](https://rpgcodex.net/article.php?id=12751)** — RPG Codex spotlights Deep Fringe hitting Steam Early Access, pitching a tactical strategy core rebuilt from 2D to full 3D, with weekly patches and player-led iteration.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/01/16/crypt-custodian/)** — Ellie digs into Crypt Custodian, an adorable metroidvania where Pluto the cat dies, gets sentenced by a spectral frog, and recruits fellow spirits for a palace break-in—grim setup, light writing.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/01/16/popful-mail-a-falcom-fun-tasy/)** — Kimimi celebrates Falcom’s Popful Mail as a ’90s fantasy RPG that’s joyfully silly (pirates, penguins, tanuki) but smart enough to punctuate the gags with betrayals, sacrifices, and real stakes.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/01/first-thoughts-on-arydia.html)** — Tobold preps his group’s next campaign game, Arydia, weighing “fiddly and boring” critiques against a low-fantasy, open-world feel, generous 88-day timer, and a big NPC card roleplaying system.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/01/16/music-makes-hades-2s-best-boss-fight/)** — Frostilyte argues Hades 2’s Scylla boss fight is peak Supergiant because the music’s the point—bandmates drop out and the track changes mid-fight, with Darren Korb-style audio flourish front and
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/01/15.html#a135543)** — Dave Winer cheers Jake Savin’s AI-assisted push to get a headless Frontier running on Linux/macOS (REPL included), plus a low-key plug for Scripting News’ nightly email.
-- **[Axxuy](https://axxuy.xyz/blog/posts/2026/linktree-makes-me-sad/)** — Axxuy argues Linktree is “link in bio” as a service and nudges everyone toward owning a simple personal website—at minimum, a links page—because linking and contactability matter.
-- **[Dragonchasers](https://dragonchasers.com/2026/01/15/a-cache-of-old-tech/)** — Nimgimli’s post-move declutter uncovers a mini museum—DS, PSP, Vita, old iPods and phones—now stymied by dead batteries, missing proprietary chargers, and Wi‑Fi stuck in 2006.
-## Writing
-
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/01/14/klingon-at-candlelight/)** — Emily recounts a nightmare hospital labyrinth that abruptly turns sweet with a candlelit dinner featuring Worf—disturbing imagery, then a surprisingly cozy Star Trek fade-out.
+- **[Scripting News](http://scripting.com/2026/01/16.html#a231034)** — Dave Winer riffs on a delayed Scripting News email, the empty vibe of “sorry for the inconvenience,” a Keurig evangelism moment, and more WordLand/WordPress.org API wrangling.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html)** — Bruce Schneier links Aaron Swartz’s fight over paywalled research to today’s AI scraping and copyright debates, arguing Big Tech profits off captured knowledge while enforcement lags and “innovation”-
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-16.html)** — Tofutush walks you through publishing an Obsidian vault as a Quartz site on GitHub Pages—what features you get (backlinks, graph, search), what you don’t (Dataview), and the setup basics.
+- **[West Karana](https://westkarana.blog/2026/01/16/daily-blogroll-updates/)** — Tipa chronicles a Daily Blogroll outage caused by an expired GitHub Pages certificate + Cloudflare proxying, celebrates ~400 daily visitors, and shares tweaks plus new additions (including a forum).
 ## General
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/15/shadow-dancing/)** — Warner Crocker wraps a twisty family move and finds the payoff in the new sun room, where the kids discover shadow dancing and laugh themselves silly—then it’s back to unpacking.
+- **[Scopique](https://scopique.com/2026/01/16/star-trek-starfleet-academy/)** — Scopique breaks down Star Trek: Starfleet Academy’s first two episodes, framing it as post-Burn Discovery-era “high school drama” Trek with familiar tropes, a special-case lead, and day-saving prodigy
+## Writing
+
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/16/its-time-to-stop-hiding-from-the-obvious/)** — Warner Crocker uses grandkid hide-and-seek as a metaphor for people dodging reality by shifting rules and lowering bars, calling out “ostriches among us” and urging facing what needs doing.
