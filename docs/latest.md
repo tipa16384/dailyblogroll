@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-01-17
+# Daily Blogroll: 2026-01-18
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/16/new-world-finds-its-destiny-revealed-a-shut-down-date-of-january-31-2027/)** — Wilhelm notes Amazon finally put a date on New World: Aeternum’s finale—delisted Jan 15, 2026, servers offline Jan 31, 2027, with Nighthaven stretched to the end.
-- **[RPG Codex](https://rpgcodex.net/article.php?id=12751)** — RPG Codex spotlights Deep Fringe hitting Steam Early Access, pitching a tactical strategy core rebuilt from 2D to full 3D, with weekly patches and player-led iteration.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/01/16/crypt-custodian/)** — Ellie digs into Crypt Custodian, an adorable metroidvania where Pluto the cat dies, gets sentenced by a spectral frog, and recruits fellow spirits for a palace break-in—grim setup, light writing.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/01/16/popful-mail-a-falcom-fun-tasy/)** — Kimimi celebrates Falcom’s Popful Mail as a ’90s fantasy RPG that’s joyfully silly (pirates, penguins, tanuki) but smart enough to punctuate the gags with betrayals, sacrifices, and real stakes.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/01/first-thoughts-on-arydia.html)** — Tobold preps his group’s next campaign game, Arydia, weighing “fiddly and boring” critiques against a low-fantasy, open-world feel, generous 88-day timer, and a big NPC card roleplaying system.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/01/16/music-makes-hades-2s-best-boss-fight/)** — Frostilyte argues Hades 2’s Scylla boss fight is peak Supergiant because the music’s the point—bandmates drop out and the track changes mid-fight, with Darren Korb-style audio flourish front and
+- **[Chasing Dings!](https://chasingdings.com/2026/01/17/starfleet-academy-your-billionaire-future/)** — Tipa digs into Starfleet Academy post-Burn and argues it’s Star Trek filtered through billionaire vibes—alliances, wealth, and power plays—right down to a ruthless first-contact-with-pirates moment.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-01-15-raidou-chp-5/)** — Anarchae checks in on Raidou Remastered: Taisho-era SMT mystery vibes, real-time combat that’s finally clicking, and fusion/planning advice as demon weaknesses start really mattering.
+- **[Bio Break](https://biobreak.wordpress.com/2026/01/16/guild-wars-2-iron-smarches/)** — Syp hops into Guild Wars 2 to chill-map Iron Marches on a Ranger with Lucky the wolf, nudging world completion upward and dabbling in personal story while waiting on WoW releases.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/01/18/eve-borrowed-ground/)** — Stargrace reflects on wormhole life in EVE Online after Hard Knocks evicts Signal Cartel’s Anoikis Division—homes are temporary in J-space, but the Credo (and fireworks) endure.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/resonance-gives-off-cinematic-sci-fi.html)** — CrazyKinux is captivated by a Resonance trailer—lonely alien exploration, ancient robotic ruins, ominous scale—and admits he hasn’t played yet because EVE Online is eating all his free time.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/01/mop-classic-still-better-housing.html)** — Shintar finds Mists of Pandaria Classic’s Halfhill farm (Tillers, cooking “ways,” daily routine) feels more like real housing than retail WoW’s instanced “dark box,” while grinding Golden Lotus dailes
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/01/16.html#a231034)** — Dave Winer riffs on a delayed Scripting News email, the empty vibe of “sorry for the inconvenience,” a Keurig evangelism moment, and more WordLand/WordPress.org API wrangling.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html)** — Bruce Schneier links Aaron Swartz’s fight over paywalled research to today’s AI scraping and copyright debates, arguing Big Tech profits off captured knowledge while enforcement lags and “innovation”-
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-16.html)** — Tofutush walks you through publishing an Obsidian vault as a Quartz site on GitHub Pages—what features you get (backlinks, graph, search), what you don’t (Dataview), and the setup basics.
-- **[West Karana](https://westkarana.blog/2026/01/16/daily-blogroll-updates/)** — Tipa chronicles a Daily Blogroll outage caused by an expired GitHub Pages certificate + Cloudflare proxying, celebrates ~400 daily visitors, and shares tweaks plus new additions (including a forum).
-## General
-
-- **[Scopique](https://scopique.com/2026/01/16/star-trek-starfleet-academy/)** — Scopique breaks down Star Trek: Starfleet Academy’s first two episodes, framing it as post-Burn Discovery-era “high school drama” Trek with familiar tropes, a special-case lead, and day-saving prodigy
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/17/the-twitter-problem/)** — Wilhelm says the “Twitter” people talk about is basically gone, and frames X as a billionaire-controlled influence machine, alongside other bought-and-steered media outlets.
+- **[Scripting News](http://scripting.com/2026/01/17.html#a162746)** — Dave Winer shares a brief podcast on how XML-RPC came together in 1998, then gently pitches the no-popups nightly Scripting News email roundup with easy unsubscribes.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/wait-the-metaverse-is-just-cell-phones-now-always-has-been/)** — Jamie Zawinski riffs on Meta shutting down Horizon Workrooms and the metaverse pivoting to mobile, noting how far that is from Neal Stephenson’s fully immersive Snow Crash definition.
 ## Writing
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/16/its-time-to-stop-hiding-from-the-obvious/)** — Warner Crocker uses grandkid hide-and-seek as a metaphor for people dodging reality by shifting rules and lowering bars, calling out “ostriches among us” and urging facing what needs doing.
+- **[Aywren's Nook](https://aywren.com/2026/01/16/blogiversary-12-years-of-blogging)** — Aywren marks 12 years of blogging, recaps site projects (retro HTML, model horses, archiving a 2022 Quest Calendar), and tees up a 2026 focus on her existing game library.
+## General
+
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/01/13/january-life-updates/)** — Luna shares big real-life updates—moving in with her partner, renovating a 100-year-old house—and how stress and neurodivergent burnout are making story-heavy games feel like too much lately.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-28.html)** — Tofutush recounts a love-hate family saga with Hunan-level spice, from “non-spicy” dishes that still burn to yuanyang hot pot where the mild side inevitably turns red too.
