@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-01-19
+# Daily Blogroll: 2026-01-20
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/18/tagn-fantasy-critic-league-2026-week-three-the-calm-before-the-scores/)** — Wilhelm says TAGN’s Fantasy Critic League is still a 13-way tie, but a leaked May 19 date for Forza Horizon 6 and a flurry of $1 bids add intrigue.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/18/aggrochat-553-a-brief-intermission/)** — Belghast’s AggroChat hits pause on the GOTY series for a packed intermission, bouncing from Star Citizen and Pokémon Legends Z-A to retro handhelds and Path of Exile II.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/1/15/lotro-new-zone-coming-in-q2)** — Roger speculates on LOTRO’s next Q2 zone by eyeballing gaps on Middle-earth’s map, and cheers SSG’s steady content cadence even if big engine changes probably aren’t coming.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/01/19/gg-aleste-ii-home-is-where-the-hardware-is/)** — Kimimi marvels at GG Aleste II’s stage-to-stage spectacle on the Game Gear, praising readable bullets and flexible subweapons even when flicker and slowdown occasionally bite.
-- **[Virtual Moose](https://virtualmoose.org/2026/01/18/indie-game-roundup-january-18-2026/)** — Michael’s indie roundup spotlights Pathologic 3, a PICO-8 Ecco-like called Abyssal, an Apple II Frogger/Crossy Road riff, plus a new playable “Game Poems” magazine for tiny Twine/Bitsy gems.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/01/18/thebookclubjanuary/)** — Krista shakes off a reading slump by pairing current reads with bookish gaming—Solo Leveling (and its Steam/mobile adaptations) plus Tiny Bookshop’s December winter update for peak cosy vibes.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/crovan-rebooted-drone-bay-and-im.html)** — CrazyKinux gets nostalgic seeing Crovan revive The Drone Bay on YouTube, praises the EVE Online know-how on offer, and worries a bit since the last podcast episode was June 2024.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/19/reflecting-on-the-downfall-of-pandemic-horde/)** — Wilhelm watches EVE Online’s Pandemic Horde shrink from a nullsec juggernaut to a near-empty shell, trying to make sense of the sudden collapse and leadership fail cascade.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/01/20/pancitomerge-review-a-charming-and-tasty-puzzle-game/)** — Luna reviews PancitoMerge, a cozy pan dulce merging puzzle, praising the charming art, quick-session vibe, and the clever customer “sell a pastry for points” twist.
+- **[Aywren's Nook](https://aywren.com/2026/01/19/learning-how-to-fish-in-enshrouded)** — Aywren shares hard-won Enshrouded fishing tips from the Wake of the Water update—bait and biome matter, epic fish live elsewhere, and the Fisher quests unlock the Excellent Fishing Rod.
+- **[Virtual Moose](https://virtualmoose.org/2026/01/19/the-british-game-generator/)** — Michael drops a goofy Twine “British Game Generator” on Itch, riffing on (and lovingly saluting) 80s UK computer games, with plans to pretty it up and expand the idea pool.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/01/19/wow-gold-making-week-3-2026/)** — Stargrace’s WoW gold-making week dips thanks to Remix distractions and fewer auctions, but still lands near 2 million—and she’s hyped for retail’s stat squish, class changes, and housing.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/01/18.html#a180328)** — Dave Winer breaks his politics hiatus with a Minneapolis plea, then pivots into a handy XML-RPC link dump—JS reference implementations, JSON encoding, and preserved history included.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/my-long-payphone-nightmare-has-reached-a-middle/)** — Jamie Zawinski reports his Linux payphone project is alive again after a near-bay-tossing, and points newcomers to a decade of “previously” posts about GPIO, SPI, tools, and assorted shenanigans.
-## General
-
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/01/waking-europe.html)** — Tobold argues Europe’s post-war “weakness” was a chosen bargain under US security, and warns that shifting NATO conditions could spur remilitarization—and turn a loyal ally into a rival.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/18/sunday-morning-reading-138/)** — Warner’s back with Sunday Morning Reading after family moving chaos, rounding up links on “what just happened,” big-number reality checks, gambling-as-prediction markets, and why AI isn’t just next‑词.
+- **[Scripting News](http://scripting.com/2026/01/19.html#a212812)** — Dave Winer cheers Twitter finally adding more web-like writing features (no character limit, styling, editing), plus muses on AI comment filtering and even a watch that could flag gaslighting.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/01/ai-powered-surveillance-in-schools.html)** — Bruce Schneier points to a genuinely dystopian school setup—facial recognition, behavior-analysis AI, bathroom audio monitoring, drones, and license-plate readers—framing it as the new normal for “s安全
+- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/01/09/welcome-to-the-new-webserver/)** — Cliffski explains moving Positech’s sites off a US host to UK-based Krystal—part politics, part trust, part renewables—while warning the migration may leave some DNS weirdness temporarily.
 ## Writing
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-29.html)** — Tofutush hate-reads Zachary Ying and the Dragon Emperor and unloads a spoiler-y rant, especially on cringey dialogue and muddled Chinese cultural/myth references like “kūnpéng.”
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/19/light-in-the-dark/)** — Warner Crocker channels a cold, bleak midwinter mood, looking for any “light in the darkness,” and lands on Christina Rossetti as the perfect fit for the moment.
+## General
+
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/01/19/autobot-atop-the-tower/)** — Emily logs a vivid, semi-lucid dream: as “Dragon Master” she fields calls about monsters, climbs a tower, and ends up in sunlight with Optimus Prime—content to wake up after.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/1/18/classic-movie-themes-escape-from-the-planet-of-the-apes)** — Roger revisits Escape from the Planet of the Apes, highlighting its smaller, satirical 1971 LA vibe and Jerry Goldsmith’s lighter seventies score with quirky percussion and standout theme work.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-01-18-week-3-digest/)** — Anarchae’s week 3 digest mixes job-interview nerves, short-story progress, The Traitors and FGO check-ins, plus reading notes from The Big Book of Female Detectives.
