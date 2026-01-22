@@ -331,6 +331,8 @@ feeds:
     category: Gaming
     blogger: Juhis
     pronouns: he/him
+    mastodon: "@hamatti@mastodon.world"
+    bluesky: Juhis
   - name: West Karana
     url: https://westkarana.blog/feed/
     update_frequency: daily
@@ -479,3 +481,11 @@ feeds:
     pronouns: they/them
     mastodon: RPG Codex
     bluesky: RPG Codex
+  - name: Buried Treasure
+    url: https://buried-treasure.org/feed/
+    update_frequency: daily
+    blogger: John
+    pronouns: he/him
+    category: Gaming
+    mastodon: John Walker
+    bluesky: "@botherer.bsky.social"
