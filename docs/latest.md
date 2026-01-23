@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-01-22
+# Daily Blogroll: 2026-01-23
 
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2026/01/21/erenshor-v0-3-rising-shadows/)** — Tipa hops back into Erenshor after a long break, power-levels to 35 with her sim-friends, scores the coveted Apotheosis staff, and braces for tougher zones and Steam achievements.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/21/the-everquest-frostreaver-tlp-poll-results-faster-pussycat-kill-kill/)** — Wilhelm digs into EverQuest’s Frostreaver TLP player-poll results, framing it as Daybreak’s bid to lure nostalgia-seekers amid the THJ emulator drama and debates over what “fair use” means.
-- **[Buried Treasure](https://buried-treasure.org/2026/01/backer-demand-spare-parts-episode-1/)** — John tackles Spare Parts: Episode 1 on a backer request, liking Lucy and the colorful vibe but bouncing off visual-novel habits—too much prose, too little nuance, and “choices” that aren’t.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/a-practical-guide-to-staying-current-in.html)** — CrazyKinux rounds up active EVE Online podcasts and shows to keep you current on New Eden politics, wars, and markets, and invites readers to add niche picks like wormholes or industry.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2026/01/new-world-ends-january-31-2027.html)** — Heartless reacts to Amazon delisting New World: Aeternum now and shutting servers on 1/31/2027, wondering why keep it limping along with low peaks—and hoping maybe someone buys it.
-- **[Bio Break](https://biobreak.wordpress.com/2026/01/21/lotro-side-adventures-in-a-colorful-bazaar/)** — Syp’s LOTRO journey hits Zajana in Kingdoms of Harad, delighting in a compact, colorful bazaar city plus a hilarious theater troupe scene where a Hobbit Gandalf annoys the real one.
-- **[RPG Codex](https://rpgcodex.net/article.php?id=12753)** — Infinitron reports Spiderweb is wrapping Queen’s Wish with Queen’s Wish: The Judgment, a free March 2026 epilogue DLC for Queen’s Wish 2—plus a Steam sale and a save-free way to jump in.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/01/open-world-survival-crafting-base.html)** — Tobold burns out on Sengoku Dynasty’s multi-village grind, then hunts for non-automation survival crafting and lands on Enshrouded—more exploration/RPG flavor, granular difficulty sliders, and a 2026
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/01/21/project-pikachu/)** — Krista kicks off “Project Pikachu,” aiming to fill a 160-card binder with Pikachu cards across languages, starting with 37 finds (plus a Ditto impostor) and keeping it non-master-set for sanity.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/22/enshrouded-celebrates-two-years-with-a-plan-for-1-0-in-the-autumn/)** — Wilhelm digs into Enshrouded’s sharper 2026 roadmap: spring 0.8 “adventure sharing,” then autumn 1.0 with QoL, optimization, combat upgrades, new content, and consoles.
+- **[Aywren's Nook](https://aywren.com/2026/01/22/ffxiv-finishing-dawntrail-7-4-again)** — Aywren pushes another alt through FFXIV Dawntrail 7.4 on Dancer (for glam), praises Trusts and the new “pity mark,” and notes dungeons feel tougher than pre-Dawntrail.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/01/23/one-inch-tactics-this-was-supposed-to-be-something-new/)** — Kimimi finds One-Inch Tactics a streamlined Power Dolls-style hex tactics game with great onboarding, but so frictionless and repetitive it slides out of memory and mostly tests patience.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/01/20/blightstone-early-access-review/)** — Frostilyte reviews Blightstone in Steam Early Access: a gridless turn-based roguelike where systemic tricks (wet vs electric, cliffs vs non-flyers) make planning—and yeeting—delightful.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/01/midnight-pre-patch-impressions.html)** — Shintar’s WoW Midnight pre-patch takeaway: less “addon apocalypse” than feared, but the transmog revamp clown-suits her warband—and the new transmog UI even crashes her aging PC.
+- **[RPG Codex](https://rpgcodex.net/article.php?id=12754)** — RPG Codex flags the release date news: GreedFall: The Dying World is set to arrive March 12th, for anyone tracking upcoming RPG launches.
+- **[Scopique](https://scopique.com/2026/01/21/first-look-starrupture/)** — Scopique’s first hour with StarRupture says it loud: think Satisfactory-style automation with orbital launching, a snarky AI, and five competing corporations you can funnel production toward.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/01/21.html#a174139)** — Dave Winer can’t stop watching the new ChatGPT TV ads, praising how they sell “life made easier” vibes without comparisons—more Apple than Microsoft, and maybe press-shaping too.
+- **[Scripting News](http://scripting.com/2026/01/22.html#a223702)** — Dave Winer riffs on ChatGPT as a practical image-editing sidekick, then pivots to politics, Canada importing Chinese EVs, and Apple’s “1984” déjà vu moments of tech upheaval.
 ## General
 
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/20/reconciling-sins/)** — Belghast shares a heavy real-life check-in—cardio meds and blood pressure, first dentist visit in decades, and a looming colonoscopy—about choosing to live and finally handle the backlog.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/1/22/treasure-island-1990)** — Roger argues the 1990 Treasure Island is the rare adaptation that stays dark, violent, and faithful to Stevenson, sketching the plot from Captain Bones to Silver’s treacherous crew.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/22/history-is-often-unkind-to-comparisons/)** — Warner Crocker says “Nazi/Gestapo” comparisons miss the scarier point: America’s own history—Manifest Destiny and Jim Crow—helped inspire Nazi race laws, so we can’t outsource blame.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/le-grand-mort-beautiful-unsettling.html)** — CrazyKinux finally reads Le Grand Mort straight through (1–8), praising Mallié’s gorgeous “Petit Peuple” art and the slow-burn premise, while wishing the condensed finale had more breathing room.
 ## Writing
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/all-she-wanted-was-to-do-her-best.html)** — Bhagpuss riffs on “music about books” via Sylvia Plath’s The Bell Jar—its pen name, his serendipitous library discovery of her journals, and why the novel still sits in his all-timers.
+- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/01/22/1-22-2026-open-book/)** — Blockade85 rediscovers being a voracious reader by tearing through Dune on an e-reader at bedtime—great for the soul, terrible for sleep when the alarm’s set for 6:30am.
