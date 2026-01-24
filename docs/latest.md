@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-01-23
+# Daily Blogroll: 2026-01-24
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/22/enshrouded-celebrates-two-years-with-a-plan-for-1-0-in-the-autumn/)** — Wilhelm digs into Enshrouded’s sharper 2026 roadmap: spring 0.8 “adventure sharing,” then autumn 1.0 with QoL, optimization, combat upgrades, new content, and consoles.
-- **[Aywren's Nook](https://aywren.com/2026/01/22/ffxiv-finishing-dawntrail-7-4-again)** — Aywren pushes another alt through FFXIV Dawntrail 7.4 on Dancer (for glam), praises Trusts and the new “pity mark,” and notes dungeons feel tougher than pre-Dawntrail.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/01/23/one-inch-tactics-this-was-supposed-to-be-something-new/)** — Kimimi finds One-Inch Tactics a streamlined Power Dolls-style hex tactics game with great onboarding, but so frictionless and repetitive it slides out of memory and mostly tests patience.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/01/20/blightstone-early-access-review/)** — Frostilyte reviews Blightstone in Steam Early Access: a gridless turn-based roguelike where systemic tricks (wet vs electric, cliffs vs non-flyers) make planning—and yeeting—delightful.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/01/midnight-pre-patch-impressions.html)** — Shintar’s WoW Midnight pre-patch takeaway: less “addon apocalypse” than feared, but the transmog revamp clown-suits her warband—and the new transmog UI even crashes her aging PC.
-- **[RPG Codex](https://rpgcodex.net/article.php?id=12754)** — RPG Codex flags the release date news: GreedFall: The Dying World is set to arrive March 12th, for anyone tracking upcoming RPG launches.
-- **[Scopique](https://scopique.com/2026/01/21/first-look-starrupture/)** — Scopique’s first hour with StarRupture says it loud: think Satisfactory-style automation with orbital launching, a snarky AI, and five competing corporations you can funnel production toward.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/23/friday-bullet-points-about-self-inflicted-problems/)** — Wilhelm dunks on Zuckerberg’s metaverse money-pit pivoting to “AI slop,” then worries Enad Global 7’s new power players may squeeze Daybreak as EverQuest/DCUO sag.
+- **[Scopique](https://scopique.com/2026/01/23/grab-bag-for-the-week-ending-january-23rd-2026/)** — Scopique’s weekly grab bag: the Obsidian journaling plan fizzles, motivation dips, gaming malaise drifts through WoW and Hytale, and the Fable reboot has him cautiously hopeful for Autumn 2026.
+- **[Dragonchasers](https://dragonchasers.com/2026/01/22/a-taste-of-wasteland-3/)** — Nimgimli gives Wasteland 3 a real try: loves the tactical combat and character builds, finds the RPG wandering tedious, and ultimately bails on the crass, edgy tone.
+- **[Bio Break](https://biobreak.wordpress.com/2026/01/23/lotro-drinking-in-the-pinks-and-purples-of-ered-luin/)** — Syp’s LOTRO Captain hits Ered Luin, praises the zone’s pink-purple beauty and packed design, and finds the run freshly different by playing a Dwarf—axes, boar rides, and all.
+- **[Virtual Moose](https://virtualmoose.org/2026/01/23/indie-game-roundup-january-23-2026/)** — Michael opens with solidarity and GoFundMes for Minneapolis families, then pivots to indie finds like his British Game Generator, ZX Spectrum shooter Go-Go BunnyGun, and Perfect Tides: Station to…
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/01/22.html#a223702)** — Dave Winer riffs on ChatGPT as a practical image-editing sidekick, then pivots to politics, Canada importing Chinese EVs, and Apple’s “1984” déjà vu moments of tech upheaval.
+- **[Scripting News](http://scripting.com/2026/01/23.html#a211420)** — Dave Winer reflects on Darkest Hour as an eerie fit for today, cheers allies resisting the US to protect democracy, and warns AI assistants could become “advertising squared” mind-games.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/23/a-disturbing-piece-of-the-ai-future-were-all-headed-into/)** — Warner Crocker riffs on The Verge’s report about Google swapping in lousy AI headlines, warning that when channels don’t value content, we’re headed for endless recycled stories and slop.
 ## General
 
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/1/22/treasure-island-1990)** — Roger argues the 1990 Treasure Island is the rare adaptation that stays dark, violent, and faithful to Stevenson, sketching the plot from Captain Bones to Silver’s treacherous crew.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/22/history-is-often-unkind-to-comparisons/)** — Warner Crocker says “Nazi/Gestapo” comparisons miss the scarier point: America’s own history—Manifest Destiny and Jim Crow—helped inspire Nazi race laws, so we can’t outsource blame.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/le-grand-mort-beautiful-unsettling.html)** — CrazyKinux finally reads Le Grand Mort straight through (1–8), praising Mallié’s gorgeous “Petit Peuple” art and the slow-burn premise, while wishing the condensed finale had more breathing room.
-## Writing
-
-- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/01/22/1-22-2026-open-book/)** — Blockade85 rediscovers being a voracious reader by tearing through Dune on an e-reader at bedtime—great for the soul, terrible for sleep when the alarm’s set for 6:30am.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/01/22/the-myth-of-stability/)** — Joar argues “career stability” is mostly theater—Big 4 layoffs and restructures prove loyalty is one-way—so real security comes from adaptability, transferable skills, and optionality.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html)** — Bruce Schneier’s Friday Squid Blogging spotlights Spock befriending a giant space squid in Star Trek: Strange New Worlds: The Seeds of Salvation #5, plus an open thread for security news.
+- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/01/22/positech-is-funding-a-solar-powered-borehole-in-cameroon/)** — Cliffski says Positech is funding a solar-powered borehole for a school in Bagam, Cameroon via Building Schools For Africa, pitching clean water as the biggest time-saver for kids’ education.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/for-all-mankind-season-5-and-long.html)** — CrazyKinux digs the For All Mankind Season 5 teaser, loving the “space as infrastructure” vibe, getting Mars-trilogy nostalgia, and hyping Mars as a messy real place—not just a destination.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-31.html)** — Tofutush’s 2025 recap hits big milestones—turning 18, starting college far from home, keeping sites alive—plus travel, books, Artfight, a first PMV, and goals like tackling a driver’s license.
