@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-01-24
+# Daily Blogroll: 2026-01-25
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/23/friday-bullet-points-about-self-inflicted-problems/)** — Wilhelm dunks on Zuckerberg’s metaverse money-pit pivoting to “AI slop,” then worries Enad Global 7’s new power players may squeeze Daybreak as EverQuest/DCUO sag.
-- **[Scopique](https://scopique.com/2026/01/23/grab-bag-for-the-week-ending-january-23rd-2026/)** — Scopique’s weekly grab bag: the Obsidian journaling plan fizzles, motivation dips, gaming malaise drifts through WoW and Hytale, and the Fable reboot has him cautiously hopeful for Autumn 2026.
-- **[Dragonchasers](https://dragonchasers.com/2026/01/22/a-taste-of-wasteland-3/)** — Nimgimli gives Wasteland 3 a real try: loves the tactical combat and character builds, finds the RPG wandering tedious, and ultimately bails on the crass, edgy tone.
-- **[Bio Break](https://biobreak.wordpress.com/2026/01/23/lotro-drinking-in-the-pinks-and-purples-of-ered-luin/)** — Syp’s LOTRO Captain hits Ered Luin, praises the zone’s pink-purple beauty and packed design, and finds the run freshly different by playing a Dwarf—axes, boar rides, and all.
-- **[Virtual Moose](https://virtualmoose.org/2026/01/23/indie-game-roundup-january-23-2026/)** — Michael opens with solidarity and GoFundMes for Minneapolis families, then pivots to indie finds like his British Game Generator, ZX Spectrum shooter Go-Go BunnyGun, and Perfect Tides: Station to…
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/01/23.html#a211420)** — Dave Winer reflects on Darkest Hour as an eerie fit for today, cheers allies resisting the US to protect democracy, and warns AI assistants could become “advertising squared” mind-games.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/23/a-disturbing-piece-of-the-ai-future-were-all-headed-into/)** — Warner Crocker riffs on The Verge’s report about Google swapping in lousy AI headlines, warning that when channels don’t value content, we’re headed for endless recycled stories and slop.
+- **[Chasing Dings!](https://chasingdings.com/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/)** — Tipa digs into Dominus Automa’s promise of a hands-off “idle MMO,” but finds an invite-only, single-player slice today—still, the FF12-style automation tinkering sounds genuinely fun.
+- **[READ ONLY MEMO](https://readonlymemo.com/superstation-one-development-history-making-of-taki-udon-interview/)** — Wes shifts ROM’s usual vibe into a big interview with Taki Udon on the PlayStation-styled MiSTer FPGA SuperStation One—covering iteration, manufacturing logistics, and software headaches.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/making-living-in-eve-online-part-1.html)** — CrazyKinux lays out EVE Online “stop being broke forever” basics—bank often, don’t die with loot, fly cheap—then maps five starter ISK tracks like exploration, mining, missions+salvage, and hauling.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/01/23/a-puzzling-spin-on-rogue-bobos-big-tower-first-impressions/)** — Frostilyte tries Mysticat’s Bobo’s Big Tower demo: classic Rogue-style turn-based dungeon crawling with Zelda/Necrodancer vibes, where combat feels like puzzles and exploring for keys keeps runs tense
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/thanks-but-i-couldnt-oh-go-on-then.html)** — Bhagpuss, 90 hours deep in Baldur’s Gate 3, hits Act II’s end and wonders if it’s just too long—plus some hilarious regret over making the ominous Guardian a gnome in a ball gown.
+- **[RPG Codex](https://rpgcodex.net/article.php?id=12755)** — Infinitron spotlights The Fortress: a gothic, procedurally generated, turn-based dungeon crawler where dice-based class builds and tough choices drive endless-cycle escape attempts from a lich’s cit
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-01-05.html)** — Tofutush loves Blue Prince’s mysteries and puzzles but bounces off the random room drafting and resource limits, then falls down YouTube rabbit holes and finally turns to mods for unlimited everything
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/01/22/the-myth-of-stability/)** — Joar argues “career stability” is mostly theater—Big 4 layoffs and restructures prove loyalty is one-way—so real security comes from adaptability, transferable skills, and optionality.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html)** — Bruce Schneier’s Friday Squid Blogging spotlights Spock befriending a giant space squid in Star Trek: Strange New Worlds: The Seeds of Salvation #5, plus an open thread for security news.
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/01/22/positech-is-funding-a-solar-powered-borehole-in-cameroon/)** — Cliffski says Positech is funding a solar-powered borehole for a school in Bagam, Cameroon via Building Schools For Africa, pitching clean water as the biggest time-saver for kids’ education.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/01/for-all-mankind-season-5-and-long.html)** — CrazyKinux digs the For All Mankind Season 5 teaser, loving the “space as infrastructure” vibe, getting Mars-trilogy nostalgia, and hyping Mars as a messy real place—not just a destination.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2025-12-31.html)** — Tofutush’s 2025 recap hits big milestones—turning 18, starting college far from home, keeping sites alive—plus travel, books, Artfight, a first PMV, and goals like tackling a driver’s license.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/24/binge-watching-into-the-new-year-once-more-2/)** — Wilhelm rounds up recent watches, raving hard about Death by Lightning’s late-1800s presidential politics and side-eyeing Landman season 2’s rich-people focus—saved mainly by Billy Bob Thornton.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-01-24-proselytizing-no-more-menstruation/)** — Anarchae shares their birth control journey—suspected endometriosis, rough teen periods, then NuvaRing (eventually continuous use) and how skipping periods was genuinely life-changing for pain, mood,
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/01/24.html#a182555)** — Dave Winer flags standard.site as an AT Proto writing-format alliance, worries it’s “web-in-a-silo” vs RSS, and also ships a new home page for the Scripting News podcast.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/01/20/Quamina-2.0)** — Tim Bray releases Quamina 2.0.0 with regular expressions, notes some performance regressions from epsilon transitions, and muses about benchmarking in Go (maybe b.Loop) plus writing more practical fin
+## Writing
+
+- **[Ready Pixel One](https://www.readypixelone.com/blog/arrivalonembercoastreach)** — Pixel One’s field journal hits cozy exploration beats—touring Embercoast Reach with Tocho, falling for a cliffside house by the Four Sisters waterfall, and plotting renovations while Stargrace picks a
