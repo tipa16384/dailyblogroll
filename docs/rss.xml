@@ -7,19 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 11:52:48 +0000</lastBuildDate>
-    <item>
-      <title>The Daily Blogroll — Thursday, 22 January 2026</title>
-      <link>https://westkarana.xyz/daily-blogroll-2026-01-22.html</link>
-      <guid isPermaLink="false">https://westkarana.xyz/daily-blogroll-2026-01-22.html</guid>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Daily Blogroll — Friday, 23 January 2026</title>
-      <link>https://westkarana.xyz/daily-blogroll-2026-01-23.html</link>
-      <guid isPermaLink="false">https://westkarana.xyz/daily-blogroll-2026-01-23.html</guid>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 28 Jan 2026 11:56:54 +0000</lastBuildDate>
     <item>
       <title>The Daily Blogroll — Saturday, 24 January 2026</title>
       <link>https://westkarana.xyz/daily-blogroll-2026-01-24.html</link>
@@ -33,10 +21,22 @@
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>The Daily Blogroll — Monday, 26 January 2026</title>
+      <link>https://westkarana.xyz/daily-blogroll-2026-01-26.html</link>
+      <guid isPermaLink="false">https://westkarana.xyz/daily-blogroll-2026-01-26.html</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>The Daily Blogroll — Tuesday, 27 January 2026</title>
       <link>https://westkarana.xyz/daily-blogroll-2026-01-27.html</link>
       <guid isPermaLink="false">https://westkarana.xyz/daily-blogroll-2026-01-27.html</guid>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Daily Blogroll — Wednesday, 28 January 2026</title>
+      <link>https://westkarana.xyz/daily-blogroll-2026-01-28.html</link>
+      <guid isPermaLink="false">https://westkarana.xyz/daily-blogroll-2026-01-28.html</guid>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
