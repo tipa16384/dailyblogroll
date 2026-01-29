@@ -4,21 +4,21 @@
     <meta charset="utf-8">
     <meta http-equiv="Cache-Control" content="max-age=600, must-revalidate">
     <title>{{ vars.title }}</title>
-    <link rel="stylesheet" href="dailyblogroll.css?v={{ vars.date }}">
-    <link rel="icon" href="icons/favicon-calendar.ico" sizes="any">
-    <link rel="icon" type="image/png" href="icons/favicon-calendar-512.png" sizes="512x512">
-    <link rel="apple-touch-icon" href="icons/apple-touch-icon-calendar-180.png" sizes="180x180">
+    <link rel="stylesheet" href="/dailyblogroll.css?v={{ vars.date }}">
+    <link rel="icon" href="/icons/favicon-calendar.ico" sizes="any">
+    <link rel="icon" type="image/png" href="/icons/favicon-calendar-512.png" sizes="512x512">
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon-calendar-180.png" sizes="180x180">
 </head>
 <body class="newspaper">
     <div class="newspaper-container">
     <div class="newspaper-headline">
-        <a href="index.html">{{ vars.title }}</a>
+        <a href="/index.html">{{ vars.title }}</a>
         <br/>
         <span>
         {% if vars.previous is defined %}
         <a href="{{ vars.previous }}?target={{ vars.date }}">&lt;&lt; Previous Blogroll .....</a>
         {% endif %}
-        <a href="rss.xml"> &lt;RSS&gt; </a>
+        <a href="/rss.xml"> &lt;RSS&gt; </a>
         {% if vars.next is defined %}
         <a href="{{ vars.next }}?target={{ vars.date }}">..... Next Blogroll &gt;&gt;</a>
         {% endif %}

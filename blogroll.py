@@ -3,7 +3,6 @@ from urllib.parse import urlparse
 import requests, feedparser, yaml
 from readability import Document
 from markdownify import markdownify as md
-from slugify import slugify
 from openai import OpenAI
 from pathlib import Path
 import json, time, calendar, email.utils as eut
@@ -359,11 +358,22 @@ def call_model(items):
     return data["items"]
 
 def find_previous_blogroll():
+    # recursively find the filenames of all the daily blogrolls at this level or lower
+    files = list(BLOGROLLS_DIR.rglob("daily-blogroll-*.html"))
+    # sort them by filename alphabetically descending. the most recent will be first
+    files.sort(key=lambda x: x.name, reverse=True)
     # find the latest blogroll before today
-    files = list(BLOGROLLS_DIR.glob("daily-blogroll-*.html"))
-    files = [f for f in files if f.stem != "latest"]
-    files.sort(key=lambda x: x.stat().st_mtime, reverse=True)
-    return files[0].name if files else None
+    return files[0] if files else None
+
+def filename_to_path(filename):
+    match = re.match(r"daily-blogroll-(\d{4})-(\d\d)-(\d\d)\.html", filename)
+    if match:
+        year, month, _ = match.groups()
+        file_path = BLOGROLLS_DIR / year / month / filename
+        # confirm folders exist
+        file_path.parent.mkdir(parents=True, exist_ok=True)
+        return file_path
+    return BLOGROLLS_DIR / filename
 
 def render_html(blog_title, items):
     """Simple HTML rendering (not used by default) render
@@ -379,7 +389,8 @@ def render_html(blog_title, items):
 
     previous_blog = find_previous_blogroll()
     if previous_blog:
-        jinja_vars["previous"] = previous_blog
+        pfn = Path(previous_blog).relative_to(ROOT)
+        jinja_vars["previous"] = '/' + str(pfn)
 
     # sort item list by category, then source
     items.sort(key=lambda x: (x.get("category",""), x["source"].lower()))
@@ -403,12 +414,10 @@ def render_html(blog_title, items):
     output = template.render(vars=jinja_vars)
 
     filename = f"daily-blogroll-{today.strftime('%Y-%m-%d')}.html"
-    path = BLOGROLLS_DIR / filename
+    path = filename_to_path(filename)
     with open(path, "w", encoding="utf-8") as f:
         f.write(output)
     with open(BLOGROLLS_DIR / "index.html", "w", encoding="utf-8") as f:
-        # template = env.get_template("latesttemplate.html")
-        # f.write(template.render(today=filename))
         f.write(output)
     with open(BLOGROLLS_DIR / "latest.txt", "w", encoding="utf-8") as f:
         f.write("\n\n".join(alt_text_list) + "\n")
@@ -455,6 +464,7 @@ def main():
     md_path, _ = render_html(cfg.get("title","Daily Blogroll"), drafted)
     print("Wrote", md_path)
     renavigate_blogrolls()
+    force_root_blogrolls()
     make_feed()
     write_intro(items, "mastodon")
     write_intro(items, "bluesky")
@@ -476,7 +486,7 @@ def get_sorted_blogrolls():
         List of tuples where each tuple contains (date_string, full_filename)
     """
     # Get all HTML files in the blogrolls directory
-    files = list(BLOGROLLS_DIR.glob("daily-blogroll-*.html"))
+    files = list(BLOGROLLS_DIR.rglob("daily-blogroll-*.html"))
     
     # Pattern to extract date components
     pattern = r"daily-blogroll-(\d{4})-(\d\d)-(\d\d)\.html"
@@ -489,7 +499,7 @@ def get_sorted_blogrolls():
         if match:
             year, month, day = match.groups()
             date_string = f"{year}{month}{day}"
-            result.append((date_string, filename))
+            result.append((date_string, str(file_path)))
     
     # Sort by date string (which will be in YYYYMMDD format)
     result.sort(key=lambda x: x[0])
@@ -504,7 +514,7 @@ def renavigate_blogrolls():
     print (f"Found {len(blogrolls)} blogrolls to renavigate.")
     for i, (datestr, filename) in enumerate(blogrolls):
         friendly_date = datetime.datetime.strptime(datestr, "%Y%m%d").strftime("%A, %-d %b %Y")
-        with open(BLOGROLLS_DIR / filename, "r+", encoding="utf-8") as f:
+        with open(filename, "r+", encoding="utf-8") as f:
             content = f.read()
             if "<h1>" in content:
                 # separate the content before the <h1> tag into a variable "prelude" and the content after the </h1> tag as the antelude
@@ -514,11 +524,13 @@ def renavigate_blogrolls():
                 # Add navigation links
                 if i > 0:
                     _, prev_filename = blogrolls[i - 1]
-                    header = header + f'<a href="{prev_filename}">⬅️</a>'
-                header = header + f'<a href="index.html?key={datestr}">The Daily Blogroll &mdash; {friendly_date}</a>'
+                    pfn = Path(prev_filename).relative_to(ROOT)
+                    header = header + f'<a href="/{pfn}">⬅️</a>'
+                header = header + f'<a href="/index.html?key={datestr}">The Daily Blogroll &mdash; {friendly_date}</a>'
                 if i < len(blogrolls) - 1:
                     _, next_filename = blogrolls[i + 1]
-                    header = header + f'<a href="{next_filename}">➡️</a>'
+                    nfn = Path(next_filename).relative_to(ROOT)
+                    header = header + f'<a href="/{nfn}">➡️</a>'
                 new_h1 = f"<h1>{header}</h1>"
                 content = prelude + new_h1 + antelude
             if '<div class="newspaper-headline">' in content:
@@ -526,21 +538,58 @@ def renavigate_blogrolls():
                 prelude, starttag, remainder = content.partition('<div class="newspaper-headline">')
                 _, endtag, antelude = remainder.partition("</div>")
                 content = prelude + starttag
-                content = content + f'<a href="index.html">The Daily Blogroll &mdash; {friendly_date}</a>'
+                content = content + f'<a href="/index.html">The Daily Blogroll &mdash; {friendly_date}</a>'
                 content = content + "<br/><span>"
                 if i > 0:
                     _, prev_filename = blogrolls[i - 1]
-                    content = content + f'<a href="{prev_filename}">&lt;&lt; Previous Blogroll .....</a>'
-                content = content + '<a href="rss.xml"> &lt;RSS&gt; </a>'
+                    pfn = Path(prev_filename).relative_to(ROOT)
+                    content = content + f'<a href="/{pfn}">&lt;&lt; Previous Blogroll .....</a>'
+                content = content + '<a href="/rss.xml"> &lt;RSS&gt; </a>'
                 if i < len(blogrolls) - 1:
                     _, next_filename = blogrolls[i + 1]
-                    content = content + f'<a href="{next_filename}">..... Next Blogroll &gt;&gt;</a>'
+                    nfn = Path(next_filename).relative_to(ROOT)
+                    content = content + f'<a href="/{nfn}">..... Next Blogroll &gt;&gt;</a>'
                 content = content + "</span>"
                 content = content + endtag + antelude
             f.seek(0)
             f.write(content)
             f.truncate()
     print("Renavigated blogrolls.")
+
+def rearrange_blogrolls():
+    """
+    Rearrange blogroll HTML files into year/month subdirectories based on their filenames.
+    """
+    blogrolls = get_sorted_blogrolls()
+    print (f"Found {len(blogrolls)} blogrolls to rearrange.")
+    for datestr, filename in blogrolls:
+        year = datestr[:4]
+        month = datestr[4:6]
+        new_dir = BLOGROLLS_DIR / year / month
+        new_dir.mkdir(parents=True, exist_ok=True)
+        new_path = new_dir / Path(filename).name
+        if str(new_path) != filename:
+            os.rename(filename, new_path)
+            print(f"Moved {filename} to {new_path}")
+    print("Rearranged blogrolls.")
+
+def force_root_blogrolls():
+    """
+    Open up every blogroll. Rewrite so 'href="dailyblogroll' points to '/dailyblogroll', and all the 'href="icons/...' points to '/icons/...'
+    and all the 'src="images/...' points to '/docs/images/...'
+    """
+    blogrolls = get_sorted_blogrolls()
+    print (f"Found {len(blogrolls)} blogrolls to force root paths.")
+    for datestr, filename in blogrolls:
+        with open(filename, "r+", encoding="utf-8") as f:
+            content = f.read()
+            content = re.sub(r'href="dailyblogroll', 'href="/dailyblogroll', content)
+            content = re.sub(r'href="icons/', 'href="/icons/', content)
+            content = re.sub(r'src="images/', 'src="/docs/images/', content)
+            f.seek(0)
+            f.write(content)
+            f.truncate()
+    print("Forced root paths in blogrolls.")
 
 def load_state():
     return json.loads(STATE_PATH.read_text(encoding="utf-8"))
