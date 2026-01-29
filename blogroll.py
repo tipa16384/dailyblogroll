@@ -389,7 +389,7 @@ def render_html(blog_title, items):
 
     previous_blog = find_previous_blogroll()
     if previous_blog:
-        pfn = Path(previous_blog).relative_to(ROOT)
+        pfn = Path(previous_blog).relative_to(BLOGROLLS_DIR)
         jinja_vars["previous"] = '/' + str(pfn)
 
     # sort item list by category, then source
@@ -524,12 +524,12 @@ def renavigate_blogrolls():
                 # Add navigation links
                 if i > 0:
                     _, prev_filename = blogrolls[i - 1]
-                    pfn = Path(prev_filename).relative_to(ROOT)
+                    pfn = Path(prev_filename).relative_to(BLOGROLLS_DIR)
                     header = header + f'<a href="/{pfn}">⬅️</a>'
                 header = header + f'<a href="/index.html?key={datestr}">The Daily Blogroll &mdash; {friendly_date}</a>'
                 if i < len(blogrolls) - 1:
                     _, next_filename = blogrolls[i + 1]
-                    nfn = Path(next_filename).relative_to(ROOT)
+                    nfn = Path(next_filename).relative_to(BLOGROLLS_DIR)
                     header = header + f'<a href="/{nfn}">➡️</a>'
                 new_h1 = f"<h1>{header}</h1>"
                 content = prelude + new_h1 + antelude
@@ -542,12 +542,12 @@ def renavigate_blogrolls():
                 content = content + "<br/><span>"
                 if i > 0:
                     _, prev_filename = blogrolls[i - 1]
-                    pfn = Path(prev_filename).relative_to(ROOT)
+                    pfn = Path(prev_filename).relative_to(BLOGROLLS_DIR)
                     content = content + f'<a href="/{pfn}">&lt;&lt; Previous Blogroll .....</a>'
                 content = content + '<a href="/rss.xml"> &lt;RSS&gt; </a>'
                 if i < len(blogrolls) - 1:
                     _, next_filename = blogrolls[i + 1]
-                    nfn = Path(next_filename).relative_to(ROOT)
+                    nfn = Path(next_filename).relative_to(BLOGROLLS_DIR)
                     content = content + f'<a href="/{nfn}">..... Next Blogroll &gt;&gt;</a>'
                 content = content + "</span>"
                 content = content + endtag + antelude
@@ -585,7 +585,8 @@ def force_root_blogrolls():
             content = f.read()
             content = re.sub(r'href="dailyblogroll', 'href="/dailyblogroll', content)
             content = re.sub(r'href="icons/', 'href="/icons/', content)
-            content = re.sub(r'src="images/', 'src="/docs/images/', content)
+            content = re.sub(r'src="images/', 'src="/images/', content)
+            content = re.sub(r'src="/docs/images/', 'src="/images/', content)
             f.seek(0)
             f.write(content)
             f.truncate()
