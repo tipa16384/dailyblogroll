@@ -632,30 +632,31 @@ def make_feed():
     fg.language('en')
 
     # get the latest 5 blogrolls
-    blog_rolls = get_sorted_blogrolls()[::-1][:5]
+    blog_rolls = get_sorted_blogrolls()[-5:]
 
     for date_str, blogs in blog_rolls:
         # print (f"Date: {date_str}, Blogs: {BLOGROLLS_DIR / blogs}")
-        with open(BLOGROLLS_DIR / blogs, 'r', encoding='utf-8') as f:
+        with open(blogs, 'r', encoding='utf-8') as f:
             html_content = f.read()
             fe = fg.add_entry()
 
             # get the title from the <head> and use that for id and title
             soup = BeautifulSoup(html_content, 'html.parser')
             title = soup.title.string if soup.title else f"Blogroll for {date_str}"
-            fe.id(f"https://westkarana.xyz/{blogs}")
+            relative_path = Path(blogs).relative_to(BLOGROLLS_DIR)
+            fe.id(f"https://westkarana.xyz/{relative_path}")
             fe.title(title)
-            fe.link(href=f"https://westkarana.xyz/{blogs}", rel='alternate')
+            fe.link(href=f"https://westkarana.xyz/{relative_path}", rel='alternate')
             fe.pubDate(pubDate=f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}T00:00:00Z") # Use the date from the filename
 
             # get a list of all the "div.feed-element" elements
-            feed_elements = soup.find_all("div", class_="feed-element")
+            feed_elements = soup.find_all("article", class_="article-element")
             # print (f"Found {len(feed_elements)} feed elements")
             # each feed element contains two links. Link 1 has class feed-element-image and contains an image. Link 2 has class one-liner
             # and contains text content. We want to extract both links and the image (if present) and put them in the description
             description = ""
             for element in feed_elements:
-                image = element.find("img", class_="feed-element-image")
+                image = element.find("img")
                 one_liner = element.find("a", class_="oneliner")
                 if image:
                     description += f'<img src="{image["src"]}" alt="{title} image">'
