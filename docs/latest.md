@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-01-30
+# Daily Blogroll: 2026-01-31
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/29/project-gorgon-leaves-early-access-and-celebrates-becoming-1-0/)** — Wilhelm looks back on Project: Gorgon’s long road—failed Kickstarters, Steam Early Access, and Sandra Powers’ passing—before finally celebrating its hard-won 1.0 release.
-- **[In An Age](https://inanage.com/2026/01/29/first-impressions-clair-obscur-expedition-33/)** — Azuriel is wowed by Clair Obscur: Expedition 33’s trippy art and mocap-driven dialogue, but finds the turn-based Soulslike combat (QTEs, parries, limited healing) a real drag.
-- **[Aywren's Nook](https://aywren.com/2026/01/29/playing-quest-calendar-2026-the-souls-of-saraku)** — Aywren digs into Sundial Games’ solo D20 quest calendar The Souls of Saraku, enjoying the villain-side twist, Notoriety/minion vibes, and—importantly—taking a break from daily live-blogging burnout.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/01/a-farewell-to-fibrojedis-website.html)** — Shintar says goodbye to SWTOR creator FibroJedi’s soon-to-vanish site, credits his disability-informed perspective on story modes, and helps preserve old SWTOR posts by tracking them down on the Wayb.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/01/29/wavetale/)** — Ellie reviews Wavetale as a breezy modern 3D platformer throwback—Sigrid vs The Gloom across ocean islets—scratching that Spyro/Jak-era itch while leaning into a narrative adventure vibe.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/01/30/alien-breed-92-special-edition-in-space-no-one-can-hear-you-yell-at-your-fans/)** — Kimimi loves Alien Breed ’92 Special Edition as a ground-up rebuild with Gauntlet-ish roots turned into tense survival—limited ammo, persistent resources, and nasty door/key choices that haunt yourrun
+- **[Chasing Dings!](https://chasingdings.com/2026/01/30/othello-world-i-killed-the-dragon/)** — Tipa goes deep on Othello World for Super Famicom, then iterates from MCTS and negamax to a genetic algorithm to finally build an AI that can beat Long John Silver.
+- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/01/d4-project-gorgon-and-riding-road-to.html)** — The Friendly Necromancer checks in with Diablo IV’s new Paladin season antics, celebrates Project Gorgon finally launching out of beta, and shares a hopeful real-life health update.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/30/friday-bullet-points-2026-mmo-roadmap-round-up-edition/)** — Wilhelm rounds up 2026 MMO roadmaps, digging into World of Warcraft retail’s WoW Midnight plans and the split vibes around WoW Classic’s Burning Crusade return and beyond.
+- **[Scopique](https://scopique.com/2026/01/31/clear-the-air-event-in-star-citizen/)** — Scopique logs Star Citizen’s patch 4.6 “Clear the Air” grind, hauling cargo across Stanton in a Hermes, tracking point payouts, and eyeing huge SCU missions that scream “bring a Hercules.”
+- **[Aywren's Nook](https://aywren.com/2026/01/30/project-gorgon-launches)** — Aywren returns to Project: Gorgon for the 1.0 launch, updates an old character with the improved models and slider-heavy creator, and revisits the busy newbie island and quirky story beats.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/01/29/super-chipflake-u-quest-for-the-uncooked-schnitzel-review/)** — Frostilyte reviews Super Chipflake Ü, a Banjo-Kazooie-style 3D platformer with great late-’90s vibes and music transitions, but says the fetch-quest slog and limited movement kill the fun.
+- **[Indiecator](https://indiecator.org/2026/01/30/goblin-vyke-demo-review/)** — Magi can’t stop playing the Goblin Vyke demo, praising its stealth-first “dungeon steal by night, sell by day” loop, grim greed story setup, and tense trap-and-timing metroidvania dungeon design.
+- **[Bio Break](https://biobreak.wordpress.com/2026/01/30/syps-gaming-goals-for-february-2026/)** — Syp recaps a suddenly-busy January and sets February MMO targets: keep leveling in WoW Classic ahead of Burning Crusade Anniversary, chase retail endeavors, finish another LOTRO Harad zone, and dabble
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/01/abroad-and-fromage.html)** — Tobold plays two Essen pickups: Abroad feels lighter and swingier than its BGG weight suggests, while Fromage surprises with parallel simultaneous turns that keep a medium game snappy and deep.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/01/29.html#a185913)** — Dave Winer wrangles pagepark.scripting.com hosting weirdness, then riffs on the OG Web as “small pieces loosely joined,” plus some pragmatic notes on goals, code placement, and daily productivity.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/mozilla-has-1-4-billion-dollars-that-they-are-spending-on-some-ai-bullshit/)** — Jamie Zawinski sees Mozilla’s “billion with a B” AI push as an event-horizon moment—if you hoped surveys or feedback would steer the ship, he’s saying it’s already cooked.
-- **[West Karana](https://westkarana.blog/2026/01/29/i-vibed-an-app-for-work-and-it-was-good/)** — Tipa “vibe codes” a FastAPI proof-of-concept with Claude Sonnet—REST endpoints, database abstraction, tests, docs, plus Geocod.io and National Weather Service APIs—and admits it worked surprisingly 잘.
+- **[Scripting News](http://scripting.com/2026/01/31.html#a151031)** — Dave Winer ties FOSDEM to his “start over” social web pitch—simple peer-to-peer first, careful centralization tradeoffs—then tweaks wpIdentity storage docs and notes app/object identification is next.
 ## General
 
-- **[Virtual Moose](https://virtualmoose.org/2026/01/28/ice-spotted-in-ypsilanti-michigan/)** — Michael flags reports of ICE detaining parents of Ypsilanti students, urges locals to stay alert and get involved, and pushes back on claims about enforcement pulling out elsewhere.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/1/28/der-tiger-aka-the-tank-2025)** — Roger says Der Tiger AKA The Tank isn’t Fury-style WWII action so much as horror-adjacent dread, praising the eerie atmosphere, convincing Tiger tank effects, and strong performances from the crew.
-## Writing
-
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/29/promises-promises/)** — Warner reflects on running theatres: picking a season is basically selling a promise a year ahead, and delivering on it—snowstorms, flops, and all—is what builds the trust that keeps subscribers back.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/30/a-dark-place/)** — Warner Crocker writes from a “dark place,” raging at corruption, arrests, and the Epstein files release—refusing to repeat the worst details, but demanding moral clarity and real accountability.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/whale/)** — Jamie Zawinski is delighted (and a little incredulous) that a 15-minute documentary exists about Whale, reminiscing about their Pixies-ish sleaze, Tricky connections, and a pair of very uneven 1998
