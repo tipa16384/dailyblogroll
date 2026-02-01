@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-01-31
+# Daily Blogroll: 2026-02-01
 
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2026/01/30/othello-world-i-killed-the-dragon/)** — Tipa goes deep on Othello World for Super Famicom, then iterates from MCTS and negamax to a genetic algorithm to finally build an AI that can beat Long John Silver.
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/01/d4-project-gorgon-and-riding-road-to.html)** — The Friendly Necromancer checks in with Diablo IV’s new Paladin season antics, celebrates Project Gorgon finally launching out of beta, and shares a hopeful real-life health update.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/30/friday-bullet-points-2026-mmo-roadmap-round-up-edition/)** — Wilhelm rounds up 2026 MMO roadmaps, digging into World of Warcraft retail’s WoW Midnight plans and the split vibes around WoW Classic’s Burning Crusade return and beyond.
-- **[Scopique](https://scopique.com/2026/01/31/clear-the-air-event-in-star-citizen/)** — Scopique logs Star Citizen’s patch 4.6 “Clear the Air” grind, hauling cargo across Stanton in a Hermes, tracking point payouts, and eyeing huge SCU missions that scream “bring a Hercules.”
-- **[Aywren's Nook](https://aywren.com/2026/01/30/project-gorgon-launches)** — Aywren returns to Project: Gorgon for the 1.0 launch, updates an old character with the improved models and slider-heavy creator, and revisits the busy newbie island and quirky story beats.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/01/29/super-chipflake-u-quest-for-the-uncooked-schnitzel-review/)** — Frostilyte reviews Super Chipflake Ü, a Banjo-Kazooie-style 3D platformer with great late-’90s vibes and music transitions, but says the fetch-quest slog and limited movement kill the fun.
-- **[Indiecator](https://indiecator.org/2026/01/30/goblin-vyke-demo-review/)** — Magi can’t stop playing the Goblin Vyke demo, praising its stealth-first “dungeon steal by night, sell by day” loop, grim greed story setup, and tense trap-and-timing metroidvania dungeon design.
-- **[Bio Break](https://biobreak.wordpress.com/2026/01/30/syps-gaming-goals-for-february-2026/)** — Syp recaps a suddenly-busy January and sets February MMO targets: keep leveling in WoW Classic ahead of Burning Crusade Anniversary, chase retail endeavors, finish another LOTRO Harad zone, and dabble
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/01/abroad-and-fromage.html)** — Tobold plays two Essen pickups: Abroad feels lighter and swingier than its BGG weight suggests, while Fromage surprises with parallel simultaneous turns that keep a medium game snappy and deep.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/01/31/january-2026-in-review/)** — Wilhelm kicks off 2026 grumbling about WordPress themes (Nook’s a maybe, Twenty Twelve’s ancient), retires “Search Terms of the Month,” and rolls through last year’s EVE Online and Steam-sale memories
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/01/yesterday-project-gorgon-today-project.html)** — Bhagpuss pokes holes in Google’s Project Genie hype: it’s not making real games, just fuzzy 60‑second interactive snippets, while the messy copyright/IP implications loom large.
+- **[Time to Loot](https://www.timetoloot.com/blog/time-to-loot-turns-seven/)** — Naithin celebrates (a bit late) Time to Loot turning seven, digs into posts/comments/traffic stats, and looks ahead to 2026 hype—especially hoping Crimson Desert delivers after mixed Monster Hunter
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/01/29/eve-morning-calculations/)** — Stargrace captures quiet EVE Online wormhole life: coffee in a freeport, trusty Helios vs tempting Odysseus, and the J-space truth that flying something flashy can be an invitation to die.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/01/30/gated-by-dumb/)** — Belghast’s Path of Exile Legacy of Phrecia 2.0 start is pure gauntlet chaos—dentist delays, Witch-mule gem shenanigans, brutal modifiers—and the facepalm reveal he ran level 1 gems to level 34
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/enshrouded.html)** — Tobold is 85 hours deep in Enshrouded and loves how its voxel building, crafting, housing, and RPG adventuring feels like the MMO dream (UO/SWG-style) that WoW’s quest treadmill never delivered.
+- **[Dragonchasers](https://dragonchasers.com/2026/01/31/january-2026/)** — Nimgimli’s January recap mixes storm prep with SSD-cleanup gaming: lots of My Time at Sandrock and Ball X Pit, bounced off Wasteland 3’s tone, finished Clair Obscur: Expedition 33, and eyes Eternal
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/01/31.html#a151031)** — Dave Winer ties FOSDEM to his “start over” social web pitch—simple peer-to-peer first, careful centralization tradeoffs—then tweaks wpIdentity storage docs and notes app/object identification is next.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-01-31-linux-install-nobara/)** — Anarchae tries Nobara (Fedora 43) on a ROG Zephyrus G14 hoping for easy NVIDIA/asusctl wins, but ends up stuck in BIOS weirdness and “why won’t the GPU turn off” driver-manual purgatory.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/zipbomb-json/)** — Jamie Zawinski wants someone else to craft a maximally malicious “zipbomb JSON,” after his ~182‑million nesting-depth attempt hits parser limits—now it’s about balancing depth and array size for RAM
 ## General
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/30/a-dark-place/)** — Warner Crocker writes from a “dark place,” raging at corruption, arrests, and the Epstein files release—refusing to repeat the worst details, but demanding moral clarity and real accountability.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/01/whale/)** — Jamie Zawinski is delighted (and a little incredulous) that a 15-minute documentary exists about Whale, reminiscing about their Pixies-ish sleaze, Tricky connections, and a pair of very uneven 1998
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html)** — Bruce Schneier’s Friday Squid Blogging spotlights a newly filmed deep-sea squid that buries itself upside-down and pretends to be a plant—equal parts novel, puzzling, and wonderfully weird.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/01/31/minnesota-by-the-marsh-family/)** — Warner Crocker shares The Marsh Family’s haunting “Minnesota,” a “San Francisco” adaptation responding to Minneapolis occupation and murders, and argues we need more musicians meeting this moment head
+## Writing
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-01-17.html)** — Tofutush riffs on the “self-insert Mary Sue” trope, admitting her self-inserts were mostly punching bags—tracking the evolution from a middle-school paracosm to Qibli in TIR, trauma and all.
