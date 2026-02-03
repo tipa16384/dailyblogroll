@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-02-02
+# Daily Blogroll: 2026-02-03
 
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2026/02/01/captaincon-2026-masters-of-malifaux/)** — Tipa heads to CaptainCon in Warwick to test her Malifaux crews—swapping between December and Colette du Bois’s Performer misdirection—against a stacked field of top players.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/01/tagn-fantasy-critic-league-2026-week-five-as-momentum-builds/)** — Wilhelm checks in on Fantasy Critic League week five: Highguard limps in at 62, Woolhaven’s score wobbles as reviews roll in, and Code Vein II jitters around the mid-70s.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/02/01/monthly-poll-4/)** — Luna kicks off a newly numbered monthly poll (with a different vibe this time) and shares last month’s results, where “PC + desk” beat out handheld and console couch gaming.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/02/why-joining-corp-changes-everything-and.html)** — CrazyKinux joins Quantshure in EVE Online, traces the “automated” invite back to CCP’s Freelance Jobs funnel, and reflects on how the right corp turns New Eden’s learning cliff into stick-with-it fun.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/02/was-war-within-better-expansion-than.html)** — Shintar looks back on WoW’s The War Within ahead of Midnight, admitting it improved a lot and kept her playing, yet still feels “lesser” than the homey high of Dragonflight.
-- **[Virtual Moose](https://virtualmoose.org/2026/02/01/indie-game-roundup-feb-1-2026/)** — Michael’s indie roundup tours itch.io oddities and gems—FMV travel, minimalist TTRPG jams, interactive fiction horror, and Early Access FPS MeowGun—plus a nudge to donate to folks in Minnesota.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/01/aggrochat-555-mmos-and-psolikes/)** — Belghast and crew autopsy Anthem’s end, debate what makes an MMO (player interaction required), coin “PSOLikes” for lobby games, then bounce through Shape of Dreams, Path of Exile, and Guild Wars 2.
-## General
-
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/02/comic-book-store-fantasies-and-anime.html)** — The Friendly Necromancer rounds up recent streaming comfort-food: binging Kevin Smith’s Comic Book Men, getting cozy D&D vibes from Frieren, and tearing through Disney+’s Wonder Man (plus some My Hero
-- **[Jamie Zawinski's Blog](https://www.dnalounge.com/backstage/log/2026/02/01.html)** — Jamie Zawinski recaps DNA Pizza’s delivery rollercoaster: from in-house drivers to Uber Eats/Postmates/Grubhub, with app fees gutting margins and the whole delivery-app ecosystem making everything we
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/02/project-gorgon-learning-to-do-all-the-things-including-death/)** — Wilhelm dives back into Project: Gorgon post-1.0, running into launch-crowd chaos, spawn-rate whiplash, hard-to-spot NPCs, and plenty of getting murdered while relearning the ropes.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/unmenaced.html)** — Tobold isn’t sold on Menace (from Battle Brothers’ Overhype), knocking the tiny units, UI, missing exploration, and steep learning curve—so he’ll wait for Game Pass and patches instead.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/02/02/forza-horizon-5/)** — Krista jumps back into Forza Horizon 5 after the Forza Horizon 6 trailer, embraces the chaos, splurges on the Hot Wheels add-on, and starts the rookie grind toward Hot Wheels Legend.
+- **[RPG Codex](https://rpgcodex.net/article.php?id=12759)** — RPG Codex spotlights ATOM RPG 2: a story-heavy tactical CRPG in a Cold War-gone-hot world, promising an open world with vertical levels, a world map, and side activities like fishing and racing.
+- **[Bio Break](https://biobreak.wordpress.com/2026/02/02/world-of-warcraft-the-clock-strikes-midnight/)** — Syp finds new motivation in WoW’s Midnight prepatch, tries dual-maining Death Knight and Druid, wrestles with talent/build resets, and vows to redo his house interior after some serious home envy.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/02/02/let-it-go-finishing-games-is-optional/)** — Kimimi makes the case for dropping games the moment they stop being fun—whether it’s bad pacing or you’ve simply had your fill—because entertainment isn’t an obligation to “finish.”
+- **[Frostilyte Writes](https://frostilyte.ca/2026/02/02/month-in-review-big-hops-whiskerwood-type-help-more/)** — Frostilyte rounds up site housekeeping: a Steam Curator page rollout, a clear no–gen-AI note, a new Indie Spotlight for upcoming releases, and a spot judging Thinky Games’ 2025 Thinky Awards.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/02/01.html#a220002)** — Dave Winer riffs on why we needed so many programming languages, imagines modular building blocks for social web apps and bots, and notes nirvana.userland.com is somehow still running since 1998.
-- **[usebox.net](https://www.usebox.net/jjm/blog/git-usebox-net-and-bots/)** — JJM explains ditching cgit for hackable gitweb on git.usebox.net and details the increasingly grim anti-bot toolbox—robots.txt, UA blocks, and a JS cookie redirect—just to keep crawlers out.
-## Writing
+- **[Scripting News](http://scripting.com/2026/02/02.html#a154117)** — Dave Winer shares his handy snarkySlogans test-text array (free to steal) and then gently pitches the nightly Scripting News email—no naggy exit popups, and a clean unsub link.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/02/plonk/)** — Jamie Zawinski argues browsers have had only two real innovations in 16 years—auto Reader mode and “Hide Distracting Items”—and says everything else has been pointless or outright malicious.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html)** — Bruce Schneier flags a report alleging two AI coding assistants used by 1.5 million developers secretly send everything they ingest to China, with the obvious advice: maybe don’t use them.
+## General
 
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/2/1/thoughts-on-blogging-part-24)** — Roger starts a years-long blog “spring clean,” fixing typos and images while tackling embeds and search—and wonders aloud if he should delete off-topic posts to sharpen the site’s focus.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-02-01-week-5-digest/)** — Anarchae juggles Nobara/Fedora frustrations, a blogroll refresh, health stress, reading more Mrs Bradley, a bit of FFXIV and Raidou—and caps it off with a huge job offer win.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/02/01/sweet-16-acer/)** — Emily reminisces about her first computer—a Windows Vista Acer laptop at 16—used for games, MS Word stories, MSN chat, and late-night movies, before viruses, heat, and a dead motherboard ended it.
