@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-02-06
+# Daily Blogroll: 2026-02-07
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/05/mixed-emotions-around-steam-getting-sued-again/)** — Wilhelm shrugs at Valve getting sued over Steam’s 30% cut, arguing it’s not a monopoly and devs bought into a cargo-cult belief that Steam equals success.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/02/06/sword-and-fairy-4-who-wants-to-live-forever/)** — Kimimi digs into Sword and Fairy 4’s obsession with immortality, calling out how “enlightened” sect cultivation looks a lot like smug isolation—especially when simple help could prevent real tragedies
-- **[In An Age](https://inanage.com/2026/02/05/half-cocked/)** — Azuriel reacts to reports that Avowed and The Outer Worlds 2 missed expectations, pointing at punishing upgrades and half-baked skills—and wondering what six-plus years of dev time actually bought.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/02/ccps-2026-war-plan-big-promises-thin.html)** — CrazyKinux breaks down CCP’s EVE Online 2026 “war saga” pitch—Factional Warfare and Military Campaigns to onboard new players—while side-eyeing the many “we want” promises missing hard specs.
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/02/january-month-in-review.html)** — Joar’s January gaming roundup is a rare balanced month: loads of WoW alt leveling and housing, back to FFXIV to catch up (and clear Cruiserweight), plus ESO pursuits and more GW2 story progress.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/05/web-slingers-and-life-gain-on-block/)** — Belghast keeps grinding Path of Exile (Phrecia/Gauntlet vibes) with a Poison SRS minion build, sharing handy automation tech, a freshly six-linked Covenant, and a “good enough” life-on-block shield.
+- **[Chasing Dings!](https://chasingdings.com/2026/02/06/i-know-what-i-did-last-weekend-7/)** — Tipa digs into Funcom’s bumpy Dune: Awakening update (Landsraad specs and a zappy Research Station 152), then chills with Erenshor achievements and eyes Recettear-like Goblin Vyke.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/06/friday-bullet-points-all-about-project-gorgon/)** — Wilhelm catches up on Project: Gorgon’s rapid-fire post-1.0 updates and the surprising player-pop bump, while admitting it’s hitting that perfect nostalgia-meets-newness vibe.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/recalculating-and-changing-my-mind.html)** — Tobold reverses course and buys Menace on Steam, arguing the launch discount beats the new PC Game Pass math and lets him dip in and out as patches and content roll in.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/02/a-detour-into-unknown-my-first-steps-in.html)** — CrazyKinux pauses the EVE Online Enforcer grind to try Exploration, gets a Heron from the cosmic signatures chain, and happily faceplants into fittings, probes, cloaks, and “what does this do?” energy
+- **[Bio Break](https://biobreak.wordpress.com/2026/02/06/wow-classic-zooming-through-the-20s/)** — Syp’s WoW Classic shaman cruises through the 20s with ghost wolf speed, enjoys underrated zones like Stonetalon, and finds a chatty, friendly Christian guild while inching toward level 30.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/02/06/super-lesbian-animal-rpg/)** — Ellie reviews Super Lesbian Animal RPG, praising its loud-and-proud queer heart and SNES-era JRPG/EarthBound inspirations, plus a note that there’s a podcast version if you’d rather listen.
+- **[Buried Treasure](https://buried-treasure.org/2026/02/perfect-tides-station-to-station/)** — John says Perfect Tides: Station to Station is even better-written than the original, and shares a painfully honest uni unrequited-love story to explain how hard this college-relationship game hits.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/02/05.html#a145755)** — Dave Winer praises his Keurig as a “technology marvel,” then makes a polite pitch for the nightly Scripting News email—no popups, easy unsub, just yesterday’s posts in your inbox.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-02-03-asus-bios-nvidia-driver-cachyos/)** — Anarchae documents wrestling an ASUS ROG Zephyrus G14 on CachyOS: BIOS quirks, NVIDIA power management, overheating, and battery drain—plus lots of “do this at your own risk” Linux troubleshooting.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/2/3/changing-software)** — Roger tries to ditch Office 365 and other daily tools for cost, privacy, and ethics—switching from Chrome to Vivaldi, grumbling about Google search spam, and testing “Unsponsored” to hide sponsored 결과
-## General
-
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/theres-ghost-in-my-house.html)** — Bhagpuss wants to spread the word about Netflix’s Haunted Hotel, then riffs on how fractured the zeitgeist is now—if even Bad Bunny can slip by you, who’s really “out of touch”?
-- **[Coding Horror](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)** — Jeff Atwood reflects on “when is enough?” and lays out big-dollar follow-through on “Share the American Dream,” pointing to ~$21M in immediate donations and a longer-term $50M pledge behind a new RGMI
+- **[Scripting News](http://scripting.com/2026/02/06.html#a164248)** — Dave Winer compares Jake’s AI-assisted Frontier kernel spelunking (ChatGPT/Claude) with his own WordLand UI grind, and notes ChatGPT nailed a setTimeout tip like a handy code consultant.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/06/watching-others-on-the-digital-frontier/)** — Warner watches the OpenClaw/Clawdbot/Moltbot AI-agent hype cycle—powerful, risky, and maybe guardrail-free—plus the weird idea of bots chatting on their own network, Moltbook.
 ## Writing
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-01-23.html)** — Tofutush answers their own OC questionnaire: Lightningtail’s many fandom forms, ~90 “official” humans, an espionage focus with “letting go” themes, and why they’ll bounce ideas off ChatGPT guilt-free.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-01-29.html)** — Tofutush runs an artist questionnaire, chatting about drawing OCs fast, loving coloring, hating shading, desk-and-plug necessities, and keeping art mostly as a hobby (for now).
+## General
+
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/02/04/being-useful-without-a-title/)** — Joar reflects on leaving measurable corporate validation for the untracked labor of moves, appointments, and home logistics—useful work with no title, no praise, and a harsher feedback loop.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html)** — Bruce Schneier drops his classic Friday Squid Blogging with a Puget Sound squid-fishing tips video, and leaves the comments open for whatever security news folks want to chew on.

@@ -1,146 +1,74 @@
 Required feeds: ['Chasing Dings!', 'The Friendly Necromancer', 'The Ancient Gaming Noob', 'Scripting News']
 
 Processing feed: Chasing Dings! https://chasingdings.com/feed/
-Skipping entry older than last_ts: https://chasingdings.com/2026/02/04/erenshor-rising-shadows-launched/
-Skipping entry older than last_ts: https://chasingdings.com/2026/02/03/the-end-of-the-othello-world-saga/
-Skipping entry older than last_ts: https://chasingdings.com/2026/02/01/captaincon-2026-masters-of-malifaux/
-Skipping entry older than last_ts: https://chasingdings.com/2026/01/30/othello-world-i-killed-the-dragon/
-Skipping entry older than last_ts: https://chasingdings.com/2026/01/27/heroquest-first-light-tomb-of-the-fire-king/
-Skipping entry older than last_ts: https://chasingdings.com/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/
-Skipping entry older than last_ts: https://chasingdings.com/2026/01/21/erenshor-v0-3-rising-shadows/
-Skipping entry older than last_ts: https://chasingdings.com/2026/01/17/starfleet-academy-your-billionaire-future/
-Skipping entry older than last_ts: https://chasingdings.com/2026/01/11/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/
-Skipping entry older than last_ts: https://chasingdings.com/2026/01/10/rubik-and-the-microplastic-mind/
+Picking entry: I Know What I Did Last Weekend https://chasingdings.com/2026/02/06/i-know-what-i-did-last-weekend-7/
+Fetching readable content for URL: https://chasingdings.com/2026/02/06/i-know-what-i-did-last-weekend-7/
+Fetched article length: 7222 characters
+Picked item: I Know What I Did Last Weekend from Chasing Dings!
+Feed cap reached, stopping.
 
 Processing feed: The Friendly Necromancer https://thefriendlynecromancer.blogspot.com/feeds/posts/default?alt=rss
-No new entries.
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/02/comic-book-store-fantasies-and-anime.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/01/d4-project-gorgon-and-riding-road-to.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/01/trying-to-make-2026-awesome-dune-bg3.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/12/team-tom-update-kick-cancers-kras.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/11/ding-200-max-level-in-dune-awakening.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/11/team-tom-update-nov-2025-thank-you-and.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/10/tales-from-casual-dune-endgamer-free.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/10/infusion-illusion-profusion-confusion.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/09/cancer-journey-and-real-life-update-for.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/09/tragedy-and-rebuilding-in-dune-awakening.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/09/dune-dlc-one-and-done-but-we-aint-done.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/09/team-spode-awakened-in-dunes-endgame.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/08/third-chemo-first-immuno-team-tom-is.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/08/dune-awakening-onward-to-endgame.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/08/second-chemo-with-love-and-kindness-we.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/08/my-musical-history-part-5-fountain-avm.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/07/first-chemo-i-got-this.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/07/time-for-real-boss-fight-lung-cancer.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/07/cowabunga-its-spicing-time.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/06/tree-trunks-mcskinny-and-skip-legday-in.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/06/dobble-dungeon-is-adorables.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/06/did-i-just-beat-hogwarts-legacy-i-think.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/06/baggage-claimed-beasts-and-haunted.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/05/racing-in-quidditch-out-flying-high-in.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/05/hogwarts-legacy-6-hours-in-with-thomas.html
 
 Processing feed: The Ancient Gaming Noob https://tagn.wordpress.com/feed/
-Picking entry: Mixed Emotions Around Steam Getting Sued Again https://tagn.wordpress.com/2026/02/05/mixed-emotions-around-steam-getting-sued-again/
-Fetching readable content for URL: https://tagn.wordpress.com/2026/02/05/mixed-emotions-around-steam-getting-sued-again/
-Fetched article length: 11388 characters
-Picked item: Mixed Emotions Around Steam Getting Sued Again from The Ancient Gaming Noob
+Picking entry: Friday Bullet Points All About Project: Gorgon https://tagn.wordpress.com/2026/02/06/friday-bullet-points-all-about-project-gorgon/
+Fetching readable content for URL: https://tagn.wordpress.com/2026/02/06/friday-bullet-points-all-about-project-gorgon/
+Fetched article length: 9068 characters
+Picked item: Friday Bullet Points All About Project: Gorgon from The Ancient Gaming Noob
 Feed cap reached, stopping.
 
 Processing feed: Scripting News http://scripting.com/rss.xml
-Picking entry:  http://scripting.com/2026/02/05.html#a145755
-Fetching readable content for URL: http://scripting.com/2026/02/05.html#a145755
-Fetched article length: 1350 characters
+Picking entry:  http://scripting.com/2026/02/06.html#a164248
+Fetching readable content for URL: http://scripting.com/2026/02/06.html#a164248
+Fetched article length: 6604 characters
 Picked item: (untitled) from Scripting News
 Feed cap reached, stopping.
 
-Processing feed: The Ghastly Mirror https://www.ghastlymirror.xyz/rss.xml
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/linux-fixing-the-gnu-grub-boot-screen/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/steam-replay-2025/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/home-safety-hotline-review-working-in-customer-support-with-cryptids/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/happy-late-halloween-2025-heres-what-ive-been-playing/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/blaugust-2025-ending/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/bugaboo-pocket-review/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/what-ive-been-playing/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/welcome-blaugust-2025/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming-itchio-valve/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming-updates/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/blaugust-2025-were-back-baby/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/portugal-blackout/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/witches-vampires-secrets-of-ashbury-review/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/delores-a-thimbleweed-mini-adventures-walkthrough/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/update-2022-posts-archived/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/steam-replay-2024/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/site-moved/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/palia-update-pets/
-Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/palia-one-cozy-farming-mmo/
-
-Processing feed: Words Under My Name https://wordsundermyname.wordpress.com/feed/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/02/03/2-3-2026-february-2026-check-in/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/01/22/1-22-2026-open-book/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/01/11/1-11-2026-becoming-human/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/01/07/1-7-2026-lighten-up/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/12/25/12-25-2025-whirlwind/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/12/09/12-9-2025-light-a-spark/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/11/27/11-27-2025-playing-scared/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/11/09/11-9-2025-up-for-air/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/10/26/10-26-2025-go-find-yourself/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/10/06/10-6-2025-the-only-thing-stopping-you-is-you/
-
-Processing feed: Kimimi the Game Eating She-Monster https://kimimithegameeatingshemonster.com/feed/
-Picking entry: Sword and Fairy 4: Who wants to live forever? https://kimimithegameeatingshemonster.com/2026/02/06/sword-and-fairy-4-who-wants-to-live-forever/
-Fetching readable content for URL: https://kimimithegameeatingshemonster.com/2026/02/06/sword-and-fairy-4-who-wants-to-live-forever/
-Fetched article length: 10777 characters
-Picked item: Sword and Fairy 4: Who wants to live forever? from Kimimi the Game Eating She-Monster
-Feed cap reached, stopping.
-
-Processing feed: Inventory Full https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
-Picking entry: There's A Ghost In My House https://bhagpuss.blogspot.com/2026/02/theres-ghost-in-my-house.html
-Fetching readable content for URL: https://bhagpuss.blogspot.com/2026/02/theres-ghost-in-my-house.html
-Fetched article length: 9475 characters
-Picked item: There's A Ghost In My House from Inventory Full
-Feed cap reached, stopping.
-
-Processing feed: Cliffski's Blog https://www.positech.co.uk/cliffsblog/feed/
-No new entries.
-
-Processing feed: In An Age http://inanage.com/feed/
-Picking entry: Half-Cocked https://inanage.com/2026/02/05/half-cocked/
-Fetching readable content for URL: https://inanage.com/2026/02/05/half-cocked/
-Fetched article length: 12239 characters
-Picked item: Half-Cocked from In An Age
-Feed cap reached, stopping.
-
-Processing feed: An Archaeopteryx https://anarchaeopteryx.bearblog.dev/feed/
-Picking entry: Diagnosing & resolving ASUS BIOS issues & broken NVIDIA graphics card power management on an ASUS ROG Zephyrus G14 running CachyOS https://anarchaeopteryx.bearblog.dev/2026-02-03-asus-bios-nvidia-driver-cachyos/
-Fetching readable content for URL: https://anarchaeopteryx.bearblog.dev/2026-02-03-asus-bios-nvidia-driver-cachyos/
-Fetched article length: 22503 characters
-Picked item: Diagnosing & resolving ASUS BIOS issues & broken NVIDIA graphics card power management on an ASUS ROG Zephyrus G14 running CachyOS from An Archaeopteryx
-Feed cap reached, stopping.
-
-Processing feed: Bio Break http://biobreak.wordpress.com/feed/
-Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/02/04/lotro-bones-hes-dead/
-Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/02/02/world-of-warcraft-the-clock-strikes-midnight/
-Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/01/30/syps-gaming-goals-for-february-2026/
-Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/01/28/lotro-turtles-with-gigantism/
-Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/01/26/wow-classic-20-levels-50-to-go/
-Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/01/23/lotro-drinking-in-the-pinks-and-purples-of-ered-luin/
-Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/01/21/lotro-side-adventures-in-a-colorful-bazaar/
-Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/01/19/wow-classic-crystals-and-space-goats/
-Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/01/16/guild-wars-2-iron-smarches/
-Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/01/14/lotro-stopping-to-smell-the-flowers/
-
-Processing feed: usebox.net https://www.usebox.net/jjm/blog/index.xml
-No new entries.
-
-Processing feed: Luna's Gaming Log https://lunasgaminglog.com/feed/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/02/03/my-january-log/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/02/01/monthly-poll-4/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/01/27/winter-summer-game-recommendations/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/01/20/pancitomerge-review-a-charming-and-tasty-puzzle-game/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/01/13/january-life-updates/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/01/01/january-2026-poll/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/12/16/my-best-games-of-2025/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/12/09/lake-and-seasons-greetings-review/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/12/02/my-november-log/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2025/12/01/december-2025-poll/
-
-Processing feed: CrazyKinux's Musings https://feeds.feedburner.com/CrazykinuxsMusing
-Picking entry: CCP's 2026 War Plan: Big promises, thin specifics (for now) http://www.crazykinux.ca/2026/02/ccps-2026-war-plan-big-promises-thin.html
-Fetching readable content for URL: http://www.crazykinux.ca/2026/02/ccps-2026-war-plan-big-promises-thin.html
-Fetched article length: 15641 characters
-Picked item: CCP's 2026 War Plan: Big promises, thin specifics (for now) from CrazyKinux's Musings
-Feed cap reached, stopping.
-
-Processing feed: MMO Casual https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss
-Picking entry: January Month In Review https://wowaltaddiction.blogspot.com/2026/02/january-month-in-review.html
-Fetching readable content for URL: https://wowaltaddiction.blogspot.com/2026/02/january-month-in-review.html
-Fetched article length: 1367 characters
-Picked item: January Month In Review from MMO Casual
-Feed cap reached, stopping.
-
-Processing feed: Tales of the Aggronaut https://aggronaut.com/feed/
-Picking entry: Web Slingers and Life Gain on Block https://aggronaut.com/2026/02/05/web-slingers-and-life-gain-on-block/
-Fetching readable content for URL: https://aggronaut.com/2026/02/05/web-slingers-and-life-gain-on-block/
-Fetched article length: 6795 characters
-Picked item: Web Slingers and Life Gain on Block from Tales of the Aggronaut
-Feed cap reached, stopping.
+Processing feed: Contains Moderate Peril http://www.containsmoderateperil.com/blog?format=rss
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/2/3/changing-software
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/2/1/thoughts-on-blogging-part-24
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/28/der-tiger-aka-the-tank-2025
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/26/more-screen-capture-software
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/24/tainted-grail-the-fall-of-avalon-magic-and-spellcasting
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/22/treasure-island-1990
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/20/warhammer-dark-omen-available-from-gog
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/18/classic-movie-themes-escape-from-the-planet-of-the-apes
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/15/lotro-new-zone-coming-in-q2
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/13/lotro-tweaking-your-game-installation
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/11/return-to-the-planet-of-the-apes-1975
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/10/star-trek-online-in-2026
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/8/my-local-cinema-part-2
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/5/instruction-manuals
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/4/tainted-grail-the-fall-of-avalon-initial-thoughts
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/3/zootopia-2-aka-zootropolis-2-2025
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/2/the-running-man-2025
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2025/12/31/new-year-taking-stock-of-your-life
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2025/12/28/a-year-in-tv
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2025/12/26/lotro-reaching-the-new-level-cap
 
 Processing feed: Tofutush's Blog https://tofutush.github.io/feed.xml
 Skipping entry older than last_ts: https://tofutush.github.io/posts/2024-09-26.html
@@ -189,28 +117,142 @@ Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-05.h
 Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-17.html
 Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-20.html
 Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-21.html
-Picking entry: OC Questionnaire https://tofutush.github.io/posts/2026-01-23.html
-Fetching readable content for URL: https://tofutush.github.io/posts/2026-01-23.html
-Fetched article length: 12568 characters
-Picked item: OC Questionnaire from Tofutush's Blog
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-23.html
+Picking entry: Artist Questionnaire https://tofutush.github.io/posts/2026-01-29.html
+Fetching readable content for URL: https://tofutush.github.io/posts/2026-01-29.html
+Fetched article length: 16725 characters
+Picked item: Artist Questionnaire from Tofutush's Blog
 Feed cap reached, stopping.
 
-Processing feed: Smith Talks Tech https://smithtalkstech.com/feed/
+Processing feed: Life on the Wicked Stage https://warnercrocker.com/feed/
+Picking entry: Watching Others On The Digital Frontier https://warnercrocker.com/2026/02/06/watching-others-on-the-digital-frontier/
+Fetching readable content for URL: https://warnercrocker.com/2026/02/06/watching-others-on-the-digital-frontier/
+Fetched article length: 8026 characters
+Picked item: Watching Others On The Digital Frontier from Life on the Wicked Stage
+Feed cap reached, stopping.
+
+Processing feed: usebox.net https://www.usebox.net/jjm/blog/index.xml
 No new entries.
 
+Processing feed: Ready Pixel One https://feeds.feedburner.com/squarespace/AxkEtpjNxtZ
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/smallbutmighty
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/arrivalonembercoastreach
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/dalaran-remembered
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/daytwoatsea
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/shadowsstirsistersendure
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/rootedinlegacy
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/meet-the-runelight-sisters
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/toward-an-uncharted-shore
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/roleplay-real-bonds
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/the-weight-of-stillness
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/much-excite
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/hello-world
+
+Processing feed: The Ghastly Mirror https://www.ghastlymirror.xyz/rss.xml
+No new entries.
+
+Processing feed: Joel on Software https://www.joelonsoftware.com/feed/
+Skipping feed as per configuration.
+
+Processing feed: Zarf Updates https://blog.zarfhome.com/feeds/posts/default.rss
+No new entries.
+
+Processing feed: Tobold's Blog http://feeds2.feedburner.com/ToboldsBlog
+Picking entry: Recalculating and changing my mind http://tobolds.blogspot.com/2026/02/recalculating-and-changing-my-mind.html
+Fetching readable content for URL: http://tobolds.blogspot.com/2026/02/recalculating-and-changing-my-mind.html
+Fetched article length: 1533 characters
+Picked item: Recalculating and changing my mind from Tobold's Blog
+Feed cap reached, stopping.
+
+Processing feed: Mailvaltar https://mailvaltar.wordpress.com/feed/
+Skipping entry older than last_ts: https://mailvaltar.wordpress.com/2026/01/16/a-winter-of-horrors-part-ii/
+Skipping entry older than last_ts: https://mailvaltar.wordpress.com/2025/12/08/a-winter-of-horrors/
+Skipping entry older than last_ts: https://mailvaltar.wordpress.com/2025/11/11/deep-desert-purple-sand/
+Skipping entry older than last_ts: https://mailvaltar.wordpress.com/2025/10/14/hagga-basin-conquered/
+Skipping entry older than last_ts: https://mailvaltar.wordpress.com/2025/09/30/my-home-is-my-atreides-mansion-at-least-for-now/
+Skipping entry older than last_ts: https://mailvaltar.wordpress.com/2025/09/23/every-day-on-arrakis-is-an-adventure/
+Skipping entry older than last_ts: https://mailvaltar.wordpress.com/2025/09/15/the-desert-giveth-shai-hulud-taketh-away/
+Skipping entry older than last_ts: https://mailvaltar.wordpress.com/2025/09/10/arrakis-is-a-perilous-place-even-in-the-shade/
+Skipping entry older than last_ts: https://mailvaltar.wordpress.com/2025/09/07/its-time-to-spice-things-up/
+Skipping entry older than last_ts: https://mailvaltar.wordpress.com/2025/08/26/postcards-from-the-multiverse/
+
+Processing feed: Musing over Pints and Coffee https://musingsoverpintsandcoffee.wordpress.com/feed/
+Picking entry: Being Useful Without A Title https://musingsoverpintsandcoffee.wordpress.com/2026/02/04/being-useful-without-a-title/
+Fetching readable content for URL: https://musingsoverpintsandcoffee.wordpress.com/2026/02/04/being-useful-without-a-title/
+Fetched article length: 4302 characters
+Picked item: Being Useful Without A Title from Musing over Pints and Coffee
+Feed cap reached, stopping.
+
+Processing feed: READ ONLY MEMO https://readonlymemo.com/rss/
+Skipping entry older than last_ts: https://readonlymemo.com/superstation-one-development-history-making-of-taki-udon-interview/
+Skipping entry older than last_ts: https://readonlymemo.com/quest-64-recompiled-the-classic-rpg-like-youve-never-seen-it-before/
+Skipping entry older than last_ts: https://readonlymemo.com/im-giving-away-a-japanese-boxed-copy-of-animal-crossing-dobutsu-no-mori-to-celebrate-3-000-subscribers/
+Skipping entry older than last_ts: https://readonlymemo.com/sega-hikaru-emulation-demul-interview/
+Skipping entry older than last_ts: https://readonlymemo.com/iisu-emulator-frontend-exowin9x/
+Skipping entry older than last_ts: https://readonlymemo.com/analogue-3d-steam-machine-emulation/
+Skipping entry older than last_ts: https://readonlymemo.com/vagrant-story-decompilation-interview/
+Skipping entry older than last_ts: https://readonlymemo.com/paranoiascape-fan-translation/
+Skipping entry older than last_ts: https://readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/
+Skipping entry older than last_ts: https://readonlymemo.com/tengen-toppa-gurren-lagann-and-the-nintendo-dss-anime-game-treasure-trove/
+Skipping entry older than last_ts: https://readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/
+Skipping entry older than last_ts: https://readonlymemo.com/playdate-crankboy-emulator-interview/
+Skipping entry older than last_ts: https://readonlymemo.com/el-dorado-gate-fan-translation-interview/
+Skipping entry older than last_ts: https://readonlymemo.com/frame-of-preference-mac-emulation-tour/
+Skipping entry older than last_ts: https://readonlymemo.com/in-the-shadow-of-the-switch-2s-launch-switch-1-emulation-lives-on/
+
+Processing feed: CrazyKinux's Musings https://feeds.feedburner.com/CrazykinuxsMusing
+Picking entry: Detour into the unknown: My first steps into Exploration flying a Heron http://www.crazykinux.ca/2026/02/a-detour-into-unknown-my-first-steps-in.html
+Fetching readable content for URL: http://www.crazykinux.ca/2026/02/a-detour-into-unknown-my-first-steps-in.html
+Fetched article length: 3182 characters
+Picked item: Detour into the unknown: My first steps into Exploration flying a Heron from CrazyKinux's Musings
+Feed cap reached, stopping.
+
+Processing feed: Cliffski's Blog https://www.positech.co.uk/cliffsblog/feed/
+No new entries.
+
+Processing feed: Bio Break http://biobreak.wordpress.com/feed/
+Picking entry: WoW Classic: Zooming through the 20s https://biobreak.wordpress.com/2026/02/06/wow-classic-zooming-through-the-20s/
+Fetching readable content for URL: https://biobreak.wordpress.com/2026/02/06/wow-classic-zooming-through-the-20s/
+Fetched article length: 2220 characters
+Picked item: WoW Classic: Zooming through the 20s from Bio Break
+Feed cap reached, stopping.
+
+Processing feed: Schneier on Security https://www.schneier.com/feed/
+Picking entry: Friday Squid Blogging: Squid Fishing Tips https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html
+Fetching readable content for URL: https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html
+Fetched article length: 9534 characters
+Picked item: Friday Squid Blogging: Squid Fishing Tips from Schneier on Security
+Feed cap reached, stopping.
+
+Processing feed: Scopique https://scopique.com/feed/
+No new entries.
+
+Processing feed: nicole express https://nicole.express/feed.xml
+No new entries.
+
+Processing feed: A Pixel Nomad https://pixelnomad.ca/feed/
+Skipping entry older than last_ts: https://pixelnomad.ca/2026/02/03/wow-home/
+Skipping entry older than last_ts: https://pixelnomad.ca/2026/02/02/wow-gold-making-week-5-2026/
+Skipping entry older than last_ts: https://pixelnomad.ca/2026/02/01/eve-signal-received/
+Skipping entry older than last_ts: https://pixelnomad.ca/2026/01/29/eve-morning-calculations/
+Skipping entry older than last_ts: https://pixelnomad.ca/2026/01/26/wow-gold-making-week-4-2026/
+
+Processing feed: The Almighty Backlog https://thealmightybacklog.wordpress.com/feed/
+Picking entry: Super Lesbian Animal RPG https://thealmightybacklog.wordpress.com/2026/02/06/super-lesbian-animal-rpg/
+Fetching readable content for URL: https://thealmightybacklog.wordpress.com/2026/02/06/super-lesbian-animal-rpg/
+Fetched article length: 13324 characters
+Picked item: Super Lesbian Animal RPG from The Almighty Backlog
+Feed cap reached, stopping.
+
+Processing feed: Into the Void https://www.travelleritv.blog/feed/
+Skipping feed as per configuration.
+
+Processing feed: Buried Treasure https://buried-treasure.org/feed/
+Picking entry: Perfect Tides: Station To Station https://buried-treasure.org/2026/02/perfect-tides-station-to-station/
+Fetching readable content for URL: https://buried-treasure.org/2026/02/perfect-tides-station-to-station/
+Fetched article length: 11172 characters
+Picked item: Perfect Tides: Station To Station from Buried Treasure
+Feed cap reached, stopping.
+
 Processing feed: Coding Horror https://blog.codinghorror.com/rss/
-Picking entry: Launching The Rural Guaranteed Minimum Income Initiative https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/
-Fetching readable content for URL: https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/
-Fetched article length: 12491 characters
-Picked item: Launching The Rural Guaranteed Minimum Income Initiative from Coding Horror
-Feed cap reached, stopping.
-
-Processing feed: Contains Moderate Peril http://www.containsmoderateperil.com/blog?format=rss
-Picking entry: Changing Software https://www.containsmoderateperil.com/blog/2026/2/3/changing-software
-Fetching readable content for URL: https://www.containsmoderateperil.com/blog/2026/2/3/changing-software
-Fetched article length: 2419 characters
-Picked item: Changing Software from Contains Moderate Peril
-Feed cap reached, stopping.
-
-Processing feed: Monsterlady's Diary https://monsterladysdiary.wordpress.com/feed/
 Total cap reached, stopping.
