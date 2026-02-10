@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-02-09
+# Daily Blogroll: 2026-02-10
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/08/tagn-fantasy-critic-league-2026-week-six-sees-two-more-players-on-the-score-board/)** — Wilhelm’s Fantasy Critic League hits week six with Dragon Quest VII Reimagined and Nioh 3 finally posting strong review scores, reshuffling the top spots as more updates roll in.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/02/three-things-i-miss-about-knights-of.html)** — Shintar revisits SWTOR’s Knights of the Fallen Empire and, gripes aside, gives it credit—especially for upgraded cutscenes that make your character look consistently screenshot-worthy and badass.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/08/aggrochat-556-gaps-in-our-gaming/)** — Belghast and crew talk Infinity terrain-building, Rabbit and Steel’s expansion, the games they never got around to (hello, Ys), Ashes of Creation’s implosion, and learning Star Trek Online.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/02/to-fight-a-troll)** — Andrew Plotkin digs into Zork I’s combat math—villain tables, nine-sided dice, and knockout nastiness—and adds a new Combat tab to Visible Zork 1 to visualize the whole messy system.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-01-31.html)** — Tofutush finishes Lorelei and the Laser Eyes (nearly 96%!) and loves its randomized puzzle solutions over Blue Prince’s approach, even while dunking on clunky one-hand keyboard controls.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/02/09/zanac-i-dont-want-ai-led-design-in-my-80s-games-either/)** — Kimimi pokes at Zanac’s “AI” ALC difficulty control, then tests runs with no shooting to see how the 1986 Famicom Disk System shmup adapts enemies, bullets, and patterns on the fly.
-- **[Time to Loot](https://www.timetoloot.com/blog/journal/time-to-loot-journal-january-2026/)** — Naithin’s January journal covers a growing Steam backlog, finally hitting Blue Prince’s Antechamber/Room 46 milestone, and a quick note on wrapping up Wuthering Waves 3.1’s main story quest.
-## General
-
-- **[Scripting News](http://scripting.com/2026/02/08.html#a215611)** — Dave Winer riffs on always-on campaigning in the Twitter era, a Bluesky dialog-box art/joke that actually lands, and a strong recommendation for HBO’s two-part Mel Brooks interview.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/02/06/lets-talk-about-gambling/)** — Emily weighs gambling’s addictiveness against “moderation with limits,” vents about Ontario’s nonstop online-casino ads, and points to fake-currency casino apps as a safer dopamine hit.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/02/03/Long-Links)** — Tim Bray’s “Long Links” round-up bounces from Piketty and misinformation to open-source clothing, weird JWST discoveries, Willie Nelson, listening parties, and the emptying-out of tiny studio flats.
-- **[Axxuy](https://axxuy.xyz/blog/posts/2026/popcorn/)** — Axxuy celebrates the web’s niche-enthusiasm side by “getting into popcorn,” finding recipes and the r/popcorn community, and ordering genuinely better kernels from Amish Country.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/09/a-decade-of-skill-injector-drama-in-eve-online/)** — Wilhelm looks back at EVE Online’s skill extractors/injectors debut (remember Aurum?) and how “helping new players” quickly turned into a rich-get-richer SP market.
+- **[WCRobinson](https://wcrobinson.org/2026/02/03/hyrule-warriors-age-of-imprisonment-review-the-best-in-the-series-yet/)** — WCRobinson digs into Hyrule Warriors: Age of Imprisonment as a Tears of the Kingdom tie-in, weighing the 1v100 hack-and-slash grind against a bigger spotlight for Zelda.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/02/running-out-of-steam-in-mop-classic.html)** — Shintar’s MoP Classic honeymoon fades after Golden Lotus and Vale defense, with Skyshard and Wrathion cloak grinds feeling slow—though fishing up the Sea Turtle mount helps a bit.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/menace-first-impressions.html)** — Tobold’s 18-hour Menace take: lots of juicy squad-leader builds, gear choices, and faction unlocks, but the game’s depth comes with an accessibility hurdle that makes onboarding rough.
 ## Tech
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-02-08-ffxiv-reshade-on-linux/)** — Anarchae documents getting non-Steam FFXIV running with ReShade on CachyOS (Wayland/KDE) via xivlauncher tweaks and scripts, with a pragmatic “here’s what worked for me” walkthrough.
+- **[Scripting News](http://scripting.com/2026/02/09.html#a151426)** — Dave Winer flags an https gotcha breaking Drummer/oldschool.scripting.com templates (mixed http assets), then gently nudges loyal readers toward the nightly Scripting News email roundup.
+- **[Smith Talks Tech](https://smithtalkstech.com/2026/02/09/382/)** — Pete returns from a moving/unpacking hiatus, talks using AI constantly but experimenting less, shares progress on a vibe-coded game-picker app, and says a custom ChatGPT tutor is teaching him TypeS​c​
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/the-ai-generated-text-arms-race.html)** — Bruce Schneier lays out how generative AI floods magazines, journals, courts, lawmakers, and social media with submissions—and why it’s pushing everyone into a messy AI-vs-AI detection arms race.
+- **[nicole express](https://nicole.express/2026/spooky-ghost-stories.html)** — Nicole breaks down 1989’s strip mahjong Mahjong Daireikai on Jaleco Mega System 1, showing how hardware choices (tilemaps over sprites) and an undumped security microcontroller shaped the game.
+## General
+
+- **[Heartless Gamer](http://www.heartlessgamer.com/2026/02/super-bowl-thoughts.html)** — Heartless shrugs at the Super Bowl with a “who cares” drive-by post, basically letting a meme do the talking.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/09/mixtape-mondays-some-jokes-kill/)** — Belghast drops a new Mixtape Mondays playlist anchored by Twenty One Pilots’ “Heathens,” with Suicide Squad/Joker vibes and a tracklist built to keep that uncanny mood flowing.
+## Writing
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-02-01.html)** — Tofutush kicks off monthly recaps: snowy boredom, dorm cleanup exhaustion, classes canceled, plus goals like Tadlet Kingdom Adventures and rereading Wings of Fire ahead of book 16.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/2/9/into-the-uncanny-by-danny-robins-2023)** — Roger reviews Danny Robins’ Into the Uncanny, praising its even-handed believer/skeptic tone, strong research, and empathetic interviews that make the paranormal cases feel grounded and human.
