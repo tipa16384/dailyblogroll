@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-02-10
+# Daily Blogroll: 2026-02-11
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/09/a-decade-of-skill-injector-drama-in-eve-online/)** — Wilhelm looks back at EVE Online’s skill extractors/injectors debut (remember Aurum?) and how “helping new players” quickly turned into a rich-get-richer SP market.
-- **[WCRobinson](https://wcrobinson.org/2026/02/03/hyrule-warriors-age-of-imprisonment-review-the-best-in-the-series-yet/)** — WCRobinson digs into Hyrule Warriors: Age of Imprisonment as a Tears of the Kingdom tie-in, weighing the 1v100 hack-and-slash grind against a bigger spotlight for Zelda.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/02/running-out-of-steam-in-mop-classic.html)** — Shintar’s MoP Classic honeymoon fades after Golden Lotus and Vale defense, with Skyshard and Wrathion cloak grinds feeling slow—though fishing up the Sea Turtle mount helps a bit.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/menace-first-impressions.html)** — Tobold’s 18-hour Menace take: lots of juicy squad-leader builds, gear choices, and faction unlocks, but the game’s depth comes with an accessibility hurdle that makes onboarding rough.
+- **[Chasing Dings!](https://chasingdings.com/2026/02/10/frosthaven-9-glowing-catacombs/)** — Tipa recounts a rough Frosthaven return in “Glowing Catacombs,” tanking as Banner Spear while undead and endlessly-splitting oozes nearly overwhelm the team—until the switches finally flip.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/10/guild-wars-the-battle-in-rin-and-arrival-in-yaks-bend/)** — Wilhelm heads back to Guild Wars Reforged, tweaks the party for more healing, and learns the hard way that Garfazz Bloodfang plus roaming Charr can turn “how hard could it be?” into a wipe.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/02/10/dogpile-review/)** — Luna reviews Dogpile after 9 hours, calling it a chaotic roguelike deckbuilder where you merge dog cards into bigger dogs, chase bone goals, and stack absurd tags that make the yard go wild.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/02/11/eq2-wurm-what-ever-happened-with-that/)** — Stargrace explains why she bailed on the EverQuest 2 and Wurm Online creator programs: weekly content obligations for a sub fee wasn’t worth it, and she’d rather play and create on her own terms.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/coming-soon-to-screen-near-you.html)** — Bhagpuss digs into Baldur’s Gate 3 Act III momentum, admits to “cheating” with saves and guides, and shares the satisfying discovery that Orin’s scary “invulnerability” is really just seven attacks.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/02/the-new-and-improved-exiles-reach.html)** — Shintar tours WoW’s revamped Exile’s Reach, spotting Thrall, Kalecgos, and Wrathion folded into a cleaner Dragon Isles handoff, plus tutorial tweaks like forced gear damage and a new finale rescue.
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/02/when-game-becomes-habit.html)** — Joar reflects on waking early to game out of habit, tracing how World of Warcraft once connected him to his son, and wrestling with sunk cost versus what that daily routine is really trading away now.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/02/when-is-a-bug)** — Andrew Plotkin dives into Zork/Mini-Zork combat code, showing how an off-by-one loop means the cyclops (or thief) never attacks—making the point that “bug” depends on what the designers intended.
+- **[Bio Break](https://biobreak.wordpress.com/2026/02/09/wow-classic-casually-throwing-myself-off-mountains/)** — Syp hits level 30 on a WoW Classic Shaman, celebrates new abilities like Windfury and Astral Recall, and enjoys steady progress thanks to a zone-hopping guide that keeps the journey feeling fresh.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/02/09/floatopia-in-twentysix/)** — Krista checks in on Floatopia, the cosy life sim teased at Gamescom 2024 for 2025, and wonders what’s going on now that it’s February 2026 with near-total radio silence from the team.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/02/09.html#a151426)** — Dave Winer flags an https gotcha breaking Drummer/oldschool.scripting.com templates (mixed http assets), then gently nudges loyal readers toward the nightly Scripting News email roundup.
-- **[Smith Talks Tech](https://smithtalkstech.com/2026/02/09/382/)** — Pete returns from a moving/unpacking hiatus, talks using AI constantly but experimenting less, shares progress on a vibe-coded game-picker app, and says a custom ChatGPT tutor is teaching him TypeS​c​
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/the-ai-generated-text-arms-race.html)** — Bruce Schneier lays out how generative AI floods magazines, journals, courts, lawmakers, and social media with submissions—and why it’s pushing everyone into a messy AI-vs-AI detection arms race.
-- **[nicole express](https://nicole.express/2026/spooky-ghost-stories.html)** — Nicole breaks down 1989’s strip mahjong Mahjong Daireikai on Jaleco Mega System 1, showing how hardware choices (tilemaps over sprites) and an undumped security microcontroller shaped the game.
+- **[Scripting News](http://scripting.com/2026/02/10.html#a132524)** — Dave Winer drops a 15-minute podcast drawing parallels between Frontier-on-Mac and today’s WordLand/WordPress world, plus a note on using Claude.ai for third-person episode summaries.
 ## General
 
-- **[Heartless Gamer](http://www.heartlessgamer.com/2026/02/super-bowl-thoughts.html)** — Heartless shrugs at the Super Bowl with a “who cares” drive-by post, basically letting a meme do the talking.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/09/mixtape-mondays-some-jokes-kill/)** — Belghast drops a new Mixtape Mondays playlist anchored by Twenty One Pilots’ “Heathens,” with Suicide Squad/Joker vibes and a tracklist built to keep that uncanny mood flowing.
-## Writing
-
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-02-01.html)** — Tofutush kicks off monthly recaps: snowy boredom, dorm cleanup exhaustion, classes canceled, plus goals like Tadlet Kingdom Adventures and rereading Wings of Fire ahead of book 16.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/2/9/into-the-uncanny-by-danny-robins-2023)** — Roger reviews Danny Robins’ Into the Uncanny, praising its even-handed believer/skeptic tone, strong research, and empathetic interviews that make the paranormal cases feel grounded and human.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/10/measuring-sticks/)** — Warner Crocker argues for reading people you disagree with as “measuring sticks,” embracing the discomfort of challenged convictions as the best way to test, refine, and strengthen your own beliefs.
