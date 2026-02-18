@@ -489,3 +489,33 @@ feeds:
     category: Gaming
     mastodon: John Walker
     bluesky: "@botherer.bsky.social"
+  - name: Margot Plays
+    url: https://margotplays.substack.com/feed
+    update_frequency: daily
+    category: Gaming
+    blogger: Margot
+    pronouns: she/her
+  - name: Sweetie Games
+    url: https://sweetie.games/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Sweetie
+    pronouns: she/her
+  - name: Good Game Lobby
+    url: https://goodgamelobby.substack.com/feed
+    update_frequency: daily
+    category: Gaming
+    blogger: Sey
+    pronouns: he/him
+  - name: Alexia Unplugged
+    url: https://alexiaunplugged.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Alexia
+    pronouns: she/her
+  - name: Oya's Game Hub
+    url: https://oyito.substack.com/feed
+    update_frequency: daily
+    category: Gaming
+    blogger: Oya
+    pronouns: she/her
