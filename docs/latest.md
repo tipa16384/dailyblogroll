@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-02-18
+# Daily Blogroll: 2026-02-19
 
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2026/02/17/the-fellowship-of-the-ring-ps2/)** — Tipa digs into The Fellowship of the Ring on PS2, a book-faithful oddball that actually includes Tom Bombadil and Barrow-wights, plus Ring invisibility with a risky purity meter.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/17/test-keepstar-armor-timer-in-atioth/)** — Wilhelm breaks down why Imperium attention is locked on TEST’s Keepstar armor timer in Atioth, with null-sec history, Pandemic Horde’s collapse, and “why are you here?” drama baked in.
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/02/preparing-for-midnight.html)** — Joar preps for World of Warcraft: Midnight with lighter expectations—until he admits he’ll still clean bags, clear quest logs, and log into all 53 alts for rested XP.
-- **[Alexia Unplugged](https://alexiaunplugged.com/2026/01/21/8-most-anticipated-cozy-games-of-2026/)** — Alexia rounds up eight cozy 2026 games she’s hyped for, from Solarpunk’s co-op crafting to Nivalis’ cyberpunk management and Witchbrook’s magical school life (with some demos to try now).
-- **[Bio Break](https://biobreak.wordpress.com/2026/02/16/world-of-warcraft-murlocks-r-good-enough/)** — Syp swaps his World of Warcraft Midnight main from Death Knight to a stress-free Gnome Warlock, then fills the lull with endeavors, delves, and slowly furnishing a bookshop café.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/17/return-to-arrakis/)** — Belghast returns to Dune Awakening on a reactivated private server, rerolls Swordmaster for survivability, plays more efficiently after learning the early-game flow, and keeps base-building practical.
-- **[The Ghastly Mirror](https://www.ghastlymirror.xyz/blog/no-ice-in-minnesota-itchio-bundle-is-here/)** — Ghastly spotlights the “No Ice In Minnesota” Itch.io charity bundle supporting the Immigrant Law Center of Minnesota, with dozens of games/tools/books for $10 and availability through March 13.
-- **[Dragonchasers](https://dragonchasers.com/2026/02/17/daily-logins-are-the-fun-killers/)** — Nimgimli admits daily login rewards and battle passes quietly turn live-service games into a checklist—especially once you pay—until “just knock out the dailies” replaces actually playing.
-- **[WCRobinson](https://wcrobinson.org/2026/02/17/pragmata-sketchbook-review-how-a-20-minute-demo-sold-me-on-this-new-ip/)** — WCRobinson says Capcom’s 20-minute Pragmata demo on Switch 2 sold them on the RE Engine sci-fi vibe, Hugh-and-android-Diana setup, and combat/exploration ahead of its April 24 release.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/18/guild-wars-thwarted-at-borlis-pass/)** — Wilhelm’s Guild Wars crew hits Yak’s Bend feeling buff with new henchmen, then learns overland scaling and squishy melee buddies mean wipes, penalties, and very whiny escort “helpers.”
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/02/the-new-eden-banter-eve-blog-banter.html)** — CrazyKinux is rebooting EVE Blog Banter as The New Eden Banter: monthly prompts, link roundups, and a “be cool” rule—basically bringing blog-hopping New Eden vibes back in 2026.
+- **[Chasing Dings!](https://chasingdings.com/2026/02/18/a-new-tunnels-trolls-in-this-economy/)** — Tipa digs into Tunnels & Trolls: A New Age’s quickstart—new stats, no classes, renamed spells, and altered combat—and worries the redesign sands off the quirky charm that made T&T special.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/and-so-we-came-to-end-almost.html)** — Bhagpuss nears Baldur’s Gate 3’s final battle with dread, calling out late-game chaos and a camera that fights you (hello z-axis), plus a haunted multi-floor house that forced reload city.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/02/17/eve-first-leadership-fireside/)** — Stargrace listens in on her first Signal Cartel leadership fireside in EVE Online—warm jokes, real stats, and a tantalizing, still-redacted future for Anoikis Division recruitment that leaves her both
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/18/sibling-time/)** — Belghast’s “Sibling Time” pivots from a Destiny Rising slump to Dune Awakening prep (yes, a sandbike booster seat) and an Enshrouded return—plus the classic struggle of joining co-op while “offline.”
+- **[Bio Break](https://biobreak.wordpress.com/2026/02/18/lotro-even-the-game-is-telling-me-that-this-is-ridiculous/)** — Syp cheers LOTRO Update 46.1’s global UI scaling, laughs at a quest that literally tells you to stop trying to tame a young elephant, and grinds through overtuned high-HP mobs on the way to level 160.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/02/17.html#a143535)** — Dave Winer vents about broken FedEx/DHL shipping sites, argues for AI-upgraded UX, floats pay-per-article paywalls, and laments Twitter’s locked-down mess and account woes.
-## Writing
-
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/2/17/the-cost-of-blogging-in-2026)** — Roger tallies what it actually costs to keep a personal blog running in 2026—domain + privacy and Squarespace hosting—landing at about £187/year for the privilege of owning your words.
+- **[Scripting News](http://scripting.com/2026/02/18.html#a133619)** — Dave Winer starts a new Twitter account and riffs on RSS-world confusion after a Spurlock feed reader launch, including accidentally congratulating the wrong Spurlock and musing about FeedLand/OPML.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html)** — Bruce Schneier flags AISLE’s AI finding 12 OpenSSL zero-days (and even proposing patches), underscoring how AI-driven vuln discovery is accelerating—and how both attackers and defenders will use it.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/working-with-cheap-idiots.html)** — Tobold uses board game AI drama to skewer exec fantasies: cites the Remote Labor Index’s low LLM success rates, warns progress may slow, and argues “few dollars a day” pricing is honeymoon-phase myth.
 ## General
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/everyone-knows-i-had-some-trouble.html)** — Bhagpuss gleefully shares Lana Del Rey’s “White Feather Hawk Tail Deer Hunter,” along with a YouTube commenter’s quick-and-dirty lyrics, because waiting ten months is too long to keep quiet.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/02/18/the-things-we-carry-forward/)** — Joar reflects on leaving a long job and sorting what actually transfers: credentials vs skills, contacts vs real network, and why what you can do matters more than titles, authority, or org charts.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/18/blowing-ai-smoke-or-feeding-the-fire/)** — Warner compares today’s AI rush to past crazes like vaping, legalization, and netbooks, arguing we’re still in the messy tinkering phase—like smart homes—while hype swings between utopia and doom.

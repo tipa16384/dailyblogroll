@@ -155,17 +155,76 @@ def collect_new_items(cfg):
     min_chars = cfg.get("min_chars_for_article", 500)
     skip_backlog = cfg.get("first_run_skip_backlog", True)
 
-    # find all the feeds marked as required
-    required_feeds = [f for f in cfg["feeds"] if f.get("required", False)]
-    debug_log.append(f"Required feeds: {[f.get('name','') for f in required_feeds]}")
-    # shuffle the non-required feeds to randomize their order
-    non_required_feeds = [f for f in cfg["feeds"] if not f.get("required", False)]
-    random.shuffle(non_required_feeds)
-    feed_list = required_feeds + non_required_feeds
+    # First pass: lightweight parse to get fresh modification timestamps
+    debug_log.append("First pass: checking feeds for recent activity...")
+    feed_activity = {}  # feed_url -> (feed_config, has_recent_activity)
+    twenty_four_hours_ago = time.time() - (24 * 60 * 60)
+    
+    for f in cfg["feeds"]:
+        if f.get("skip", False):
+            continue
+            
+        feed_url = f["url"]
+        st = state.setdefault(feed_url, {})
+        
+        # Quick parse to get current server-side modification info
+        parsed = feedparser.parse(feed_url, etag=st.get("etag"))
+        
+        # Update state with fresh server info
+        if getattr(parsed, "etag", None):
+            st["etag"] = parsed.etag
+        if getattr(parsed, "modified", None):
+            st["modified"] = parsed.modified
+            
+        # Determine if this feed has recent activity
+        has_recent_activity = False
+        
+        # Check server modification time
+        modified_time = getattr(parsed, "modified", None)
+        if modified_time and isinstance(modified_time, (tuple, time.struct_time)):
+            modified_ts = calendar.timegm(modified_time)
+            if modified_ts > twenty_four_hours_ago:
+                has_recent_activity = True
+                
+        # Also check if feed has new entries by looking at most recent entry timestamp
+        if parsed.entries:
+            latest_entry_ts = entry_timestamp(parsed.entries[0])
+            if latest_entry_ts and latest_entry_ts > st.get('last_ts', 0):
+                if latest_entry_ts > twenty_four_hours_ago:
+                    has_recent_activity = True
+                    
+        feed_activity[feed_url] = (f, parsed, has_recent_activity)
+        debug_log.append(f"Checked {f.get('name','')}: recent_activity={has_recent_activity}")
+    
+    # Three-tier feed prioritization: required -> recent non-required -> older non-required  
+    required_feeds = []    # Always processed first
+    recent_feeds = []      # Non-required feeds with activity in last 24 hours  
+    older_feeds = []       # Non-required feeds with older activity
+    
+    for feed_url, (f, parsed, has_recent_activity) in feed_activity.items():
+        # Required feeds always get priority regardless of activity
+        if f.get("required", False):
+            required_feeds.append((f, parsed))
+        elif has_recent_activity:
+            recent_feeds.append((f, parsed))
+        else:
+            older_feeds.append((f, parsed))
+    
+    debug_log.append(f"Required feeds (always first): {[f.get('name','') for f, _ in required_feeds]}")
+    debug_log.append(f"Recent feeds (activity in last 24h): {[f.get('name','') for f, _ in recent_feeds]}")
+    debug_log.append(f"Older feeds: {[f.get('name','') for f, _ in older_feeds]}")
+    
+    # Shuffle within each group to randomize order
+    random.shuffle(required_feeds)
+    random.shuffle(recent_feeds)
+    random.shuffle(older_feeds)
+    
+    # Process in priority order: required -> recent -> older
+    feed_list = required_feeds + recent_feeds + older_feeds
 
     group_seen = defaultdict(bool)
 
-    for f in feed_list:
+    for f, parsed in feed_list:
         debug_log.append(f"\nProcessing feed: {f.get('name','')} {f['url']}")
         if len(picked) >= total_cap:
             debug_log.append("Total cap reached, stopping.")
@@ -183,18 +242,7 @@ def collect_new_items(cfg):
         if "last_ts" not in st and skip_backlog:
             st["last_ts"] = int(time.time())
 
-        # Use HTTP conditionals if we have them
-        parsed = feedparser.parse(
-            feed_url,
-            etag=st.get("etag")
-        )
-
-        # Save fresh etag/modified returned by server
-        if getattr(parsed, "etag", None):
-            st["etag"] = parsed.etag
-        if getattr(parsed, "modified", None):
-            # parsed.modified is time.struct_time (UTC)
-            st["modified"] = parsed.modified
+        # We already have the parsed feed from first pass, no need to parse again
 
         pf_count = 0
         max_seen_ts = st.get("last_ts", 0)

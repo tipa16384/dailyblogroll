@@ -283,6 +283,7 @@ feeds:
     bluesky: "@crazykinux.bsky.social"
     mastodon: "CrazyKinux"
     pronouns: he/him
+    required: True
   - name: Tofutush's Blog
     url: https://tofutush.github.io/feed.xml
     update_frequency: daily
@@ -333,6 +334,7 @@ feeds:
     pronouns: he/him
     mastodon: "@hamatti@mastodon.world"
     bluesky: Juhis
+    skip: True
   - name: West Karana
     url: https://westkarana.blog/feed/
     update_frequency: daily
@@ -481,6 +483,7 @@ feeds:
     pronouns: they/them
     mastodon: RPG Codex
     bluesky: RPG Codex
+    skip: True
   - name: Buried Treasure
     url: https://buried-treasure.org/feed/
     update_frequency: daily
