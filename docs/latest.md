@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-02-19
+# Daily Blogroll: 2026-02-20
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/18/guild-wars-thwarted-at-borlis-pass/)** — Wilhelm’s Guild Wars crew hits Yak’s Bend feeling buff with new henchmen, then learns overland scaling and squishy melee buddies mean wipes, penalties, and very whiny escort “helpers.”
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/02/the-new-eden-banter-eve-blog-banter.html)** — CrazyKinux is rebooting EVE Blog Banter as The New Eden Banter: monthly prompts, link roundups, and a “be cool” rule—basically bringing blog-hopping New Eden vibes back in 2026.
-- **[Chasing Dings!](https://chasingdings.com/2026/02/18/a-new-tunnels-trolls-in-this-economy/)** — Tipa digs into Tunnels & Trolls: A New Age’s quickstart—new stats, no classes, renamed spells, and altered combat—and worries the redesign sands off the quirky charm that made T&T special.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/and-so-we-came-to-end-almost.html)** — Bhagpuss nears Baldur’s Gate 3’s final battle with dread, calling out late-game chaos and a camera that fights you (hello z-axis), plus a haunted multi-floor house that forced reload city.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/02/17/eve-first-leadership-fireside/)** — Stargrace listens in on her first Signal Cartel leadership fireside in EVE Online—warm jokes, real stats, and a tantalizing, still-redacted future for Anoikis Division recruitment that leaves her both
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/18/sibling-time/)** — Belghast’s “Sibling Time” pivots from a Destiny Rising slump to Dune Awakening prep (yes, a sandbike booster seat) and an Enshrouded return—plus the classic struggle of joining co-op while “offline.”
-- **[Bio Break](https://biobreak.wordpress.com/2026/02/18/lotro-even-the-game-is-telling-me-that-this-is-ridiculous/)** — Syp cheers LOTRO Update 46.1’s global UI scaling, laughs at a quest that literally tells you to stop trying to tame a young elephant, and grinds through overtuned high-HP mobs on the way to level 160.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/02/18.html#a133619)** — Dave Winer starts a new Twitter account and riffs on RSS-world confusion after a Spurlock feed reader launch, including accidentally congratulating the wrong Spurlock and musing about FeedLand/OPML.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html)** — Bruce Schneier flags AISLE’s AI finding 12 OpenSSL zero-days (and even proposing patches), underscoring how AI-driven vuln discovery is accelerating—and how both attackers and defenders will use it.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/working-with-cheap-idiots.html)** — Tobold uses board game AI drama to skewer exec fantasies: cites the Remote Labor Index’s low LLM success rates, warns progress may slow, and argues “few dollars a day” pricing is honeymoon-phase myth.
+- **[Scripting News](http://scripting.com/2026/02/19.html#a170319)** — Dave Winer riffs on Obama at the NBA All-Star game, ATProto vs RSS-land Markdown/HTML/OPML handling, the “podcasting is closed” YouTube panic, and remembering Aldus Pagemaker’s impact.
+- **[Axxuy](https://axxuy.xyz/blog/posts/2026/how-much-does-your-blog-cost/)** — Axxuy breaks down the real 2026 price of keeping a personal blog online—domain via Namecheap and self-managed Linode hosting—cheap as hobbies go, but a reminder the web isn’t free.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/02/all-your-base-slight-remaster/)** — Jamie Zawinski marks 25 years of “All Your Base Are Belong To Us” by running the original Flash SWF via Ruffle, then swapping in the original MP3 for a higher-fidelity remaster.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/19/diablo-ii-resurrected-reign-of-the-warlock/)** — Wilhelm digs into Diablo II Resurrected: Reign of the Warlock—new Warlock class, Chronicle collection tracking, and more player-controlled Terror Zones—while side-eyeing Blizzard’s packed release pile
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/02/back-in-my-day-conquest.html)** — Shintar looks back at how SWTOR’s Conquest evolved since patch 2.9—early UI, tougher objective scarcity, and that weird housing/guild flagship tie-in shaping how she plays week to week.
+- **[Margot Plays](https://margotplays.substack.com/p/reviews-lil-gator-game)** — Margot’s 3-minute-ish take on Lil Gator Game (played on Switch 2): a cozy, A Short Hike–ish sibling-and-friends adventure with surprisingly Zelda BOTW-like traversal that kept her smiling.
+- **[Sweetie Games](https://sweetie.games/2026/02/14/sonys-latest-controller/)** — Sweetie reacts to a Sony patent for a super-thin, all-touchscreen, no-buttons controller (maybe PS6), weighing customizable layouts against accessibility pitfalls, accidental presses, and a potential“
+- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/02/19/reign-of-the-warlock-early-thoughts/)** — Mailvaltar’s early Diablo II Resurrected: Reign of the Warlock thoughts: no new Act, sure, but the first new class since 2001 feels huge—especially Demon-tree summoning, teleporting minions, and Bind
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/02/19/bdo-guilty-pleasure-gaming-again/)** — Stargrace admits Black Desert Online is her comfort “guilty pleasure,” mostly played as an idle AFK fishing/selling loop for steady silver and progress—busy-life gaming vibes, no judgment.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/19/going-north/)** — Belghast pushes north in Dune Awakening into iron-tier crafting, sprints from sandworms, juggles water shortages and shielded bandits, and grumbles at how tightly the main quest forces his building.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/02/18/the-things-we-carry-forward/)** — Joar reflects on leaving a long job and sorting what actually transfers: credentials vs skills, contacts vs real network, and why what you can do matters more than titles, authority, or org charts.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/18/blowing-ai-smoke-or-feeding-the-fire/)** — Warner compares today’s AI rush to past crazes like vaping, legalization, and netbooks, arguing we’re still in the messy tinkering phase—like smart homes—while hype swings between utopia and doom.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/02/17/keep-your-grubby-tentacles-off-my-id-humam-sakhnini/)** — Emily goes full rant mode on internet age-verification laws, arguing driver’s licenses and face scans wreck privacy and speech while still failing kids—plus real harms like blocking sex-ed and LGBTQ+支
+## Writing
+
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-02-17-what-boredom-means-to-me/)** — Anarchae reflects on boredom as almost physical pain, ADHD vibes, and how books, diaries, fanfic, LiveJournal roleplay, and early school broadband shaped their reading/writing (and probably kept them

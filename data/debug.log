@@ -1,7 +1,7 @@
 First pass: checking feeds for recent activity...
-Checked Chasing Dings!: recent_activity=True
+Checked Chasing Dings!: recent_activity=False
 Checked An Archaeopteryx: recent_activity=False
-Checked Musing over Pints and Coffee: recent_activity=True
+Checked Musing over Pints and Coffee: recent_activity=False
 Checked MMO Casual: recent_activity=False
 Checked Heartless Gamer: recent_activity=False
 Checked Tales of the Aggronaut: recent_activity=True
@@ -21,13 +21,13 @@ Checked Coding Horror: recent_activity=False
 Checked Schneier on Security: recent_activity=True
 Checked Ongoing: recent_activity=False
 Checked Jamie Zawinski's Blog: recent_activity=False
-Checked Tobold's Blog: recent_activity=True
+Checked Tobold's Blog: recent_activity=False
 Checked Contains Moderate Peril: recent_activity=False
-Checked Bio Break: recent_activity=True
+Checked Bio Break: recent_activity=False
 Checked In An Age: recent_activity=False
 Checked A Pixel Nomad: recent_activity=True
-Checked Aywren's Nook: recent_activity=False
-Checked Mailvaltar: recent_activity=False
+Checked Aywren's Nook: recent_activity=True
+Checked Mailvaltar: recent_activity=True
 Checked Smith Talks Tech: recent_activity=False
 Checked CrazyKinux's Musings: recent_activity=False
 Checked Tofutush's Blog: recent_activity=False
@@ -36,39 +36,85 @@ Checked Ready Pixel One: recent_activity=False
 Checked WCRobinson: recent_activity=False
 Checked Time to Loot: recent_activity=False
 Checked Axxuy: recent_activity=False
-Checked West Karana: recent_activity=False
-Checked Virtual Moose: recent_activity=False
-Checked Going Commando: recent_activity=True
+Checked West Karana: recent_activity=True
+Checked Virtual Moose: recent_activity=True
+Checked Going Commando: recent_activity=False
 Checked Priest with a Cause: recent_activity=False
 Checked Grumpy Gamer: recent_activity=False
 Checked usebox.net: recent_activity=False
-Checked Kimimi the Game Eating She-Monster: recent_activity=False
+Checked Kimimi the Game Eating She-Monster: recent_activity=True
 Checked Cliffski's Blog: recent_activity=False
 Checked Life on the Wicked Stage: recent_activity=True
 Checked Luna's Gaming Log: recent_activity=False
 Checked Leeks Cosy Corner: recent_activity=False
 Checked Zarf Updates: recent_activity=False
-Checked The Almighty Backlog: recent_activity=False
+Checked The Almighty Backlog: recent_activity=True
 Checked READ ONLY MEMO: recent_activity=False
 Checked nicole express: recent_activity=False
 Checked Quarter Circle Forward: recent_activity=False
 Checked Buried Treasure: recent_activity=False
 Checked Margot Plays: recent_activity=False
 Checked Sweetie Games: recent_activity=False
-Checked Good Game Lobby: recent_activity=False
+Checked Good Game Lobby: recent_activity=True
 Checked Alexia Unplugged: recent_activity=False
-Checked Oya's Game Hub: recent_activity=False
+Checked Oya's Game Hub: recent_activity=True
 Required feeds (always first): ['Chasing Dings!', 'The Friendly Necromancer', 'The Ancient Gaming Noob', 'Scripting News', "CrazyKinux's Musings"]
-Recent feeds (activity in last 24h): ['Musing over Pints and Coffee', 'Tales of the Aggronaut', 'Inventory Full', 'Schneier on Security', "Tobold's Blog", 'Bio Break', 'A Pixel Nomad', 'Going Commando', 'Life on the Wicked Stage']
-Older feeds: ['An Archaeopteryx', 'MMO Casual', 'Heartless Gamer', 'Words Under My Name', 'Dragonchasers', 'Scopique', "Lisette's Mxtadventures", "Monsterlady's Diary", 'Nik Kantar', 'The Ghastly Mirror', 'Frostilyte Writes', 'Coding Horror', 'Ongoing', "Jamie Zawinski's Blog", 'Contains Moderate Peril', 'In An Age', "Aywren's Nook", 'Mailvaltar', 'Smith Talks Tech', "Tofutush's Blog", 'Indiecator', 'Ready Pixel One', 'WCRobinson', 'Time to Loot', 'Axxuy', 'West Karana', 'Virtual Moose', 'Priest with a Cause', 'Grumpy Gamer', 'usebox.net', 'Kimimi the Game Eating She-Monster', "Cliffski's Blog", "Luna's Gaming Log", 'Leeks Cosy Corner', 'Zarf Updates', 'The Almighty Backlog', 'READ ONLY MEMO', 'nicole express', 'Quarter Circle Forward', 'Buried Treasure', 'Margot Plays', 'Sweetie Games', 'Good Game Lobby', 'Alexia Unplugged', "Oya's Game Hub"]
+Recent feeds (activity in last 24h): ['Tales of the Aggronaut', 'Inventory Full', 'Schneier on Security', 'A Pixel Nomad', "Aywren's Nook", 'Mailvaltar', 'West Karana', 'Virtual Moose', 'Kimimi the Game Eating She-Monster', 'Life on the Wicked Stage', 'The Almighty Backlog', 'Good Game Lobby', "Oya's Game Hub"]
+Older feeds: ['An Archaeopteryx', 'Musing over Pints and Coffee', 'MMO Casual', 'Heartless Gamer', 'Words Under My Name', 'Dragonchasers', 'Scopique', "Lisette's Mxtadventures", "Monsterlady's Diary", 'Nik Kantar', 'The Ghastly Mirror', 'Frostilyte Writes', 'Coding Horror', 'Ongoing', "Jamie Zawinski's Blog", "Tobold's Blog", 'Contains Moderate Peril', 'Bio Break', 'In An Age', 'Smith Talks Tech', "Tofutush's Blog", 'Indiecator', 'Ready Pixel One', 'WCRobinson', 'Time to Loot', 'Axxuy', 'Going Commando', 'Priest with a Cause', 'Grumpy Gamer', 'usebox.net', "Cliffski's Blog", "Luna's Gaming Log", 'Leeks Cosy Corner', 'Zarf Updates', 'READ ONLY MEMO', 'nicole express', 'Quarter Circle Forward', 'Buried Treasure', 'Margot Plays', 'Sweetie Games', 'Alexia Unplugged']
+Friday detected: prioritizing older feeds over recent feeds
+
+Processing feed: Scripting News http://scripting.com/rss.xml
+Picking entry:  http://scripting.com/2026/02/19.html#a170319
+Fetching readable content for URL: http://scripting.com/2026/02/19.html#a170319
+Fetched article length: 5595 characters
+Picked item: (untitled) from Scripting News
+Feed cap reached, stopping.
 
 Processing feed: The Ancient Gaming Noob https://tagn.wordpress.com/feed/
-Picking entry: Guild Wars – Thwarted at Borlis Pass https://tagn.wordpress.com/2026/02/18/guild-wars-thwarted-at-borlis-pass/
-Fetching readable content for URL: https://tagn.wordpress.com/2026/02/18/guild-wars-thwarted-at-borlis-pass/
-Rate limited when fetching https://tagn.wordpress.com/2026/02/18/guild-wars-thwarted-at-borlis-pass/, retrying after delay.
-Fetched article length: 11303 characters
-Picked item: Guild Wars – Thwarted at Borlis Pass from The Ancient Gaming Noob
+Picking entry: Diablo II Resurrected – Reign of the Warlock https://tagn.wordpress.com/2026/02/19/diablo-ii-resurrected-reign-of-the-warlock/
+Fetching readable content for URL: https://tagn.wordpress.com/2026/02/19/diablo-ii-resurrected-reign-of-the-warlock/
+Fetched article length: 3805 characters
+Picked item: Diablo II Resurrected – Reign of the Warlock from The Ancient Gaming Noob
 Feed cap reached, stopping.
+
+Processing feed: CrazyKinux's Musings https://feeds.feedburner.com/CrazykinuxsMusing
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/02/the-new-eden-banter-eve-blog-banter.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/02/the-mirage-of-safe-place-and-taste-for.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/02/getting-dropped-into-fallout-ttrpg-mid.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2001/02/eve-online-translated-lingo-glossary.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/02/the-safe-spot-is-live-and-im-equal.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/02/hauling-safely-in-eve-online-hard-won.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/02/the-expanse-osiris-rebornowlcats-rpg.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/02/a-detour-into-unknown-my-first-steps-in.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/02/ccps-2026-war-plan-big-promises-thin.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/02/announcing-safe-spot-new-eve-podcast.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/02/why-joining-corp-changes-everything-and.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/why-eve-onlines-economy-feels-more-real.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/my-first-cormorant-practical-pve-to-pvp.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/making-living-in-eve-online-part-1.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/for-all-mankind-season-5-and-long.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/le-grand-mort-beautiful-unsettling.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/a-practical-guide-to-staying-current-in.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/crovan-rebooted-drone-bay-and-im.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/resonance-gives-off-cinematic-sci-fi.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/making-living-in-eve-online-blueprint.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/after-hours-episode-3-2016-rixx-javix.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/the-time-masters-weird-beautiful-french.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/a-beautiful-blender-tribute-to.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/the-joy-of-figuring-it-out-what-merlin.html
+Skipping entry older than last_ts: http://www.crazykinux.ca/2026/01/avatar-fire-and-ash-stunning-to-look-at.html
+
+Processing feed: Chasing Dings! https://chasingdings.com/feed/
+Skipping entry older than last_ts: https://chasingdings.com/2026/02/18/a-new-tunnels-trolls-in-this-economy/
+Skipping entry older than last_ts: https://chasingdings.com/2026/02/17/the-fellowship-of-the-ring-ps2/
+Skipping entry older than last_ts: https://chasingdings.com/2026/02/15/heroquest-first-light-king-forgrins-trove/
+Skipping entry older than last_ts: https://chasingdings.com/2026/02/13/othello-trigger-for-the-gameboy-color/
+Skipping entry older than last_ts: https://chasingdings.com/2026/02/10/frosthaven-9-glowing-catacombs/
+Skipping entry older than last_ts: https://chasingdings.com/2026/02/06/i-know-what-i-did-last-weekend-7/
+Skipping entry older than last_ts: https://chasingdings.com/2026/02/04/erenshor-rising-shadows-launched/
+Skipping entry older than last_ts: https://chasingdings.com/2026/02/03/the-end-of-the-othello-world-saga/
+Skipping entry older than last_ts: https://chasingdings.com/2026/02/01/captaincon-2026-masters-of-malifaux/
+Skipping entry older than last_ts: https://chasingdings.com/2026/01/30/othello-world-i-killed-the-dragon/
 
 Processing feed: The Friendly Necromancer https://thefriendlynecromancer.blogspot.com/feeds/posts/default?alt=rss
 Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/02/a-10-mmo-ok-quinfall-whats-this-all.html
@@ -97,85 +143,734 @@ Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2
 Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/06/baggage-claimed-beasts-and-haunted.html
 Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/05/racing-in-quidditch-out-flying-high-in.html
 
-Processing feed: CrazyKinux's Musings https://feeds.feedburner.com/CrazykinuxsMusing
-Picking entry: The New Eden Banter: EVE Blog Banter returns (2026 reboot) http://www.crazykinux.ca/2026/02/the-new-eden-banter-eve-blog-banter.html
-Fetching readable content for URL: http://www.crazykinux.ca/2026/02/the-new-eden-banter-eve-blog-banter.html
-Fetched article length: 3500 characters
-Picked item: The New Eden Banter: EVE Blog Banter returns (2026 reboot) from CrazyKinux's Musings
+Processing feed: Bio Break http://biobreak.wordpress.com/feed/
+Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/02/18/lotro-even-the-game-is-telling-me-that-this-is-ridiculous/
+Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/02/16/world-of-warcraft-murlocks-r-good-enough/
+Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/02/13/world-of-warcraft-welcome-to-the-alt-cafe/
+Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/02/11/lotro-missing-the-spark/
+Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/02/09/wow-classic-casually-throwing-myself-off-mountains/
+Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/02/06/wow-classic-zooming-through-the-20s/
+Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/02/04/lotro-bones-hes-dead/
+Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/02/02/world-of-warcraft-the-clock-strikes-midnight/
+Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/01/30/syps-gaming-goals-for-february-2026/
+Skipping entry older than last_ts: https://biobreak.wordpress.com/2026/01/28/lotro-turtles-with-gigantism/
+
+Processing feed: Going Commando http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss
+Picking entry: Back in My Day: Conquest https://swtorcommando.blogspot.com/2026/02/back-in-my-day-conquest.html
+Fetching readable content for URL: https://swtorcommando.blogspot.com/2026/02/back-in-my-day-conquest.html
+Fetched article length: 13452 characters
+Picked item: Back in My Day: Conquest from Going Commando
 Feed cap reached, stopping.
 
-Processing feed: Scripting News http://scripting.com/rss.xml
-Picking entry:  http://scripting.com/2026/02/18.html#a133619
-Fetching readable content for URL: http://scripting.com/2026/02/18.html#a133619
-Fetched article length: 4203 characters
-Picked item: (untitled) from Scripting News
+Processing feed: Monsterlady's Diary https://monsterladysdiary.wordpress.com/feed/
+Picking entry: Keep Your Grubby Tentacles Off My ID, Humam Sakhnini https://monsterladysdiary.wordpress.com/2026/02/17/keep-your-grubby-tentacles-off-my-id-humam-sakhnini/
+Fetching readable content for URL: https://monsterladysdiary.wordpress.com/2026/02/17/keep-your-grubby-tentacles-off-my-id-humam-sakhnini/
+Fetched article length: 22813 characters
+Picked item: Keep Your Grubby Tentacles Off My ID, Humam Sakhnini from Monsterlady's Diary
 Feed cap reached, stopping.
 
-Processing feed: Chasing Dings! https://chasingdings.com/feed/
-Picking entry: A new Tunnels & Trolls? In this economy? https://chasingdings.com/2026/02/18/a-new-tunnels-trolls-in-this-economy/
-Fetching readable content for URL: https://chasingdings.com/2026/02/18/a-new-tunnels-trolls-in-this-economy/
-Fetched article length: 3842 characters
-Picked item: A new Tunnels & Trolls? In this economy? from Chasing Dings!
+Processing feed: Coding Horror https://blog.codinghorror.com/rss/
+No new entries.
+
+Processing feed: In An Age http://inanage.com/feed/
+Skipping entry older than last_ts: https://inanage.com/2026/02/16/e33-how-its-done/
+Skipping entry older than last_ts: https://inanage.com/2026/02/05/half-cocked/
+Skipping entry older than last_ts: https://inanage.com/2026/01/29/first-impressions-clair-obscur-expedition-33/
+Skipping entry older than last_ts: https://inanage.com/2026/01/27/gw2-how-they-get-you/
+Skipping entry older than last_ts: https://inanage.com/2026/01/12/review-the-outer-worlds-2/
+Skipping entry older than last_ts: https://inanage.com/2026/01/08/the-outer-worlds-2-skill-checks-and-other-tips/
+Skipping entry older than last_ts: https://inanage.com/2026/01/02/infiltration/
+Skipping entry older than last_ts: https://inanage.com/2025/12/31/end-of-year-2025-edition/
+Skipping entry older than last_ts: https://inanage.com/2025/12/27/review-death-howl/
+Skipping entry older than last_ts: https://inanage.com/2025/12/22/blurry-lines/
+
+Processing feed: Quarter Circle Forward https://quartercircleforward.blog/feed/
+Skipping entry older than last_ts: https://quartercircleforward.blog/2026/01/26/quest-64-check-in-week-2/
+Skipping entry older than last_ts: https://quartercircleforward.blog/2026/01/09/quest-64-check-in-week-1/
+Skipping entry older than last_ts: https://quartercircleforward.blog/2025/12/31/top-ten-games-of-2025/
+Skipping entry older than last_ts: https://quartercircleforward.blog/2025/12/02/kirby-air-riders-review/
+Skipping entry older than last_ts: https://quartercircleforward.blog/2025/11/12/random-game-wednesdays-conkers-bad-fur-day-n64/
+Skipping entry older than last_ts: https://quartercircleforward.blog/2025/11/10/the-great-video-game-catch-up-post-of-2025/
+Skipping entry older than last_ts: https://quartercircleforward.blog/2025/07/28/going-bananas-donkey-kong-bananza-review/
+Skipping entry older than last_ts: https://quartercircleforward.blog/2025/06/05/mario-kart-world-first-impressions/
+Skipping entry older than last_ts: https://quartercircleforward.blog/2025/06/05/nintendo-switch-2-first-impressions/
+Skipping entry older than last_ts: https://quartercircleforward.blog/2025/05/29/countdown-to-switch-2-best-of-the-switch/
+
+Processing feed: Smith Talks Tech https://smithtalkstech.com/feed/
+No new entries.
+
+Processing feed: Tofutush's Blog https://tofutush.github.io/feed.xml
+No new entries.
+
+Processing feed: Zarf Updates https://blog.zarfhome.com/feeds/posts/default.rss
+No new entries.
+
+Processing feed: Scopique https://scopique.com/feed/
+No new entries.
+
+Processing feed: Margot Plays https://margotplays.substack.com/feed
+Picking entry: Reviews: Lil Gator Game https://margotplays.substack.com/p/reviews-lil-gator-game
+Fetching readable content for URL: https://margotplays.substack.com/p/reviews-lil-gator-game
+Fetched article length: 5771 characters
+Picked item: Reviews: Lil Gator Game from Margot Plays
 Feed cap reached, stopping.
 
-Processing feed: Inventory Full https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
-Picking entry: And So We Came To The End - Almost https://bhagpuss.blogspot.com/2026/02/and-so-we-came-to-end-almost.html
-Fetching readable content for URL: https://bhagpuss.blogspot.com/2026/02/and-so-we-came-to-end-almost.html
-Fetched article length: 7918 characters
-Picked item: And So We Came To The End - Almost from Inventory Full
-Feed cap reached, stopping.
+Processing feed: MMO Casual https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss
+No new entries.
 
-Processing feed: Schneier on Security https://www.schneier.com/feed/
-Picking entry: AI Found Twelve New Vulnerabilities in OpenSSL https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html
-Fetching readable content for URL: https://www.schneier.com/blog/archives/2026/02/ai-found-twelve-new-vulnerabilities-in-openssl.html
-Fetched article length: 2960 characters
-Picked item: AI Found Twelve New Vulnerabilities in OpenSSL from Schneier on Security
-Feed cap reached, stopping.
-
-Processing feed: A Pixel Nomad https://pixelnomad.ca/feed/
-Picking entry: [EVE] New YouTube Series: Between Bookmarks https://pixelnomad.ca/2026/02/18/eve-new-youtube-series-between-bookmarks/
-Fetching readable content for URL: https://pixelnomad.ca/2026/02/18/eve-new-youtube-series-between-bookmarks/
-Rate limited when fetching https://pixelnomad.ca/2026/02/18/eve-new-youtube-series-between-bookmarks/, retrying after delay.
-Picking entry: [EVE] First Leadership Fireside https://pixelnomad.ca/2026/02/17/eve-first-leadership-fireside/
-Fetching readable content for URL: https://pixelnomad.ca/2026/02/17/eve-first-leadership-fireside/
-Fetched article length: 2552 characters
-Picked item: [EVE] First Leadership Fireside from A Pixel Nomad
+Processing feed: Axxuy https://axxuy.xyz/blog/feed.xml
+Picking entry: How Much Does A Blog Cost: 2026 Edition https://axxuy.xyz/blog/posts/2026/how-much-does-your-blog-cost/
+Fetching readable content for URL: https://axxuy.xyz/blog/posts/2026/how-much-does-your-blog-cost/
+Fetched article length: 1659 characters
+Picked item: How Much Does A Blog Cost: 2026 Edition from Axxuy
 Feed cap reached, stopping.
 
 Processing feed: Musing over Pints and Coffee https://musingsoverpintsandcoffee.wordpress.com/feed/
-Picking entry: The Things We Carry Forward https://musingsoverpintsandcoffee.wordpress.com/2026/02/18/the-things-we-carry-forward/
-Fetching readable content for URL: https://musingsoverpintsandcoffee.wordpress.com/2026/02/18/the-things-we-carry-forward/
-Fetched article length: 6092 characters
-Picked item: The Things We Carry Forward from Musing over Pints and Coffee
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/02/18/the-things-we-carry-forward/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/02/10/what-id-tell-someone-starting-in-accounting-today/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/02/04/being-useful-without-a-title/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/01/22/the-myth-of-stability/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/01/07/what-the-resume-never-captured/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/01/02/my-2025-in-books/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/12/26/measuring-success-when-the-metrics-disappear/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/12/16/looking-back-at-a-profession-that-changed/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/11/26/the-quiet-work-of-moving-on/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2025/11/19/what-it-means-to-support-someone-elses-dream/
+
+Processing feed: Alexia Unplugged https://alexiaunplugged.com/feed/
+Skipping entry older than last_ts: https://alexiaunplugged.com/2026/01/21/8-most-anticipated-cozy-games-of-2026/
+Skipping entry older than last_ts: https://alexiaunplugged.com/2026/01/05/2026-update/
+Skipping entry older than last_ts: https://alexiaunplugged.com/2025/11/30/5-easy-ways-practice-self-care/
+Skipping entry older than last_ts: https://alexiaunplugged.com/2025/11/02/roguelite-beginner-games/
+Skipping entry older than last_ts: https://alexiaunplugged.com/2025/10/06/phone-games-to-play-on-the-go/
+Skipping entry older than last_ts: https://alexiaunplugged.com/2025/03/22/solarpunk-demo-review/
+Skipping entry older than last_ts: https://alexiaunplugged.com/2025/03/02/marvel-rivals-should-be-for-the-girls/
+Skipping entry older than last_ts: https://alexiaunplugged.com/2024/11/13/is-palia-good-2024/
+Skipping entry older than last_ts: https://alexiaunplugged.com/2024/11/04/cozy-co-op-game-masterlist/
+Skipping entry older than last_ts: https://alexiaunplugged.com/2024/08/22/the-new-sims-inzoi/
+
+Processing feed: An Archaeopteryx https://anarchaeopteryx.bearblog.dev/feed/
+Picking entry: What Boredom Means To Me https://anarchaeopteryx.bearblog.dev/2026-02-17-what-boredom-means-to-me/
+Fetching readable content for URL: https://anarchaeopteryx.bearblog.dev/2026-02-17-what-boredom-means-to-me/
+Fetched article length: 7342 characters
+Picked item: What Boredom Means To Me from An Archaeopteryx
+Feed cap reached, stopping.
+
+Processing feed: Leeks Cosy Corner https://leekscosycorner.com/feed/
+Skipping entry older than last_ts: https://leekscosycorner.com/2026/02/16/under-the-island/
+Skipping entry older than last_ts: https://leekscosycorner.com/2026/02/12/starsand-island-early-access-launch/
+Skipping entry older than last_ts: https://leekscosycorner.com/2026/02/09/floatopia-in-twentysix/
+Skipping entry older than last_ts: https://leekscosycorner.com/2026/02/04/everything-starsand-island-ea/
+Skipping entry older than last_ts: https://leekscosycorner.com/2026/02/02/forza-horizon-5/
+Skipping entry older than last_ts: https://leekscosycorner.com/2026/01/25/dokev-where-is-the-game-now/
+Skipping entry older than last_ts: https://leekscosycorner.com/2026/01/25/test-post/
+Skipping entry older than last_ts: https://leekscosycorner.com/2026/01/21/project-pikachu/
+Skipping entry older than last_ts: https://leekscosycorner.com/2026/01/18/thebookclubjanuary/
+Skipping entry older than last_ts: https://leekscosycorner.com/2026/01/11/heartopia-need-to-know/
+
+Processing feed: Cliffski's Blog https://www.positech.co.uk/cliffsblog/feed/
+No new entries.
+
+Processing feed: Luna's Gaming Log https://lunasgaminglog.com/feed/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2026/02/17/2025-gaming-reflection/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2026/02/10/dogpile-review/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2026/02/03/my-january-log/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2026/02/01/monthly-poll-4/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2026/01/27/winter-summer-game-recommendations/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2026/01/20/pancitomerge-review-a-charming-and-tasty-puzzle-game/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2026/01/13/january-life-updates/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2026/01/01/january-2026-poll/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/12/16/my-best-games-of-2025/
+Skipping entry older than last_ts: https://lunasgaminglog.com/2025/12/09/lake-and-seasons-greetings-review/
+
+Processing feed: Sweetie Games https://sweetie.games/feed/
+Picking entry: Say Hello to Sony’s Latest Controller https://sweetie.games/2026/02/14/sonys-latest-controller/
+Fetching readable content for URL: https://sweetie.games/2026/02/14/sonys-latest-controller/
+Fetched article length: 2463 characters
+Picked item: Say Hello to Sony’s Latest Controller from Sweetie Games
+Feed cap reached, stopping.
+
+Processing feed: nicole express https://nicole.express/feed.xml
+No new entries.
+
+Processing feed: Heartless Gamer https://www.heartlessgamer.com/feeds/posts/default?alt=rss
+Skipping entry older than last_ts: http://www.heartlessgamer.com/2026/02/arc-raiders-has-item-value-problem.html
+Skipping entry older than last_ts: http://www.heartlessgamer.com/2026/02/super-bowl-thoughts.html
+Skipping entry older than last_ts: http://www.heartlessgamer.com/2026/02/ashes-of-creation-ends-now.html
+Skipping entry older than last_ts: http://www.heartlessgamer.com/2026/01/new-world-ends-january-31-2027.html
+Skipping entry older than last_ts: http://www.heartlessgamer.com/2026/01/sunday-142026-post-packers-lose-to.html
+
+Processing feed: Grumpy Gamer https://www.grumpygamer.com/rss
+Skipping entry older than last_ts: https://grumpygamer.com/dbs_bug/
+Skipping entry older than last_ts: https://grumpygamer.com/this_time_for_sure/
+Skipping entry older than last_ts: https://grumpygamer.com/hu_comments/
+Skipping entry older than last_ts: https://grumpygamer.com/making_ip/
+Skipping entry older than last_ts: https://grumpygamer.com/sqlite_comments/
+Skipping entry older than last_ts: https://grumpygamer.com/dbs_testing/
+Skipping entry older than last_ts: https://grumpygamer.com/dbs_release_date/
+Skipping entry older than last_ts: https://grumpygamer.com/dbs_history/
+Skipping entry older than last_ts: https://grumpygamer.com/git_json_markdown/
+Skipping entry older than last_ts: https://grumpygamer.com/deathbyscrolling7/
+Skipping entry older than last_ts: https://grumpygamer.com/comments_back/
+Skipping entry older than last_ts: https://grumpygamer.com/testertron3000/
+Skipping entry older than last_ts: https://grumpygamer.com/deathbyscrolling6/
+Skipping entry older than last_ts: https://grumpygamer.com/deathbyscrolling5/
+Skipping entry older than last_ts: https://grumpygamer.com/deathbyscrolling4/
+Skipping entry older than last_ts: https://grumpygamer.com/deathbyscrolling3/
+Skipping entry older than last_ts: https://grumpygamer.com/deathbyscrolling2/
+Skipping entry older than last_ts: https://grumpygamer.com/deathbyscrolling1/
+Skipping entry older than last_ts: https://grumpygamer.com/steam_auth/
+Skipping entry older than last_ts: https://grumpygamer.com/april_fools_2025/
+Skipping entry older than last_ts: https://grumpygamer.com/deathbyscrolling/
+Skipping entry older than last_ts: https://grumpygamer.com/damage_poll/
+Skipping entry older than last_ts: https://grumpygamer.com/12_days_of_crunch_time_mention/
+Skipping entry older than last_ts: https://grumpygamer.com/hugo/
+Skipping entry older than last_ts: https://grumpygamer.com/april_fools_2024/
+Skipping entry older than last_ts: https://grumpygamer.com/quest_feedback/
+Skipping entry older than last_ts: https://grumpygamer.com/speed_running_mi/
+Skipping entry older than last_ts: https://grumpygamer.com/unions/
+Skipping entry older than last_ts: https://grumpygamer.com/loom/
+Skipping entry older than last_ts: https://grumpygamer.com/april_fools_2023/
+Skipping entry older than last_ts: https://grumpygamer.com/rtmi_pdc/
+Skipping entry older than last_ts: https://grumpygamer.com/rtmi_is_out/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey_island_monday/
+Skipping entry older than last_ts: https://grumpygamer.com/rtmi_trailer/
+Skipping entry older than last_ts: https://grumpygamer.com/dev_diary/
+Skipping entry older than last_ts: https://grumpygamer.com/when_i_made_another_monkeyisland/
+Skipping entry older than last_ts: https://grumpygamer.com/return_to_monkey_island/
+Skipping entry older than last_ts: https://grumpygamer.com/april_fools_2022/
+Skipping entry older than last_ts: https://grumpygamer.com/the_future/
+Skipping entry older than last_ts: https://grumpygamer.com/lego7/
+Skipping entry older than last_ts: https://grumpygamer.com/lego8/
+Skipping entry older than last_ts: https://grumpygamer.com/12_days_of_crunch_time_yet_again/
+Skipping entry older than last_ts: https://grumpygamer.com/lego6/
+Skipping entry older than last_ts: https://grumpygamer.com/lego5/
+Skipping entry older than last_ts: https://grumpygamer.com/lrg_signing/
+Skipping entry older than last_ts: https://grumpygamer.com/make_your_own_game_engine/
+Skipping entry older than last_ts: https://grumpygamer.com/dystopia/
+Skipping entry older than last_ts: https://grumpygamer.com/twitter_part2/
+Skipping entry older than last_ts: https://grumpygamer.com/scummvm_20/
+Skipping entry older than last_ts: https://grumpygamer.com/favorite_puzzle/
+Skipping entry older than last_ts: https://grumpygamer.com/commodore_asm/
+Skipping entry older than last_ts: https://grumpygamer.com/dungeoneering/
+Skipping entry older than last_ts: https://grumpygamer.com/judith_lucero/
+Skipping entry older than last_ts: https://grumpygamer.com/apple_privacy/
+Skipping entry older than last_ts: https://grumpygamer.com/april_fools_2021/
+Skipping entry older than last_ts: https://grumpygamer.com/sudoku58/
+Skipping entry older than last_ts: https://grumpygamer.com/sigh_apple/
+Skipping entry older than last_ts: https://grumpygamer.com/01202010/
+Skipping entry older than last_ts: https://grumpygamer.com/lego4/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey_sound/
+Skipping entry older than last_ts: https://grumpygamer.com/lego3/
+Skipping entry older than last_ts: https://grumpygamer.com/lego2/
+Skipping entry older than last_ts: https://grumpygamer.com/lego1/
+Skipping entry older than last_ts: https://grumpygamer.com/lego/
+Skipping entry older than last_ts: https://grumpygamer.com/popquiz1/
+Skipping entry older than last_ts: https://grumpygamer.com/appveyor/
+Skipping entry older than last_ts: https://grumpygamer.com/oh_please_let_this_finally_be_over/
+Skipping entry older than last_ts: https://grumpygamer.com/polls/
+Skipping entry older than last_ts: https://grumpygamer.com/guybrush_fact_fiction/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey_island_game_history/
+Skipping entry older than last_ts: https://grumpygamer.com/azure/
+Skipping entry older than last_ts: https://grumpygamer.com/calm_2020/
+Skipping entry older than last_ts: https://grumpygamer.com/1092fb6ef01aefda7480fae/
+Skipping entry older than last_ts: https://grumpygamer.com/mi_game_history_stream/
+Skipping entry older than last_ts: https://grumpygamer.com/talk_like_pirate_2020/
+Skipping entry older than last_ts: https://grumpygamer.com/ads/
+Skipping entry older than last_ts: https://grumpygamer.com/delores_linux_testing/
+Skipping entry older than last_ts: https://grumpygamer.com/time_fly2/
+Skipping entry older than last_ts: https://grumpygamer.com/time_fly/
+Skipping entry older than last_ts: https://grumpygamer.com/dear_facebook/
+Skipping entry older than last_ts: https://grumpygamer.com/thirty_years_ago/
+Skipping entry older than last_ts: https://grumpygamer.com/disappointing/
+Skipping entry older than last_ts: https://grumpygamer.com/the_muse/
+Skipping entry older than last_ts: https://grumpygamer.com/json/
+Skipping entry older than last_ts: https://grumpygamer.com/rpi_2/
+Skipping entry older than last_ts: https://grumpygamer.com/rpi/
+Skipping entry older than last_ts: https://grumpygamer.com/linux_password_manager/
+Skipping entry older than last_ts: https://grumpygamer.com/linux_first_post/
+Skipping entry older than last_ts: https://grumpygamer.com/my_linux_laptop/
+Skipping entry older than last_ts: https://grumpygamer.com/masks/
+Skipping entry older than last_ts: https://grumpygamer.com/view_window/
+Skipping entry older than last_ts: https://grumpygamer.com/3ccfce227f5ccdaf3745635/
+Skipping entry older than last_ts: https://grumpygamer.com/1956fb68cd8e4810bc554d2/
+Skipping entry older than last_ts: https://grumpygamer.com/2b51cf685635aaf29a87959/
+Skipping entry older than last_ts: https://grumpygamer.com/static_converter/
+Skipping entry older than last_ts: https://grumpygamer.com/bad_apples/
+Skipping entry older than last_ts: https://grumpygamer.com/delores_gog/
+Skipping entry older than last_ts: https://grumpygamer.com/twp_forums_down/
+Skipping entry older than last_ts: https://grumpygamer.com/gbt_url/
+Skipping entry older than last_ts: https://grumpygamer.com/delores_dev/
+Skipping entry older than last_ts: https://grumpygamer.com/historyofpants_com/
+Skipping entry older than last_ts: https://grumpygamer.com/python/
+Skipping entry older than last_ts: https://grumpygamer.com/delores_podcast/
+Skipping entry older than last_ts: https://grumpygamer.com/delores_podcast_call_for_questions/
+Skipping entry older than last_ts: https://grumpygamer.com/right_click_to_skip_dialog/
+Skipping entry older than last_ts: https://grumpygamer.com/linux_laptop/
+Skipping entry older than last_ts: https://grumpygamer.com/what_i_did_during_the_pandemic/
+Skipping entry older than last_ts: https://grumpygamer.com/sprites_as_a_service/
+Skipping entry older than last_ts: https://grumpygamer.com/craftinginterpreters/
+Skipping entry older than last_ts: https://grumpygamer.com/mad_world/
+Skipping entry older than last_ts: https://grumpygamer.com/april_fools_2020/
+Skipping entry older than last_ts: https://grumpygamer.com/guilty_pleasures/
+Skipping entry older than last_ts: https://grumpygamer.com/lock_down/
+Skipping entry older than last_ts: https://grumpygamer.com/confinded_to_home/
+Skipping entry older than last_ts: https://grumpygamer.com/camera_code/
+Skipping entry older than last_ts: https://grumpygamer.com/c64_in_cpp/
+Skipping entry older than last_ts: https://grumpygamer.com/378bfcdd7f74f199e1236e5/
+Skipping entry older than last_ts: https://grumpygamer.com/bartlows_dread_machine/
+Skipping entry older than last_ts: https://grumpygamer.com/purple_meteor/
+Skipping entry older than last_ts: https://grumpygamer.com/disassembling_links_awakening/
+Skipping entry older than last_ts: https://grumpygamer.com/false_positives/
+Skipping entry older than last_ts: https://grumpygamer.com/my_wow_guild/
+Skipping entry older than last_ts: https://grumpygamer.com/verbs_verbs_verbs/
+Skipping entry older than last_ts: https://grumpygamer.com/tag_line/
+Skipping entry older than last_ts: https://grumpygamer.com/warning_2020_lists/
+Skipping entry older than last_ts: https://grumpygamer.com/af4fd83d8159e4c31fa38ad/
+Skipping entry older than last_ts: https://grumpygamer.com/2019_year_in_review/
+Skipping entry older than last_ts: https://grumpygamer.com/eb229e017b0912a472a808d/
+Skipping entry older than last_ts: https://grumpygamer.com/f46a3ce4dab45c42d352fd8/
+Skipping entry older than last_ts: https://grumpygamer.com/870e85aff598f9e0d44be7a/
+Skipping entry older than last_ts: https://grumpygamer.com/759a3bd1c6e6711a1bc91ac/
+Skipping entry older than last_ts: https://grumpygamer.com/forager/
+Skipping entry older than last_ts: https://grumpygamer.com/dead/
+Skipping entry older than last_ts: https://grumpygamer.com/not_okay/
+Skipping entry older than last_ts: https://grumpygamer.com/76ff8a6ba8fb46f7813e1ce/
+Skipping entry older than last_ts: https://grumpygamer.com/not_talk_like_a_pirate/
+Skipping entry older than last_ts: https://grumpygamer.com/fu_dropbox/
+Skipping entry older than last_ts: https://grumpygamer.com/35033655e546a5d262131b2/
+Skipping entry older than last_ts: https://grumpygamer.com/roguelikes2/
+Skipping entry older than last_ts: https://grumpygamer.com/great_wall/
+Skipping entry older than last_ts: https://grumpygamer.com/6888868558b6be7d019e991/
+Skipping entry older than last_ts: https://grumpygamer.com/7dcb6ee2cfa548013bc47d6/
+Skipping entry older than last_ts: https://grumpygamer.com/quit_twitter/
+Skipping entry older than last_ts: https://grumpygamer.com/wow_2/
+Skipping entry older than last_ts: https://grumpygamer.com/game_postponed/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey_island_tv/
+Skipping entry older than last_ts: https://grumpygamer.com/april_fools_2019/
+Skipping entry older than last_ts: https://grumpygamer.com/6254192ddda7934478dc2f7/
+Skipping entry older than last_ts: https://grumpygamer.com/mi_music1/
+Skipping entry older than last_ts: https://grumpygamer.com/deadcells/
+Skipping entry older than last_ts: https://grumpygamer.com/fuck_subscription_software/
+Skipping entry older than last_ts: https://grumpygamer.com/darkest_dungeon/
+Skipping entry older than last_ts: https://grumpygamer.com/042d95387e3186868dff0b2/
+Skipping entry older than last_ts: https://grumpygamer.com/9a95ab189b236dc71ea8a45/
+Skipping entry older than last_ts: https://grumpygamer.com/7ac05e7792e15247cce3723/
+Skipping entry older than last_ts: https://grumpygamer.com/voyager/
+Skipping entry older than last_ts: https://grumpygamer.com/technology_ranked/
+Skipping entry older than last_ts: https://grumpygamer.com/3568a6e5d615bbba0faaf76/
+Skipping entry older than last_ts: https://grumpygamer.com/goodbye_2018/
+Skipping entry older than last_ts: https://grumpygamer.com/twp_sales/
+Skipping entry older than last_ts: https://grumpygamer.com/ten_great_puzzles/
+Skipping entry older than last_ts: https://grumpygamer.com/pulley/
+Skipping entry older than last_ts: https://grumpygamer.com/wow2/
+Skipping entry older than last_ts: https://grumpygamer.com/what_do_you_think/
+Skipping entry older than last_ts: https://grumpygamer.com/unit_testing1/
+Skipping entry older than last_ts: https://grumpygamer.com/casting/
+Skipping entry older than last_ts: https://grumpygamer.com/432108ac08fc38939b2cfc1/
+Skipping entry older than last_ts: https://grumpygamer.com/bug_database/
+Skipping entry older than last_ts: https://grumpygamer.com/job_opening/
+Skipping entry older than last_ts: https://grumpygamer.com/a7a7d0f72723d4730972d6a/
+Skipping entry older than last_ts: https://grumpygamer.com/roguelike_4/
+Skipping entry older than last_ts: https://grumpygamer.com/273c7616afaf19ec75870e0/
+Skipping entry older than last_ts: https://grumpygamer.com/9e68ca2389165ec1f52aa6f/
+Skipping entry older than last_ts: https://grumpygamer.com/ci/
+Skipping entry older than last_ts: https://grumpygamer.com/68cbf431331492d3ddc5900/
+Skipping entry older than last_ts: https://grumpygamer.com/octopath_traveler/
+Skipping entry older than last_ts: https://grumpygamer.com/why_so_hard_ms/
+Skipping entry older than last_ts: https://grumpygamer.com/ab36a3c7503ead5c3fe9f7f/
+Skipping entry older than last_ts: https://grumpygamer.com/git_question/
+Skipping entry older than last_ts: https://grumpygamer.com/penny_wise/
+Skipping entry older than last_ts: https://grumpygamer.com/1c0d050224fae515d4ee164/
+Skipping entry older than last_ts: https://grumpygamer.com/94c3750ac035c3f655ec0e1/
+Skipping entry older than last_ts: https://grumpygamer.com/6587cc76ff78aed87762638/
+Skipping entry older than last_ts: https://grumpygamer.com/a427c6c12939a1ef719e6ff/
+Skipping entry older than last_ts: https://grumpygamer.com/norway_iceland/
+Skipping entry older than last_ts: https://grumpygamer.com/battle_royale_for_introverts/
+Skipping entry older than last_ts: https://grumpygamer.com/scope_budget_schedule/
+Skipping entry older than last_ts: https://grumpygamer.com/current_status_0412a/
+Skipping entry older than last_ts: https://grumpygamer.com/april_fools_2018/
+Skipping entry older than last_ts: https://grumpygamer.com/thimbleversary/
+Skipping entry older than last_ts: https://grumpygamer.com/50984d2b51dbd0d82c6cc6d/
+Skipping entry older than last_ts: https://grumpygamer.com/combat_examples/
+Skipping entry older than last_ts: https://grumpygamer.com/new_dice/
+Skipping entry older than last_ts: https://grumpygamer.com/holodeck/
+Skipping entry older than last_ts: https://grumpygamer.com/a_little_something/
+Skipping entry older than last_ts: https://grumpygamer.com/smarter_than_i_am/
+Skipping entry older than last_ts: https://grumpygamer.com/ransome_unbeeped/
+Skipping entry older than last_ts: https://grumpygamer.com/haunted_by_the_cave/
+Skipping entry older than last_ts: https://grumpygamer.com/f3e31b6aa8cf8e5650e9dab/
+Skipping entry older than last_ts: https://grumpygamer.com/3ace843b654509e331abbda/
+Skipping entry older than last_ts: https://grumpygamer.com/dont_fall_down/
+Skipping entry older than last_ts: https://grumpygamer.com/75e837d47ae8303cc114212/
+Skipping entry older than last_ts: https://grumpygamer.com/918ee026775aa61f08d39fa/
+Skipping entry older than last_ts: https://grumpygamer.com/f919110d379dc3c0a5bd016/
+Skipping entry older than last_ts: https://grumpygamer.com/valentines_day_2018/
+Skipping entry older than last_ts: https://grumpygamer.com/thimblevinyl/
+Skipping entry older than last_ts: https://grumpygamer.com/40124c6f0f1ec440e04b451/
+Skipping entry older than last_ts: https://grumpygamer.com/541edf7a3152982f208f0d1/
+Skipping entry older than last_ts: https://grumpygamer.com/bbedit/
+Skipping entry older than last_ts: https://grumpygamer.com/30f4e60248ef8c86e072fcd/
+Skipping entry older than last_ts: https://grumpygamer.com/68abceee851a643812fe5e6/
+Skipping entry older than last_ts: https://grumpygamer.com/statistics_question/
+Skipping entry older than last_ts: https://grumpygamer.com/twp_sales_by_store/
+Skipping entry older than last_ts: https://grumpygamer.com/8b3329f261f58faa30524b8/
+Skipping entry older than last_ts: https://grumpygamer.com/tarantino_startrek/
+Skipping entry older than last_ts: https://grumpygamer.com/friday_questions_3/
+Skipping entry older than last_ts: https://grumpygamer.com/new_steam/
+Skipping entry older than last_ts: https://grumpygamer.com/234f81bfd5014e75f2b0e96/
+Skipping entry older than last_ts: https://grumpygamer.com/favorite_gamedev_blogs/
+Skipping entry older than last_ts: https://grumpygamer.com/6017525b8dd972fa7baa03a/
+Skipping entry older than last_ts: https://grumpygamer.com/links_of_the_week_1/
+Skipping entry older than last_ts: https://grumpygamer.com/friday_questions_2/
+Skipping entry older than last_ts: https://grumpygamer.com/da3c3f5d45d61adab3480bd/
+Skipping entry older than last_ts: https://grumpygamer.com/1728dad57df92e42389a28c/
+Skipping entry older than last_ts: https://grumpygamer.com/ending_of_the_year/
+Skipping entry older than last_ts: https://grumpygamer.com/favorite_programming_blogs/
+Skipping entry older than last_ts: https://grumpygamer.com/escape_the_room/
+Skipping entry older than last_ts: https://grumpygamer.com/38d57536bc7371c235099f5/
+Skipping entry older than last_ts: https://grumpygamer.com/6ed50daaf01e7f7aefba785/
+Skipping entry older than last_ts: https://grumpygamer.com/friday_questions_1/
+Skipping entry older than last_ts: https://grumpygamer.com/unit_testing_games/
+Skipping entry older than last_ts: https://grumpygamer.com/03341583b76a7633683d648/
+Skipping entry older than last_ts: https://grumpygamer.com/5f73edfa13b729ef6183b1d/
+Skipping entry older than last_ts: https://grumpygamer.com/waldschattenspiel/
+Skipping entry older than last_ts: https://grumpygamer.com/2018_goals/
+Skipping entry older than last_ts: https://grumpygamer.com/roll_for_the_galaxy/
+Skipping entry older than last_ts: https://grumpygamer.com/25ec664dbe22bb4a9da9da3/
+Skipping entry older than last_ts: https://grumpygamer.com/golf_story/
+Skipping entry older than last_ts: https://grumpygamer.com/luck/
+Skipping entry older than last_ts: https://grumpygamer.com/year_in_review_2017/
+Skipping entry older than last_ts: https://grumpygamer.com/a3a5b636fafc8ed3fcf3bf0/
+Skipping entry older than last_ts: https://grumpygamer.com/back_to_mysql/
+Skipping entry older than last_ts: https://grumpygamer.com/3dd6dfc50a6bea9e39ef6a8/
+Skipping entry older than last_ts: https://grumpygamer.com/ede799182bfd6170739667e/
+Skipping entry older than last_ts: https://grumpygamer.com/12_days_of_crunch_time_again/
+Skipping entry older than last_ts: https://grumpygamer.com/1fbbcf9531683c794872e59/
+Skipping entry older than last_ts: https://grumpygamer.com/997d23f76d2b04112e6eabb/
+Skipping entry older than last_ts: https://grumpygamer.com/vacation2017/
+Skipping entry older than last_ts: https://grumpygamer.com/grumpygamer_v3/
+Skipping entry older than last_ts: https://grumpygamer.com/350a7737d4136669f66c91c/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey25/
+Skipping entry older than last_ts: https://grumpygamer.com/thimbleweed_dev_blog/
+Skipping entry older than last_ts: https://grumpygamer.com/teenage_lobot/
+Skipping entry older than last_ts: https://grumpygamer.com/maniac_mansion_joystick/
+Skipping entry older than last_ts: https://grumpygamer.com/e15a030e8ebaf1fc96ec509/
+Skipping entry older than last_ts: https://grumpygamer.com/understanding_of_charts/
+Skipping entry older than last_ts: https://grumpygamer.com/puzzle_dependency_charts/
+Skipping entry older than last_ts: https://grumpygamer.com/scumm_notes/
+Skipping entry older than last_ts: https://grumpygamer.com/2d_engine_recommendations/
+Skipping entry older than last_ts: https://grumpygamer.com/mi2_best_ending_ever/
+Skipping entry older than last_ts: https://grumpygamer.com/maniac_mansion_design_doc/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey_poster/
+Skipping entry older than last_ts: https://grumpygamer.com/maniac_mansion_design_1/
+Skipping entry older than last_ts: https://grumpygamer.com/c64_website/
+Skipping entry older than last_ts: https://grumpygamer.com/ten_years_running/
+Skipping entry older than last_ts: https://grumpygamer.com/booty_from_seattle1/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey_bucks/
+Skipping entry older than last_ts: https://grumpygamer.com/who_are_these_pirates/
+Skipping entry older than last_ts: https://grumpygamer.com/what_is_an_indie/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey_island_design_scribblings/
+Skipping entry older than last_ts: https://grumpygamer.com/even_more_monkey_island_design_scribbles/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey_island_design_notebook2/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey_island_design_notebook1/
+Skipping entry older than last_ts: https://grumpygamer.com/year_in_review_2013/
+Skipping entry older than last_ts: https://grumpygamer.com/scurvy_ios_reviews/
+Skipping entry older than last_ts: https://grumpygamer.com/got_scurvy/
+Skipping entry older than last_ts: https://grumpygamer.com/my_favorite_authors/
+Skipping entry older than last_ts: https://grumpygamer.com/scurvy_almost_here/
+Skipping entry older than last_ts: https://grumpygamer.com/more_scurvy_scallywags/
+Skipping entry older than last_ts: https://grumpygamer.com/just_to_clarify_point_12/
+Skipping entry older than last_ts: https://grumpygamer.com/if_i_made_another_monkeyisland/
+Skipping entry older than last_ts: https://grumpygamer.com/asm/
+Skipping entry older than last_ts: https://grumpygamer.com/goodbye_lucasfilm_games/
+Skipping entry older than last_ts: https://grumpygamer.com/scurvy_scallywags/
+Skipping entry older than last_ts: https://grumpygamer.com/deep_inside_the_cave_part_2/
+Skipping entry older than last_ts: https://grumpygamer.com/deep_inside_the_cave_part_1/
+Skipping entry older than last_ts: https://grumpygamer.com/complete_map_of_the_cave/
+Skipping entry older than last_ts: https://grumpygamer.com/progress_bar_porn/
+Skipping entry older than last_ts: https://grumpygamer.com/the_cave_is_out/
+Skipping entry older than last_ts: https://grumpygamer.com/the_cave_is_coming/
+Skipping entry older than last_ts: https://grumpygamer.com/about/
+Skipping entry older than last_ts: https://grumpygamer.com/more_cave_art/
+Skipping entry older than last_ts: https://grumpygamer.com/new_cave_trailer/
+Skipping entry older than last_ts: https://grumpygamer.com/the_big_big_castle/
+Skipping entry older than last_ts: https://grumpygamer.com/the_color_of_money/
+Skipping entry older than last_ts: https://grumpygamer.com/the_cave/
+Skipping entry older than last_ts: https://grumpygamer.com/what_my_father_meant_to_me/
+Skipping entry older than last_ts: https://grumpygamer.com/more_concept_art/
+Skipping entry older than last_ts: https://grumpygamer.com/what_is_an_adventure_game/
+Skipping entry older than last_ts: https://grumpygamer.com/first_cave_concept_art/
+Skipping entry older than last_ts: https://grumpygamer.com/meeting_steve_jobs/
+Skipping entry older than last_ts: https://grumpygamer.com/vertical_slice/
+Skipping entry older than last_ts: https://grumpygamer.com/making_of_maniac_mansion/
+Skipping entry older than last_ts: https://grumpygamer.com/monkey_2_bug_report/
+Skipping entry older than last_ts: https://grumpygamer.com/designer_programmer_artist/
+Skipping entry older than last_ts: https://grumpygamer.com/tale_of_the_scurvy_raider/
+Skipping entry older than last_ts: https://grumpygamer.com/stuff_and_things_and_monkey_island/
+Skipping entry older than last_ts: https://grumpygamer.com/studs_terkel/
+Skipping entry older than last_ts: https://grumpygamer.com/20_years_of_scumm/
+Skipping entry older than last_ts: https://grumpygamer.com/gilligan_is_on_the_roof/
+Skipping entry older than last_ts: https://grumpygamer.com/failing_at_your_entertainment/
+Skipping entry older than last_ts: https://grumpygamer.com/world_of_warcraft/
+Skipping entry older than last_ts: https://grumpygamer.com/12_days_of_crunch_time/
+Skipping entry older than last_ts: https://grumpygamer.com/economics_of_an_adventure_game_in_2004/
+Skipping entry older than last_ts: https://grumpygamer.com/on_stranger_tides/
+Skipping entry older than last_ts: https://grumpygamer.com/why_adventure_games_suck/
+
+Processing feed: Nik Kantar https://nkantar.com/blog/feed/
+Skipping entry older than last_ts: https://nkantar.com/blog/2026/01/2026-just-better/
+Skipping entry older than last_ts: https://nkantar.com/blog/2025/10/starminder-v4/
+Skipping entry older than last_ts: https://nkantar.com/blog/2025/10/blaugust-2025-afterfeels/
+Skipping entry older than last_ts: https://nkantar.com/blog/2025/10/blaugust-2025-links-part-4/
+Skipping entry older than last_ts: https://nkantar.com/blog/2025/09/pybeach-2025/
+Skipping entry older than last_ts: https://nkantar.com/blog/2025/09/feed-fix-and-noise/
+Skipping entry older than last_ts: https://nkantar.com/blog/2025/08/blaugust-survival-tips/
+Skipping entry older than last_ts: https://nkantar.com/blog/2025/08/new-404-page/
+Skipping entry older than last_ts: https://nkantar.com/blog/2025/08/in-memoriam-michael-ryabushkin/
+Skipping entry older than last_ts: https://nkantar.com/blog/2025/08/fixing-plausible-geolocation/
+
+Processing feed: Words Under My Name https://wordsundermyname.wordpress.com/feed/
+Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/02/13/2-13-2026-top-of-the-heap/
+Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/02/03/2-3-2026-february-2026-check-in/
+Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/01/22/1-22-2026-open-book/
+Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/01/11/1-11-2026-becoming-human/
+Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/01/07/1-7-2026-lighten-up/
+Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/12/25/12-25-2025-whirlwind/
+Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/12/09/12-9-2025-light-a-spark/
+Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/11/27/11-27-2025-playing-scared/
+Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/11/09/11-9-2025-up-for-air/
+Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2025/10/26/10-26-2025-go-find-yourself/
+
+Processing feed: The Ghastly Mirror https://www.ghastlymirror.xyz/rss.xml
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/no-ice-in-minnesota-itchio-bundle-is-here/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/disapointed-gog-ai-alternatives/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/linux-fixing-the-gnu-grub-boot-screen/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/steam-replay-2025/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/home-safety-hotline-review-working-in-customer-support-with-cryptids/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/happy-late-halloween-2025-heres-what-ive-been-playing/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/blaugust-2025-ending/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/bugaboo-pocket-review/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/what-ive-been-playing/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/welcome-blaugust-2025/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming-itchio-valve/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming-updates/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/censorship-in-gaming/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/blaugust-2025-were-back-baby/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/portugal-blackout/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/witches-vampires-secrets-of-ashbury-review/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/delores-a-thimbleweed-mini-adventures-walkthrough/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/update-2022-posts-archived/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/steam-replay-2024/
+Skipping entry older than last_ts: https://www.ghastlymirror.xyz/blog/site-moved/
+
+Processing feed: Contains Moderate Peril http://www.containsmoderateperil.com/blog?format=rss
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/2/17/the-cost-of-blogging-in-2026
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/2/15/honest-playlist
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/2/13/british-optical-association-museum
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/2/11/fighting-the-cost-of-living
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/2/9/into-the-uncanny-by-danny-robins-2023
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/2/7/projects-and-problem-cascades
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/2/3/changing-software
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/2/1/thoughts-on-blogging-part-24
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/28/der-tiger-aka-the-tank-2025
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/26/more-screen-capture-software
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/24/tainted-grail-the-fall-of-avalon-magic-and-spellcasting
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/22/treasure-island-1990
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/20/warhammer-dark-omen-available-from-gog
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/18/classic-movie-themes-escape-from-the-planet-of-the-apes
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/15/lotro-new-zone-coming-in-q2
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/13/lotro-tweaking-your-game-installation
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/11/return-to-the-planet-of-the-apes-1975
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/10/star-trek-online-in-2026
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/8/my-local-cinema-part-2
+Skipping entry older than last_ts: https://www.containsmoderateperil.com/blog/2026/1/5/instruction-manuals
+
+Processing feed: Priest with a Cause https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss
+No new entries.
+
+Processing feed: Frostilyte Writes https://frostilyte.ca/feed/
+Skipping entry older than last_ts: https://frostilyte.ca/2026/02/02/month-in-review-big-hops-whiskerwood-type-help-more/
+Skipping entry older than last_ts: https://frostilyte.ca/2026/01/29/super-chipflake-u-quest-for-the-uncooked-schnitzel-review/
+Skipping entry older than last_ts: https://frostilyte.ca/2026/01/27/confidential-killings-review/
+Skipping entry older than last_ts: https://frostilyte.ca/2026/01/23/a-puzzling-spin-on-rogue-bobos-big-tower-first-impressions/
+Skipping entry older than last_ts: https://frostilyte.ca/2026/01/20/blightstone-early-access-review/
+Skipping entry older than last_ts: https://frostilyte.ca/2026/01/16/music-makes-hades-2s-best-boss-fight/
+
+Processing feed: Time to Loot https://www.timetoloot.com/feed/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-january-2026/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/time-to-loot-turns-seven/
+Skipping entry older than last_ts: https://www.timetoloot.com/gaming/looking-back-on-gaming-2025-edition/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-december-2025/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-november-2025/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-october-2025/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-september-2025/
+Skipping entry older than last_ts: https://www.timetoloot.com/other/accidentally-songs/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/journal/time-to-loot-journal-august-2025/
+Skipping entry older than last_ts: https://www.timetoloot.com/game/wuthering-waves/screenshot-saturday-wuthering-waves-2-6-edition/
+Skipping entry older than last_ts: https://www.timetoloot.com/other/youd-never-guess-but/
+Skipping entry older than last_ts: https://www.timetoloot.com/blog/thinking-out-loud-2/
+Skipping entry older than last_ts: https://www.timetoloot.com/game/final-fantasy-xiv/the-far-edge-of-fate/
+Skipping entry older than last_ts: https://www.timetoloot.com/gaming/coming-games-of-interest-blaugust-2025-edition/
+Skipping entry older than last_ts: https://www.timetoloot.com/game/final-fantasy-xiv/ffxiv-keeps-asking-if-im-back/
+
+Processing feed: Indiecator https://indiecator.org/feed/
+Skipping entry older than last_ts: https://indiecator.org/2026/02/10/shinies-for-good-pokemon-charity-american-immigration-council/
+Skipping entry older than last_ts: https://indiecator.org/2026/01/30/goblin-vyke-demo-review/
+Skipping entry older than last_ts: https://indiecator.org/2025/12/31/trash-goblin-review-cozy-shop-keeping-sim/
+Skipping entry older than last_ts: https://indiecator.org/2025/12/30/samantha-fulnecky-oklahoma-essay-failing-grade/
+Skipping entry older than last_ts: https://indiecator.org/2025/11/30/good-boy-observer-interactive-gamescom-interview/
+Skipping entry older than last_ts: https://indiecator.org/2025/10/29/10-indie-horror-games-that-really-got-under-my-skin/
+Skipping entry older than last_ts: https://indiecator.org/2025/10/10/burggeist-review/
+Skipping entry older than last_ts: https://indiecator.org/2025/10/07/tiny-aquarium-social-fishkeeping-review/
+Skipping entry older than last_ts: https://indiecator.org/2025/09/28/is-antifa-a-terrorist-organisation/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/i-dont-think-i-really-need-silksong/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/cryptmaster-achievement-guide/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/changing-my-theme-wasnt-an-option-but-i-made-changes-still/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/talented-review/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/on-llm-dependency-and-overreliance-a-blaugust-response-post/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/alas/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/moons-of-madness-review/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/my-struggles-with-interviews-at-gamescom/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/on-comments-queues-dramatic-music/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/andrew-tsai-unbeatable-interview/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/31/are-people-too-fragile-these-days/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/30/its-not-quite-rainbow-coloured-but-if-you-squint-hard-enough/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/27/i-no-longer-have-a-linkedin-account/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/26/i-now-have-a-linkedin-account/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/21/bobo-bay-new-demo-and-interview/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/16/an-actual-introduction-this-time/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/16/review-sensei-i-like-you-so-much/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/15/indietail-potion-shop-simulator/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/13/good-genes-ad-and-nazi-propaganda/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/10/drill-core-review/
+Skipping entry older than last_ts: https://indiecator.org/2025/08/04/identity-and-nationality-who-am-i/
+
+Processing feed: WCRobinson https://wcrobinson.org/feed/
+Skipping entry older than last_ts: https://wcrobinson.org/2026/02/17/pragmata-sketchbook-review-how-a-20-minute-demo-sold-me-on-this-new-ip/
+Skipping entry older than last_ts: https://wcrobinson.org/2026/02/03/hyrule-warriors-age-of-imprisonment-review-the-best-in-the-series-yet/
+Skipping entry older than last_ts: https://wcrobinson.org/2026/01/02/my-top-ten-films-of-2025-5-1/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/12/31/my-top-ten-films-of-2025-10-6/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/12/25/happy-holidays-lessons-from-2025-my-writing-targets-for-next-year/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/12/21/skys-the-limit-playing-yu-gi-oh-socially-improving-on-master-duel/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/12/06/pokemon-legends-z-a-review-a-real-time-revolution-in-the-process-of-evolution/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/10/31/hades-ii-review-a-brilliantly-bewitching-return-to-the-underworld/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/10/02/dave-the-diver-review-this-delightful-deep-sea-rpg-has-a-delectable-sushi-twist/
+Skipping entry older than last_ts: https://wcrobinson.org/2025/09/14/my-5-favourite-announcements-from-the-nintendo-direct-12-09-25/
+
+Processing feed: Jamie Zawinski's Blog https://cdn.jwz.org/blog/feed/
+Picking entry: Remote https://www.jwz.org/blog/2026/02/remote/
+Fetching readable content for URL: https://www.jwz.org/blog/2026/02/remote/
+Picking entry: All Your Base, slight remaster https://www.jwz.org/blog/2026/02/all-your-base-slight-remaster/
+Fetching readable content for URL: https://www.jwz.org/blog/2026/02/all-your-base-slight-remaster/
+Fetched article length: 629 characters
+Picked item: All Your Base, slight remaster from Jamie Zawinski's Blog
+Feed cap reached, stopping.
+
+Processing feed: Buried Treasure https://buried-treasure.org/feed/
+No new entries.
+
+Processing feed: Ready Pixel One https://feeds.feedburner.com/squarespace/AxkEtpjNxtZ
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/edgecase
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/quietwaters-stirringshadows
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/smallbutmighty
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/arrivalonembercoastreach
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/dalaran-remembered
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/daytwoatsea
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/shadowsstirsistersendure
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/rootedinlegacy
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/meet-the-runelight-sisters
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/toward-an-uncharted-shore
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/roleplay-real-bonds
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/the-weight-of-stillness
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/much-excite
+Skipping entry older than last_ts: https://www.readypixelone.com/blog/hello-world
+
+Processing feed: Ongoing https://www.tbray.org/ongoing/ongoing.atom
+No new entries.
+
+Processing feed: Lisette's Mxtadventures https://lisettesmxtadventures.wordpress.com/feed/?alt=rss
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/25/little-joys-the-numbers/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/23/trying-seasonal-drinks/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/21/little-joys-frog-bowl/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/20/4-years-of-semi-failed-cooking-attempts/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/15/life-has-been-a-juggle-fest/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/08/25/making-a-finished-product/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/08/22/recovery-day-3/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/08/19/one-less-tooth/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/08/18/less-features-less-convenience/
+Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/08/17/driving-endurance/
+
+Processing feed: Tobold's Blog http://feeds2.feedburner.com/ToboldsBlog
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/02/working-with-cheap-idiots.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/02/ai-bots-and-algorithms-dont-buy.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/02/menace-first-impressions.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/02/insulation.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/02/kingdom-crossing.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/02/recalculating-and-changing-my-mind.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/02/unmenaced.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/02/enshrouded.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/abroad-and-fromage.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/protests-and-political-violence.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/open-world-survival-crafting-base.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/waking-europe.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/first-thoughts-on-arydia.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/emberheart.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/rune-dice.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/plastic-foam-safety-warning.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/betting-on-semantics.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/sengoku-dynasty.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/silencing-my-computer.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/the-purpose-of-international-law.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/01/gaming-status-january-2026.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/12/board-game-collection-cleanup.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/12/forest-shuffle-dartmoor.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/12/recall.html
+Skipping entry older than last_ts: http://tobolds.blogspot.com/2025/12/an-uncharitable-observation.html
+
+Processing feed: Dragonchasers https://dragonchasers.com/feed/
+No new entries.
+
+Processing feed: usebox.net https://www.usebox.net/jjm/blog/index.xml
+No new entries.
+
+Processing feed: READ ONLY MEMO https://readonlymemo.com/rss/
+Skipping entry older than last_ts: https://readonlymemo.com/the-follow-up-taki-udon-on-the-superstation-dock-and-more-quest-64-recomp/
+Skipping entry older than last_ts: https://readonlymemo.com/superstation-one-development-history-making-of-taki-udon-interview/
+Skipping entry older than last_ts: https://readonlymemo.com/quest-64-recompiled-the-classic-rpg-like-youve-never-seen-it-before/
+Skipping entry older than last_ts: https://readonlymemo.com/im-giving-away-a-japanese-boxed-copy-of-animal-crossing-dobutsu-no-mori-to-celebrate-3-000-subscribers/
+Skipping entry older than last_ts: https://readonlymemo.com/sega-hikaru-emulation-demul-interview/
+Skipping entry older than last_ts: https://readonlymemo.com/iisu-emulator-frontend-exowin9x/
+Skipping entry older than last_ts: https://readonlymemo.com/analogue-3d-steam-machine-emulation/
+Skipping entry older than last_ts: https://readonlymemo.com/vagrant-story-decompilation-interview/
+Skipping entry older than last_ts: https://readonlymemo.com/paranoiascape-fan-translation/
+Skipping entry older than last_ts: https://readonlymemo.com/mame-hyper-neo-geo-support-sound-emulation/
+Skipping entry older than last_ts: https://readonlymemo.com/tengen-toppa-gurren-lagann-and-the-nintendo-dss-anime-game-treasure-trove/
+Skipping entry older than last_ts: https://readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/
+Skipping entry older than last_ts: https://readonlymemo.com/playdate-crankboy-emulator-interview/
+Skipping entry older than last_ts: https://readonlymemo.com/el-dorado-gate-fan-translation-interview/
+Skipping entry older than last_ts: https://readonlymemo.com/frame-of-preference-mac-emulation-tour/
+
+Processing feed: Mailvaltar https://mailvaltar.wordpress.com/feed/
+Picking entry: Reign of the Warlock – early thoughts https://mailvaltar.wordpress.com/2026/02/19/reign-of-the-warlock-early-thoughts/
+Fetching readable content for URL: https://mailvaltar.wordpress.com/2026/02/19/reign-of-the-warlock-early-thoughts/
+Fetched article length: 8404 characters
+Picked item: Reign of the Warlock – early thoughts from Mailvaltar
+Feed cap reached, stopping.
+
+Processing feed: A Pixel Nomad https://pixelnomad.ca/feed/
+Picking entry: [BDO] Guilty Pleasure Gaming (again) https://pixelnomad.ca/2026/02/19/bdo-guilty-pleasure-gaming-again/
+Fetching readable content for URL: https://pixelnomad.ca/2026/02/19/bdo-guilty-pleasure-gaming-again/
+Fetched article length: 1829 characters
+Picked item: [BDO] Guilty Pleasure Gaming (again) from A Pixel Nomad
 Feed cap reached, stopping.
 
 Processing feed: Tales of the Aggronaut https://aggronaut.com/feed/
-Picking entry: Sibling Time https://aggronaut.com/2026/02/18/sibling-time/
-Fetching readable content for URL: https://aggronaut.com/2026/02/18/sibling-time/
-Fetched article length: 7020 characters
-Picked item: Sibling Time from Tales of the Aggronaut
+Picking entry: Going North https://aggronaut.com/2026/02/19/going-north/
+Fetching readable content for URL: https://aggronaut.com/2026/02/19/going-north/
+Fetched article length: 5446 characters
+Picked item: Going North from Tales of the Aggronaut
 Feed cap reached, stopping.
 
-Processing feed: Tobold's Blog http://feeds2.feedburner.com/ToboldsBlog
-Picking entry: Working with cheap idiots http://tobolds.blogspot.com/2026/02/working-with-cheap-idiots.html
-Fetching readable content for URL: http://tobolds.blogspot.com/2026/02/working-with-cheap-idiots.html
-Fetched article length: 4615 characters
-Picked item: Working with cheap idiots from Tobold's Blog
-Feed cap reached, stopping.
-
-Processing feed: Bio Break http://biobreak.wordpress.com/feed/
-Picking entry: LOTRO: Even the game is telling me that this is ridiculous… https://biobreak.wordpress.com/2026/02/18/lotro-even-the-game-is-telling-me-that-this-is-ridiculous/
-Fetching readable content for URL: https://biobreak.wordpress.com/2026/02/18/lotro-even-the-game-is-telling-me-that-this-is-ridiculous/
-Fetched article length: 2282 characters
-Picked item: LOTRO: Even the game is telling me that this is ridiculous… from Bio Break
-Feed cap reached, stopping.
-
-Processing feed: Life on the Wicked Stage https://warnercrocker.com/feed/
-Picking entry: Blowing AI Smoke or Feeding The Fire https://warnercrocker.com/2026/02/18/blowing-ai-smoke-or-feeding-the-fire/
-Fetching readable content for URL: https://warnercrocker.com/2026/02/18/blowing-ai-smoke-or-feeding-the-fire/
-Fetched article length: 5722 characters
-Picked item: Blowing AI Smoke or Feeding The Fire from Life on the Wicked Stage
-Feed cap reached, stopping.
-
-Processing feed: Going Commando http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss
+Processing feed: Oya's Game Hub https://oyito.substack.com/feed
 Total cap reached, stopping.

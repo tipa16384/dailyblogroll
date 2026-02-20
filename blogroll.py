@@ -96,22 +96,35 @@ def fetch_readable(url, timeout=15, max_retries=5, debug_log=None):
         "User-Agent": "DailyBlogrollBot/1.0 (+https://chasingdings.com/)"  # slightly more legit
     }
 
-    for _ in range(max_retries):
+    rate_limit_retries = 0
+    max_rate_limit_retries = 10  # Be more patient with rate limiting
+    
+    for attempt in range(max_retries):
         r = requests.get(url, timeout=timeout, headers=headers)
         # if OK, break out and parse
         if r.status_code == 200:
             break
 
-        # rate-limited
+        # rate-limited - handle more aggressively
         if r.status_code == 429:
-            log(f"Rate limited when fetching {url}, retrying after delay.")
-            retry_after = r.headers.get("Retry-After")
-            if retry_after:
-                time.sleep(int(retry_after))
+            rate_limit_retries += 1
+            if rate_limit_retries <= max_rate_limit_retries:
+                retry_after = r.headers.get("Retry-After")
+                if retry_after:
+                    delay_time = int(retry_after)
+                    log(f"Rate limited when fetching {url}, retrying after {delay_time}s (server specified).")
+                else:
+                    # More conservative exponential backoff for rate limiting
+                    delay_time = min(delay, 300)  # Cap at 5 minutes
+                    log(f"Rate limited when fetching {url}, retrying after {delay_time}s (attempt {rate_limit_retries}/{max_rate_limit_retries}).")
+                    delay = min(delay * 1.5, 300)  # Slower growth, max 5min
+                
+                time.sleep(delay_time)
+                continue
             else:
-                time.sleep(delay)
-                delay *= 2
-            continue
+                log(f"Rate limiting persisted for {url} after {max_rate_limit_retries} attempts, giving up.")
+                # For rate limiting, raise a specific exception that can be handled differently
+                raise requests.exceptions.HTTPError(f"429 Rate Limited after {max_rate_limit_retries} retries", response=r)
 
         # transient upstream errors you might also want to retry
         if r.status_code in (502, 503, 504):
@@ -124,7 +137,7 @@ def fetch_readable(url, timeout=15, max_retries=5, debug_log=None):
         r.raise_for_status()
 
     else:
-        # loop exhausted
+        # loop exhausted (non-rate-limit retries)
         r.raise_for_status()
 
     # ---- your original parsing logic ----
@@ -219,8 +232,16 @@ def collect_new_items(cfg):
     random.shuffle(recent_feeds)
     random.shuffle(older_feeds)
     
-    # Process in priority order: required -> recent -> older
-    feed_list = required_feeds + recent_feeds + older_feeds
+    # Check if today is Friday (weekday 4)
+    is_friday = datetime.date.today().weekday() == 4
+    
+    # Process in priority order: required -> recent -> older (normally)
+    # On Fridays, swap recent and older to give older feeds more visibility
+    if is_friday:
+        debug_log.append("Friday detected: prioritizing older feeds over recent feeds")
+        feed_list = required_feeds + older_feeds + recent_feeds
+    else:
+        feed_list = required_feeds + recent_feeds + older_feeds
 
     group_seen = defaultdict(bool)
 
@@ -318,6 +339,17 @@ def collect_new_items(cfg):
                 pf_count += 1
                 if ts: max_seen_ts = max(max_seen_ts, ts)
                 time.sleep(0.3)
+            except requests.exceptions.HTTPError as err:
+                # Check if this was a rate limiting error
+                if hasattr(err, 'response') and err.response and err.response.status_code == 429:
+                    debug_log.append(f"Rate limiting prevented fetching {url}, will retry next run")
+                    # Remove from seen so it can be tried again next time
+                    con.execute("DELETE FROM seen WHERE feed=? AND guid=?", (feed_url, guid))
+                    con.commit()
+                else:
+                    debug_log.append(f"HTTP error processing entry: {err}")
+                # Continue to next entry
+                pass
             except Exception as err:
                 debug_log.append(f"Error processing entry: {err}")
                 # ignore this entry on error
