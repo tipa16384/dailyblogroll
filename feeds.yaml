@@ -283,7 +283,7 @@ feeds:
     bluesky: "@crazykinux.bsky.social"
     mastodon: "CrazyKinux"
     pronouns: he/him
-    required: True
+    required: False
   - name: Tofutush's Blog
     url: https://tofutush.github.io/feed.xml
     update_frequency: daily
@@ -510,6 +510,7 @@ feeds:
     category: Gaming
     blogger: Sey
     pronouns: he/him
+    required: True
   - name: Alexia Unplugged
     url: https://alexiaunplugged.com/feed/
     update_frequency: daily

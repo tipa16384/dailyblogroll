@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Test script for the new feed prioritization logic in collect_new_items function.
-This script tests the feed grouping and ordering without making network requests or API calls.
+Test script for the new two-tier feed prioritization logic in collect_new_items function.
+This script tests the feed grouping and ordering by selection history without making network requests or API calls.
 """
 
 import json
@@ -11,13 +11,13 @@ import tempfile
 import os
 from pathlib import Path
 from unittest.mock import patch, MagicMock
+import datetime
 
 # Import the function we want to test
 from blogroll import collect_new_items, load_state, save_state
 
 def setup_test_state():
     """Create test state data with some feeds having recent activity and others not."""
-    twenty_four_hours_ago = time.time() - (24 * 60 * 60)
     forty_eight_hours_ago = time.time() - (48 * 60 * 60)
     
     return {
@@ -29,30 +29,26 @@ def setup_test_state():
             "last_ts": int(time.time() - 6 * 60 * 60),  # Recent, and required
             "etag": "test-etag-req2"
         },
-        "https://recent-feed-1.com/feed.xml": {
-            "last_ts": int(time.time() - 12 * 60 * 60),  # 12 hours ago - recent
+        "https://never-selected-feed.com/feed.xml": {
+            "last_ts": int(time.time() - 12 * 60 * 60),  # Recent posts
             "etag": "test-etag-1"
         },
-        "https://recent-feed-2.com/feed.xml": {
-            "last_ts": int(twenty_four_hours_ago + 3600),  # 23 hours ago - recent
+        "https://long-wait-feed.com/feed.xml": {
+            "last_ts": int(time.time() - 18 * 60 * 60),  # Has posts
             "etag": "test-etag-2"
         },
-        "https://old-feed-1.com/feed.xml": {
-            "last_ts": int(forty_eight_hours_ago),  # 48 hours ago - old
+        "https://medium-wait-feed.com/feed.xml": {
+            "last_ts": int(forty_eight_hours_ago),  # Has posts
             "etag": "test-etag-3"
         },
-        "https://old-feed-2.com/feed.xml": {
-            "last_ts": int(forty_eight_hours_ago - 3600),  # 49 hours ago - old
+        "https://short-wait-feed.com/feed.xml": {
+            "last_ts": int(forty_eight_hours_ago - 3600),  # Has posts
             "etag": "test-etag-4"
-        },
-        "https://new-feed.com/feed.xml": {
-            # No last_ts - should be treated as old
-            "etag": "test-etag-5"
         }
     }
 
 def setup_test_config():
-    """Create test configuration with feeds that have different activity levels."""
+    """Create test configuration with feeds that have different selection histories."""
     return {
         "max_items_total": 10,
         "max_items_per_feed": 2,
@@ -72,29 +68,24 @@ def setup_test_config():
                 "category": "Gaming"
             },
             {
-                "name": "Recent Feed 1",
-                "url": "https://recent-feed-1.com/feed.xml",
+                "name": "Never Selected Feed",
+                "url": "https://never-selected-feed.com/feed.xml",
                 "category": "Tech"
             },
             {
-                "name": "Recent Feed 2", 
-                "url": "https://recent-feed-2.com/feed.xml",
+                "name": "Long Wait Feed", 
+                "url": "https://long-wait-feed.com/feed.xml",
                 "category": "Gaming"
             },
             {
-                "name": "Old Feed 1",
-                "url": "https://old-feed-1.com/feed.xml",
+                "name": "Medium Wait Feed",
+                "url": "https://medium-wait-feed.com/feed.xml",
                 "category": "Writing"
             },
             {
-                "name": "Old Feed 2",
-                "url": "https://old-feed-2.com/feed.xml", 
+                "name": "Short Wait Feed",
+                "url": "https://short-wait-feed.com/feed.xml", 
                 "category": "General"
-            },
-            {
-                "name": "New Feed",
-                "url": "https://new-feed.com/feed.xml",
-                "category": "Tech"
             },
             {
                 "name": "Skipped Feed",
@@ -105,91 +96,71 @@ def setup_test_config():
         ]
     }
 
+def setup_selection_history():
+    """Create mock selection history data - days since last selection."""
+    today = datetime.date.today()
+    return {
+        # Never Selected Feed has None (never selected)
+        "https://never-selected-feed.com/feed.xml": None,
+        # Long Wait Feed was selected 30 days ago
+        "https://long-wait-feed.com/feed.xml": 30,
+        # Medium Wait Feed was selected 15 days ago
+        "https://medium-wait-feed.com/feed.xml": 15,
+        # Short Wait Feed was selected 2 days ago
+        "https://short-wait-feed.com/feed.xml": 2,
+        # Required feeds have selection history but it doesn't matter for ordering
+        "https://required-feed-1.com/feed.xml": 5,
+        "https://required-feed-2.com/feed.xml": 10,
+    }
+
 def mock_feedparser_parse(url, etag=None):
-    """Mock feedparser.parse to return realistic feed data with recent activity for some feeds."""
+    """Mock feedparser.parse to return realistic feed data with recent entries for all feeds."""
     mock_result = MagicMock()
     
-    # Create different mock data based on feed URL to simulate variety
-    twenty_four_hours_ago = time.time() - (24 * 60 * 60)
     current_time = time.time()
     
-    if "recent-feed-1" in url:
-        # This feed has server modification time from 12 hours ago
-        modified_time = time.gmtime(current_time - 12 * 60 * 60)
-        mock_result.modified = modified_time
-        # And a recent entry from 10 hours ago
-        mock_entry = MagicMock()
-        mock_entry.published_parsed = time.gmtime(current_time - 10 * 60 * 60) 
-        mock_entry.id = "entry-1"
-        mock_entry.link = f"{url}/entry-1"
-        mock_entry.title = "Recent Post 1"
-        mock_result.entries = [mock_entry]
-    elif "recent-feed-2" in url:
-        # This feed has server modification time from 18 hours ago  
-        modified_time = time.gmtime(current_time - 18 * 60 * 60)
-        mock_result.modified = modified_time
-        # And a recent entry from 16 hours ago
-        mock_entry = MagicMock()
-        mock_entry.published_parsed = time.gmtime(current_time - 16 * 60 * 60)
-        mock_entry.id = "entry-2" 
-        mock_entry.link = f"{url}/entry-2"
-        mock_entry.title = "Recent Post 2"
-        mock_result.entries = [mock_entry]
-    elif "old-feed" in url or "new-feed" in url:
-        # These feeds have old modification times and old entries
-        modified_time = time.gmtime(current_time - 48 * 60 * 60)  # 48 hours ago
-        mock_result.modified = modified_time
-        # And old entries
-        mock_entry = MagicMock()
-        mock_entry.published_parsed = time.gmtime(current_time - 72 * 60 * 60)  # 72 hours ago
-        mock_entry.id = f"old-entry-{url[-10:]}"
-        mock_entry.link = f"{url}/old-entry"
-        mock_entry.title = "Old Post"
-        mock_result.entries = [mock_entry]
-    else:
-        # Required and other feeds - mix of recent and old
-        if "required-feed-1" in url:
-            # Required feed 1 - old but still prioritized
-            modified_time = time.gmtime(current_time - 36 * 60 * 60)
-            mock_result.modified = modified_time
-            mock_entry = MagicMock()
-            mock_entry.published_parsed = time.gmtime(current_time - 40 * 60 * 60)
-            mock_entry.id = "req-entry-1"
-            mock_entry.link = f"{url}/req-entry-1"
-            mock_entry.title = "Required Post 1"
-            mock_result.entries = [mock_entry]
-        elif "required-feed-2" in url:
-            # Required feed 2 - recent activity but would be prioritized anyway
-            modified_time = time.gmtime(current_time - 8 * 60 * 60)
-            mock_result.modified = modified_time  
-            mock_entry = MagicMock()
-            mock_entry.published_parsed = time.gmtime(current_time - 6 * 60 * 60)
-            mock_entry.id = "req-entry-2"
-            mock_entry.link = f"{url}/req-entry-2" 
-            mock_entry.title = "Required Post 2"
-            mock_result.entries = [mock_entry]
-        else:
-            # Default: no entries
-            mock_result.entries = []
-            mock_result.modified = None
+    # Give all feeds recent entries so we can test selection prioritization
+    mock_result.modified = time.gmtime(current_time - 4 * 60 * 60)  # Modified 4 hours ago
+    
+    # Create a recent entry for each feed
+    mock_entry = MagicMock()
+    mock_entry.published_parsed = time.gmtime(current_time - 2 * 60 * 60)  # Published 2 hours ago
+    mock_entry.id = f"entry-{hash(url) % 1000}"
+    mock_entry.link = f"{url}/entry"
+    mock_entry.title = f"Recent Post from {url}"
+    mock_result.entries = [mock_entry]
     
     mock_result.etag = f"new-etag-for-{url[-20:]}"
     return mock_result
 
-def mock_db():
-    """Mock database connection."""
+def mock_db_with_selection_history(selection_history):
+    """Mock database connection with selection history."""
     mock_con = MagicMock()
     mock_con.execute.return_value.fetchone.return_value = None  # Nothing seen before
-    return mock_con
+    
+    # Mock get_days_since_last_selection function
+    def mock_get_days_since_last_selection(con, feed_url):
+        return selection_history.get(feed_url, None)
+    
+    return mock_con, mock_get_days_since_last_selection
 
 def test_feed_prioritization():
-    """Test that feeds are properly grouped by recent activity."""
-    print("Testing feed prioritization logic...")
+    """Test that feeds are properly ordered: required first, then by selection history."""
+    print("Testing two-tier feed prioritization logic...")
     print("Setting up test data...")
     
     # Setup test data
     test_config = setup_test_config()
     test_state = setup_test_state()
+    selection_history = setup_selection_history()
+    
+    print("Selection history setup:")
+    for url, days in selection_history.items():
+        feed_name = next((f["name"] for f in test_config["feeds"] if f["url"] == url), "Unknown")
+        if days is None:
+            print(f"  {feed_name}: Never selected")
+        else:
+            print(f"  {feed_name}: {days} days since last selection")
     
     # Create temporary state file
     with tempfile.NamedTemporaryFile(mode='w', suffix='.json', delete=False) as f:
@@ -210,8 +181,13 @@ def test_feed_prioritization():
                     pass
             return MockFile()
         
+        mock_con, mock_get_days_func = mock_db_with_selection_history(selection_history)
+        
         with patch('blogroll.feedparser.parse', side_effect=mock_feedparser_parse), \
-             patch('blogroll.db', return_value=mock_db()), \
+             patch('blogroll.db', return_value=mock_con), \
+             patch('blogroll.get_days_since_last_selection', side_effect=mock_get_days_func), \
+             patch('blogroll.get_all_feed_selection_stats', return_value=[]), \
+             patch('blogroll.update_feed_selection'), \
              patch('blogroll.STATE_PATH', Path(temp_state_file)), \
              patch('blogroll.ROOT', Path.cwd()), \
              patch('builtins.open', side_effect=lambda filename, *args, **kwargs: 
@@ -220,86 +196,88 @@ def test_feed_prioritization():
                    else open(filename, *args, **kwargs)):
             
             # Call the function we're testing
-            print("Calling collect_new_items...")
+            print("\nCalling collect_new_items...")
             result = collect_new_items(test_config)
             
             print(f"Function returned {len(result)} items")
-            print("Debug log content:")
+            print("\nDebug log content:")
             for line in debug_log_lines:
-                if any(keyword in line for keyword in ['First pass:', 'Checked', 'Required feeds', 'Recent feeds', 'Older feeds', 'Processing feed:']):
+                if any(keyword in line for keyword in ['Required feeds', 'Other feeds', 'priority order', 'Processing feed:']):
                     print(f"  {line}")
             
             # Analyze the debug output to verify feed ordering
-            required_line = next((line for line in debug_log_lines if 'Required feeds' in line), None)
-            recent_line = next((line for line in debug_log_lines if 'Recent feeds (activity in last 24h)' in line), None)
-            older_line = next((line for line in debug_log_lines if 'Older feeds' in line), None)
+            required_line = next((line for line in debug_log_lines if 'Required feeds (always first)' in line), None)
+            other_line = next((line for line in debug_log_lines if 'Other feeds to be sorted' in line), None)
+            priority_lines = [line for line in debug_log_lines if 'Never selected' in line or ('days since last selection' in line and 'priority order' in debug_log_lines[debug_log_lines.index(line) - 3:debug_log_lines.index(line) + 1])]
             processing_lines = [line for line in debug_log_lines if 'Processing feed:' in line]
             
             if required_line:
                 print(f"\n✓ {required_line}")
-            if recent_line:
-                print(f"✓ {recent_line}")
-            if older_line:
-                print(f"✓ {older_line}")
+            if other_line:
+                print(f"✓ {other_line}")
+                
+            print(f"\n✓ Selection priority order:")
+            for line in priority_lines:
+                print(f"  {line}")
                 
             print(f"\n✓ Feed processing order:")
             for i, line in enumerate(processing_lines, 1):
                 feed_name = line.split('Processing feed: ')[1].split(' http')[0]
                 print(f"  {i}. {feed_name}")
             
-            # Verify three-tier ordering: required -> recent -> older
+            # Verify two-tier ordering: required -> other feeds by selection history
             required_feeds = ['Required Feed 1', 'Required Feed 2']
-            recent_feeds = ['Recent Feed 1', 'Recent Feed 2']
-            older_feeds = ['Old Feed 1', 'Old Feed 2', 'New Feed']
+            other_feeds_expected_order = [
+                'Never Selected Feed',      # Never selected (highest priority)
+                'Long Wait Feed',          # 30 days since last selection
+                'Medium Wait Feed',        # 15 days since last selection  
+                'Short Wait Feed'          # 2 days since last selection
+            ]
             
             required_positions = []
-            recent_positions = []
-            older_positions = []
+            other_positions = {}
             
             for i, line in enumerate(processing_lines):
                 for rf in required_feeds:
                     if rf in line:
                         required_positions.append(i)
-                for rf in recent_feeds:
-                    if rf in line:
-                        recent_positions.append(i)
-                for of in older_feeds:
+                for of in other_feeds_expected_order:
                     if of in line:
-                        older_positions.append(i)
+                        other_positions[of] = i
             
             # Verify ordering
             success = True
+            
+            # Check that required feeds come first
             if required_positions:
                 max_required = max(required_positions)
-                print(f"\n✓ Required feeds processed first (positions {[p+1 for p in required_positions]})")
+                print(f"\n✓ Required feeds processed in positions {[p+1 for p in required_positions]}")
                 
-                if recent_positions:
-                    min_recent = min(recent_positions)
-                    if max_required >= min_recent:
-                        print(f"✗ FAIL: Required feeds not before recent feeds")
+                if other_positions:
+                    min_other = min(other_positions.values())
+                    if max_required >= min_other:
+                        print(f"✗ FAIL: Required feeds not before other feeds")
                         success = False
                     else:
-                        print(f"✓ Required feeds before recent feeds")
-                        
-                if older_positions:
-                    min_older = min(older_positions)
-                    if max_required >= min_older:
-                        print(f"✗ FAIL: Required feeds not before older feeds")
-                        success = False
-                        
-            if recent_positions and older_positions:
-                max_recent = max(recent_positions)
-                min_older = min(older_positions)
-                if max_recent >= min_older:
-                    print(f"✗ FAIL: Recent feeds not before older feeds")
-                    success = False
+                        print(f"✓ Required feeds processed before other feeds")
+            
+            # Check that other feeds are in selection history order
+            other_feed_positions = [other_positions.get(feed, float('inf')) for feed in other_feeds_expected_order if feed in other_positions]
+            if len(other_feed_positions) > 1:
+                if other_feed_positions == sorted(other_feed_positions):
+                    print(f"✓ Other feeds processed in correct selection history order")
                 else:
-                    print(f"✓ Recent feeds before older feeds")
+                    print(f"✗ FAIL: Other feeds not in correct selection history order")
+                    print(f"  Expected order: {other_feeds_expected_order}")
+                    print(f"  Actual positions: {[(feed, other_positions.get(feed, 'Not found')) for feed in other_feeds_expected_order]}")
+                    success = False
                     
             if success:
-                print(f"\n✓ PASS: Three-tier ordering working correctly")
+                print(f"\n✓ PASS: Two-tier ordering by selection history working correctly")
             else:
                 print(f"\n✗ FAIL: Feed ordering incorrect")
+                
+            return success
     
     finally:
         # Clean up temp file - handle Windows file locking
@@ -310,9 +288,14 @@ def test_feed_prioritization():
 
 if __name__ == "__main__":
     try:
-        test_feed_prioritization()
-        print("Test completed successfully!")
+        success = test_feed_prioritization()
+        if success:
+            print("\n✓ Test completed successfully!")
+        else:
+            print("\n✗ Test FAILED!")
+            exit(1)
     except Exception as e:
-        print(f"Test failed with error: {e}")
+        print(f"\nTest failed with error: {e}")
         import traceback
         traceback.print_exc()
+        exit(1)

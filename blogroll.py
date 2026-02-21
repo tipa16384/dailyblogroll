@@ -69,6 +69,11 @@ def db():
         feed TEXT, guid TEXT, url TEXT, published TEXT, seen_at TEXT,
         PRIMARY KEY(feed, guid)
     )""")
+    con.execute("""CREATE TABLE IF NOT EXISTS feed_selections(
+        feed_url TEXT PRIMARY KEY,
+        last_selected_date TEXT,
+        selection_count INTEGER DEFAULT 0
+    )""")
     return con
 
 def mark_seen(con, feed, guid, url, published):
@@ -85,6 +90,50 @@ def mark_unseen(feed):
 
 def already_seen(con, feed, guid):
     return con.execute("SELECT 1 FROM seen WHERE feed=? AND guid=?", (feed, guid)).fetchone() is not None
+
+def update_feed_selection(con, feed_url, selected_date=None):
+    """Update the last selection date for a feed."""
+    if selected_date is None:
+        selected_date = datetime.date.today().isoformat()
+    
+    con.execute("""
+        INSERT OR REPLACE INTO feed_selections (feed_url, last_selected_date, selection_count)
+        VALUES (?, ?, COALESCE((SELECT selection_count FROM feed_selections WHERE feed_url = ?), 0) + 1)
+    """, (feed_url, selected_date, feed_url))
+    con.commit()
+
+def get_days_since_last_selection(con, feed_url):
+    """Get number of days since this feed was last selected. Returns None if never selected."""
+    result = con.execute(
+        "SELECT last_selected_date FROM feed_selections WHERE feed_url = ?", 
+        (feed_url,)
+    ).fetchone()
+    
+    if result is None:
+        return None
+        
+    last_date = datetime.datetime.strptime(result[0], "%Y-%m-%d").date()
+    today = datetime.date.today()
+    return (today - last_date).days
+
+def get_all_feed_selection_stats(con):
+    """Get selection statistics for all feeds."""
+    results = con.execute("""
+        SELECT feed_url, last_selected_date, selection_count,
+               julianday('now') - julianday(last_selected_date) as days_since
+        FROM feed_selections
+        ORDER BY days_since DESC
+    """).fetchall()
+    
+    stats = []
+    for row in results:
+        stats.append({
+            'feed_url': row[0],
+            'last_selected_date': row[1], 
+            'selection_count': row[2],
+            'days_since': int(row[3]) if row[3] is not None else None
+        })
+    return stats
 
 def fetch_readable(url, timeout=15, max_retries=5, debug_log=None):
     def log(msg):
@@ -209,39 +258,46 @@ def collect_new_items(cfg):
         feed_activity[feed_url] = (f, parsed, has_recent_activity)
         debug_log.append(f"Checked {f.get('name','')}: recent_activity={has_recent_activity}")
     
-    # Three-tier feed prioritization: required -> recent non-required -> older non-required  
+    # Two-tier feed prioritization: required -> all others sorted by days since last selection
     required_feeds = []    # Always processed first
-    recent_feeds = []      # Non-required feeds with activity in last 24 hours  
-    older_feeds = []       # Non-required feeds with older activity
+    other_feeds = []       # All non-required feeds
     
     for feed_url, (f, parsed, has_recent_activity) in feed_activity.items():
-        # Required feeds always get priority regardless of activity
+        # Required feeds always get priority regardless of activity or selection history
         if f.get("required", False):
             required_feeds.append((f, parsed))
-        elif has_recent_activity:
-            recent_feeds.append((f, parsed))
         else:
-            older_feeds.append((f, parsed))
+            other_feeds.append((f, parsed, feed_url))
     
     debug_log.append(f"Required feeds (always first): {[f.get('name','') for f, _ in required_feeds]}")
-    debug_log.append(f"Recent feeds (activity in last 24h): {[f.get('name','') for f, _ in recent_feeds]}")
-    debug_log.append(f"Older feeds: {[f.get('name','') for f, _ in older_feeds]}")
+    debug_log.append(f"Other feeds to be sorted by selection history: {[f.get('name','') for f, _, _ in other_feeds]}")
     
-    # Shuffle within each group to randomize order
+    # Shuffle required feeds to randomize order within that tier
     random.shuffle(required_feeds)
-    random.shuffle(recent_feeds)
-    random.shuffle(older_feeds)
     
-    # Check if today is Friday (weekday 4)
-    is_friday = datetime.date.today().weekday() == 4
+    # Sort other feeds by days since last selection (descending - longest waiting first)
+    # Feeds never selected get None and should be prioritized highest
+    def sort_key(feed_tuple):
+        f, parsed, feed_url = feed_tuple
+        days_since = get_days_since_last_selection(con, feed_url)
+        # Treat None (never selected) as infinitely long wait time
+        return days_since if days_since is not None else float('inf')
     
-    # Process in priority order: required -> recent -> older (normally)
-    # On Fridays, swap recent and older to give older feeds more visibility
-    if is_friday:
-        debug_log.append("Friday detected: prioritizing older feeds over recent feeds")
-        feed_list = required_feeds + older_feeds + recent_feeds
-    else:
-        feed_list = required_feeds + recent_feeds + older_feeds
+    other_feeds.sort(key=sort_key, reverse=True)
+    
+    debug_log.append("Feed selection priority order (other feeds):")
+    for f, parsed, feed_url in other_feeds[:10]:  # Show top 10 in debug
+        days_since = get_days_since_last_selection(con, feed_url)
+        if days_since is None:
+            debug_log.append(f"  {f.get('name','')}: Never selected")
+        else:
+            debug_log.append(f"  {f.get('name','')}: {days_since} days since last selection")
+    
+    # Convert other_feeds back to the format expected by the rest of the code
+    other_feeds = [(f, parsed) for f, parsed, feed_url in other_feeds]
+    
+    # Final feed processing order: required first, then by selection history
+    feed_list = required_feeds + other_feeds
 
     group_seen = defaultdict(bool)
 
@@ -359,12 +415,24 @@ def collect_new_items(cfg):
         # If no items were processed but the feed changed, keep last_ts as-is.
         st["last_ts"] = max_seen_ts
 
+        # Update feed selection tracking if any items were picked from this feed
+        if pf_count > 0:
+            update_feed_selection(con, feed_url)
+            debug_log.append(f"Updated selection tracking for {f.get('name', '')}")
+
         # persist after each feed to be crash-safe
         save_state(state)
 
-    # write debug log
+    # write debug log with selection statistics
+    debug_log.append("\n=== Feed Selection Statistics ===")
+    selection_stats = get_all_feed_selection_stats(con)
+    for stat in selection_stats[:10]:  # Show top 10 longest-waiting feeds
+        debug_log.append(f"{stat['feed_url']}: {stat['days_since']} days since last selection ({stat['selection_count']} total)")
+    
     with open(ROOT / "data" / "debug.log", "w", encoding="utf-8") as f:
         f.write("\n".join(debug_log) + "\n")
+    
+    con.close()
     return picked
 
 def call_model(items):
