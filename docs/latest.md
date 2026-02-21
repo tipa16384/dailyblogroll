@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-02-20
+# Daily Blogroll: 2026-02-21
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/02/19.html#a170319)** — Dave Winer riffs on Obama at the NBA All-Star game, ATProto vs RSS-land Markdown/HTML/OPML handling, the “podcasting is closed” YouTube panic, and remembering Aldus Pagemaker’s impact.
-- **[Axxuy](https://axxuy.xyz/blog/posts/2026/how-much-does-your-blog-cost/)** — Axxuy breaks down the real 2026 price of keeping a personal blog online—domain via Namecheap and self-managed Linode hosting—cheap as hobbies go, but a reminder the web isn’t free.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/02/all-your-base-slight-remaster/)** — Jamie Zawinski marks 25 years of “All Your Base Are Belong To Us” by running the original Flash SWF via Ruffle, then swapping in the original MP3 for a higher-fidelity remaster.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/19/diablo-ii-resurrected-reign-of-the-warlock/)** — Wilhelm digs into Diablo II Resurrected: Reign of the Warlock—new Warlock class, Chronicle collection tracking, and more player-controlled Terror Zones—while side-eyeing Blizzard’s packed release pile
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/02/back-in-my-day-conquest.html)** — Shintar looks back at how SWTOR’s Conquest evolved since patch 2.9—early UI, tougher objective scarcity, and that weird housing/guild flagship tie-in shaping how she plays week to week.
-- **[Margot Plays](https://margotplays.substack.com/p/reviews-lil-gator-game)** — Margot’s 3-minute-ish take on Lil Gator Game (played on Switch 2): a cozy, A Short Hike–ish sibling-and-friends adventure with surprisingly Zelda BOTW-like traversal that kept her smiling.
-- **[Sweetie Games](https://sweetie.games/2026/02/14/sonys-latest-controller/)** — Sweetie reacts to a Sony patent for a super-thin, all-touchscreen, no-buttons controller (maybe PS6), weighing customizable layouts against accessibility pitfalls, accidental presses, and a potential“
-- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/02/19/reign-of-the-warlock-early-thoughts/)** — Mailvaltar’s early Diablo II Resurrected: Reign of the Warlock thoughts: no new Act, sure, but the first new class since 2001 feels huge—especially Demon-tree summoning, teleporting minions, and Bind
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/02/19/bdo-guilty-pleasure-gaming-again/)** — Stargrace admits Black Desert Online is her comfort “guilty pleasure,” mostly played as an idle AFK fishing/selling loop for steady silver and progress—busy-life gaming vibes, no judgment.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/19/going-north/)** — Belghast pushes north in Dune Awakening into iron-tier crafting, sprints from sandworms, juggles water shortages and shielded bandits, and grumbles at how tightly the main quest forces his building.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-8-2026)** — Sey rounds up indie goodness: wishlist-worthy Demon Tides, a wildly overfunded Gun Nose Kickstarter, a surprise Neva DLC + Berlinist soundtrack, and Super Rare Games’ big art book.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/20/no-mans-sky-and-finishing-up-expedition-21-remnant-and-beyond/)** — Wilhelm wraps No Man’s Sky Expedition 21 (Remnant) with hard-earned Colossus trucking lessons—pack smart, avoid slopes, and pray the cargo doesn’t yeet itself into a ravine.
+- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/02/mewgenics-is-meowvelous.html)** — The Friendly Necromancer finally tries Mewgenics and comes away sold on its turn-based roguelike cat-breeding chaos, smart synergies, and ‘how is this so good?’ polish.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/20/goodbye-arakaali/)** — Belghast says farewell to his Path of Exile Phrecia 2.0 Arakaali minion build, speculates on the next league’s opaque teasers, and keeps tinkering in Dune Awakening toward buggies and cobalt.
+- **[Scopique](https://scopique.com/2026/02/20/star-trek-voyager-across-the-unknown/)** — Scopique cheers Star Trek Voyager – Across the Unknown for actually ‘getting’ Trek, blending show-driven narrative with tense resource-scanning, turn-by-turn travel where deuterium and food tick down.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/02/20/drowning-in-1980s-nostalgia-reptilian-rising-first-impressions/)** — Frostilyte, fresh off a rough illness streak, digs into the Reptilian Rising demo: vaporwave tactics with action-figure heroes vs talking dinosaurs, where turn timers push you to play aggressive.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/civilization-7-failed-test-of-time.html)** — Tobold argues Civilization VII’s unpopular three-era reset is getting quietly reversed in Spring 2026’s ‘Test of Time’ update—basically turning Civ 7 into a more Civ 6-like “7.5.”
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/02/20.html#a133137)** — Dave Winer points to an updated FeedLand Docker Compose for running locally, crowdsources OPML/feed-product news lists, and shares how he trained ChatGPT/Claude to indent code for his outliner.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html)** — Bruce Schneier drops a Friday Squid Blogging cartoon link and opens the floor for whatever security stories the community wants to hash out in the comments.
 ## General
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/02/17/keep-your-grubby-tentacles-off-my-id-humam-sakhnini/)** — Emily goes full rant mode on internet age-verification laws, arguing driver’s licenses and face scans wreck privacy and speech while still failing kids—plus real harms like blocking sex-ed and LGBTQ+支
-## Writing
-
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-02-17-what-boredom-means-to-me/)** — Anarchae reflects on boredom as almost physical pain, ADHD vibes, and how books, diaries, fanfic, LiveJournal roleplay, and early school broadband shaped their reading/writing (and probably kept them
+- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/02/20/2-20-2026-rites-of-spring/)** — Blockade85 feels winter finally cracking—longer days, Spring Training hope, and that annual pull back toward big Final Fantasy XI goals after surviving an Ohio freeze.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/umm-did-we-already-watch-this.html)** — Bhagpuss vents about streaming rights roulette (hello, Lucifer and Roswell New Mexico) and wonders if buying DVDs again makes more sense—especially with Gen Z fuelling a physical-media comeback.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/02/21/going-to-candyland/)** — Emily answers the big question—favorite candy—by staking out Team Chocolate, with Lindt Lindor, Nestle Crunch, and Cadbury Mini Eggs leading the pack (plus occasional dark chocolate compromises).
