@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-02-21
+# Daily Blogroll: 2026-02-22
 
 ## Gaming
 
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-8-2026)** — Sey rounds up indie goodness: wishlist-worthy Demon Tides, a wildly overfunded Gun Nose Kickstarter, a surprise Neva DLC + Berlinist soundtrack, and Super Rare Games’ big art book.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/20/no-mans-sky-and-finishing-up-expedition-21-remnant-and-beyond/)** — Wilhelm wraps No Man’s Sky Expedition 21 (Remnant) with hard-earned Colossus trucking lessons—pack smart, avoid slopes, and pray the cargo doesn’t yeet itself into a ravine.
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/02/mewgenics-is-meowvelous.html)** — The Friendly Necromancer finally tries Mewgenics and comes away sold on its turn-based roguelike cat-breeding chaos, smart synergies, and ‘how is this so good?’ polish.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/20/goodbye-arakaali/)** — Belghast says farewell to his Path of Exile Phrecia 2.0 Arakaali minion build, speculates on the next league’s opaque teasers, and keeps tinkering in Dune Awakening toward buggies and cobalt.
-- **[Scopique](https://scopique.com/2026/02/20/star-trek-voyager-across-the-unknown/)** — Scopique cheers Star Trek Voyager – Across the Unknown for actually ‘getting’ Trek, blending show-driven narrative with tense resource-scanning, turn-by-turn travel where deuterium and food tick down.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/02/20/drowning-in-1980s-nostalgia-reptilian-rising-first-impressions/)** — Frostilyte, fresh off a rough illness streak, digs into the Reptilian Rising demo: vaporwave tactics with action-figure heroes vs talking dinosaurs, where turn timers push you to play aggressive.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/civilization-7-failed-test-of-time.html)** — Tobold argues Civilization VII’s unpopular three-era reset is getting quietly reversed in Spring 2026’s ‘Test of Time’ update—basically turning Civ 7 into a more Civ 6-like “7.5.”
+- **[Chasing Dings!](https://chasingdings.com/2026/02/21/why-isnt-miniatures-gaming-more-popular/)** — Tipa digs into why miniatures gaming (Frosthaven, Malifaux, even WH40K vibes) feels so niche: social anxiety, opacity, and that hefty up-front minis investment.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/21/winter-coalition-changing-to-defensive-stance/)** — Wilhelm breaks down EVE Online’s WinterCo pausing its offensive versus INIT, shifting to defense as Goons poke Geminate, and calls out the bloc-math spin with DOTLAN numbers.
+- **[Bio Break](https://biobreak.wordpress.com/2026/02/20/wow-classic-no-pressure-no-rush/)** — Syp plays WoW Classic Anniversary at his own pace—still level 34 while everyone hits Outland—embracing a chill Shaman journey, lively Stormwind, and a love/hate trudge through Stranglethorn.
+- **[In An Age](https://inanage.com/2026/02/20/impressions-mewgenics/)** — Azuriel is 30 hours deep into Mewgenics, praising its crude McMillen charm and busted combos while warning the tactical roguelite cat-breeding loop is brutal, punishes mistakes, and even hates save-sc
+- **[Indiecator](https://indiecator.org/2026/02/20/cash-cleaner-simulator-review/)** — Magi reviews Cash Cleaner Simulator, a cozy-satirical job sim where you’re kidnapped into literally laundering cash—sorting denominations, spotting counterfeits, cleaning gunk, and upgrading gear as a
+- **[Virtual Moose](https://virtualmoose.org/2026/02/21/a-brief-history-of-gobliiins/)** — Michael celebrates Gobliiins 6 by tracing the weird French point-and-click series back to 1991, its switch-between-goblins puzzle format, and the Pierre Gilhodes/Muriel Tramis legacy.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/02/20/super-mario-land-there-aint-no-place-like-super-mario-land/)** — Kimimi revisits Super Mario Land on Game Boy and argues its oddball vibes are intentional—superballs, weird enemies and worlds, surprisingly lush details, and a challenge ramp that gets real fast.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/02/20.html#a133137)** — Dave Winer points to an updated FeedLand Docker Compose for running locally, crowdsources OPML/feed-product news lists, and shares how he trained ChatGPT/Claude to indent code for his outliner.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html)** — Bruce Schneier drops a Friday Squid Blogging cartoon link and opens the floor for whatever security stories the community wants to hash out in the comments.
+- **[Scripting News](http://scripting.com/2026/02/21.html#a201247)** — Dave Winer drops a new podcast about losing his Twitter account, then riffs on vibe coding codebase rewrites, how to run polls without Twitter, and being deeply over the snow.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/02/16/GenAI-and-OSS-opinion)** — Tim Bray wrestles with using GenAI on his open-source Quamina project—after some happy Claude-assisted PRs—while still arguing the broader LLM industry’s incentives are grim.
 ## General
 
-- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/02/20/2-20-2026-rites-of-spring/)** — Blockade85 feels winter finally cracking—longer days, Spring Training hope, and that annual pull back toward big Final Fantasy XI goals after surviving an Ohio freeze.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/umm-did-we-already-watch-this.html)** — Bhagpuss vents about streaming rights roulette (hello, Lucifer and Roswell New Mexico) and wonders if buying DVDs again makes more sense—especially with Gen Z fuelling a physical-media comeback.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/02/21/going-to-candyland/)** — Emily answers the big question—favorite candy—by staking out Team Chocolate, with Lindt Lindor, Nestle Crunch, and Cadbury Mini Eggs leading the pack (plus occasional dark chocolate compromises).
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/02/how-to-get-out-of-jury-duty/)** — Jamie Zawinski highlights an SF jury pool getting slashed as potential jurors aired intense anti–Elon Musk feelings, including “existence of billionaires” objections and Twitter-moderation beef.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/21/nerd-nostalgia-and-fading-fundamentals/)** — Warner reminisces about learning slide rules and old-school drafting for theatre design, appreciates software’s speed, and wonders how the next wave of AI might replace even more hands-on fundamentals
+## Writing
+
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/02/on-writing-wow-blog-in-2026.html)** — Shintar reflects on blogging about World of Warcraft from Wrath to WoW Classic, missing the old link-and-response community, and digging into Google indexing and which posts still pull clicks.
