@@ -32,7 +32,7 @@ CFG_PATH = "feeds.yaml"
 BLOG_TEMPLATE = "newspapertemplate.html"
 
 SYSTEM = """You are compiling a 'Daily Blogroll'—a terse, link-heavy roundup.
-Style: one sentence per item (max ~30 words), credit the blog by name, add a quick take in a casual, conversational but concise manner.
+Style: one sentence per item (max ~25 words), credit the blog by name, add a quick take in a casual, conversational but concise manner.
 Do not invent facts or quotes; stay within provided excerpts. You are given a suggested category per blog, but can override it if you feel another fits better, as the
 author might have changed focus. Categories are: Gaming, Tech, Writing, General. Do not mention the source, title, url or category in the one-liner. You may
 refer to the author by name if given. If the post mentions a certain game, technology, or other subject, make sure to mention that in the one-liner.
@@ -466,7 +466,7 @@ def call_model(items):
                     "type": "input_text",
                     "text": (
                         f"Date: {today}. Create one-liners for these posts. "
-                        "Keep each line under ~30 words. Do not include the URL "
+                        "Keep each line under ~25 words. Do not include the URL "
                         "in the one-liner; it will be added automatically. "
                         "If the author name is given, use that instead of the "
                         "blog name when referring to the author of the blog "
