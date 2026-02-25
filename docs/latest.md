@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-02-24
+# Daily Blogroll: 2026-02-25
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/02/23.html#a163300)** — Dave Winer chronicles an easier-than-hyped snow day, plugs a web/evolution essay and an AI-for-customer-service podcast, and yes, really simple ravioli.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/23/meta-horizon-worlds-moving-to-mobile-like-it-is-2018/)** — Wilhelm dunks on Zuckerberg’s metaverse obsession as Meta Horizon Worlds heads to mobile, framing it as a costly, luck-driven “second act” chase.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html)** — Bruce Schneier flags research showing server-side control can undermine cloud password managers (especially recovery/sharing), and pitches Password Safe for no-cloud, no-recovery encryption.
-## General
-
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/2/23/the-paranormal)** — Roger lays out why paranormal research is a mess—sensationalism, religion, conspiracies, and charlatans—then argues even “ghosts” needs a usable definition first.
+- **[Scripting News](http://scripting.com/2026/02/24/140424.html?title=reallySimpleLanguagesFromAi)** — Dave Winer argues AI “agents” are basically server software, and wishes for a Really Simple Language so you can write servers in plain English.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/02/cocaine/)** — Jamie Zawinski reframes AI hype by swapping in “cocaine,” using the productivity-and-value argument to highlight how weird the booster logic sounds.
 ## Gaming
 
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/02/23/wow-gold-making-week-8-2026/)** — Stargrace’s WoW goldmaking week: ~3M gold, pets slumping while transmog and recipes sell, and a steady “older items” strategy heading toward Midnight.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/02/new-eden-banter-prompt-neb-1-eve.html)** — CrazyKinux launches “New Eden Banter” with a March 2 prompt: why EVE Online is still thriving after two decades, and how to join the roundup.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/02/24/everholm-2-0/)** — Luna spotlights Everholm’s 2.0 update (out Feb 19), what she hopes it fixes—especially NPC depth—and includes a short Q&A with Mike from Chonky Loaf.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/02/24/snf-picks-feb-26/)** — Krista rounds up cozy-leaning Steam Next Fest demos to wishlist, from seafaring farming in Collectors Cove to Duck Side of the Moon and more.
-- **[Quarter Circle Forward](https://quartercircleforward.blog/2026/02/24/i-love-the-stupid-virtual-boy-thing/)** — Andrew defends his love for Nintendo’s Virtual Boy, gets hyped for Switch Online’s Virtual Boy library, and grudgingly buys the pricey replica headset.
-- **[Scopique](https://scopique.com/2026/02/23/steam-next-fest-feb-2026-spacecraft/)** — Scopique tries SpaceCraft’s Steam Next Fest demo: start in debt, mine planets, refine and craft ship parts, and tinker with modular components over a long tutorial.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/02/23/my-growing-fascination-with-vertical-villages/)** — Frostilyte argues Blighttown (Dark Souls) rules actually, then connects that love of cliffside vertical architecture to mountain-settlement building in Whiskerwood.
-- **[Bio Break](https://biobreak.wordpress.com/2026/02/23/world-of-warcraft-the-war-within-goodbye-tour/)** — Syp decorates a WoW bookshop café, runs delves on a warlock for gear and housing XP, and readies for Midnight while his wife returns post-Dragonflight.
+- **[Chasing Dings!](https://chasingdings.com/2026/02/24/star-trek-voyager-across-the-unknown/)** — Tipa says Star Trek Voyager: Across the Unknown finally feels like real Trek, remixing show plot beats with choice-driven crew “heroes” and base-repair management.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/24/no-mans-sky-remnant-the-furnace-and-the-final-colossus-upgrades/)** — Wilhelm chases No Man’s Sky Remnant goals, grinding scrap disposal and dozer-smashing until the Colossus exocraft’s furnace chassis finally unlocks.
+- **[Aywren's Nook](https://aywren.com/2026/02/24/review-donttouch-the-snail)** — Aywren reviews Don’t Touch the Snail, an idle desktop overlay where permadeath is truly permanent—let the snail touch your cursor and you’re locked out forever.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/02/1989-in-context)** — Andrew Plotkin digs into “Learning ZIL” and shows those snarky “Stu should write this” notes make sense in the May 1989 Infocom shutdown context.
+- **[Indiecator](https://indiecator.org/2026/02/23/grimshire-early-access-review/)** — Magi reviews Grimshire’s cozy-looking farming sim veneer over plague survival, where crop choices, animal traits, and limited skill picks are all about feeding the village.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/02/the-wod-classic-question.html)** — Shintar weighs the pros and cons of Warlords of Draenor Classic—easy for Blizzard, still-populated Classic realms, but a reputation problem for WoD.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/02/23/everblue-2-our-incredible-beautiful-deadly-oceans/)** — Kimimi explores Everblue 2’s sunny dolphin-photo charm contrasted with claustrophobic wreck dives, currents and light, and a constant “respect the ocean or die” vibe.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/24/two-minutes-to-midnight/)** — Belghast falls back into World of Warcraft via the Valentine’s event and housing curiosity, then dives into transmog raid runs and Auction House selling with TSM.
+## General
+
+- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/02/24/unexpected-solar-powered-borehole-update/)** — Cliffski shares fast progress pics on the solar-powered borehole project in Cameroon—dry season urgency, drilling rig on-site, and the water-tower framework already going up.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/24/choices/)** — Warner Crocker notes the U.S. president gave a speech, but they chose to spend the night watching Shakespeare instead.
