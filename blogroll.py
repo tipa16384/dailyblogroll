@@ -1,4 +1,4 @@
-import os, sqlite3, textwrap, json, datetime, time
+import os, textwrap, json, datetime, time
 from urllib.parse import urlparse
 import requests, feedparser, yaml
 from readability import Document
@@ -13,6 +13,8 @@ import re
 from feedgen.feed import FeedGenerator
 from bs4 import BeautifulSoup
 from collections import defaultdict
+from settings import *
+import db
 
     
 env = Environment(
@@ -20,120 +22,9 @@ env = Environment(
     autoescape=select_autoescape()
 )
 
-ROOT = Path(__file__).parent
-STATE_PATH = ROOT / "data" / "state.json"
 STATE_PATH.parent.mkdir(parents=True, exist_ok=True)
 if not STATE_PATH.exists(): STATE_PATH.write_text("{}", encoding="utf-8")
-BLOGROLLS_DIR = ROOT / "docs"
 BLOGROLLS_DIR.mkdir(parents=True, exist_ok=True)
-
-DB_PATH = "blogroll.db"
-CFG_PATH = "feeds.yaml"
-BLOG_TEMPLATE = "newspapertemplate.html"
-
-SYSTEM = """You are compiling a 'Daily Blogroll'—a terse, link-heavy roundup.
-Style: one sentence per item (max ~25 words), credit the blog by name, add a quick take in a casual, conversational but concise manner.
-Do not invent facts or quotes; stay within provided excerpts. You are given a suggested category per blog, but can override it if you feel another fits better, as the
-author might have changed focus. Categories are: Gaming, Tech, Writing, General. Do not mention the source, title, url or category in the one-liner. You may
-refer to the author by name if given. If the post mentions a certain game, technology, or other subject, make sure to mention that in the one-liner.
-If the post covers many different games, books, characters or other subjects, have the one-liner refer to the gist rather than one specific item.
-Return JSON with an array 'items': [{source, title, url, one_liner, category}].
-"""
-
-SCHEMA = {
-  "type": "object",
-  "properties": {
-    "items": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "source": {"type": "string"},
-          "title":  {"type": "string"},
-          "url":    {"type": "string"},
-          "one_liner": {"type": "string", "maxLength": 200},
-          "category": {"type": "string"}
-        },
-        "required": ["source", "url", "one_liner", "title", "category"],
-        "additionalProperties": False
-      }
-    }
-  },
-  "required": ["items"],
-  "additionalProperties": False
-}
-
-def db():
-    con = sqlite3.connect(DB_PATH)
-    con.execute("""CREATE TABLE IF NOT EXISTS seen(
-        feed TEXT, guid TEXT, url TEXT, published TEXT, seen_at TEXT,
-        PRIMARY KEY(feed, guid)
-    )""")
-    con.execute("""CREATE TABLE IF NOT EXISTS feed_selections(
-        feed_url TEXT PRIMARY KEY,
-        last_selected_date TEXT,
-        selection_count INTEGER DEFAULT 0
-    )""")
-    return con
-
-def mark_seen(con, feed, guid, url, published):
-    con.execute("INSERT OR IGNORE INTO seen(feed,guid,url,published,seen_at) VALUES(?,?,?,?,datetime('now'))",
-                (feed, guid, url, published))
-    con.commit()
-
-def mark_unseen(feed):
-    """Delete all seen records for a given feed."""
-    con = db()
-    con.execute("DELETE FROM seen WHERE feed=?", (feed,))
-    con.commit()
-    con.close()
-
-def already_seen(con, feed, guid):
-    return con.execute("SELECT 1 FROM seen WHERE feed=? AND guid=?", (feed, guid)).fetchone() is not None
-
-def update_feed_selection(con, feed_url, selected_date=None):
-    """Update the last selection date for a feed."""
-    if selected_date is None:
-        selected_date = datetime.date.today().isoformat()
-    
-    con.execute("""
-        INSERT OR REPLACE INTO feed_selections (feed_url, last_selected_date, selection_count)
-        VALUES (?, ?, COALESCE((SELECT selection_count FROM feed_selections WHERE feed_url = ?), 0) + 1)
-    """, (feed_url, selected_date, feed_url))
-    con.commit()
-
-def get_days_since_last_selection(con, feed_url):
-    """Get number of days since this feed was last selected. Returns None if never selected."""
-    result = con.execute(
-        "SELECT last_selected_date FROM feed_selections WHERE feed_url = ?", 
-        (feed_url,)
-    ).fetchone()
-    
-    if result is None:
-        return None
-        
-    last_date = datetime.datetime.strptime(result[0], "%Y-%m-%d").date()
-    today = datetime.date.today()
-    return (today - last_date).days
-
-def get_all_feed_selection_stats(con):
-    """Get selection statistics for all feeds."""
-    results = con.execute("""
-        SELECT feed_url, last_selected_date, selection_count,
-               julianday('now') - julianday(last_selected_date) as days_since
-        FROM feed_selections
-        ORDER BY days_since DESC
-    """).fetchall()
-    
-    stats = []
-    for row in results:
-        stats.append({
-            'feed_url': row[0],
-            'last_selected_date': row[1], 
-            'selection_count': row[2],
-            'days_since': int(row[3]) if row[3] is not None else None
-        })
-    return stats
 
 def fetch_readable(url, timeout=15, max_retries=5, debug_log=None):
     def log(msg):
@@ -208,7 +99,6 @@ def load_cfg():
 def collect_new_items(cfg):
     debug_log = []
 
-    con = db()  # if you still use SQLite "seen" — keep it; helpful when timestamps are missing
     state = load_state()
     picked = []
 
@@ -279,7 +169,7 @@ def collect_new_items(cfg):
     # Feeds never selected get None and should be prioritized highest
     def sort_key(feed_tuple):
         f, parsed, feed_url = feed_tuple
-        days_since = get_days_since_last_selection(con, feed_url)
+        days_since = db.get_days_since_last_selection(feed_url)
         # Treat None (never selected) as infinitely long wait time
         return days_since if days_since is not None else float('inf')
     
@@ -287,7 +177,7 @@ def collect_new_items(cfg):
     
     debug_log.append("Feed selection priority order (other feeds):")
     for f, parsed, feed_url in other_feeds[:10]:  # Show top 10 in debug
-        days_since = get_days_since_last_selection(con, feed_url)
+        days_since = db.get_days_since_last_selection(feed_url)
         if days_since is None:
             debug_log.append(f"  {f.get('name','')}: Never selected")
         else:
@@ -346,7 +236,7 @@ def collect_new_items(cfg):
                 continue
 
             # (Optional) also keep your existing GUID-based de-dup:
-            if already_seen(con, feed_url, guid):
+            if db.already_seen(feed_url, guid):
                 debug_log.append(f"Skipping already seen entry: {url}")
                 continue
 
@@ -363,7 +253,7 @@ def collect_new_items(cfg):
             published = getattr(e, "published", "") or getattr(e, "updated", "")
 
             # Mark seen early so a later crash won't re-queue it
-            mark_seen(con, feed_url, guid, url, published)
+            db.mark_seen(feed_url, guid, url, published)
 
             # Fetch readable content
             try:
@@ -400,8 +290,7 @@ def collect_new_items(cfg):
                 if hasattr(err, 'response') and err.response and err.response.status_code == 429:
                     debug_log.append(f"Rate limiting prevented fetching {url}, will retry next run")
                     # Remove from seen so it can be tried again next time
-                    con.execute("DELETE FROM seen WHERE feed=? AND guid=?", (feed_url, guid))
-                    con.commit()
+                    db.mark_unseen(feed_url)  # Remove all seen records for this feed
                 else:
                     debug_log.append(f"HTTP error processing entry: {err}")
                 # Continue to next entry
@@ -417,7 +306,7 @@ def collect_new_items(cfg):
 
         # Update feed selection tracking if any items were picked from this feed
         if pf_count > 0:
-            update_feed_selection(con, feed_url)
+            db.update_feed_selection(feed_url)
             debug_log.append(f"Updated selection tracking for {f.get('name', '')}")
 
         # persist after each feed to be crash-safe
@@ -425,14 +314,13 @@ def collect_new_items(cfg):
 
     # write debug log with selection statistics
     debug_log.append("\n=== Feed Selection Statistics ===")
-    selection_stats = get_all_feed_selection_stats(con)
+    selection_stats = db.get_all_feed_selection_stats()
     for stat in selection_stats[:10]:  # Show top 10 longest-waiting feeds
         debug_log.append(f"{stat['feed_url']}: {stat['days_since']} days since last selection ({stat['selection_count']} total)")
     
     with open(ROOT / "data" / "debug.log", "w", encoding="utf-8") as f:
         f.write("\n".join(debug_log) + "\n")
     
-    con.close()
     return picked
 
 def call_model(items):
@@ -446,7 +334,6 @@ def call_model(items):
         chunks.append(textwrap.dedent(f"""
         SOURCE: {it['source']}
         TITLE: {it['title']}
-        URL: {it['url']}
         PUBLISHED: {it['published']}
         AUTHOR: {it['author']}
         CATEGORY: {it['category']}
@@ -466,8 +353,7 @@ def call_model(items):
                     "type": "input_text",
                     "text": (
                         f"Date: {today}. Create one-liners for these posts. "
-                        "Keep each line under ~25 words. Do not include the URL "
-                        "in the one-liner; it will be added automatically. "
+                        "Keep each line under ~25 words. "
                         "If the author name is given, use that instead of the "
                         "blog name when referring to the author of the blog "
                         "within the one-liner. The category should be your "
@@ -503,7 +389,29 @@ def call_model(items):
             f.write(raw if "raw" in locals() else str(resp))
         return []
 
-    return data["items"]
+    # Merge original URLs back into GPT response by matching source + title
+    gpt_items = data["items"]
+    merged_items = []
+    
+    for gpt_item in gpt_items:
+        # Find matching original item by source and title
+        original_item = None
+        for orig in items:
+            if (orig["source"].lower() == gpt_item["source"].lower() and 
+                orig["title"].lower() == gpt_item["title"].lower()):
+                original_item = orig
+                break
+        
+        if original_item:
+            # Merge GPT response with original URL
+            merged_item = gpt_item.copy()
+            merged_item["url"] = original_item["url"]
+            merged_items.append(merged_item)
+        else:
+            # Fallback: if no match found, skip this item or log warning
+            print(f"Warning: Could not match GPT item {gpt_item['source']} - {gpt_item['title']} with original")
+    
+    return merged_items
 
 def find_previous_blogroll():
     # recursively find the filenames of all the daily blogrolls at this level or lower
@@ -772,10 +680,10 @@ def string_to_hash(s):
 
 def make_feed():
     fg = FeedGenerator()
-    fg.id('http://westkarana.xyz/rss.xml')
+    fg.id(f'http://{SITE_HOST}/rss.xml')
     fg.title('Daily Blogroll')
-    fg.author({'name': 'Tipa', 'email': 'brendahol@gmail.com'})
-    fg.link(href='http://westkarana.xyz', rel='alternate')
+    fg.author({'name': 'Tipa', 'email': AUTHOR_EMAIL})
+    fg.link(href=f'http://{SITE_HOST}', rel='alternate')
     fg.description('Daily Blogroll, now in XML!')
     fg.language('en')
 
@@ -792,9 +700,9 @@ def make_feed():
             soup = BeautifulSoup(html_content, 'html.parser')
             title = soup.title.string if soup.title else f"Blogroll for {date_str}"
             relative_path = Path(blogs).relative_to(BLOGROLLS_DIR)
-            fe.id(f"https://westkarana.xyz/{relative_path}")
+            fe.id(f"https://{SITE_HOST}/{relative_path}")
             fe.title(title)
-            fe.link(href=f"https://westkarana.xyz/{relative_path}", rel='alternate')
+            fe.link(href=f"https://{SITE_HOST}/{relative_path}", rel='alternate')
             fe.pubDate(pubDate=f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}T00:00:00Z") # Use the date from the filename
 
             # get a list of all the "div.feed-element" elements

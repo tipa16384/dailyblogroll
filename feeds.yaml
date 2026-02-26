@@ -523,3 +523,9 @@ feeds:
     category: Gaming
     blogger: Oya
     pronouns: she/her
+  - name: Sid's Blog
+    url: https://0xsid.com/blog/rss.xml
+    update_frequency: daily
+    category: Tech
+    blogger: Sid
+    pronouns: he/him

@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-02-25
+# Daily Blogroll: 2026-02-26
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/02/24/140424.html?title=reallySimpleLanguagesFromAi)** — Dave Winer argues AI “agents” are basically server software, and wishes for a Really Simple Language so you can write servers in plain English.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/02/cocaine/)** — Jamie Zawinski reframes AI hype by swapping in “cocaine,” using the productivity-and-value argument to highlight how weird the booster logic sounds.
+- **[Scripting News](http://scripting.com/2026/02/25.html#a020315)** — Dave Winer riffs on Wikipedia + AI merging, job-displacement déjà vu from the web’s early days, and a new Alysa Liu header graphic.
+- **[Sid's Blog](https://0xsid.com/blog/online-tld-is-pain)** — Sid’s bargain .online domain turns into a mess—Google Safe Search flags it, DNS goes empty under serverHold—until a fast un-blacklisting brings it back.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html)** — Bruce Schneier highlights how trivially AI training data can be poisoned with a fake webpage—then warns that untrustworthy chatbots will still be widely trusted.
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2026/02/24/star-trek-voyager-across-the-unknown/)** — Tipa says Star Trek Voyager: Across the Unknown finally feels like real Trek, remixing show plot beats with choice-driven crew “heroes” and base-repair management.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/24/no-mans-sky-remnant-the-furnace-and-the-final-colossus-upgrades/)** — Wilhelm chases No Man’s Sky Remnant goals, grinding scrap disposal and dozer-smashing until the Colossus exocraft’s furnace chassis finally unlocks.
-- **[Aywren's Nook](https://aywren.com/2026/02/24/review-donttouch-the-snail)** — Aywren reviews Don’t Touch the Snail, an idle desktop overlay where permadeath is truly permanent—let the snail touch your cursor and you’re locked out forever.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/02/1989-in-context)** — Andrew Plotkin digs into “Learning ZIL” and shows those snarky “Stu should write this” notes make sense in the May 1989 Infocom shutdown context.
-- **[Indiecator](https://indiecator.org/2026/02/23/grimshire-early-access-review/)** — Magi reviews Grimshire’s cozy-looking farming sim veneer over plague survival, where crop choices, animal traits, and limited skill picks are all about feeding the village.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/02/the-wod-classic-question.html)** — Shintar weighs the pros and cons of Warlords of Draenor Classic—easy for Blizzard, still-populated Classic realms, but a reputation problem for WoD.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/02/23/everblue-2-our-incredible-beautiful-deadly-oceans/)** — Kimimi explores Everblue 2’s sunny dolphin-photo charm contrasted with claustrophobic wreck dives, currents and light, and a constant “respect the ocean or die” vibe.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/24/two-minutes-to-midnight/)** — Belghast falls back into World of Warcraft via the Valentine’s event and housing curiosity, then dives into transmog raid runs and Auction House selling with TSM.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/25/guild-wars-and-arriving-at-the-gates-of-kryta/)** — Wilhelm returns to Guild Wars Reforged, redoes Borlis Pass smarter, then stumbles into Frost Gate navigation woes and a hate-list for Dolyak Riders.
+- **[West Karana](https://westkarana.blog/2026/02/25/shitty-kickstarter-the-nexus-cube-not-a-cube/)** — Tipa side-eyes the Nexus Cube “infinity dice” Kickstarter—shifting claims, sus photos, and titanium math that doesn’t add up—then orders a fidget clone.
+- **[Sweetie Games](https://sweetie.games/2026/02/25/how-can-i-try-out-new-game-genres/)** — Sweetie wants to branch into new genres without AAA sticker shock, leaning on retro PS2 finds, emulation, indies, and generous demos like FFXIV and Deltarune.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/ride-your-pony-equinox-homecoming-demo.html)** — Bhagpuss digs the Equinox Homecoming “horse mystery” MMORPG demo—pretty island, solid performance, comfy character creation—though the game insists on calling you Alex.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/02/25/metal-hellsinger-voice-of-the-unknown/)** — Emily recommends Metal: Hellsinger for DOOM-style stress relief—rhythm-based demon slaying, Fury-driven music, and accessibility options—despite a story that feels thin.
+- **[Scopique](https://scopique.com/2026/02/25/steam-next-fest-feb-2026-dverghold/)** — Scopique tries Dverghold’s modern dungeon-crawler demo and bounces off brutal first-room enemy swarms, clunky UI, and a vibe tuned for the Souls-like crowd.
+- **[Bio Break](https://biobreak.wordpress.com/2026/02/25/lotro-lazing-about-with-my-lore-master/)** — Syp takes a LOTRO breather with a level 21 Lore-master in Cardolan, enjoying newer questing and rewards while wishing for better navigation—climbing and little boats, please.
 ## General
 
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/02/24/unexpected-solar-powered-borehole-update/)** — Cliffski shares fast progress pics on the solar-powered borehole project in Cameroon—dry season urgency, drilling rig on-site, and the water-tower framework already going up.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/24/choices/)** — Warner Crocker notes the U.S. president gave a speech, but they chose to spend the night watching Shakespeare instead.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/avocado-toast-instead-of-houses.html)** — Tobold compares Belgium vs Germany home ownership, arguing housing affordability isn’t a generational conspiracy—asset prices rose as consumer goods and services got cheaper.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/02/24/Crocuses-of-2026)** — Tim Bray shares pale first-spring crocuses at the new north-facing home, skips the metaphor, and lands on: the world’s rough, so savor the petals.
