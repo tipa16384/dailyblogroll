@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-02-26
+# Daily Blogroll: 2026-02-27
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/02/25.html#a020315)** — Dave Winer riffs on Wikipedia + AI merging, job-displacement déjà vu from the web’s early days, and a new Alysa Liu header graphic.
-- **[Sid's Blog](https://0xsid.com/blog/online-tld-is-pain)** — Sid’s bargain .online domain turns into a mess—Google Safe Search flags it, DNS goes empty under serverHold—until a fast un-blacklisting brings it back.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html)** — Bruce Schneier highlights how trivially AI training data can be poisoned with a fake webpage—then warns that untrustworthy chatbots will still be widely trusted.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/25/guild-wars-and-arriving-at-the-gates-of-kryta/)** — Wilhelm returns to Guild Wars Reforged, redoes Borlis Pass smarter, then stumbles into Frost Gate navigation woes and a hate-list for Dolyak Riders.
-- **[West Karana](https://westkarana.blog/2026/02/25/shitty-kickstarter-the-nexus-cube-not-a-cube/)** — Tipa side-eyes the Nexus Cube “infinity dice” Kickstarter—shifting claims, sus photos, and titanium math that doesn’t add up—then orders a fidget clone.
-- **[Sweetie Games](https://sweetie.games/2026/02/25/how-can-i-try-out-new-game-genres/)** — Sweetie wants to branch into new genres without AAA sticker shock, leaning on retro PS2 finds, emulation, indies, and generous demos like FFXIV and Deltarune.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/ride-your-pony-equinox-homecoming-demo.html)** — Bhagpuss digs the Equinox Homecoming “horse mystery” MMORPG demo—pretty island, solid performance, comfy character creation—though the game insists on calling you Alex.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/02/25/metal-hellsinger-voice-of-the-unknown/)** — Emily recommends Metal: Hellsinger for DOOM-style stress relief—rhythm-based demon slaying, Fury-driven music, and accessibility options—despite a story that feels thin.
-- **[Scopique](https://scopique.com/2026/02/25/steam-next-fest-feb-2026-dverghold/)** — Scopique tries Dverghold’s modern dungeon-crawler demo and bounces off brutal first-room enemy swarms, clunky UI, and a vibe tuned for the Souls-like crowd.
-- **[Bio Break](https://biobreak.wordpress.com/2026/02/25/lotro-lazing-about-with-my-lore-master/)** — Syp takes a LOTRO breather with a level 21 Lore-master in Cardolan, enjoying newer questing and rewards while wishing for better navigation—climbing and little boats, please.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/26/project-gorgon-game-updates-and-focus-problems/)** — Wilhelm swings back to Project: Gorgon after No Man’s Sky’s Remnant detour, noting new player peaks, a fifth server, and some shop-stall growing pains.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-9-2026)** — Sey rounds up indie picks and community stuff: Esoteric Ebb, Ratcheteer DX, Planet of Lana II, plus a Mia & Mio Kickstarter surge and Stardew Valley’s Symphony of Seasons.
+- **[In An Age](https://inanage.com/2026/02/26/time-deletion/)** — Azuriel admits Mewgenics has eaten 77 hours in under two weeks, and Slay the Spire 2 Early Access on March 5 is about to obliterate the backlog.
+- **[Virtual Moose](https://virtualmoose.org/2026/02/26/aerial_knights-dropshot-thoughts/)** — Michael digs Aerial_Knight’s DropShot’s wild setup and fast falling-shooter scoring, praising the arcade replay loop while wishing for more polish and mid-game variety.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/02/26/wow-its-early-access-to-midnight-day/)** — Stargrace counts down to World of Warcraft: Midnight early access, stresses over choosing a main, and dreams of pivoting from gold-making to full-on collecting and completion.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/26/two-years-of-my-life/)** — Belghast marks World of Warcraft: Midnight head start by embracing a Dark Iron warrior main and confronting the “two years played” reality with all the baggage and friendships.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/02/27/don-doko-don-taking-a-silly-game-seriously/)** — Kimimi decides to stop credit-feeding Don Doko Don on PC Engine GT and play for survival, discovering enemy tells, tactics, and a surprisingly nuanced single-screen platformer.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/02/26.html#a161031)** — Dave Winer links an NPR piece on ICE buying warehouses, riffs on podcasting as resilient decentralization, and teases applying that same pattern to text soon.
+- **[Aywren's Nook](https://aywren.com/2026/02/26/steam-deck-emulating-retro-games)** — Aywren explains dabbling in Steam Deck retro emulation—EmuDeck vs RetroDECK, importing ROMs into Steam, and why SNES games look shockingly great on the handheld.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/26/when-you-know-customer-service-ai-is-failing/)** — Warner’s Xfinity modem “upgrade” turns into a lesson in broken AI support, with even store reps using a backdoor text-and-static trick to reach a human agent.
+## Writing
+
+- **[Axxuy](https://axxuy.xyz/blog/posts/2026/what-is-the-oldest-thing-you-own/)** — Axxuy answers the “oldest thing you own” prompt with a late-1940s typewriter that still works, celebrating durable, repairable tools that’ll outlast modern appliances.
 ## General
 
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/02/avocado-toast-instead-of-houses.html)** — Tobold compares Belgium vs Germany home ownership, arguing housing affordability isn’t a generational conspiracy—asset prices rose as consumer goods and services got cheaper.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/02/24/Crocuses-of-2026)** — Tim Bray shares pale first-spring crocuses at the new north-facing home, skips the metaphor, and lands on: the world’s rough, so savor the petals.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/02/amanda-seyfrieds-prosthetic-butthole/)** — Jamie Zawinski riffs on Amanda Seyfried’s “prosthetic butthole” quote, deadpanning the logic and demanding the “butthole cut,” with plenty of snarky callbacks.
