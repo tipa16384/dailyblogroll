@@ -529,3 +529,9 @@ feeds:
     category: Tech
     blogger: Sid
     pronouns: he/him
+  - name: Tom's Gaming Vault
+    url: https://tomsgaming.com/feeds/posts/default
+    update_frequency: daily
+    category: Gaming
+    blogger: Thomas
+    pronouns: he/him

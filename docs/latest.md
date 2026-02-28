@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-02-27
+# Daily Blogroll: 2026-02-28
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/26/project-gorgon-game-updates-and-focus-problems/)** — Wilhelm swings back to Project: Gorgon after No Man’s Sky’s Remnant detour, noting new player peaks, a fifth server, and some shop-stall growing pains.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-9-2026)** — Sey rounds up indie picks and community stuff: Esoteric Ebb, Ratcheteer DX, Planet of Lana II, plus a Mia & Mio Kickstarter surge and Stardew Valley’s Symphony of Seasons.
-- **[In An Age](https://inanage.com/2026/02/26/time-deletion/)** — Azuriel admits Mewgenics has eaten 77 hours in under two weeks, and Slay the Spire 2 Early Access on March 5 is about to obliterate the backlog.
-- **[Virtual Moose](https://virtualmoose.org/2026/02/26/aerial_knights-dropshot-thoughts/)** — Michael digs Aerial_Knight’s DropShot’s wild setup and fast falling-shooter scoring, praising the arcade replay loop while wishing for more polish and mid-game variety.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/02/26/wow-its-early-access-to-midnight-day/)** — Stargrace counts down to World of Warcraft: Midnight early access, stresses over choosing a main, and dreams of pivoting from gold-making to full-on collecting and completion.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/26/two-years-of-my-life/)** — Belghast marks World of Warcraft: Midnight head start by embracing a Dark Iron warrior main and confronting the “two years played” reality with all the baggage and friendships.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/02/27/don-doko-don-taking-a-silly-game-seriously/)** — Kimimi decides to stop credit-feeding Don Doko Don on PC Engine GT and play for survival, discovering enemy tells, tactics, and a surprisingly nuanced single-screen platformer.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/02/26.html#a161031)** — Dave Winer links an NPR piece on ICE buying warehouses, riffs on podcasting as resilient decentralization, and teases applying that same pattern to text soon.
-- **[Aywren's Nook](https://aywren.com/2026/02/26/steam-deck-emulating-retro-games)** — Aywren explains dabbling in Steam Deck retro emulation—EmuDeck vs RetroDECK, importing ROMs into Steam, and why SNES games look shockingly great on the handheld.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/26/when-you-know-customer-service-ai-is-failing/)** — Warner’s Xfinity modem “upgrade” turns into a lesson in broken AI support, with even store reps using a backdoor text-and-static trick to reach a human agent.
-## Writing
+- **[Scripting News](http://scripting.com/2026/02/27.html#a170723)** — Dave Winer wants blog comments to live on your own site for real distribution, and argues standards should follow working apps to avoid silo-y incompatibility.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/02/27/Kansas-and-GenAI)** — Tim Bray compares GenAI-driven layoffs and market cheers to Kansas’s tax-cut fiasco, warning “fire half your staff” economics can mask brutal real-world fallout.
+## Gaming
 
-- **[Axxuy](https://axxuy.xyz/blog/posts/2026/what-is-the-oldest-thing-you-own/)** — Axxuy answers the “oldest thing you own” prompt with a late-1940s typewriter that still works, celebrating durable, repairable tools that’ll outlast modern appliances.
+- **[Chasing Dings!](https://chasingdings.com/2026/02/27/steam-next-fest-underkeep-and-dverghold/)** — Tipa digs into Steam Next Fest’s Dverghold and Underkeep, loving the old-school party dungeon-crawler vibe—traps, wall-chipping, and all—minus Grimrock-style modern tweaks.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/27/friday-bullet-points-covering-february-video-game-anniversaries/)** — Wilhelm marks Pokémon’s 30th with Red & Green nostalgia, Switch store FireRed/LeafGreen temptations, Pokémon Go events, and even Pokémon’s leap from MEGA Bloks to LEGO.
+- **[Dragonchasers](https://dragonchasers.com/2026/02/27/my-time-at-sandrock-has-come-to-an-end/)** — Nimgimli wraps 140 hours of My Time At Sandrock, praising the crafting-heavy life sim, desert-town water woes, and bandit trouble—now he’s ready for My Time At Evershine.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/02/28/occams-sponge-mapping-the-timelines-of-the-command-and-conquer-canon-lore-video/)** — Thomas spotlights Ictiv’s lore video untangling Command & Conquer’s Red Alert time-splits and Tiberium continuity, for anyone who can’t stop obsessing over canon timelines.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/02/27/blasphemous/)** — Ellie reviews Blasphemous as a brutal metroidvania steeped in Spanish Catholic imagery—Semana Santa vibes meets Dark Souls bleakness in a world built on suffering and ornate horror.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/2/27/fun-or-skill)** — Roger buys Chivalry 2 anyway, pushing back on “skills gate” gatekeeping and arguing games should leave room for casual fun, not just sweaty mastery.
+- **[Scopique](https://scopique.com/2026/02/27/steam-next-fest-feb-2026-all-the-others/)** — Scopique’s Next Fest notes hit controller/UI headaches in Witchspire and The Guiding Spirit, bails on Beltlife: Prospector’s “NEWTONIAN PHYSICS!” reading grind, and side-eyes MMO 98.
+- **[Bio Break](https://biobreak.wordpress.com/2026/02/27/wow-classic-its-time-for-the-kodo-roundup-yee-haw/)** — Syp hits level 37 in WoW Classic, treks through Desolace’s scorpids and centaurs for the famous kodo roundup, and makes the case for transmog in Classic Plus.
 ## General
 
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/02/amanda-seyfrieds-prosthetic-butthole/)** — Jamie Zawinski riffs on Amanda Seyfried’s “prosthetic butthole” quote, deadpanning the logic and demanding the “butthole cut,” with plenty of snarky callbacks.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/a-runaway-success.html)** — Bhagpuss looks back at Marvel’s Runaways: slow-burn pacing, YA superhero drama, and escalating season arcs from serial-killer parents to aliens and messy family redemption.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html)** — Bruce Schneier reports Peru upping squid catch limits—possibly “jumbo” not “giant”—and opens the usual Squid Blogging thread for security news he hasn’t covered.
