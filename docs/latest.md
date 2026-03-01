@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-02-28
+# Daily Blogroll: 2026-03-01
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/02/27.html#a170723)** — Dave Winer wants blog comments to live on your own site for real distribution, and argues standards should follow working apps to avoid silo-y incompatibility.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/02/27/Kansas-and-GenAI)** — Tim Bray compares GenAI-driven layoffs and market cheers to Kansas’s tax-cut fiasco, warning “fire half your staff” economics can mask brutal real-world fallout.
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2026/02/27/steam-next-fest-underkeep-and-dverghold/)** — Tipa digs into Steam Next Fest’s Dverghold and Underkeep, loving the old-school party dungeon-crawler vibe—traps, wall-chipping, and all—minus Grimrock-style modern tweaks.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/27/friday-bullet-points-covering-february-video-game-anniversaries/)** — Wilhelm marks Pokémon’s 30th with Red & Green nostalgia, Switch store FireRed/LeafGreen temptations, Pokémon Go events, and even Pokémon’s leap from MEGA Bloks to LEGO.
-- **[Dragonchasers](https://dragonchasers.com/2026/02/27/my-time-at-sandrock-has-come-to-an-end/)** — Nimgimli wraps 140 hours of My Time At Sandrock, praising the crafting-heavy life sim, desert-town water woes, and bandit trouble—now he’s ready for My Time At Evershine.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/02/28/occams-sponge-mapping-the-timelines-of-the-command-and-conquer-canon-lore-video/)** — Thomas spotlights Ictiv’s lore video untangling Command & Conquer’s Red Alert time-splits and Tiberium continuity, for anyone who can’t stop obsessing over canon timelines.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/02/27/blasphemous/)** — Ellie reviews Blasphemous as a brutal metroidvania steeped in Spanish Catholic imagery—Semana Santa vibes meets Dark Souls bleakness in a world built on suffering and ornate horror.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/2/27/fun-or-skill)** — Roger buys Chivalry 2 anyway, pushing back on “skills gate” gatekeeping and arguing games should leave room for casual fun, not just sweaty mastery.
-- **[Scopique](https://scopique.com/2026/02/27/steam-next-fest-feb-2026-all-the-others/)** — Scopique’s Next Fest notes hit controller/UI headaches in Witchspire and The Guiding Spirit, bails on Beltlife: Prospector’s “NEWTONIAN PHYSICS!” reading grind, and side-eyes MMO 98.
-- **[Bio Break](https://biobreak.wordpress.com/2026/02/27/wow-classic-its-time-for-the-kodo-roundup-yee-haw/)** — Syp hits level 37 in WoW Classic, treks through Desolace’s scorpids and centaurs for the famous kodo roundup, and makes the case for transmog in Classic Plus.
 ## General
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/02/a-runaway-success.html)** — Bhagpuss looks back at Marvel’s Runaways: slow-burn pacing, YA superhero drama, and escalating season arcs from serial-killer parents to aliens and messy family redemption.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html)** — Bruce Schneier reports Peru upping squid catch limits—possibly “jumbo” not “giant”—and opens the usual Squid Blogging thread for security news he hasn’t covered.
+- **[Scripting News](http://scripting.com/2026/02/28.html#a142302)** — Dave Winer riffs on MeToo backlash, men and Dems, and warns we’re sleepwalking toward something like Iran’s weary autocracy—urging everyone to stop feeding division.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/02/28/give-devastation-daydreamer-fates-on-water-music-of-february-2026/)** — Emily’s February playlist swings from Demi Lovato nostalgia to demon-slaying “This Devastation,” Floor Jansen’s dreamy vibes, and John Williams’ Duel of the Fates fixation.
+- **[Virtual Moose](https://virtualmoose.org/2026/02/28/felt-sad-about-the-world-so-i-went-to-the-art-museum/)** — Michael dodges war-news gloom with a Detroit Institute of Arts trip—Rivera murals, Egyptian artifacts, Van Goghs, Anishinaabe art—then caps it off with Ethiopian food.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/28/what-we-know-is-we-dont-know-much/)** — Warner reacts to the US/Israel war with Iran by admitting nobody knows much yet, and shares Sven Schmidt’s bleak Mastodon line about rooting for regime change everywhere.
+## Tech
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/28/february-2026-in-review/)** — Wilhelm gawks at a once-in-19-years traffic spike across WP stats, Flag Counter, and Google Analytics—then shrugs and notes a bump from No Man’s Sky Remnant searches.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/02/let-friction-ring/)** — Jamie Zawinski needs a flat/concave rubber traction ring (or a pulley with friction surface) for a 50mm wheel, and begs Lazyweb: only real purchase links, please.
+## Gaming
+
+- **[Chasing Dings!](https://chasingdings.com/2026/02/28/steam-next-fest-mmo98-and-data-center/)** — Tipa tries Steam Next Fest’s MMO98, expecting MMO-dev chaos, and gets a tasty twist: sequels, player-data “research,” and renting datacenters to stash it all.
+- **[Margot Plays](https://margotplays.substack.com/p/game-journal-feb-2026)** — Margot’s February log jumps from Cult of the Lamb club chatter to cozy Lil Gator Game, story-rich Hermit and Pig, and finishing Kena ahead of its sequel hype.
+- **[Sweetie Games](https://sweetie.games/2026/02/28/why-is-nintendo-so-against-modding/)** — Sweetie breaks down why Nintendo stays anti-modding—IP control, kid-safety, and bricked Switch 2 headlines—while wishing for a realistic, curated approval system.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/27/mirage-reveal-stream/)** — Belghast is all-in on Path of Exile 3.28’s Mirage League: duplicated-map “wishes,” lore bridging PoE1→PoE2, and gem-corrupting currency fueling wild build dreams.
+- **[Aywren's Nook](https://aywren.com/2026/02/28/ffxiv-1000-commendations-finally)** — Aywren finally hits 1,000 FFXIV commendations as a DPS main, vents about com droughts, alt-splitting, and the long slog still left to reach Mentor status.
+- **[Dragonchasers](https://dragonchasers.com/2026/02/28/february-2026/)** — Nimgimli’s February recap is basically My Time at Sandrock, plus a surprising Ball X Pit “ending,” a little TempusGameit buzz, and TV thoughts on Pluribus and Ted Danson’s return.
