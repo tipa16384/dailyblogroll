@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-03-01
+# Daily Blogroll: 2026-03-02
 
-## General
-
-- **[Scripting News](http://scripting.com/2026/02/28.html#a142302)** — Dave Winer riffs on MeToo backlash, men and Dems, and warns we’re sleepwalking toward something like Iran’s weary autocracy—urging everyone to stop feeding division.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/02/28/give-devastation-daydreamer-fates-on-water-music-of-february-2026/)** — Emily’s February playlist swings from Demi Lovato nostalgia to demon-slaying “This Devastation,” Floor Jansen’s dreamy vibes, and John Williams’ Duel of the Fates fixation.
-- **[Virtual Moose](https://virtualmoose.org/2026/02/28/felt-sad-about-the-world-so-i-went-to-the-art-museum/)** — Michael dodges war-news gloom with a Detroit Institute of Arts trip—Rivera murals, Egyptian artifacts, Van Goghs, Anishinaabe art—then caps it off with Ethiopian food.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/02/28/what-we-know-is-we-dont-know-much/)** — Warner reacts to the US/Israel war with Iran by admitting nobody knows much yet, and shares Sven Schmidt’s bleak Mastodon line about rooting for regime change everywhere.
-## Tech
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/02/28/february-2026-in-review/)** — Wilhelm gawks at a once-in-19-years traffic spike across WP stats, Flag Counter, and Google Analytics—then shrugs and notes a bump from No Man’s Sky Remnant searches.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/02/let-friction-ring/)** — Jamie Zawinski needs a flat/concave rubber traction ring (or a pulley with friction surface) for a 50mm wheel, and begs Lazyweb: only real purchase links, please.
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2026/02/28/steam-next-fest-mmo98-and-data-center/)** — Tipa tries Steam Next Fest’s MMO98, expecting MMO-dev chaos, and gets a tasty twist: sequels, player-data “research,” and renting datacenters to stash it all.
-- **[Margot Plays](https://margotplays.substack.com/p/game-journal-feb-2026)** — Margot’s February log jumps from Cult of the Lamb club chatter to cozy Lil Gator Game, story-rich Hermit and Pig, and finishing Kena ahead of its sequel hype.
-- **[Sweetie Games](https://sweetie.games/2026/02/28/why-is-nintendo-so-against-modding/)** — Sweetie breaks down why Nintendo stays anti-modding—IP control, kid-safety, and bricked Switch 2 headlines—while wishing for a realistic, curated approval system.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/02/27/mirage-reveal-stream/)** — Belghast is all-in on Path of Exile 3.28’s Mirage League: duplicated-map “wishes,” lore bridging PoE1→PoE2, and gem-corrupting currency fueling wild build dreams.
-- **[Aywren's Nook](https://aywren.com/2026/02/28/ffxiv-1000-commendations-finally)** — Aywren finally hits 1,000 FFXIV commendations as a DPS main, vents about com droughts, alt-splitting, and the long slog still left to reach Mentor status.
-- **[Dragonchasers](https://dragonchasers.com/2026/02/28/february-2026/)** — Nimgimli’s February recap is basically My Time at Sandrock, plus a surprising Ball X Pit “ending,” a little TempusGameit buzz, and TV thoughts on Pluribus and Ted Danson’s return.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/01/tagn-fantasy-critic-league-2026-week-nine-and-resident-evil-requiem/)** — Wilhelm checks in on Fantasy Critic League week nine, where Resident Evil Requiem’s OpenCritic score slips from an early high amid rating-scale weirdness.
+- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/03/skip-and-julia-sailing-hungry-seas-in.html)** — The Friendly Necromancer and Dylan dive into Windrose’s Steam Next Fest demo—pirate survival crafting, cooking, shipwreck repairs, and broadside fights that feel like Icarus/Valheim vibes.
+- **[Chasing Dings!](https://chasingdings.com/2026/03/01/steam-next-fest-scriptorium-forbidden-solitaire-dont-panic-it-is-just-turbulence/)** — Tipa tours Steam Next Fest oddities: a tense co-op plane-landing puzzler, devil-commissioned medieval art in Scriptorium, and a spooky thrift-shop tale in Forbidden Solitaire.
+- **[Oya's Game Hub](https://oyito.substack.com/p/in-a-nutshell-february-2026)** — Oya’s February in Spain mixes Baldur’s Gate 3 plans, a Return of the Obra Dinn backlog dive, Netflix games delisting gripes, and more Murderbot love via System Collapse.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/03/01/monthly-poll-5/)** — Luna polls readers on game demos during Steam Next Fest, then shares last month’s results where undisclosed AI in games beat rising prices and microtransactions as top annoyance.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/03/02/pokemon-pokopia-launch/)** — Krista rounds up what’s known before Pokémon Pokopia’s March 5 launch: cozy Switch 2 life-sim island rebuilding as Ditto, using moves like Surf and Rock Smash to help.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/03/02/wow-week-9-gold-making-2026/)** — Stargrace’s WoW week 9: Midnight early access distracted from auctions, still 2.9M gold, and lots of nerdy delight at TradeSkillMaster’s new War Within stats recap.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/03/02/last-imperial-prince-two-shiny-platters/)** — Kimimi tears into PC-FX RPG Last Imperial Prince for timid storytelling, stiff portraits, and flat corridor-heavy maps—13 hours in and the biggest novelty is basically a ladder.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/03/01.html#a173357)** — Dave Winer says Twitter’s done after a hijack, urges slowing down with ChatGPT-style tools, and publishes his opmlProjectEditor format for outlining JavaScript projects with Claude.
+## General
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-03-01.html)** — Tofutush recaps turning 19, starting (and stressing about) school, feeling possible seasonal depression, and tees up goals like re-reading Wings of Fire for spring break.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-03-01-week-9-digest/)** — Anarchae logs a low-productivity week with back pain and insomnia, job training, apartment-moving stress, finishing Raidou, plus reading notes on mysteries and a female-led underworld thriller.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/3/1/a-lifetime-of-learning)** — Roger reflects on how one great Classical History teacher sparked lifelong curiosity, arguing ignorance isn’t shameful but willful ignorance is, especially when information’s everywhere.

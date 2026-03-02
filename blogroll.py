@@ -277,8 +277,7 @@ def collect_new_items(cfg):
                     "pronouns": f.get("pronouns","they/them"),
                     "ts": ts or 0,
                     "mastodon": f.get("mastodon",""),
-#                    "bluesky": f.get("bluesky","") # BlueSky considers this spammy; omit for now
-                    "bluesky": f.get("blogger") or ""
+                    "bluesky": f.get("bluesky","")
                 }
                 debug_log.append(f"Picked item: {pick_dict['title']} from {pick_dict['source']}")
                 picked.append(pick_dict)
@@ -523,7 +522,24 @@ def main():
     force_root_blogrolls()
     make_feed()
     write_intro(items, "mastodon")
+
+    # try to get around BlueSky's spammy-flagging by only including a couple
+    # of actual bluesky handles and replacing the rest with the author names
+    prepare_bluesky_handles(items)
     write_intro(items, "bluesky")
+
+def prepare_bluesky_handles(items):
+    """Randomly pick two items with non-empty bluesky values and change all other items' bluesky values to match their author values."""
+    bluesky_items = [item for item in items if item.get("bluesky", "").strip()]
+    if len(bluesky_items) >= 2:
+        # Randomly pick 2 items with non-empty bluesky values to keep unchanged
+        kept_items = random.sample(bluesky_items, 2)
+        kept_item_ids = {id(item) for item in kept_items}
+        
+        # Change bluesky values for all other items to match their author values
+        for item in items:
+            if id(item) not in kept_item_ids:
+                item["bluesky"] = item.get("author", "")
 
 def write_intro(items, platform):
     """Write an intro post for Mastodon or Bluesky based on the items."""
