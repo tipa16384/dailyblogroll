@@ -12,9 +12,7 @@ feeds:
     blogger: Tipa
     group: Tipa
     pronouns: she/her
-    required: True
-    mastodon: me
-    bluesky: me
+    required: False
   - name: An Archaeopteryx
     url: https://anarchaeopteryx.bearblog.dev/feed/
     update_frequency: daily
@@ -343,8 +341,7 @@ feeds:
     group: Tipa
     pronouns: she/her
     skip: False
-    mastodon: me
-    bluesky: me
+    required: True
   - name: Virtual Moose
     url: https://virtualmoose.org/feed/
     update_frequency: daily
@@ -534,4 +531,9 @@ feeds:
     update_frequency: daily
     category: Gaming
     blogger: Thomas
+    pronouns: he/him
+  - name: Donkeyspace
+    url: https://franklantz.substack.com/feed
+    category: Gaming
+    blogger: Frank
     pronouns: he/him
