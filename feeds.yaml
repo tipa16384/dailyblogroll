@@ -553,3 +553,9 @@ feeds:
     pronouns: he/they
     mastodon: "@brennanbrown@me.dm"
     bluesky: "@brennanbrown.ca"
+  - name: Endgame Viable
+    url: https://endgameviable.com/index.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: Tom
+    pronouns: he/him
