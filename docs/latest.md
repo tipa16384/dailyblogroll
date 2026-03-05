@@ -1,18 +1,22 @@
-# Daily Blogroll: 2026-03-04
+# Daily Blogroll: 2026-03-05
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/03/03.html#a145455)** — Dave Winer put Claude.ai to work cranking out a browser spreadsheet and OPML outliner, then hits the wall where “no standard terminology” means shaky results.
-- **[usebox.net](https://www.usebox.net/jjm/blog/another-tomato/)** — JJM builds “Tomato,” a dependency-light OCaml CLI Pomodoro timer, compares it to his earlier Haskell version, and nerds out on XDG state paths.
-- **[Leaded Solder](https://www.leadedsolder.com/2026/03/03/trs80-model-1-power-supply-case-fix.html)** — Mike begins resurrecting a dumpster-saved TRS-80 Model 1—cracked case, missing labels, scary power plugs—and starts plastic surgery with model cement.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/that-one-xkcd-thing-now-interactive/)** — Jamie Zawinski highlights Craig S. Kaplan’s interactive P5.js physics demo (with Matter.js), calling it pure fun and linking the messy source for tinkerers.
+- **[Scripting News](http://scripting.com/2026/03/04.html#a141625)** — Dave Winer marvels at Claude.ai as a rapid-fire software teammate for his outliner ideas, then riffs on DigitalOcean server weirdness and being kinder to friends.
+- **[brennan.day](https://brennan.day/the-end-of-eleventy/)** — Brennan digs into Font Awesome’s Build Awesome Kickstarter and why 11ty/Eleventy being “rebranded” feels less like celebration and more like a worrying inflection point.
+- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/03/04/is-ai-capable-of-reversing-social-medias-attention-destruction/)** — Cliffski contrasts Claude’s calm, deep-dive financial Q&A with the meme-noise of Discord and wallstbets, arguing AI finally serves readers with actual attention spans.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/04/google-gemini-preying-on-troubled-minds/)** — Warner reacts to a WSJ-reported lawsuit alleging Google’s Gemini fueled delusions and suicide, calling for real guardrails on the people deploying companionship AI.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/03/midnight-in-azeroth/)** — Wilhelm checks in on WoW: Midnight’s launch hype—housing, boosts, level cap 90, and a lore-heavy pitch that still mostly leaves him shrugging.
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/03/it-may-be-lengthy-break.html)** — Joar barely started WoW: Midnight (level 81 in Eversong) but real-life moves and family milestones mean gaming may be on pause until summer.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/03/total-galactic-war-challenge-over-taris.html)** — Shintar recounts SWTOR’s Total Galactic War on Taris, where an unexpected rival guild crashed the party and turned a “chill” conquest into an intense grind.
-- **[In An Age](https://inanage.com/2026/03/03/level-of-enthusiasm-wiki/)** — Azuriel is so hooked on Mewgenics he’s updating its mostly-empty wiki mid-binge, skipping GW2 dailies and racking up nearly 100 hours fast.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/at-last.html)** — Bhagpuss finally rolls credits on Baldur’s Gate 3: impressed by Larian’s craft and combat, but feels the campaign is too long and the cosmic stakes blunted choices.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/03/01/norse-oath-of-blood-viking-retribution-review/)** — Thomas says NORSE: Oath of Blood isn’t the Viking X-com he hoped for—more linear, cutscene-heavy, and sometimes scripted to the point combat deaths feel “lame.”
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/03/midnight-was-pretty-great/)** — Belghast celebrates WoW: Midnight’s release, praises the revamped base UI and stronger storytelling, and happily admits to leaning on one-button assist to chill.
-- **[Aywren's Nook](https://aywren.com/2026/03/03/ffxiv-completing-dawntrail-again-grappling-with-burnout)** — Aywren finishes Dawntrail for the 5th time while pushing alts and a relic grind, hitting near-burnout thanks to dungeon spam, 40-minute queues, and repeat FATE events.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/04/outbound-demo-trying-the-co-op-angle/)** — Wilhelm and Potshot take Outbound’s Steam Next Fest demo for a co-op spin, wrangling friend codes, shared saves, and a not-so-speedy VW-style van.
+- **[Chasing Dings!](https://chasingdings.com/2026/03/04/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/)** — Tipa speed-runs impressions: Windrose feels like familiar co-op survival with pirates, while Tides of Blazefall mashes Disco Elysium vibes with Sunless Sea and cards.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/03/04/a-plague-tale-requiem-origins-of-the-macula/)** — Emily dives into A Plague Tale: Requiem right after the first game, praising its bleak cinematic sequel energy, expanded combat options, and deeper Macula-and-rats lore.
+- **[Sweetie Games](https://sweetie.games/2026/03/04/a-love-letter-to-physical-media/)** — Sweetie mourns gaming’s drift to digital-only, arguing good physical editions—art books, props, steelbooks, even clever boxes—are memory anchors a virtual library can’t match.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/3/3/video-games-are-bad-at-explaining-themselves)** — Roger argues games lean on videos, YouTube, and Discord instead of real tutorials—watching his grandkids struggle on PC, even basics like Fall Guys and Chivalry 2 passes.
+## Writing
+
+- **[Zarf Updates](https://blog.zarfhome.com/2026/03/the-game-narrative-kaleidoscope)** — Andrew Plotkin plugs The Game Narrative Kaleidoscope, a crosslinked grab-bag of narrative-design mini-essays (including his), and suggests flipping to a random page and wandering.
+## General
+
+- **[Axxuy](https://axxuy.xyz/blog/posts/2026/mailcall/)** — Axxuy makes the case for physical mail over chat apps: letters are slower, longer, and tangible, and they’ve made a Discord-born friendship feel genuinely deeper.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-03-02-trying-to-make-my-life-better-while-the-world-burns/)** — Anarchae looks back on moving into an apartment in March 2020—COVID, mutual aid, scraping by—and how nonstop news/Twitter habits shifted as life stabilized (sort of).

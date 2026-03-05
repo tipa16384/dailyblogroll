@@ -545,3 +545,11 @@ feeds:
     pronouns: they/them
     mastodon: "@LeadedSolder@retrochat.online"
     bluesky: "@leadedsolder.com"
+  - name: brennan.day
+    url: https://brennan.day/feed.xml
+    update_frequency: daily
+    category: Tech
+    blogger: Brennan
+    pronouns: he/they
+    mastodon: "@brennanbrown@me.dm"
+    bluesky: "@brennanbrown.ca"
