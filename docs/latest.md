@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-03-05
+# Daily Blogroll: 2026-03-06
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/03/04.html#a141625)** — Dave Winer marvels at Claude.ai as a rapid-fire software teammate for his outliner ideas, then riffs on DigitalOcean server weirdness and being kinder to friends.
-- **[brennan.day](https://brennan.day/the-end-of-eleventy/)** — Brennan digs into Font Awesome’s Build Awesome Kickstarter and why 11ty/Eleventy being “rebranded” feels less like celebration and more like a worrying inflection point.
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/03/04/is-ai-capable-of-reversing-social-medias-attention-destruction/)** — Cliffski contrasts Claude’s calm, deep-dive financial Q&A with the meme-noise of Discord and wallstbets, arguing AI finally serves readers with actual attention spans.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/04/google-gemini-preying-on-troubled-minds/)** — Warner reacts to a WSJ-reported lawsuit alleging Google’s Gemini fueled delusions and suicide, calling for real guardrails on the people deploying companionship AI.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/04/outbound-demo-trying-the-co-op-angle/)** — Wilhelm and Potshot take Outbound’s Steam Next Fest demo for a co-op spin, wrangling friend codes, shared saves, and a not-so-speedy VW-style van.
-- **[Chasing Dings!](https://chasingdings.com/2026/03/04/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/)** — Tipa speed-runs impressions: Windrose feels like familiar co-op survival with pirates, while Tides of Blazefall mashes Disco Elysium vibes with Sunless Sea and cards.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/03/04/a-plague-tale-requiem-origins-of-the-macula/)** — Emily dives into A Plague Tale: Requiem right after the first game, praising its bleak cinematic sequel energy, expanded combat options, and deeper Macula-and-rats lore.
-- **[Sweetie Games](https://sweetie.games/2026/03/04/a-love-letter-to-physical-media/)** — Sweetie mourns gaming’s drift to digital-only, arguing good physical editions—art books, props, steelbooks, even clever boxes—are memory anchors a virtual library can’t match.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/3/3/video-games-are-bad-at-explaining-themselves)** — Roger argues games lean on videos, YouTube, and Discord instead of real tutorials—watching his grandkids struggle on PC, even basics like Fall Guys and Chivalry 2 passes.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/05/guild-wars-reforged-arrival-in-lions-arch/)** — Wilhelm’s Guild Wars Reforged group tweaks henchman positioning, gripes about ANet’s moved mission button, and fights through undead on the road to Lion’s Arch.
+- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/03/05/the-winter-of-horrors-continues/)** — Mailvaltar contrasts Resident Evil 4 remake’s action-adventure feel with Resident Evil VII’s brutal, Baker-family horror, while Diablo II Resurrected keeps stealing his free time.
+- **[Buried Treasure](https://buried-treasure.org/2026/03/the-dark-rites-of-arkham/)** — John says The Dark Rites of Arkham leans hard into Lovecraft while pointedly confronting his racism through two detectives investigating a gruesome occult murder.
+- **[Endgame Viable](https://endgameviable.com/post/2026/02/2026-03-01-february-pt2/)** — Tom bounces between World of Warcraft’s fun-but-empty leveling loop and Final Fantasy XIV’s long Endwalker march, with Delves as WoW’s bright spot.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-10-2026)** — Sey rounds up indie highlights including FROGGONIT’s launch, Slay the Spire 2, Bel’s Fanfaire Kickstarter news, and a new Chicory soundtrack project.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/03/06/colony-28-a-czech-wonder-finally-released-worldwide/)** — Kimimi celebrates Colony 28 hitting Steam at last, praising the 1996 Czech sci-fi adventure’s open exploration, scarce ammo, and clever cover-based combat.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/03/03/steam-next-fest-february-2026-roundup-part-1/)** — Luna kicks off a Steam Next Fest favorites roundup with inKONBINI’s cozy store-management vibes and The Eternal Life of Goldman’s hand-drawn platforming.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/03/04/lost-and-found-co/)** — Krista spotlights Lost & Found Co as a cute hidden-object puzzler where Ducky reunites Plumville’s lost items through hand-drawn scenes and light magical chaos.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/03/05.html#a230540)** — Dave Winer says Claude and ChatGPT still want to take the wheel with his software, then quietly plugs the Scripting News nightly email.
 ## Writing
 
-- **[Zarf Updates](https://blog.zarfhome.com/2026/03/the-game-narrative-kaleidoscope)** — Andrew Plotkin plugs The Game Narrative Kaleidoscope, a crosslinked grab-bag of narrative-design mini-essays (including his), and suggests flipping to a random page and wandering.
+- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/03/05/3-5-2026-eye-balling-out/)** — Blockade85 thinks eye strain is zapping his energy for Enshrouded, Dune, FFXI, FFXIV, and even Doom, so an optometrist visit feels overdue.
 ## General
 
-- **[Axxuy](https://axxuy.xyz/blog/posts/2026/mailcall/)** — Axxuy makes the case for physical mail over chat apps: letters are slower, longer, and tangible, and they’ve made a Discord-born friendship feel genuinely deeper.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-03-02-trying-to-make-my-life-better-while-the-world-burns/)** — Anarchae looks back on moving into an apartment in March 2020—COVID, mutual aid, scraping by—and how nonstop news/Twitter habits shifted as life stabilized (sort of).
+- **[Dragonchasers](https://dragonchasers.com/2026/03/05/the-weird-relief-of-getting-older/)** — Nimgimli reflects on aging, work guilt, and the surprisingly freeing realization that free time can just be for games, TV, beer, or even naps.
+- **[Virtual Moose](https://virtualmoose.org/2026/03/03/monsterdon/)** — Michael says Mastodon’s weekly #Monsterdon watchalong, usually with free-to-stream B-movies, has made Sunday nights fun again.
