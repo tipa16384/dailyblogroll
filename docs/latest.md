@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-03-07
+# Daily Blogroll: 2026-03-08
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/06/friday-bullet-points-about-the-odd-and-unfortunate/)** — Wilhelm runs through gaming annoyances, from Highguard flaming out fast to Tencent panic and Steam’s latest lawsuit over marketplace gambling claims.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2026/03/post-expedition-thoughts-arc-raiders.html)** — Heartless says ARC Raiders’ optional character reset makes loot and progression feel exciting again, especially with fresh loadouts and nastier ARC robots.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/03/03/month-in-review-the-king-is-watching-hypogea-next-fest/)** — Frostilyte’s February was slowed by illness, with The King is Watching landing more lukewarm than its demo despite that clever watched-workers hook.
-- **[Bio Break](https://biobreak.wordpress.com/2026/03/06/lotro-a-diamond-in-the-extreme-rough/)** — Syp is dragging a Minstrel through a rough LOTRO expansion zone, but a gorgeous dwarf city briefly cuts through the slog.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/03/four-screenshots-thats-all-it-took-for.html)** — CrazyKinux impulse-bought Planet of Lana II off four gorgeous screenshots alone, sold on its hand-painted look and short puzzle-adventure vibe.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/06/did-elitists-abandon-wow/)** — Belghast finds World of Warcraft heroics surprisingly chill lately, and wonders if the usual elitist dungeon energy moved on elsewhere.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/is-bag-half-empty-or-half-full-i-think.html)** — Bhagpuss points to AdventureQuest Worlds Infinity as proof MMORPG Kickstarters can work when a studio like Artix has years of player trust.
-## General
-
-- **[Scripting News](http://scripting.com/2026/03/06.html#a215120)** — Dave Winer jumps from politics to Industry and The Pitt, while also asking for help getting his real X account back.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html)** — Bruce Schneier brings the weekly squid oddity, this time on Byzantine monks keeping squid on the menu through taxonomic confusion and a handy recipe.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/monarch-title-sequence/)** — Jamie Zawinski nerds out over Monarch: Legacy of Monsters’ rebuilt season 2 title sequence and its split-timeline visual storytelling.
 ## Tech
 
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/winner-takes-it-all-advertising.html)** — Tobold argues AI answers are turning SEO into winner-takes-all AEO, where being in the chatbot summary matters more than ranking on page two.
-- **[West Karana](https://westkarana.blog/2026/03/06/this-is-what-20-years-of-blogging-looks-like/)** — Tipa is done with security upsells and hosted-blog headaches, and is eyeing a rebuild with Hugo, GitHub Pages, and more control.
+- **[Scripting News](http://scripting.com/2026/03/07.html#a165126)** — Dave Winer pushes back on claims RSS ever went dormant, while also grumbling about Claude outages and Industry season 4’s rough start.
+- **[nicole express](https://nicole.express/2026/the-apple-that-wasnt.html)** — Nicole spins a nerdy alternate history where the Apple ][ grows up with CBS field-sequential color, weird spinning discs and all.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/07/new-star-systems-for-new-players-coming-to-eve-online/)** — Wilhelm eyes EVE Online’s 53 hidden starter systems with curiosity and a groan, since CCP is once again reworking the new-player experience.
+- **[Time to Loot](https://www.timetoloot.com/blog/journal/time-to-loot-journal-february-2026/)** — Naithin’s February was mostly Nioh 3, with Crimson Desert hype rising and March plans for Resident Evil 2 Remake and The Division 2.
+- **[READ ONLY MEMO](https://readonlymemo.com/dreamm-explores-a-galaxy-of-fun-as-it-rescues-more-lucasarts-games-from-obscurity/)** — Wes spotlights DREAMM 4.0 making old LucasArts PC games easier to run, while shelving a deeper Segagaga translation piece for later.
+- **[Margot Plays](https://margotplays.substack.com/p/play-through-the-legend-of-zelda-4bb)** — Margot’s back in Breath of the Wild, cooking, farming arrows, unlocking the map, and leaning fully into wandering Hyrule over rushing Divine Beasts.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/03/08/eve-three-hundred-small-things/)** — Stargrace turns EVE Online cache maintenance into a quiet meditation on burnout, patience, and reaching 300 tasks one careful jump at a time.
+- **[Aywren's Nook](https://aywren.com/2026/03/07/ffxiv-red-mage-obscurum-phantom-relic-weapon)** — Aywren finally earns her FFXIV Red Mage Obscurum Phantom Relic after a long roulette grind, and already has White Mage in mind next.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/03/delayed-781-dev-livestream-reaction.html)** — Shintar rounds up SWTOR 7.8.1’s big bits, from Darth Nul story teases to Galactic Seasons remixing old rewards.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/03/05/star-wars-republic-commando-intro-remake-video/)** — Thomas is torn on remakes, but this fan-made Star Wars: Republic Commando intro animation sure sells the dream of a real one.
+## Writing
+
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/03/05/Because-Algospeak)** — Tim Bray compares Because Internet and Algospeak, praising Gretchen McCulloch’s linguistics and mulling how the internet reshaped informal writing.
+## General
+
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-03-05-my-boring-eating-habits/)** — Anarchae walks through low-drama grocery and meal routines shaped by AuDHD, IBS, lactose intolerance, and a deep dislike of cooking.
