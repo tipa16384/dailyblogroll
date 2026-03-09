@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-03-08
+# Daily Blogroll: 2026-03-09
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/03/07.html#a165126)** — Dave Winer pushes back on claims RSS ever went dormant, while also grumbling about Claude outages and Industry season 4’s rough start.
-- **[nicole express](https://nicole.express/2026/the-apple-that-wasnt.html)** — Nicole spins a nerdy alternate history where the Apple ][ grows up with CBS field-sequential color, weird spinning discs and all.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/07/new-star-systems-for-new-players-coming-to-eve-online/)** — Wilhelm eyes EVE Online’s 53 hidden starter systems with curiosity and a groan, since CCP is once again reworking the new-player experience.
-- **[Time to Loot](https://www.timetoloot.com/blog/journal/time-to-loot-journal-february-2026/)** — Naithin’s February was mostly Nioh 3, with Crimson Desert hype rising and March plans for Resident Evil 2 Remake and The Division 2.
-- **[READ ONLY MEMO](https://readonlymemo.com/dreamm-explores-a-galaxy-of-fun-as-it-rescues-more-lucasarts-games-from-obscurity/)** — Wes spotlights DREAMM 4.0 making old LucasArts PC games easier to run, while shelving a deeper Segagaga translation piece for later.
-- **[Margot Plays](https://margotplays.substack.com/p/play-through-the-legend-of-zelda-4bb)** — Margot’s back in Breath of the Wild, cooking, farming arrows, unlocking the map, and leaning fully into wandering Hyrule over rushing Divine Beasts.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/03/08/eve-three-hundred-small-things/)** — Stargrace turns EVE Online cache maintenance into a quiet meditation on burnout, patience, and reaching 300 tasks one careful jump at a time.
-- **[Aywren's Nook](https://aywren.com/2026/03/07/ffxiv-red-mage-obscurum-phantom-relic-weapon)** — Aywren finally earns her FFXIV Red Mage Obscurum Phantom Relic after a long roulette grind, and already has White Mage in mind next.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/03/delayed-781-dev-livestream-reaction.html)** — Shintar rounds up SWTOR 7.8.1’s big bits, from Darth Nul story teases to Galactic Seasons remixing old rewards.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/03/05/star-wars-republic-commando-intro-remake-video/)** — Thomas is torn on remakes, but this fan-made Star Wars: Republic Commando intro animation sure sells the dream of a real one.
-## Writing
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/08/tagn-fantasy-critic-league-2026-week-ten-and-all-the-scores/)** — Wilhelm recaps a big Fantasy Critic week, with WoW Midnight confusion and strong early scores for Pokemon Pokopia and Esoteric Ebb.
+- **[Chasing Dings!](https://chasingdings.com/2026/03/08/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/)** — Tipa breaks down her Malifaux Colette 2 crew, why decoy tricks rule, and what made facing Jakob Lynch’s Honeypot feel new.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/03/the-quiet-at-midnight.html)** — Shintar finds WoW: Midnight’s early access and launch oddly empty, especially while juggling expansion time with SWTOR.
+- **[Sweetie Games](https://sweetie.games/2026/03/07/these-gaming-ads-are-so-nostalgic/)** — Sweetie misses the weird, maximalist magic of old gaming ads, from Final Fantasy VII phone tie-ins to the opposite of Switch 2 minimalism.
+- **[Virtual Moose](https://virtualmoose.org/2026/03/08/rocket-riot-thoughts/)** — Michael finds Rocket Riot a fun but repetitive arcade jetpack shooter, with the missing multiplayer on Steam really hurting the package.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/03/08/resident-evil-requiem-dead-inside/)** — Kimimi argues Resident Evil Requiem’s split between Grace’s horror and Leon’s action keeps it from fully committing to either mode.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/08/aggrochat-560-hazy-reflections/)** — Belghast and crew bounce through Path of Exile, Everything is Crab, Pokopia, Steam Next Fest demos, and a surprisingly chill WoW vibe.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/paupers-ladder.html)** — Tobold enjoys Pauper’s Ladder’s swingy Amerigame feel, especially compared with getting crushed in Eurogames by players who know them cold.
+## Tech
 
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/03/05/Because-Algospeak)** — Tim Bray compares Because Internet and Algospeak, praising Gretchen McCulloch’s linguistics and mulling how the internet reshaped informal writing.
+- **[Scripting News](http://scripting.com/2026/03/08.html#a163034)** — Dave Winer says AI still can’t hold whole apps in its head, and pairs that with a pretty bleak read on tech’s moral collapse.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/how-much-water-do-the-data-centres-use-its-a-secret/)** — Jamie Zawinski spotlights secrecy around AI data center water use, warning the numbers are probably awful if companies fight this hard to hide them.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-03-05-my-boring-eating-habits/)** — Anarchae walks through low-drama grocery and meal routines shaped by AuDHD, IBS, lactose intolerance, and a deep dislike of cooking.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/08/sunday-morning-reading-145/)** — Warner’s weekly roundup threads asteroid nudges, war, McCarthyism, and AI anxiety into a reminder that we’re not the universe’s main character.
+- **[brennan.day](https://brennan.day/we-as-men-must-do-more-and-we-must-do-better/)** — Brennan urges men to confront misogyny, stop offloading emotional and hermeneutic labor, and do the hard work themselves.
