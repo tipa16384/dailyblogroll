@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-03-09
+# Daily Blogroll: 2026-03-10
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/08/tagn-fantasy-critic-league-2026-week-ten-and-all-the-scores/)** — Wilhelm recaps a big Fantasy Critic week, with WoW Midnight confusion and strong early scores for Pokemon Pokopia and Esoteric Ebb.
-- **[Chasing Dings!](https://chasingdings.com/2026/03/08/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/)** — Tipa breaks down her Malifaux Colette 2 crew, why decoy tricks rule, and what made facing Jakob Lynch’s Honeypot feel new.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/03/the-quiet-at-midnight.html)** — Shintar finds WoW: Midnight’s early access and launch oddly empty, especially while juggling expansion time with SWTOR.
-- **[Sweetie Games](https://sweetie.games/2026/03/07/these-gaming-ads-are-so-nostalgic/)** — Sweetie misses the weird, maximalist magic of old gaming ads, from Final Fantasy VII phone tie-ins to the opposite of Switch 2 minimalism.
-- **[Virtual Moose](https://virtualmoose.org/2026/03/08/rocket-riot-thoughts/)** — Michael finds Rocket Riot a fun but repetitive arcade jetpack shooter, with the missing multiplayer on Steam really hurting the package.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/03/08/resident-evil-requiem-dead-inside/)** — Kimimi argues Resident Evil Requiem’s split between Grace’s horror and Leon’s action keeps it from fully committing to either mode.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/08/aggrochat-560-hazy-reflections/)** — Belghast and crew bounce through Path of Exile, Everything is Crab, Pokopia, Steam Next Fest demos, and a surprisingly chill WoW vibe.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/paupers-ladder.html)** — Tobold enjoys Pauper’s Ladder’s swingy Amerigame feel, especially compared with getting crushed in Eurogames by players who know them cold.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/03/08.html#a163034)** — Dave Winer says AI still can’t hold whole apps in its head, and pairs that with a pretty bleak read on tech’s moral collapse.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/how-much-water-do-the-data-centres-use-its-a-secret/)** — Jamie Zawinski spotlights secrecy around AI data center water use, warning the numbers are probably awful if companies fight this hard to hide them.
-## General
+- **[Scripting News](http://scripting.com/2026/03/09.html#a211530)** — Dave Winer wants a simple app for linkable, context-specific word definitions, and also cheers Manton Reece’s experimental RSS reader Inkwell.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/03/09/discord-quests-could-be-better/)** — Emily likes Discord Quests in theory, but wants more flexible ways to earn orbs than grinding multiplayer games she’d never actually play.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html)** — Bruce Schneier flags a sharp dependency problem: F-35 buyers rely on US software support, prompting talk of jailbreak-style third-party access.
+## Gaming
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/08/sunday-morning-reading-145/)** — Warner’s weekly roundup threads asteroid nudges, war, McCarthyism, and AI anxiety into a reminder that we’re not the universe’s main character.
-- **[brennan.day](https://brennan.day/we-as-men-must-do-more-and-we-must-do-better/)** — Brennan urges men to confront misogyny, stop offloading emotional and hermeneutic labor, and do the hard work themselves.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/09/pokemon-into-the-leafgreen/)** — Wilhelm dives into Pokémon LeafGreen for the series’ 30th, mixing remake history, handheld nostalgia, and a fresh return to Kanto.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/03/09/haiku-the-robot/)** — Ellie finds Haiku, the Robot a stripped-back metroidvania that wears its Hollow Knight love proudly and makes Arcadia’s ruined machine world inviting.
+- **[Oya's Game Hub](https://oyito.substack.com/p/return-of-the-obra-dinn-is-dark-weird)** — Oya says Return of the Obra Dinn rewards patience with deeply satisfying deduction, even if its stark 1-bit style takes some getting used to.
+- **[Indiecator](https://indiecator.org/2026/03/09/bossgame-final-boss-review/)** — Magi digs BOSSGAME’s blend of challenging boss-rush combat and lesbian romance, with messenger-style storytelling adding extra charm between fights.
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/03/picture-day.html)** — Joar survives house photo-day chaos, then unwinds with WoW progress through Eversong and into Zul'Aman on a Demonology Warlock.
+- **[In An Age](https://inanage.com/2026/03/09/impressions-slay-the-spire-2/)** — Azuriel’s early Slay the Spire 2 take is cautiously whelmed: familiar classes, wild balance, and combo-heavy runs that already feel a bit overtuned.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/what-im-not-playing.html)** — Bhagpuss, freshly done with Baldur’s Gate 3, spirals through Steam indecision and stalled installs while figuring out what to play next.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/03/09/9-things-i-wish-i-knew-before-starting-timberborn/)** — Frostilyte shares hard-won Timberborn starter advice, especially on storage placement, hauling, and keeping your beaver logistics from quietly collapsing.
+## Writing
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-03-10.html)** — Tofutush reflects on relating to Harmony in Spy School, tracing that connection to friendship, impostor syndrome, and the strange intimacy of writing.
