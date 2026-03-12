@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-03-11
+# Daily Blogroll: 2026-03-12
 
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2026/03/10/tactichord-glam-strategy/)** — Tipa is all in on Tactichord, a 1995-set tactics game where a glam metal band fights with power chords and cool-factor style points.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/10/valheim-again-in-this-economy/)** — Wilhelm drifts back to Valheim for fresh exploration, tweaking new world modifiers and reviving a mod setup after burning out elsewhere.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/03/10/steam-next-fest-february-2026-roundup-part-2/)** — Luna spotlights more Steam Next Fest demos, from The Last Gas Station’s mystery sim loop to Everything is Crab’s weird, evolutionary roguelite charm.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/03/11/collectors-cove/)** — Krista dives into Collector’s Cove, a cosy seafaring farm sim about shipboard crops, exploration, fishing, and creature-collecting with animal pals.
-- **[Bio Break](https://biobreak.wordpress.com/2026/03/09/world-of-warcraft-the-hour-strikes-midnight/)** — Syp eases into WoW: Midnight, juggling housing touches and Silvermoon sightseeing instead of rushing straight to cap and weekly rewards.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/03/09/wow-week-10-gold-making-wrap-up-2026/)** — Stargrace wasn’t fully feeling the auction grind, but WoW old-world recipes, transmog, and a few big sales still brought in nearly 2 million gold.
-- **[Margot Plays](https://margotplays.substack.com/p/lists-steam-next-fest-demos-feb-2026)** — Margot rounds up standout Steam Next Fest demos, praising everything from REPLACED’s gorgeous cyberpunk storytelling to Goldman’s demanding platforming.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/03/11/stellar-tactics-also-coming-soon/)** — Thomas celebrates Stellar Tactics finally hitting 1.0 this month, right alongside Xenonauts 2, for a very good spring for turn-based sci-fi fans.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/03/10.html#a182429)** — Dave Winer pitches a pay-per-article news EZ-Pass, notes NetNewsWire’s nod, and remains sharply skeptical of Bluesky’s distributed-social claims.
+- **[Scripting News](http://scripting.com/2026/03/11.html#a201305)** — Dave Winer says Claude Code sped a Node.js browser UI into shape, but its sandbox wandering and handoff.md thread juggling still feel pretty fraught.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/today-in-scrapers/)** — Jamie Zawinski marvels at AI scraper bots hammering his site with hilariously useless image-size 404s, which would be funny if it weren’t so annoying.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/11/making-level-74-in-pokemon-go-and-onward-to-level-75/)** — Wilhelm hits Pokémon Go level 74, with 200km as the real bottleneck, then eyes platinum medals, eggs, throws, and gifts for 75.
+- **[Chasing Dings!](https://chasingdings.com/2026/03/11/dune-awakening-finished-chapter-3/)** — Tipa says Dune: Awakening Chapter 3 piles on PvE, dungeons, crafting, augments, and faction grind so hard it feels like a relaunch-worthy new game.
+- **[Scopique](https://scopique.com/2026/03/11/changes-are-afoot-for-star-citizen-4-7/)** — Scopique likes Star Citizen 4.7’s armor changes, where ship classes matter more and small weapons stop pretending they should threaten capital ships.
+- **[Aywren's Nook](https://aywren.com/2026/03/11/ffxiv-level-80-blu)** — Aywren wraps FFXIV Blue Mage to 80 with Ram’s Voice and Ultravibration, while side-eyeing old skill grinds and a possible cap bump to 90.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/11/ninety-max-and-block-based/)** — Belghast digs deeper into Path of Exile Delve, finding Fossils richer than Resonators this league while nudging Righteous Fire toward a block setup.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/looking-behind-curtain-of-eu5-events.html)** — Tobold says an EU5 events mod reveals how much country-specific content stays invisible unless you play the exact path the developers expected.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/03/12/surging-aura-fresh-magic-system-vs-everything-else/)** — Kimimi finds Surging Aura’s chant-based magic and counterspells genuinely fresh, even if the rest of the game has to struggle to keep up.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/03/11/when-good-advice-stops-working/)** — Joar lays out why resume-polishing, networking, and forced positivity fall flat when a career transition is really about uncertainty and a changed market.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-03-08-week-10-digest/)** — Anarchae’s weekly digest mixes exhausting apartment-hunting, reading notes, and assorted media and game links, with the housing search dominating the mood.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/11/lobsters-steaks-and-grand-pianos-oh-my/)** — Warner riffs on lobster tails, steaks, a baby grand, and tech toys as the latest reminder that excess always floats to the top.
 ## Writing
 
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/3/5/creating-a-blogroll)** — Roger makes the case for bringing back the blogroll, both as community support and a practical way to send readers toward fellow bloggers.
+- **[Sweetie Games](https://sweetie.games/2026/03/11/one-year-of-writing-for-sweetiegames/)** — Sweetie marks a year back at SweetieGames, celebrating steady posts, interviews, TikTok experiments, and finally finding the audience the project deserved.
+- **[brennan.day](https://brennan.day/write-weird-shit/)** — Brennan argues the answer to AI-flattened prose isn’t lowercase gimmicks, but stranger, more lived-in writing that only a person would bother making.
