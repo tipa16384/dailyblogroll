@@ -559,3 +559,11 @@ feeds:
     category: Gaming
     blogger: UltrViolet
     pronouns: he/him
+  - name: Auric Quanta Strategies
+    url: https://auricquantastrategies.space/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Matt
+    pronouns: he/him
+    bluesky: "@aqstrategies.bsky.social"
+    required: True

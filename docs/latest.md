@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-03-12
+# Daily Blogroll: 2026-03-13
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/03/11.html#a201305)** — Dave Winer says Claude Code sped a Node.js browser UI into shape, but its sandbox wandering and handoff.md thread juggling still feel pretty fraught.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/today-in-scrapers/)** — Jamie Zawinski marvels at AI scraper bots hammering his site with hilariously useless image-size 404s, which would be funny if it weren’t so annoying.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/11/making-level-74-in-pokemon-go-and-onward-to-level-75/)** — Wilhelm hits Pokémon Go level 74, with 200km as the real bottleneck, then eyes platinum medals, eggs, throws, and gifts for 75.
-- **[Chasing Dings!](https://chasingdings.com/2026/03/11/dune-awakening-finished-chapter-3/)** — Tipa says Dune: Awakening Chapter 3 piles on PvE, dungeons, crafting, augments, and faction grind so hard it feels like a relaunch-worthy new game.
-- **[Scopique](https://scopique.com/2026/03/11/changes-are-afoot-for-star-citizen-4-7/)** — Scopique likes Star Citizen 4.7’s armor changes, where ship classes matter more and small weapons stop pretending they should threaten capital ships.
-- **[Aywren's Nook](https://aywren.com/2026/03/11/ffxiv-level-80-blu)** — Aywren wraps FFXIV Blue Mage to 80 with Ram’s Voice and Ultravibration, while side-eyeing old skill grinds and a possible cap bump to 90.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/11/ninety-max-and-block-based/)** — Belghast digs deeper into Path of Exile Delve, finding Fossils richer than Resonators this league while nudging Righteous Fire toward a block setup.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/looking-behind-curtain-of-eu5-events.html)** — Tobold says an EU5 events mod reveals how much country-specific content stays invisible unless you play the exact path the developers expected.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/03/12/surging-aura-fresh-magic-system-vs-everything-else/)** — Kimimi finds Surging Aura’s chant-based magic and counterspells genuinely fresh, even if the rest of the game has to struggle to keep up.
+- **[Auric Quanta Strategies](https://auricquantastrategies.space/2026/03/12/un-tidi-markets-trying-to-untangle-whatever-is-going-on-in-the-forge-and-metropolis/)** — Matt digs into EVE Online MER data and finds Metropolis rising as The Forge slips, though February says both markets are now sliding.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/12/guild-wars-reforged-m-o-x-and-a-diversion-into-cantha/)** — Wilhelm’s Guild Wars Reforged group recruits hero M.O.X., then promptly gets sidetracked from Lion’s Arch into a surprise trip to Cantha.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-11-2026-future-games)** — Sey rounds up Future Games Show standouts, from Unboxing Mr. Coo and ReVamp to dog-space Metroidvania Rover’s Tale and Hello Sunshine.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/03/gates-crashed.html)** — Shintar recounts SWTOR Dread Fortress timed-run heartbreak, Brontes wipes, and a raid team suddenly nailing the fight when expectations were low.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/getting-into-zone.html)** — Bhagpuss kicks off an EverQuest II zone series by discovering nobody, including Gemini, can convincingly count how many zones EQ2 actually has.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/03/11/steam-next-fest-winter-2026-what-i-played/)** — Emily’s Steam Next Fest picks span horror and roguelites, with The Occultist intriguing, Seth eating hours, and Armatus not quite landing.
+- **[Bio Break](https://biobreak.wordpress.com/2026/03/11/wow-classic-everything-clicks-into-place/)** — Syp hits the sweet spot in WoW Classic as Stormstrike transforms his shaman rotation and the slow, nostalgic leveling loop feels genuinely restorative.
+- **[Margot Plays](https://margotplays.substack.com/p/reviews-hermit-and-pig)** — Margot calls Hermit and Pig a Pokémon-like RPG standout, praising its story and combat even as the combo inputs occasionally fought back.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/12/explosive-searing-bond/)** — Belghast tweaks a Path of Exile build with chaos resistance fixes and Searing Bond of Detonation, while leaning on games during a rough week.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/03/12.html#a141347)** — Dave Winer argues inbound RSS is the missing piece for Substack and Bluesky, while also chasing a WordPress feed bug around http and https GUIDs.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html)** — Bruce Schneier flags Apple’s claim that iPhones and iPads are the first consumer devices approved for NATO restricted classified data out of the box.
 ## General
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/11/lobsters-steaks-and-grand-pianos-oh-my/)** — Warner riffs on lobster tails, steaks, a baby grand, and tech toys as the latest reminder that excess always floats to the top.
-## Writing
-
-- **[Sweetie Games](https://sweetie.games/2026/03/11/one-year-of-writing-for-sweetiegames/)** — Sweetie marks a year back at SweetieGames, celebrating steady posts, interviews, TikTok experiments, and finally finding the audience the project deserved.
-- **[brennan.day](https://brennan.day/write-weird-shit/)** — Brennan argues the answer to AI-flattened prose isn’t lowercase gimmicks, but stranger, more lived-in writing that only a person would bother making.
+- **[Grumpy Gamer](https://grumpygamer.com/tomorrow_never_came/)** — Ron Gilbert shares a teenage homemade movie, now gloriously soundless on VHS, plus a very Ron aside about Lucasfilm and Monkey Island.
