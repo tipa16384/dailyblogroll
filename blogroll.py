@@ -299,12 +299,10 @@ def collect_new_items(cfg):
                 # ignore this entry on error
                 pass
 
-        # Update the cutoff for this feed to the max timestamp we actually used
-        # If no items were processed but the feed changed, keep last_ts as-is.
-        st["last_ts"] = max_seen_ts
-
-        # Update feed selection tracking if any items were picked from this feed
+        # Update the cutoff for this feed only if we actually featured posts from it
         if pf_count > 0:
+            st["last_ts"] = max_seen_ts
+            # Update feed selection tracking since posts were picked from this feed
             db.update_feed_selection(feed_url)
             debug_log.append(f"Updated selection tracking for {f.get('name', '')}")
 

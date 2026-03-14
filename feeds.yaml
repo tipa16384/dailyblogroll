@@ -566,4 +566,4 @@ feeds:
     blogger: Matt
     pronouns: he/him
     bluesky: "@aqstrategies.bsky.social"
-    required: True
+    required: False

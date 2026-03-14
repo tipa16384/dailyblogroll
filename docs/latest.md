@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-03-13
+# Daily Blogroll: 2026-03-14
 
 ## Gaming
 
-- **[Auric Quanta Strategies](https://auricquantastrategies.space/2026/03/12/un-tidi-markets-trying-to-untangle-whatever-is-going-on-in-the-forge-and-metropolis/)** — Matt digs into EVE Online MER data and finds Metropolis rising as The Forge slips, though February says both markets are now sliding.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/12/guild-wars-reforged-m-o-x-and-a-diversion-into-cantha/)** — Wilhelm’s Guild Wars Reforged group recruits hero M.O.X., then promptly gets sidetracked from Lion’s Arch into a surprise trip to Cantha.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-11-2026-future-games)** — Sey rounds up Future Games Show standouts, from Unboxing Mr. Coo and ReVamp to dog-space Metroidvania Rover’s Tale and Hello Sunshine.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/03/gates-crashed.html)** — Shintar recounts SWTOR Dread Fortress timed-run heartbreak, Brontes wipes, and a raid team suddenly nailing the fight when expectations were low.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/getting-into-zone.html)** — Bhagpuss kicks off an EverQuest II zone series by discovering nobody, including Gemini, can convincingly count how many zones EQ2 actually has.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/03/11/steam-next-fest-winter-2026-what-i-played/)** — Emily’s Steam Next Fest picks span horror and roguelites, with The Occultist intriguing, Seth eating hours, and Armatus not quite landing.
-- **[Bio Break](https://biobreak.wordpress.com/2026/03/11/wow-classic-everything-clicks-into-place/)** — Syp hits the sweet spot in WoW Classic as Stormstrike transforms his shaman rotation and the slow, nostalgic leveling loop feels genuinely restorative.
-- **[Margot Plays](https://margotplays.substack.com/p/reviews-hermit-and-pig)** — Margot calls Hermit and Pig a Pokémon-like RPG standout, praising its story and combat even as the combo inputs occasionally fought back.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/12/explosive-searing-bond/)** — Belghast tweaks a Path of Exile build with chaos resistance fixes and Searing Bond of Detonation, while leaning on games during a rough week.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/13/friday-the-thirteenth-bullet-points-about-eve-online/)** — Wilhelm rounds up EVE Online notes on Project Discovery turning ten and CCP tweaking faction warfare standings and awoxing penalties.
+- **[Virtual Moose](https://virtualmoose.org/2026/03/13/indie-game-roundup-march-13-2026/)** — Michael’s indie roundup spotlights adventure games, game jams, and odd little Itch.io finds with plenty of love for hobbyist developers.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/3/13/pre-ordering-crimson-desert)** — Roger takes the plunge on Crimson Desert after strong early buzz, while noting the hefty 150GB install and SSD recommendation.
+- **[Scopique](https://scopique.com/2026/03/13/embracing-the-grind/)** — Scopique is happily grinding Star Citizen’s Alliance Aid event for a permanent crafting fabricator before 4.7 lands.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/altay-dawn-of-civilization.html)** — Tobold finds Altay: Dawn of Civilization a solid deckbuilder with area control, but questions its scaling and long-term replayability.
+- **[Aywren's Nook](https://aywren.com/2026/03/13/ffxiv-patch-7-5-trail-to-the-heavens-live-letter-breakdown)** — Aywren breaks down FFXIV patch 7.5, from Beastmaster and relics to housing storage, dye consolidation, and the April 28 release.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/03/13/mitsumete-knight-love-blooming-on-the-battlefield/)** — Kimimi digs into Mitsumete Knight, a fantasy dating sim where Tokimeki Memorial-style stat raising collides with war, duels, and possible deaths.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/03/12.html#a141347)** — Dave Winer argues inbound RSS is the missing piece for Substack and Bluesky, while also chasing a WordPress feed bug around http and https GUIDs.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html)** — Bruce Schneier flags Apple’s claim that iPhones and iPads are the first consumer devices approved for NATO restricted classified data out of the box.
+- **[Scripting News](http://scripting.com/2026/03/13.html#a135240)** — Dave Winer argues “coder” and AI “slop” both miss the point, while pushing blogging, the open web, and human creativity.
+- **[usebox.net](https://www.usebox.net/jjm/blog/be-human/)** — JJM says LLM-written Slack messages and pull requests feel demoralizing, making a simple case for human conversation at work and online.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/13/macbook-neo-ing/)** — Warner handles Apple’s MacBook Neo in store and comes away thinking the build is great, but the real story is the price.
 ## General
 
-- **[Grumpy Gamer](https://grumpygamer.com/tomorrow_never_came/)** — Ron Gilbert shares a teenage homemade movie, now gloriously soundless on VHS, plus a very Ron aside about Lucasfilm and Monkey Island.
+- **[West Karana](https://westkarana.blog/2026/03/13/movies-without-chris-pratt-war-machine-and-jurassic-world-rebirth/)** — Tipa kicks off a movie-review series with War Machine, a Rangers-vs-giant-mech film she kept mistaking for a Chris Pratt vehicle.
+- **[Jamie Zawinski's Blog](https://www.dnalounge.com/backstage/log/2026/03/13.html)** — Jamie Zawinski fumes as the DOJ settles with Live Nation/Ticketmaster, and urges readers to push state AGs to keep fighting.
