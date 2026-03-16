@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-03-15
+# Daily Blogroll: 2026-03-16
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/03/14.html#a145211)** — Dave Winer argues WordPress should define social posts, then pivots to how AI coding tools are scrambling his own planning and code questions.
-- **[Smith Talks Tech](https://smithtalkstech.com/2026/03/14/so-i-built-myself-an-ai-life-coach/)** — Pete built a ChatGPT life coach to tackle fatigue and productivity, and its simple natural-light experiment seems promising so far.
 ## Gaming
 
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/03/pain-and-pawnishment-in-mewgenics.html)** — The Friendly Necromancer says Mewgenics is equal parts maddening and brilliant, with weird classes, cat trading, and roguelike runs that keep pulling him back.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/14/ongoing-fighting-in-southern-geminate/)** — Wilhelm recaps EVE Online pressure in southern Geminate, where Imperium raids keep TEST busy without this looking like a full-scale invasion.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/03/14/i-cant-bring-myself-to-finish-metaphor-refantazio/)** — Frostilyte is only hours from finishing Metaphor: ReFantazio, but one story turn nuked his interest so hard he may never go back.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/03/14/teenage-mutant-ninja-turtles/)** — Ellie dives into the 1989 NES Teenage Mutant Ninja Turtles, sparked by Magic: The Gathering’s crossover and renewed affection for the franchise.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/03/14/wow-how-is-midnight-going/)** — Stargrace checks in on World of Warcraft: Midnight, settling on a monk main while juggling campaign progress, dailies, housing, and Season 1 anticipation.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/03/15/trinket-bag-maker-review/)** — Krista says Trinket Bag Maker is a short, super-cute nostalgia trip about building early-2000s dream bags with trinkets, stickers, and plenty of style options.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/03/15/dead-space-ignition-puzzle-engineer-review/)** — Thomas finds Dead Space: Ignition a cheap curiosity for lore fans, but says its puzzle-heavy prequel setup wastes Franco Delille and The Sprawl.
-- **[Sweetie Games](https://sweetie.games/2026/03/14/nobody-wants-to-marry-clint/)** — Sweetie digs into Stardew Valley backlash over Clint becoming a marriage candidate, and why fans wanted the Wizard instead.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/15/tagn-fantasy-critic-league-2026-week-eleven-and-ongoing-unfinished-business/)** — Wilhelm tracks another Fantasy Critic League shakeup as Marathon lands middling and Monster Hunter Stories 3 gives Ula a timely boost.
+- **[Endgame Viable](https://endgameviable.com/post/2026/03/2026-03-15-march-pt1/)** — UltrViolet checks in on WoW Midnight and sounds thoroughly unimpressed with its cutscenes, quest flow, and same-old expansion formula.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/15/aggrochat-561-seeking-humans/)** — Belghast and crew bounce through ITER-8, Pokopia, Last Epoch, Star Trek Online, and Path of Exile in another packed MMO chat.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/evil-is-as-evil-does.html)** — Bhagpuss fondly revisits EverQuest when evil races, faction grind, and dangerous guards made MMO choices feel weighty and a little scary.
+- **[Bio Break](https://biobreak.wordpress.com/2026/03/13/lotro-contemplating-a-long-break/)** — Syp weighs shelving LOTRO after An Sheru fatigue, muddled names, and creeping burnout make WoW, ESO, and Fallout 76 look tempting.
 ## General
 
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/03/disclosure-day-spielberg-goes-back-to.html)** — CrazyKinux is all-in on Spielberg’s Disclosure Day, pitching it as a return to his original first-contact sweet spot with a stacked creative team.
+- **[Scripting News](http://scripting.com/2026/03/15.html#a153417)** — Dave Winer says Frontline’s Iran War podcasts are the sharpest briefings he’s heard, outclassing cable news chatter.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-03-15-week-11-digest/)** — Anarchae’s week was all sickness, job training, apartment hunting, and comfort reading The Circular Staircase while Survivor filled the gaps.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/03/13/reaper-in-the-white-pool-below/)** — Emily recounts a vivid dream obstacle course full of white halls, bolt-firing gargoyles, and mounting dread before a looming final monster.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/15/sunday-morning-reading-146/)** — Warner rounds up smart Sunday reading on gambling logic, Iran-era unease, generative AI, grief, and whether computers are still fun.
 ## Writing
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-03-14.html)** — Tofutush is rereading all 15 Wings of Fire books before book 16, kicking off with why The Dragonet Prophecy nails worldbuilding.
+- **[brennan.day](https://brennan.day/childhood-hypercapitalist-nostalgia-and-unsupervised-internet-access/)** — Brennan dives into House Hippos, PSAs, junk food, and VHS-era ads as childhood media literacy curdles into affectionate nostalgia.
+## Tech
+
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html)** — Bruce Schneier flags a supposed quantum factorization advance for RSA, but keeps his skepticism firmly switched on.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/macos-26-guest-user/)** — Jamie Zawinski asks how macOS 26 mangled guest-user customization, after the old User Template trick apparently stopped working.
