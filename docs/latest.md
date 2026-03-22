@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-03-21
+# Daily Blogroll: 2026-03-22
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/20/friday-bullet-points-about-bad-ideas-on-the-first-day-of-spring/)** — Wilhelm rounds up EG7’s softer Q4, worries about Daybreak’s aging lineup, and notes Daybreak beat The Heroes Journey in a very unsurprising settlement.
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/03/the-music-of-mewgenics-chasin-rats.html)** — The Friendly Necromancer spotlights Mewgenics’ ridiculously catchy Ridiculon soundtrack, with Kyle’s tier list proving this family is fully in its cat-song era.
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/03/21/auto-balancing-and-load-testing-ridiculous-space-battles/)** — Cliffski digs into why auto-balancing Ridiculous Space Battles means way more than headless sims, especially when random fleets can produce totally useless stats.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/steam-spring-sale-bargains-and-skips.html)** — Bhagpuss browses the Steam Spring Sale, mulls wishlist psychology, and explains why even a 70% discount still isn’t enough for Smalland.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/3/20/crimson-desert-initial-thoughts)** — Roger finds Crimson Desert packed with systems and MMO-like menus, but says the dense tutorial and awkward controls make for a steep early climb.
-- **[Bio Break](https://biobreak.wordpress.com/2026/03/20/wow-classic-dwelling-in-duskwallow/)** — Syp is happily poking through WoW Classic’s Duskwallow Marsh, enjoying the mid-40s questing groove without any rush toward Outland.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/03/19/d-o-r-f-real-time-strategic-conflict-kickstarter/)** — Thomas notes D.O.R.F.’s Kickstarter is already funded, but this old-school RTS throwback still looks like a pretty long wait until 2028.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/bridgerton-vs-crimson-desert.html)** — Tobold argues Crimson Desert’s big open world is more Grosvenor Square than Bridgerton, if you wanted drama instead of freeform exploration.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/03/20.html#a140148)** — Dave Winer says Bluesky’s late $100 million disclosure hurts trust, and argues the platform should connect to the web, not just AT Proto.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/03/20/Nash-Burns)** — Tim Bray recounts a maddening Germany-only email outage saga that turned out to be firewall trouble, until Nash Burns finally fixed it.
+- **[Scripting News](http://scripting.com/2026/03/21.html#a191850)** — Dave Winer looks back to March 21, 2006—first tweet, early YouTube, OPML dreams—and says his new feediverse push is basically a return to web roots.
+- **[brennan.day](https://brennan.day/building-the-good-web/)** — Brennan sketches a “Good Web” built in good faith—less dark-pattern sludge, more humane community-minded spaces that actually respect users.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/google-pass-redux/)** — Jamie Zawinski asks the Lazyweb if Google Pass finally matters, mainly because faster Android QR scanning would help move nightclub lines along.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/21/world-of-warcraft-the-account-played-addon-totals/)** — Wilhelm finally totals his World of Warcraft time across 42 characters: 261 days, with Vikund alone eating up nearly 100 of them.
+- **[Virtual Moose](https://virtualmoose.org/2026/03/21/frog-detective-1-the-haunted-island-thoughts/)** — Michael says Frog Detective 1 still charms as a funny, simple, kid-friendly adventure, even if the dialogue puzzles and jokes get a little repetitive.
+- **[Sweetie Games](https://sweetie.games/2026/03/21/nintendo-is-keeping-consoles-relevant/)** — Sweetie says Pokopia hype proves Nintendo still wins with true exclusives, making the Switch 2 feel necessary in a PC-heavy gaming world.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/20/the-broken-elegy/)** — Belghast is tinkering with a Path of Exile minion build around Broken Elegy, shrine belts, and Guardian, with equal parts chaos and curiosity.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/a-post-scriptum-to-yesterdays-post.html)** — Tobold defends judging Crimson Desert from reviews and footage, saying pre-purchase filtering matters when a game’s boss fights and controls sound like dealbreakers.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/3/22/crimson-desert-arm-wrestling-quick-time-event)** — Roger calls out Crimson Desert for locking story progress behind a nasty arm-wrestling QTE, then uses AutoHotKey to brute-force past it.
+## Writing
+
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/03/star-wars-would-be-better-off-without.html)** — CrazyKinux argues Star Wars doesn’t need the Force everywhere; Andor-style stories work better when Jedi magic stays rare and mysterious.
 ## General
 
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/top-fema-official-claims-he-teleported-to-waffle-house/)** — Jamie Zawinski flags a wild Rolling Stone report about a FEMA official claiming teleportation to Waffle House, which is as alarming as it sounds.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html)** — Bruce Schneier’s Friday squid post points to jumbo flying squid conservation in the South Pacific and opens the thread for whatever security news readers bring.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-03-21.html)** — Tofutush’s spring break diary is a darkly funny run of knife cuts, mystery stomach trouble, storm dodging, and homework dread.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/22/sunday-morning-reading-147/)** — Warner rounds up essays on literacy, Iran, AI, finance, and artists’ day jobs, with a reflective detour through time with the grandkids.
