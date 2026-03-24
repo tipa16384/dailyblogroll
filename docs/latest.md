@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-03-23
+# Daily Blogroll: 2026-03-24
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/03/22.html#a153844)** — Dave Winer revisits a 2006 web crossroads, arguing VC-fueled monopolies warped the internet and wondering whether a second chance would go better.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html)** — Bruce Schneier spotlights a long-awaited Xbox One hack, where voltage glitching finally cracks the console wide open in an unpatchable way.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/22/tagn-fantasy-critic-league-2026-week-twelve-and-crimson-desert/)** — Wilhelm checks his Fantasy Critic standings as Crimson Desert lands a decent score, with controller complexity sounding like the real review killer.
-- **[Chasing Dings!](https://chasingdings.com/2026/03/22/review-the-invincible/)** — Tipa digs The Invincible for its quiet mystery, retro-futurist sci-fi mood, and choice-driven exploration more than any twitchy action.
-- **[nicole express](https://nicole.express/2026/nicole-in-blunderland.html)** — Nicole takes a chance on Wonderland Amusements’ sub-$1000 home pinball machine, finding a much more DIY build than the old ToyShock setup.
-- **[In An Age](https://inanage.com/2026/03/23/subnautica-may-day-maybe/)** — Azuriel breaks down the Subnautica 2 ruling and why Krafton’s bonus structure looked like a giant incentive to avoid paying Unknown Worlds.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/03/22/venba/)** — Ellie calls Venba deeply moving, saying its cooking-game surface barely contains its themes of immigration, family, culture, and belonging.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/03/23/dracula-x-chronicles-behold-my-true-form-and-despair-again/)** — Kimimi gets thoroughly humbled by Dracula X Chronicles’ final boss, then turns the losing streak into a sharp look at relearning the fight.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/03/22/stargate-sg-1-the-alliance-trailer-cancelled-game-video/)** — Thomas mourns the cancelled Stargate SG-1: The Alliance after uncovering trailer and dev footage for the squad-based shooter that never was.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/22/aggrochat-562-here-be-dragons/)** — Belghast and crew bounce through Dragonkin, Last Epoch, Pokémon Horizons, Path of Exile, and what makes a character more than a build.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/23/slipping-into-the-gallente-presidential-election-event/)** — Wilhelm dives into EVE Online’s Gallente election event, amused by the candidate gimmick and glad CCP shipped something besides the usual seasonal reruns.
+- **[WCRobinson](https://wcrobinson.org/2026/03/23/gunner-chan-review-a-fast-fun-roguelike-shooter-packing-plenty-of-charm/)** — WCRobinson says Gunner-chan! is a brisk, charming roguelike shooter on Switch and PC that punches above its budget with lively arcade action.
+- **[Oya's Game Hub](https://oyito.substack.com/p/the-baldurs-gate-iii-diaries-part)** — Oya’s first Baldur’s Gate 3 notes mix eye-horror, an hour-long bard creator session, Steam Deck struggles, and immediate curiosity about Shadowheart.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/03/first-impressions-of-galactic-season-10.html)** — Shintar enjoys SWTOR Galactic Season 10, but the companion-specific Conquest objectives already feel grindier and way less flexible than older seasons.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/03/23/wow-gold-making-wrap-up-week-12-2026/)** — Stargrace made 1.5 million gold in WoW, spent big on professions and recipes, and is happily leveling alts with pet battles and weekly content.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/03/24/moonstone-island-deluxe-edition-unboxing/)** — Luna shows off Moonstone Island’s pricey but adorable Switch Deluxe Edition, loving the physical goodies while wishing the cosmetic DLC was included.
+- **[Aywren's Nook](https://aywren.com/2026/03/23/steam-weekend-gaming-rotation)** — Aywren shares a smart Steam weekend rotation, alternating games like Enshrouded and Palworld to keep co-op sessions fresh and burnout at bay.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/03/23.html#a230718)** — Dave Winer demos FeedLand’s category-powered dynamic OPML lists and muses that AI like Claude should just handle server maintenance already.
+- **[Scopique](https://scopique.com/2026/03/23/grab-bag-for-week-ending-21-march-2026/)** — Scopique falls down a digital audio player rabbit hole, weighing simple MP3-style options like the Snowsky Echo against pricier streaming-friendly gear.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-03-22-week-12-digest/)** — Anarchae’s weekly digest is a blur of qigong, shoe-shopping, condo stress, work training, mystery novels, Survivor, and general life admin.
-- **[Virtual Moose](https://virtualmoose.org/2026/03/22/blog-roundup-march-22-2026/)** — Michael serves up a brisk web roundup spanning comics, music, tech, games, and writing, with a side of old-internet optimism.
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/03/bathroom-and-kitchen-disaster-and-still.html)** — Joar’s post is mostly home-sale chaos—leaky tub, damaged ceiling, pricey driveway—but he still squeezes in some World of Warcraft and hits level 87.
+- **[West Karana](https://westkarana.blog/2026/03/23/movies-without-chris-pratt-project-hail-mary/)** — Tipa reviews Project Hail Mary as a smart space survival story, comparing its setup to Passengers before zeroing in on Ryland Grace and Rocky.
+## Writing
+
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/03/23/inheritance-ghosts-in-the-manor/)** — Emily digs the Gothic vibes of Inheritance, especially the haunted manor, ghostly 3 a.m. weirdness, and a romance that stays nicely in the background.
