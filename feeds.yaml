@@ -567,3 +567,15 @@ feeds:
     pronouns: he/him
     bluesky: "@aqstrategies.bsky.social"
     required: False
+  - name: False Machine
+    update_frequency: monthly
+    cateogory: Gaming
+    blogger: Patrick
+    url: https://falsemachine.blogspot.com/feeds/posts/default
+    pronouns: he/him
+  - name: Full Time Casual
+    url: https://blog.kevinbrill.com/feeds/posts/default
+    update_frequency: monthly
+    category: Gaming
+    blogger: Kevin
+    pronouns: he/him
