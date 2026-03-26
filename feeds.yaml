@@ -76,7 +76,7 @@ feeds:
     category: Gaming
     blogger: Bhagpuss
     pronouns: he/him
-    required: False
+    required: True
     mastodon: Bhagpuss
     bluesky: "@inventoryfull.bsky.social"
   - name: Scopique
@@ -236,7 +236,7 @@ feeds:
     pronouns: she/her
     mastodon: "@stargrace"
     bluesky: "@stargrace.bsky.social"
-    required: False
+    required: True
   - name: The Daily WTF
     url: https://feeds.feedburner.com/TheDailyWtf
     update_frequency: daily
