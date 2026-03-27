@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-03-26
+# Daily Blogroll: 2026-03-27
 
-## Gaming
-
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/03/25/eq-everquest-legends-hell-yes/)** — Stargrace is all-in on EverQuest Legends as a busy adult’s Norrath return, with The Hero’s Journey vibes and Brasse’s involvement sweetening it.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/25/everquest-legends-announced-but-what-is-it-exactly/)** — Wilhelm likes EverQuest Legends’ solo-casual pitch, but not the messy rollout and fuzzy ‘Classic+’ framing around what it actually is.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/the-legends-of-everquest-or-third-times.html)** — Bhagpuss digs into EverQuest Legends’ loaded name and sees a clear bid for players left homeless by The Hero’s Journey shutdown.
-- **[Chasing Dings!](https://chasingdings.com/2026/03/25/everquest-3-is-officially-dead/)** — Tipa rounds up EverQuest Legends details from Discord, sketching a solo-friendly, multiclassed reimagining that isn’t just The Heroes Journey with a badge.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/not-buying-that-game-board-game-edition.html)** — Tobold talks himself out of Arkham Horror: The Card Game and Brass: Pittsburgh because his current groups and time limits just won’t support them.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/03/the-safe-spot-episode-4-ff4a-beyond.html)** — CrazyKinux and Rixx swap EVE Online stories on FF4A chaos, hauling jitters, gate camps, filaments, and CCP’s 53 new systems.
-- **[Sweetie Games](https://sweetie.games/2026/03/25/ive-never-found-another-game-like-this/)** — Sweetie makes a strong nostalgic case for Sonic Riders, saying no other racer—not even Sonic Racing Crossworlds—hits that same fast hoverboard feel.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/03/25.html#a131930)** — Dave Winer eyes WordPress MCP as a possible WordLand fit, while wrestling old servers and wondering how AI is reshaping WordPress development.
-- **[Sid's Blog](https://0xsid.com/blog/667mhz-machine)** — Sid’s 667MHz nostalgia trip vividly recalls tropical beige-box upkeep, rationed 56K dial-up, and when getting online was a whole household event.
-## General
+- **[Scripting News](http://scripting.com/2026/03/26.html#a204940)** — Dave Winer pitches RSS as an open two-way network, from Beeper-style messaging to FeedLand blogrolls, with the usual standards-over-silos drumbeat.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/03/24/Long-Links)** — Tim Bray serves another long-links mix, skimming inequality, CO2 monitoring, fraud investigation, and a hefty chunk of AI reading.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html)** — Bruce Schneier argues AI regulation is becoming a midterms wedge issue, especially after Trump moved to block states from setting their own rules.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/official-video-full-hd-remastered/)** — Jamie Zawinski dunks on Kylie Minogue’s supposedly remastered Come Into My World video for looking like a gnarly AI-upscaled mess.
+## Gaming
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/25/paying-the-pump/)** — Warner notes gas prices jumping sharply over five days on a family trip, with truck-stop grumbling underscoring the Iran-driven squeeze.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-03-24-working-hard-or-hardly-working/)** — Anarchae weighs new-job anxiety, strict NDA limits, and the shock of moving from seven years of freedom into rigid stadium hospitality work.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/26/notes-from-a-week-of-midnight-about-things-other-than-housing/)** — Wilhelm moves past WoW Midnight housing to boosted-paladin questing, where Silvermoon urgency quickly gives way to the classic farmer-problem MMO routine.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-13-2026)** — Sey rounds up indie finds like Bubble Frog 2, GO! GO! Mister Chickums, Little Nemo, and a new videogames magazine Kickstarter.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/26/last-epoch-shattered-omens-launch-day/)** — Belghast pauses Path of Exile for Last Epoch: Shattered Omens, praising its approachable ARPG design and shouting out community build-guide creators.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/03/27/samba-de-amigo-pure-impractical-sunshine/)** — Kimimi loves Dreamcast oddity Samba de Amigo while admitting the giant maracas are gloriously impractical, fiddly tech for a tiny audience.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/03/26/singularity-in-mother-russia-time-clocks-you-review/)** — Thomas revisits Singularity as a pulpy Soviet sci-fi shooter where time travel, E-99, and flesh-hungry mutants matter more than plot neatness.
 ## Writing
 
-- **[brennan.day](https://brennan.day/storytelling-part-one-the-neurology-of-narrative/)** — Brennan kicks off a thoughtful series on storytelling, arguing narrative creates meaning from information and drawing on neuroscience and writing study.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-03-26.html)** — Tofutush reflects on growing up bilingual, why understanding a language isn’t the same as translating it, and how books shaped her English.
+- **[Aywren's Nook](https://aywren.com/2026/03/26/wayrift-24-years-of-webcomics)** — Aywren celebrates 24 years of Wayrift, looking at art evolution, archive rebuilding, steadier production, and the long road toward chapter 100.
+## General
+
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/03/25/fears-of-how-age-verification-will-affect-me/)** — Emily vents about age-verification laws, fearing ID checks and surveillance could wall off Discord, AO3, and her ability to create online.
