@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-03-28
+# Daily Blogroll: 2026-03-29
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/03/27/200053.html?title=rss20AsANetwork)** — Dave Winer sketches rss.network as an RSS 2.0 chat app, using ChatGPT and Claude to quickly mock up the concept and browser UI.
-- **[Scopique](https://scopique.com/2026/03/27/impressions-hiby-r1-digital-audio-player/)** — Scopique’s HiBy R1 impressions pitch a cheap little DAP as a way to escape the phone and maybe get better music playback, quirks included.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/27/eve-online-on-the-trail-with-the-gallente-presidential-election/)** — Wilhelm wraps EVE Online’s Gallente election event, hits 1,000 points, and grumbles that grinding Gallente level 1 missions exposes how thin that content pool is.
-- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/03/27/the-horror-reaches-its-zenith/)** — Mailvaltar calls Resident Evil Requiem an early Game of the Year, praising its near-perfect blend of suspenseful helplessness and Resident Evil 4-style action.
-- **[Bio Break](https://biobreak.wordpress.com/2026/03/27/lotro-a-spring-fling/)** — Syp returns to LOTRO refreshed, pushes into Idagal to finish Kingdoms of Harad, and grabs a very cute daffodil goat from Spring Festival.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/stars-out-of-reach.html)** — Bhagpuss eyes Stars Reach’s latest pre-alpha push with some skepticism, especially after layoffs, repeated emails, and questions about why more keys are needed.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/sovl-fantasy-warfare.html)** — Tobold recommends SOVL: Fantasy Warfare as a cheap, legally-distinct Warhammer-style tactics roguelike that clicks once you lean on cavalry and ranged units.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/03/28/eql-questions-answered/)** — Stargrace rounds up EverQuest Legends FAQ details, including housing, PC-only launch, a subscription model, no multiboxing, and Kunark already in the works.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/03/when-ccp-snubs-its-most-dedicated.html)** — CrazyKinux argues CCP’s EVE Creator Awards badly missed Rixx Javix and, more broadly, keep overlooking the blogging and art communities behind EVE Online.
+- **[Chasing Dings!](https://chasingdings.com/2026/03/28/blasts-from-the-past-is-it-the-90s-again/)** — Tipa revives a beloved Dinokun virtual pet, revisits Geocities-era fandom scars, and spots 8-Colors Star Guardians as a very her thing.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/28/vibe-check-monsters-memories/)** — Wilhelm dips into Monsters & Memories and finds a very deliberate old-school MMO vibe, with character creation and zones screaming early EverQuest.
+- **[READ ONLY MEMO](https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/)** — Wes digs into ReXGlue, the open source Xbox 360 recompilation project pushing native PC ports beyond simple emulation talk.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/03/casual-midnight-endgame.html)** — Shintar is having a good time with WoW Midnight's endgame, especially the weekly story cadence, even if raid-story spoilers are a mess.
+- **[Sweetie Games](https://sweetie.games/2026/03/28/are-these-games-copying-each-other/)** — Sweetie unpacks the copycat debate around Genshin Impact, Breath of the Wild, and The Seven Deadly Sins: Origin without flattening them into clones.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/27/corruptions-are-wild/)** — Belghast checks in on Last Epoch's Shattered Omens season, celebrates new content, and admits the game's little companion menagerie still rules.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/03/28/the-expanse-osiris-reborn-gameplay-trailer/)** — Thomas likes what The Expanse: Osiris Reborn is showing so far, pitching it as the modern Mass Effect-style space RPG we never really got.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/stars-reach-we-can-do-this-easy-way-or.html)** — Bhagpuss gets Stars Reach running, then runs into a tutorial vibe that feels determined to scare off anyone hoping for a relaxed good time.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/03/28.html#a141117)** — Dave Winer wants an AI helper to rate Netflix picks via Metacritic and remains unconvinced Bluesky's AT Proto fixes the silo problem.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/internet-advertising-is-going-great/)** — Jamie Zawinski gets a Spotify ad rejected for containing only music, which says a lot about where online advertising has ended up.
+## Writing
+
+- **[Zarf Updates](https://blog.zarfhome.com/2026/03/ludic-narrans)** — Andrew Plotkin pops up in Ludic Narrans, a free game-studies interview collection about play that comes in two differently structured editions.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-03-27-week-12-5-digest/)** — Anarchae’s digest mixes condo-and-workwear stress with mystery novel notes, plus a sharp rant about sneaker shopping feeling like PC hardware one-upmanship.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/27/celebrate-world-theatre-day/)** — Warner marks World Theatre Day with Willem Dafoe’s message and a simple pitch: go see a play and give live theatre some love.
-- **[brennan.day](https://brennan.day/being-a-21st-century-schizoid-man/)** — Brennan uses King Crimson’s “21st Century Schizoid Man” to frame a broader look at modern social withdrawal, from hikikomori to tang ping.
+- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/03/28/we-got-a-heat-pump-at-last/)** — Cliffski finally gets a heat pump into a drafty 1750 house, with plenty of bureaucratic nonsense and grant-chasing along the way.
