@@ -1,22 +1,16 @@
-# Daily Blogroll: 2026-03-29
+# Daily Blogroll: 2026-03-30
 
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2026/03/28/blasts-from-the-past-is-it-the-90s-again/)** — Tipa revives a beloved Dinokun virtual pet, revisits Geocities-era fandom scars, and spots 8-Colors Star Guardians as a very her thing.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/28/vibe-check-monsters-memories/)** — Wilhelm dips into Monsters & Memories and finds a very deliberate old-school MMO vibe, with character creation and zones screaming early EverQuest.
-- **[READ ONLY MEMO](https://readonlymemo.com/rexglue-xbox-360-recompilation-interview/)** — Wes digs into ReXGlue, the open source Xbox 360 recompilation project pushing native PC ports beyond simple emulation talk.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/03/casual-midnight-endgame.html)** — Shintar is having a good time with WoW Midnight's endgame, especially the weekly story cadence, even if raid-story spoilers are a mess.
-- **[Sweetie Games](https://sweetie.games/2026/03/28/are-these-games-copying-each-other/)** — Sweetie unpacks the copycat debate around Genshin Impact, Breath of the Wild, and The Seven Deadly Sins: Origin without flattening them into clones.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/27/corruptions-are-wild/)** — Belghast checks in on Last Epoch's Shattered Omens season, celebrates new content, and admits the game's little companion menagerie still rules.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/03/28/the-expanse-osiris-reborn-gameplay-trailer/)** — Thomas likes what The Expanse: Osiris Reborn is showing so far, pitching it as the modern Mass Effect-style space RPG we never really got.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/stars-reach-we-can-do-this-easy-way-or.html)** — Bhagpuss gets Stars Reach running, then runs into a tutorial vibe that feels determined to scare off anyone hoping for a relaxed good time.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/03/28.html#a141117)** — Dave Winer wants an AI helper to rate Netflix picks via Metacritic and remains unconvinced Bluesky's AT Proto fixes the silo problem.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/03/internet-advertising-is-going-great/)** — Jamie Zawinski gets a Spotify ad rejected for containing only music, which says a lot about where online advertising has ended up.
-## Writing
+- **[Scripting News](http://scripting.com/2026/03/29.html#a132507)** — Dave Winer shares a podcast on making desktop-ready AI apps with Claude or ChatGPT, plus open-source notes on his podcastBuilder and Drummer workflow.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html)** — Bruce Schneier highlights VitruvianOS 0.3, a Haiku-inspired Linux-based OS with its own graphics stack instead of X11 or Wayland.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/03/shrimp-jesus-on-feet-of-clay.html)** — Tobold argues the AI slop economy is cracking, with costly tools like Sora and shallow clickbait attention failing to create real value.
+## Gaming
 
-- **[Zarf Updates](https://blog.zarfhome.com/2026/03/ludic-narrans)** — Andrew Plotkin pops up in Ludic Narrans, a free game-studies interview collection about play that comes in two differently structured editions.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/29/tagn-fantasy-critic-league-2026-week-thirteen-and-mlb-the-show-26-takes-a-dive/)** — Wilhelm tracks a mostly quiet Fantasy Critic week where MLB The Show 26’s review slide rattles the standings more than any new release.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/03/29/the-sims-4-opinions/)** — Krista wrestles with whether to keep playing or buying The Sims 4 after the buyout news and the game’s new marketplace.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/03/30/bubble-bobble-el-spirits-lcd-game-portable-popping/)** — Kimimi digs this tiny Bubble Bobble LCD adaptation for packing in arcade touches, surprising detail, and fast play on very modest hardware.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/03/29/aggrochat-563-omens-were-shattered/)** — Belghast and company bounce between Marvel Heroes Omega revival, Path of Exile drama, Last Epoch: Shattered Omens, and quick hits on smaller games.
 ## General
 
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/03/28/we-got-a-heat-pump-at-last/)** — Cliffski finally gets a heat pump into a drafty 1750 house, with plenty of bureaucratic nonsense and grant-chasing along the way.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/03/29/sunday-morning-reading-148/)** — Warner rounds up thoughtful reads on control, storytelling, anonymous artists, sci-fi franchises, and AI skepticism, with dogs and dragons along the way.
