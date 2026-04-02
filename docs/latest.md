@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-04-01
+# Daily Blogroll: 2026-04-02
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/03/31.html#a173237)** — Dave Winer gripes about Alexa and YouTube ads interrupting music, then warmly recommends a 500 Songs episode on The Who’s Tommy.
-- **[Axxuy](https://axxuy.com/blog/2026/march-tinkering/)** — Axxuy shares some satisfying site tinkering, from automating human.json in Hugo to tidying webrings and 88x31 buttons.
-- **[West Karana](https://westkarana.blog/2026/03/31/the-tranquil-peak-hugo-theme/)** — Tipa digs into the messy realities of moving West Karana from WordPress to Hugo, from broken themes to recreating widgets and comments.
-- **[brennan.day](https://brennan.day/great-news-brennan-day-is-being-acquired/)** — Brennan’s “brennan.day is joining BuzzFeed” post reads like a sharply barbed April Fools riff on sponsorships, platform capture, and sellout web culture.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/03/31/march-2026-in-review/)** — Wilhelm’s month-in-review mixes WordPress plugin disappointment with a look back at Pokemon Go, RuneScape, and LOTRO’s messy 64-bit server move.
-- **[Dragonchasers](https://dragonchasers.com/2026/03/31/march-2026/)** — Nimgimli spent March happily sinking hours into Coral Island, with A Game About Digging a Hole and slower-going Prey filling the gaps.
-- **[Endgame Viable](https://endgameviable.com/post/2026/03/2026-03-31-march-pt2/)** — UltrViolet bounces between Resident Evil 4 Remake, Nioh 3, FFXIV, and WoW Midnight, sounding especially unconvinced by easy combat and boss headaches.
-- **[Oya's Game Hub](https://oyito.substack.com/p/co-op-days-peak)** — Oya says PEAK absolutely rules in co-op, with simple climbing systems, constant teamwork, and just enough chaos to keep every run lively.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/mr-sleepy-man-review-a-comedic-indie-game)** — Sey finds Mr. Sleepy Man a weird but memorable Mario 64-inspired platformer, buoyed by dreamy comedy, standout music, and a few rough edges.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/03/weekend-refit-my-merlin-gets-teeth-and.html)** — CrazyKinux trims an EVE Online identity-crisis skill queue, beefs up a Merlin PvP fit, and eyes the Crane as a cloaky Sunesis replacement.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/03/never-forever.html)** — Bhagpuss reflects on Fortnite’s slide from world-conquering phenomenon toward something more ordinary, while wondering how permanent gaming megahits really are.
-## Writing
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/01/april-fools-at-blizzard-2026-are-they-still-doing-this-am-i-still-doing-this/)** — Wilhelm checks Blizzard’s WoW April Fools patch notes, finds them decent-but-average, and still thinks the never-ending AI gag is the less funny one.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/04/01/gato-roboto/)** — Ellie digs Gato Roboto as a stripped-back metroidvania with goofy pulp sci-fi charm and, crucially, a cat piloting a gun-toting mech suit.
+- **[nicole express](https://nicole.express/2026/april-fools-joke.html)** — Nicole spins a very April 1 tale about ALF on Master System pioneering Sega lock-on tech, because obviously Miracle World needed more ALF.
+- **[Sweetie Games](https://sweetie.games/2026/04/01/lets-talk-about-the-old-animal-crossing-dialogue/)** — Sweetie unpacks why old Animal Crossing dialogue stuck: villagers were rude, weird, memorable, and way sharper than New Horizons’ friendlier chatter.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/02/how-big-is-black-mesa-half-life-lore/)** — Thomas points Half-Life loreheads to a detailed Black Mesa size breakdown built from canon, then briefly yearns for Valve to finish the series.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/eu5-game-playing-itself.html)** — Tobold argues Europa Universalis V’s sprawling economy is so complex that automation, estates, and mass-build tools end up playing huge chunks for you.
+## Tech
 
-- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/03/31/3-31-2026-pop-in/)** — Blockade85 checks in from burnout central: work and home projects are crushing writing time, though Dune Awakening, a rebuilt desktop, and rescued cat Sock help.
+- **[Scripting News](http://scripting.com/2026/04/01.html#a134926)** — Dave Winer likes WordPress MCP as English-language scripting, but says 2026 tech is drowning in AI fog and lazy “just add AI” thinking.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html)** — Bruce Schneier flags Coruna, a sophisticated iPhone exploit kit reportedly tied to US contractors and now apparently circulating far beyond its original owners.
+## General
+
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/04/01/learning-to-read-differently/)** — Joar reflects on ditching work-driven reading for curiosity, trading frameworks and takeaways for fiction, philosophy, history, and whatever simply holds attention.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/04/space-nazis/)** — Jamie Zawinski side-eyes Superman’s space-Nazi family reveal, wonders why Supergirl never mentioned Krypton’s whole deal, and says the new trailer looks alright.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/01/cancer-boy-in-the-chemo-cubbie/)** — Belghast shares a candid first chemo day update, from the massive infusion floor to Folfox treatment details and the unexpectedly comfy heated chair.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/01/poisson-davril/)** — Warner revisits April Fools’ Day with a wistful shrug, arguing humor still needs humility, courage, and maybe less internet-fueled prank overkill.
