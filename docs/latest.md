@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-04-02
+# Daily Blogroll: 2026-04-03
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/01/april-fools-at-blizzard-2026-are-they-still-doing-this-am-i-still-doing-this/)** — Wilhelm checks Blizzard’s WoW April Fools patch notes, finds them decent-but-average, and still thinks the never-ending AI gag is the less funny one.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/04/01/gato-roboto/)** — Ellie digs Gato Roboto as a stripped-back metroidvania with goofy pulp sci-fi charm and, crucially, a cat piloting a gun-toting mech suit.
-- **[nicole express](https://nicole.express/2026/april-fools-joke.html)** — Nicole spins a very April 1 tale about ALF on Master System pioneering Sega lock-on tech, because obviously Miracle World needed more ALF.
-- **[Sweetie Games](https://sweetie.games/2026/04/01/lets-talk-about-the-old-animal-crossing-dialogue/)** — Sweetie unpacks why old Animal Crossing dialogue stuck: villagers were rude, weird, memorable, and way sharper than New Horizons’ friendlier chatter.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/02/how-big-is-black-mesa-half-life-lore/)** — Thomas points Half-Life loreheads to a detailed Black Mesa size breakdown built from canon, then briefly yearns for Valve to finish the series.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/eu5-game-playing-itself.html)** — Tobold argues Europa Universalis V’s sprawling economy is so complex that automation, estates, and mass-build tools end up playing huge chunks for you.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/02/wow-midnight-two-button-dungeon-running-and-figuring-out-who-can-group-up/)** — Wilhelm wrangles WoW Midnight alts, level ranges, and follower dungeons as a four-person guild figures out who can actually run Dragonflight instances together.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/04/02/month-in-review-slay-the-spire-2-cairn-mewgenics-more/)** — Frostilyte rounds up March with Timberborn, The Art of Reflection, and more upcoming games, landing on a thoughtful mix of recommendations and caveats.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/4/1/the-philosophy-of-crimson-desert)** — Roger argues Crimson Desert’s rough onboarding hides an old-school game more interested in exploration, silence, and reflection than hand-holding.
+- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/04/02/going-full-on-ninja-in-diablo-ii/)** — Mailvaltar finally clicks with Diablo II’s Assassin, turning Blade Fury and Death Sentry into a very satisfying shuriken-and-corpses ninja build.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/04/curse-of-the-forgotten-adverbs)** — Andrew Plotkin digs into why adverbs are usually a bad interactive fiction idea, and why Deadline made them work anyway.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/04/03/ecco-ii-the-tides-of-time-going-against-the-flow/)** — Kimimi loves Ecco II’s gorgeous Mega CD presentation and smart difficulty tuning, while admitting it still has plenty of classic Ecco aggravation.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/03/30/fishbowl-review/)** — Krista highlights Fishbowl as a heartfelt, cozy game about grief, isolation, and self-discovery through unpacking puzzles, calls, and everyday care.
+- **[Bio Break](https://biobreak.wordpress.com/2026/04/01/syps-gaming-goals-for-april-2026/)** — Syp sets April gaming goals around WoW Midnight, WoW Classic, maybe Rimworld, and hopefully replacing a dying gaming PC soon.
+- **[In An Age](https://inanage.com/2026/04/02/game-development-is-expensive-for-dumb-reasons/)** — Azuriel argues AAA budgets balloon less from graphics than from long timelines, management churn, and expensive teams stuck in iteration limbo.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/04/01.html#a134926)** — Dave Winer likes WordPress MCP as English-language scripting, but says 2026 tech is drowning in AI fog and lazy “just add AI” thinking.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html)** — Bruce Schneier flags Coruna, a sophisticated iPhone exploit kit reportedly tied to US contractors and now apparently circulating far beyond its original owners.
+- **[Scripting News](http://scripting.com/2026/04/02.html#a144636)** — Dave Winer weighs AI-driven WordPress changes, Cloudflare’s EmDash, and whether WordLand still makes sense as the platform picture gets shakier.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/04/01/learning-to-read-differently/)** — Joar reflects on ditching work-driven reading for curiosity, trading frameworks and takeaways for fiction, philosophy, history, and whatever simply holds attention.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/04/space-nazis/)** — Jamie Zawinski side-eyes Superman’s space-Nazi family reveal, wonders why Supergirl never mentioned Krypton’s whole deal, and says the new trailer looks alright.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/01/cancer-boy-in-the-chemo-cubbie/)** — Belghast shares a candid first chemo day update, from the massive infusion floor to Folfox treatment details and the unexpectedly comfy heated chair.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/01/poisson-davril/)** — Warner revisits April Fools’ Day with a wistful shrug, arguing humor still needs humility, courage, and maybe less internet-fueled prank overkill.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-04-02-week-14-digest/)** — Anarchae shares a life-and-job digest about baseball work, aching feet, sneaker frustrations, and the small stuff keeping the week together.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/04/02/not-a-colourful-world-anymore/)** — Emily laments the takeover of whites, greys, blacks, and beige in cars and interiors, making a spirited case for brighter everyday color.
