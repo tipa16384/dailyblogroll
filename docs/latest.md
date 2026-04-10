@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-04-09
+# Daily Blogroll: 2026-04-10
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/08/the-case-for-outland-in-retail-wow/)** — Wilhelm’s retail WoW group keeps tinkering with follower dungeons, and his Death Knight tank experiments are going better than Captain Garrick’s chaos.
-- **[Oya's Game Hub](https://oyito.substack.com/p/in-a-nutshell-march-2026)** — Oya rounds up a hectic March with Baldur’s Gate 3, handheld Thor impressions, co-op favorites, swimming, and Holy Week in Spain.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/04/08/my-ever-evolving-relationship-with-roguelikes/)** — Frostilyte reflects on going from Roguelike skeptic to devotee, and how Rogue Legacy, Hades 2, and The King is Watching changed his standards.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/is-wuoshi-up-latest-eqii-producers.html)** — Bhagpuss finds EverQuest II’s latest Producer’s Letter pretty thin, then digs into what Origins, Rise of Kunark, and the Zarrakon merge might imply.
-- **[Sweetie Games](https://sweetie.games/2026/04/08/remembering-my-pink-ds-lite-on-my-birthday/)** — Sweetie’s birthday nostalgia tour makes a strong case for the Nintendo DS Lite, from Tamagotchi and Dragon Quest IX to Mario Kart DS.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/08/more-challenges-and-a-new-tool/)** — Belghast is winding down Last Epoch season goals, coasting through Path of Exile challenges, and eyeing POE2 and Diablo 4 next.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/04/07/eve-the-gallente-election-or-my-favourite-event-ever/)** — Stargrace loved EVE Online’s Gallente election for letting her finish it her way, with flexible objectives, alt-friendly rewards, and less busywork.
-- **[Bio Break](https://biobreak.wordpress.com/2026/04/08/rimworld-alone-naked-and-ready-for-an-adventure/)** — Syp’s latest RimWorld Naked Brutality run gets messy fast: horse-clubbing, heat wave, infection, surprise daughter recruit, then a hunting timber wolf.
-## General
-
-- **[Scripting News](http://scripting.com/2026/04/08/145504.html?title=weAreAllGoodGermansNow)** — Dave Winer reacts to Trump-era nuclear fears with a blunt, shame-soaked argument that Americans are complicit unless they act now.
-## Writing
-
-- **[brennan.day](https://brennan.day/how-has-a-lack-of-ownership-changed-art/)** — Brennan asks what streaming, subscriptions, and vanishing licenses do to art’s permanence, pulling in Walter Benjamin and Ways of Seeing.
 ## Tech
 
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html)** — Bruce Schneier spotlights a ProPublica report on Microsoft cloud security, where FedRAMP approved GCC High despite reviewers’ serious doubts.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/08/taking-flight-on-a-glasswing/)** — Warner eyes Anthropic’s Mythos and Project Glasswing with deep skepticism, framing AI doom warnings as another hype cycle with dangerous real-world stakes.
+- **[Scripting News](http://scripting.com/2026/04/09/182024.html?title=letsMakeWordpressBoom)** — Dave Winer wants WordPress as a collaborative writing back end, with APIs, smarter editors like WordLand and Gutenberg, and RSS-friendly docs users truly control.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/04/09/Password-Manager-Angst)** — Tim Bray weighs sticking with 1Password 7 versus moving to Bitwarden, with the big concerns being sync, security, and government pressure.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/09/no-mans-sky-meets-pokemon-with-the-xeno-arena-update/)** — Wilhelm rounds up No Man’s Sky’s Xeno Arena update, which basically lets you collect, train, breed, and battle creatures in space-Pokémon style.
+- **[Chasing Dings!](https://chasingdings.com/2026/04/09/pokopia-zero-dawn/)** — Tipa compares Pokopia’s post-human Pokémon mystery to Horizon Zero Dawn, tracing how both worlds reveal catastrophe through records, ruins, and recovery plans.
+- **[Grumpy Gamer](https://grumpygamer.com/dbs_consoles/)** — Ron Gilbert says Death by Scrolling hits Xbox, PlayStation, Switch, and updated Steam on April 16 with a new character, world, powerups, and customization.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/4/9/starfield-unexpected-dlc)** — Roger is surprised Starfield pulled him back with Shattered Space, Terran Armada, freer planet travel, and enough quality-of-life fixes to feel substantial.
+- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/04/09/the-poison-masters-search-for-loot/)** — Mailvaltar is having a blast revisiting Diablo II with a Poison Nova Necromancer, a gear-hungry build that finally shines for terror-zone farming.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/04/10/jellyfish-the-healing-friend-the-playstation-is-a-bad-place-for-a-jellyfish/)** — Kimimi finds Jellyfish the Healing Friend soothing in theory, but its PlayStation jellyfish care is so minimal it barely feels interactive.
+- **[Scopique](https://scopique.com/2026/04/09/its-hard-for-me-not-to-be-a-jerk-about-this/)** — Scopique relishes Dune: Awakening backing away from forced PvP, arguing players keep showing they’d rather build and explore than get griefed.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-15-2026)** — Sey highlights Triple-i Initiative standouts like Neverway, Long Gone, Prove You’re Human, and Too Deep To Quit in a brisk indie showcase roundup.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/10/xenonauts-2-the-boys-are-back-in-town-review/)** — Thomas likes Xenonauts 2 as a refinement, but says its Cold War setting feels underused despite neat touches like the Doomsday clock and Cleaners.
+## General
+
+- **[Aywren's Nook](https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead)** — Aywren ditches pricier Netflix for a DVD/Blu-ray player, arguing physical media is cheaper, ad-free, and actually yours once you buy it.
