@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-04-15
+# Daily Blogroll: 2026-04-16
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/14/i-can-go-where-i-like-in-outland-so-why-am-i-in-the-blades-edge-mountains/)** — Wilhelm says retail WoW makes Outland leveling absurdly frictionless, from easy Hellfire questing to level-gated old-school flying and a detour into Blade's Edge.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/15/replaced-is-out/)** — Thomas is two hours into REPLACED and already sold on its 80s cyberpunk conspiracy vibe, slick 2D action, and Blade Runner-style visuals.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/progress-is-illusion.html)** — Bhagpuss pokes at EverQuest II's Illusion Keyring and how convenience features can turn piles of cosmetic clutter into something actually usable.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/13/freezing-fire-aura/)** — Belghast balances chemo prep with a Path of Exile push, grinding Delve and Legion while inching toward level 100 and more challenges.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/04/14/review-chainstaff/)** — Kimimi loves ChainStaff's gloriously loud pulp sci-fi style and its absurdly versatile bone chainstaff, which makes combat, movement, and experimentation sing.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/04/14/its-not-just-a-walking-simulator/)** — Emily pushes back on 'walking simulator' as a put-down, arguing games like Edith Finch, Hellblade, The First Tree, and Journey thrive on atmosphere and story.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/04/14.html#a173058)** — Dave Winer wrestles with a syncing glitch, revives sally.scripting.com over HTTPS, and comes away unimpressed with Claude as a programming partner.
-- **[Leaded Solder](https://www.leadedsolder.com/2026/04/14/loongson-ls3a5000-debian-linux.html)** — Mike digs into a salvaged Loongson 3A5000 motherboard, exploring Linux on LoongArch and the weird appeal of a modern Chinese domestic CPU.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html)** — Bruce Schneier highlights Constantinople's layered walls as a wonderfully literal example of defense in depth, from moat to offset towers.
+- **[Scripting News](http://scripting.com/2026/04/15.html#a145650)** — Dave Winer says Claude worked far better once he restructured the project in opmlProjectEditor format and switched from Sonnet 4.6 to Opus 4.6.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/04/13/Modern-Cameras)** — Tim Bray takes a spring dusk photo walk through Vancouver and makes the case that a decent modern camera is more than enough.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/15/notes-from-the-war-in-geminate/)** — Wilhelm sizes up EVE Online’s Atioth disaster as a history-book battle, with colossal ISK losses and maybe a new pilot-count record.
+- **[Indiecator](https://indiecator.org/2026/04/16/triple-i-initiative-showcase-recap-11-games-you-need-to-know-all-the-announcements/)** — Magi rounds up the triple-i showcase with indie highlights like Don’t Starve Elsewhere, Graveyard Keeper 2, Neverway, and Risk of Rain 2 DLC.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/04/15/pokemon-tcg-april/)** — Krista checks in on Pokémon TCG chaos, sharing new Project Pikachu finds from promos, trades, and overlooked childhood cards.
+- **[Oya's Game Hub](https://oyito.substack.com/p/ayn-thor-dream-come-true)** — Oya’s Nintendo DS nostalgia leads to the AYN Thor, a portable Android emulator that won her over once she learned it can run PC games.
+- **[Sweetie Games](https://sweetie.games/2026/04/15/lets-talk-about-gaming-setups/)** — Sweetie uses a desk-and-monitor upgrade to unpack how aesthetic gaming setups became aspirational, social-capital-heavy status symbols.
+- **[Bio Break](https://biobreak.wordpress.com/2026/04/15/lotro-aiming-for-a-fresh-start/)** — Syp bails on LOTRO’s dreary latest expansion and rolls a fresh River Hobbit Captain on Glamdring for a slower, more cheerful reset.
 ## General
 
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/04/the-tub-is-in-ceiling-is-getting-fixed.html)** — Joar's juggling tubs, ceiling repairs, buyers, bats, and WoW progress, with a warlock gearing up and a hunter pushing through Voidstorm.
-- **[Jamie Zawinski's Blog](https://www.dnalounge.com/backstage/log/2026/04/14.html)** — Jamie Zawinski says DNA Lounge is ditching Chow Now deliveries after POS failures and laughably tiny sales made the whole experiment pointless.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/04/15/what-flexible-actually-means/)** — Joar unpacks how layoffs and relocations can force adaptation, while still leaving room to choose what comes next in Arizona.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/playing-tourist-game.html)** — Tobold reflects on Morocco, arguing tourism works best when you stay local, hire guides, and buy goods actually made by local artisans.
+- **[West Karana](https://westkarana.blog/2026/04/15/the-dark-lords-guide-to-dating-and-other-war-crimes-by-tiffany-hunt/)** — Tipa recommends Tiffany Hunt’s darkly funny fantasy romance about a Dark Lord, a kidnapped noblewoman, and a very complicated magical marriage.
 ## Writing
 
-- **[brennan.day](https://brennan.day/poetry-saved-my-life/)** — Brennan reflects on discovering poetry young, then links that personal lifeline to research on reward circuitry, anticipation, and being emotionally moved.
+- **[Axxuy](https://axxuy.com/blog/2026/daily-blogging/)** — Axxuy says daily blogging feels like a chore, while evening journaling and messy morning brain-dumps are the writing habits that actually stick.
