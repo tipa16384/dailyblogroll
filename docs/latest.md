@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-04-17
+# Daily Blogroll: 2026-04-18
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/16/project-gorgon-and-hitting-a-wall/)** — Wilhelm hits the classic alt-itis wall in Project: Gorgon, juggling too many combat skills until Serbule starts feeling like a grind.
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/04/16/ridiculous-stats-battles/)** — Cliffski’s new Ridiculous Space Battles overlay shows last attempt squad performance right on the deployment map, making autobattler losses actually useful next time.
-- **[Dragonchasers](https://dragonchasers.com/2026/04/16/coral-island-progress-report/)** — Nimgimli’s Coral Island farm is heading toward full automation after spreadsheets, underwater cleanup, and rainy-day mine runs.
-- **[Aywren's Nook](https://aywren.com/2026/04/16/ffxiv-getting-ready-for-fanfest-2026)** — Aywren is gearing up for FFXIV Fanfest 2026 with handmade Allagan-themed buttons, swag hype, and a lot of gratitude for making the trip happen.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-16-2026)** — Sey rounds up Flock Around, Snap & Grab, CUBO, and Gaming Club picks like Chants of Sennaar, Tunic, and Disco Elysium.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/15/the-evil-lemon/)** — Belghast checks in from another chemo round, then pivots to a very silly Last Epoch Fire Aura build that mostly melts everything by existing.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/in-event.html)** — Bhagpuss goes poking through Steam sale events and comes away bemused by how many themed promos and crowdfunded games are hiding in plain sight.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/04/16.html#a121936)** — Dave Winer argues WordPress needs more UI competition and less monoculture, while also polishing his OPML editor explainer for Drummer newcomers.
-- **[Sid's Blog](https://0xsid.com/blog/ship-quickly)** — Sid makes the case for tiny one-user apps with LLMs, boring monoliths, flat schemas, and whatever shortcuts get the thing shipped fast.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/16/thoughts-on-the-macbook-neo/)** — Warner thinks the MacBook Neo is a great fit for everyday users, especially seniors, with solid build quality and few meaningful compromises.
+- **[Scripting News](http://scripting.com/2026/04/17.html#a191852)** — Dave Winer pitches WordPress on choice of editors and Claude-powered plugins, while building an OPML skill and preaching slower, steadier AI-assisted development.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/17/friday-eve-online-bullet-points-in-a-wet-spring-season/)** — Wilhelm rounds up EVE Online’s new-player Exordium region and a pretty uneventful March economic report, with the usual skeptical MMO eye.
+- **[In An Age](https://inanage.com/2026/04/18/more-impressions-slay-the-spire-2-pt-2/)** — Azuriel comes around on Slay the Spire 2 after 80 hours, arguing the trick is unlearning the first game and respecting weird cards like Snakebite.
+- **[Scopique](https://scopique.com/2026/04/17/squadron-42-buyback-drama/)** — Scopique digs into Star Citizen and Squadron 42 buyback pledges, explaining why melted packages, tokens, and the grey market keep sparking community drama.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/04/17/fran-bow-inside-the-ultra-reality/)** — Emily finds Fran Bow more disturbing and satisfying than Little Misfortune, praising its horror puzzles, Duotine reality shifts, and memorably weird characters.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/04/17/hellsinker-rising-above-it/)** — Kimimi says Hellsinker is exhausting, alien, and jargon-drunk, but its bizarre shmup systems are intriguing enough to make pushing through feel worthwhile.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/gaming-status-april-2026.html)** — Tobold uses a travel break to rethink the backlog, landing on pirate survival game Windrose while also checking in on Arydia and game pricing.
+- **[Bio Break](https://biobreak.wordpress.com/2026/04/17/world-of-warcraft-8/)** — Syp is happily deep in World of Warcraft, juggling Warlock chores, Trading Post goodies, and some genuinely sweet couch co-op time with his wife.
 ## General
 
-- **[Endgame Viable](https://endgameviable.com/post/2026/04/2026-04-16-april-pt1/)** — UltrViolet mixes a little Pathfinder: Kingmaker and Artemis II obsession with a rough, scary chemo reaction that sent him to the ER twice.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-04-17-week-16-digest/)** — Anarchae’s week is mostly boxes, donations, awful neighbors, and landlord stress, all powered by a very understandable desire to get out already.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html)** — Bruce Schneier shares a pretty fantastic Japan video of a giant squid eating another squid, because sometimes the internet really does deliver.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/04/insurance-fraud-fursona/)** — Jamie Zawinski spotlights the wonderfully dumb bear-suit insurance scam where wildlife experts determined the ‘bear’ was just a human in costume.
 ## Writing
 
-- **[False Machine](https://falsemachine.blogspot.com/2026/04/recommend-me-generators-of-underground.html)** — Patrick is rebuilding Veins of the Earth’s underground mapping tools and asking for smart references on generating vast 3D cave networks.
+- **[brennan.day](https://brennan.day/memes-metal-gear-solid-and-you/)** — Brennan traces memes from Advice Dog image macros back to Dawkins, mixing internet nostalgia with a broader look at how cultural ideas spread.
