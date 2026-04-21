@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-04-20
+# Daily Blogroll: 2026-04-21
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/04/19.html#a162045)** — Dave Winer riffs on Claude-assisted coding, RSS needing stewardship, and why “Really Simple Licensing” misses the point compared with Really Simple Syndication.
+- **[Scripting News](http://scripting.com/2026/04/20.html#a130804)** — Dave Winer riffs on WordCamp snubs, Feedly’s confusing subscribe flow, and how Claude Code could make WordPress software easier to keep evolving.
+- **[Coding Horror](https://blog.codinghorror.com/thank-you-for-being-a-friend/)** — Jeff Atwood mourns his dad, thanks Stack Overflow contributors, and warns LLM companies not to gut the human communities their coding data depends on.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html)** — Bruce Schneier flags Grupo Seguritech, a Mexican surveillance company, as it expands into the US.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/20/tim-cook-steps-down-as-ceo-john-ternus-steps-up/)** — Warner covers Apple’s leadership handoff as Tim Cook becomes executive chairman and John Ternus takes over as CEO this September.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/19/tagn-fantasy-critic-league-2026-week-sixteen-sees-opus-prism-peak-on-top/)** — Wilhelm tracks another Fantasy Critic shakeup as Pokemon Champions wobbles, Replaced lands okay, and fresh review scores reshuffle the leaderboard.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/04/turtle-wow-is-shutting-down.html)** — Shintar reacts sadly as Turtle WoW confirms a May 14 shutdown after Blizzard’s lawsuit finally catches up with the long-running private server.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/04/20/wow-gold-making-wrap-up-week-16-2026/)** — Stargrace says old-expansion WoW flipping still brings in a tidy million or two weekly, mostly from pets, transmog, recipes, and collectibles.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/19/warcraft-adventures-lord-of-the-clans-green-and-mean-review/)** — Thomas finds leaked-and-restored WarCraft Adventures playable and interesting, but its Thrall story gets kneecapped by wild tonal swings into LucasArts-style goofiness.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/windrose-first-impressions.html)** — Tobold says Windrose’s pivot from live-service PvP to co-op pirate survival paid off, calling it basically pirate Valheim and miles better than Skull & Bones.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/04/20/learning-from-the-past-using-old-perspectives-to-guide-new-ones/)** — Kimimi mines old Edge collections to show how period reviews of Doom, Mario 64, and more reveal what games once felt fresh or already tired.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/19/aggrochat-565-non-euclidean-horses/)** — Belghast and crew mark podcast and blog anniversaries with chatter about Horsey Game, Peglin Act 4, Last Epoch, House of Hikmah, and Path of Exile.
-## Writing
-
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-04-18.html)** — Tofutush fondly unpacks an old Homestuck-flavored paracosm full of stick people, Lightningtail variants, and very earnest neon-animal worldbuilding.
-- **[brennan.day](https://brennan.day/a-thousand-cranes-why-i-write-every-day/)** — Brennan makes the case for daily writing as a compulsive way to think and process, even if daily publishing is probably terrible for metrics.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/20/notes-from-the-war-in-the-geminate-flood-plain/)** — Wilhelm recaps EVE Online’s Geminate fight, where WinterCo effectively wrote off TEST space as flood plains and Reddit had a field day.
+- **[Virtual Moose](https://virtualmoose.org/2026/04/20/domino-clubs-questions-and-answers-jam/)** — Michael spotlights DOMINO CLUB’s Questions and Answers jam, praising its semi-anonymous experimental games, interactive fiction, and weird little forms worth poking through.
+- **[Bio Break](https://biobreak.wordpress.com/2026/04/20/lotro-vacations-and-work-days-both-in-the-same-game/)** — Syp splits LOTRO between a chill Bree-land deed-clearing vacation toon and the slower grind through Umbar content he’s trying to finish.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/20/bad-at-anniversaries/)** — Belghast marks 17 years of blogging and 656 AggroChat episodes, then starts winding down Path of Exile after hitting challenge 36.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/windrose-beginner-tips.html)** — Tobold offers practical Windrose starter tips on shipwreck looting, base comfort, mine lighting, map markers, and how progression actually works.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/04/the-twilight-of-turtle.html)** — Shintar returns to Turtle WoW for a last hurrah, only to find reset talents, dead dungeon queues, and world chat absolutely drowning in shutdown doom.
 ## General
 
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/04/pablo-escobars-cocaine-hippos-are-doomed/)** — Jamie Zawinski notes Colombia is moving to euthanize 80 invasive “cocaine hippos” after relocation and sterilization efforts went nowhere.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/19/sunday-morning-reading-151/)** — Warner rounds up a chilly-Sunday reading list on theater closures, the Kennedy Center mess, Madison Square Garden surveillance, and AI’s hype problem.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/04/penis-costume-protester-prevails-in-court/)** — Jamie Zawinski shares a gloriously absurd free-speech court win involving protest costumes, bail money, and signs nobody in that courtroom will forget.
+## Writing
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-04-20.html)** — Tofutush digs into Wings of Fire arc two, praising Moon Rising’s layered plotting while nitpicking how characterization gets delivered through mind-reading.
