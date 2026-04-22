@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-04-21
+# Daily Blogroll: 2026-04-22
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/04/20.html#a130804)** — Dave Winer riffs on WordCamp snubs, Feedly’s confusing subscribe flow, and how Claude Code could make WordPress software easier to keep evolving.
-- **[Coding Horror](https://blog.codinghorror.com/thank-you-for-being-a-friend/)** — Jeff Atwood mourns his dad, thanks Stack Overflow contributors, and warns LLM companies not to gut the human communities their coding data depends on.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html)** — Bruce Schneier flags Grupo Seguritech, a Mexican surveillance company, as it expands into the US.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/20/tim-cook-steps-down-as-ceo-john-ternus-steps-up/)** — Warner covers Apple’s leadership handoff as Tim Cook becomes executive chairman and John Ternus takes over as CEO this September.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/20/notes-from-the-war-in-the-geminate-flood-plain/)** — Wilhelm recaps EVE Online’s Geminate fight, where WinterCo effectively wrote off TEST space as flood plains and Reddit had a field day.
-- **[Virtual Moose](https://virtualmoose.org/2026/04/20/domino-clubs-questions-and-answers-jam/)** — Michael spotlights DOMINO CLUB’s Questions and Answers jam, praising its semi-anonymous experimental games, interactive fiction, and weird little forms worth poking through.
-- **[Bio Break](https://biobreak.wordpress.com/2026/04/20/lotro-vacations-and-work-days-both-in-the-same-game/)** — Syp splits LOTRO between a chill Bree-land deed-clearing vacation toon and the slower grind through Umbar content he’s trying to finish.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/20/bad-at-anniversaries/)** — Belghast marks 17 years of blogging and 656 AggroChat episodes, then starts winding down Path of Exile after hitting challenge 36.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/windrose-beginner-tips.html)** — Tobold offers practical Windrose starter tips on shipwreck looting, base comfort, mine lighting, map markers, and how progression actually works.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/04/the-twilight-of-turtle.html)** — Shintar returns to Turtle WoW for a last hurrah, only to find reset talents, dead dungeon queues, and world chat absolutely drowning in shutdown doom.
-## General
+- **[Chasing Dings!](https://chasingdings.com/2026/04/21/windrose-yo-ho-ho-its-the-pirate-life-for-me/)** — Tipa checks in on Windrose after 25 hours, finding Valheim-style survival crafting with pirate flavor, undead threats, and plenty of reasons to bully dodos.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/21/into-netherstorm-and-out-running-outland/)** — Wilhelm’s WoW Outland cleanup turns into a Netherstorm marathon, buoyed by heirlooms, Chromie Time weirdness, and one-button warrior survival.
+- **[usebox.net](https://www.usebox.net/jjm/blog/playing-white-box-again/)** — JJM returns to White Box with his family, making old-school D&D simple, kid-friendly, and worth recording for posterity.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/04/21/super-mario-bros-2/)** — Ellie revisits Super Mario Bros. 2’s famously weird Doki Doki Panic roots and why this odd NES sequel mattered more than its origins suggest.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/recursion-to-max.html)** — Bhagpuss digs through EverQuest II’s old expansion systems, trying to figure out which catch-up chores still matter for a fresh endgame character.
+- **[Indiecator](https://indiecator.org/2026/04/21/bobo-bay-launches-april-29-on-steam/)** — Magi says Bobo Bay looks like a cozy Chao Garden successor, mixing creature raising, competitions, breeding, and island vibes when it hits Steam April 29.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/21/atom-rpg-2-kickstarter-launched/)** — Thomas is in for ATOM RPG 2’s Kickstarter, sold on more turn-based post-apocalyptic RPGing, eastern flair, third-person camera, and yes, driving.
+## Tech
 
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/04/penis-costume-protester-prevails-in-court/)** — Jamie Zawinski shares a gloriously absurd free-speech court win involving protest costumes, bail money, and signs nobody in that courtroom will forget.
+- **[Scripting News](http://scripting.com/2026/04/21.html#a002656)** — Dave Winer argues AI could reopen the web for writers through replaceable web-connected parts, then kicks ChatGPT’s image maker with a silly turkey prompt.
+- **[Scopique](https://scopique.com/2026/04/21/hyperbole-aside-adobe-can-suck-it/)** — Scopique gleefully watches Adobe’s moat shrink as DaVinci Resolve, Fusion, Cavalry, and Autograph crowd the creative tools space.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html)** — Bruce Schneier flags ICE’s admission that it uses Graphite spyware, a short but grim note on surveillance and privacy.
 ## Writing
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-04-20.html)** — Tofutush digs into Wings of Fire arc two, praising Moon Rising’s layered plotting while nitpicking how characterization gets delivered through mind-reading.
+- **[brennan.day](https://brennan.day/right-wing-conservatives-cannot-make-good-art/)** — Brennan argues contemporary conservative art works more like ideological pep rallies than art, with God’s Not Dead as the clearest example.
+## General
+
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/21/mornings-are-hard/)** — Belghast shares a rough chemo recovery update, where iron infusions briefly helped but mornings, nausea, and mounting fatigue are still winning.
