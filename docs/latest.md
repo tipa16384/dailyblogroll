@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-04-22
+# Daily Blogroll: 2026-04-23
 
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2026/04/21/windrose-yo-ho-ho-its-the-pirate-life-for-me/)** — Tipa checks in on Windrose after 25 hours, finding Valheim-style survival crafting with pirate flavor, undead threats, and plenty of reasons to bully dodos.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/21/into-netherstorm-and-out-running-outland/)** — Wilhelm’s WoW Outland cleanup turns into a Netherstorm marathon, buoyed by heirlooms, Chromie Time weirdness, and one-button warrior survival.
-- **[usebox.net](https://www.usebox.net/jjm/blog/playing-white-box-again/)** — JJM returns to White Box with his family, making old-school D&D simple, kid-friendly, and worth recording for posterity.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/04/21/super-mario-bros-2/)** — Ellie revisits Super Mario Bros. 2’s famously weird Doki Doki Panic roots and why this odd NES sequel mattered more than its origins suggest.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/recursion-to-max.html)** — Bhagpuss digs through EverQuest II’s old expansion systems, trying to figure out which catch-up chores still matter for a fresh endgame character.
-- **[Indiecator](https://indiecator.org/2026/04/21/bobo-bay-launches-april-29-on-steam/)** — Magi says Bobo Bay looks like a cozy Chao Garden successor, mixing creature raising, competitions, breeding, and island vibes when it hits Steam April 29.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/21/atom-rpg-2-kickstarter-launched/)** — Thomas is in for ATOM RPG 2’s Kickstarter, sold on more turn-based post-apocalyptic RPGing, eastern flair, third-person camera, and yes, driving.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/04/21.html#a002656)** — Dave Winer argues AI could reopen the web for writers through replaceable web-connected parts, then kicks ChatGPT’s image maker with a silly turkey prompt.
-- **[Scopique](https://scopique.com/2026/04/21/hyperbole-aside-adobe-can-suck-it/)** — Scopique gleefully watches Adobe’s moat shrink as DaVinci Resolve, Fusion, Cavalry, and Autograph crowd the creative tools space.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html)** — Bruce Schneier flags ICE’s admission that it uses Graphite spyware, a short but grim note on surveillance and privacy.
-## Writing
+- **[Scripting News](http://scripting.com/2026/04/22.html#a134121)** — Dave Winer riffs on a writer-friendly web platform and imagines AI software clones built around Claude, prompts, and beautifully learnable code.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/data-centers-and-district-heating.html)** — Tobold makes the simple pitch: use AI data centers’ waste heat for district heating and slash urban heating emissions instead of dumping it.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/22/joanna-stern-launches-new-things/)** — Warner cheers Joanna Stern’s new independent tech site, praising her knack for making gadget journalism genuinely fun to follow.
+## Gaming
 
-- **[brennan.day](https://brennan.day/right-wing-conservatives-cannot-make-good-art/)** — Brennan argues contemporary conservative art works more like ideological pep rallies than art, with God’s Not Dead as the clearest example.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/22/ccp-reviews-atioth-and-bungles-b-r5rb/)** — Wilhelm likes CCP’s EVE Online Atioth infographic, but says the server-crash writeup dodges what players actually experienced at 10,253 pilots.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/04/22/loftia-closed-beta/)** — Krista breaks down Loftia’s closed beta trailer, spotlighting solarpunk farming, gliding, fishing, and cooperative cleanup ahead of launch later this year.
+- **[Sweetie Games](https://sweetie.games/2026/04/22/clair-obscur-awards/)** — Sweetie says Clair Obscur: Expedition 33 keeps cleaning up awards, even as fan backlash and generative-AI controversy complicate the victory lap.
+- **[Bio Break](https://biobreak.wordpress.com/2026/04/22/gaming-into-the-summer/)** — Syp maps out a summer gaming maybe-list, from ESO and FFXIV to Fallout 76, Guild Wars 2, Outbound, RimWorld: Odyssey, and CRPGs.
+- **[Virtual Moose](https://virtualmoose.org/2026/04/22/the-dissident-by-wavey-games/)** — Michael recommends The Dissident, a short surreal Wavey Games adventure with fair puzzles, CGA visuals, jazzy music, and a dream-hacking tape recorder.
 ## General
 
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/21/mornings-are-hard/)** — Belghast shares a rough chemo recovery update, where iron infusions briefly helped but mornings, nausea, and mounting fatigue are still winning.
+- **[The Digital Antiquarian](https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/)** — Jimmy traces how Holy Blood, Holy Grail became a perfectly timed pseudo-history sensation, catching post-Raiders and Masquerade-era audiences at just the right moment.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/04/23/quiet-competence-vs-visible-productivity/)** — Joar reflects on the weird adjustment from measurable office output to unseen family logistics, and how much validation visible productivity quietly provided.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/04/everything-is-free-and-nothing-matters/)** — Jamie Zawinski spotlights Noah Hawley’s argument that extreme wealth erases consequences, warps moral development, and turns democracy into somebody else’s problem.
+## Writing
+
+- **[Zarf Updates](https://blog.zarfhome.com/2026/04/2026-hugo-finalists)** — Andrew Plotkin can’t survey every Hugo category, so he does the next best thing: rapid-fire recommendations spanning novels, Murderbot, Doctor Who, and games.

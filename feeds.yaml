@@ -579,3 +579,12 @@ feeds:
     category: Gaming
     blogger: Kevin
     pronouns: he/him
+  - name: The Digital Antiquarian
+    url: https://www.filfre.net/feed/
+    update_frequency: monthly
+    category: Gaming
+    blogger: Jimmy
+    pronouns: he/him
+    bluesky: "@digiantiquarian.bsky.social"
+    mastodon: "@DigiAntiquarian@oldbytes.space"
+  
