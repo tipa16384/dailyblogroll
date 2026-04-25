@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-04-24
+# Daily Blogroll: 2026-04-25
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/23/valheim-fighting-moder-and-setting-up-in-the-plains/)** — Wilhelm downs Valheim’s Moder with an iron mace, forgets the stamina buff, survives the chaos, then starts eyeing a Plains base.
-- **[Chasing Dings!](https://chasingdings.com/2026/04/23/frosthaven-115-pylon-problems/)** — Tipa’s Frosthaven group barely keeps two pylons standing through Algox waves, with summons, tanking, and a Deathshaper retirement in the mix.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2026/04/what-i-dont-like-about-current-arc.html)** — Heartless thinks ARC Raiders’ late switch from stash value to a time-gated damage challenge kills the expedition’s sense of steady, meaningful progress.
-- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/04/23/4-22-2026-worm-sweet-worm/)** — Blockade85 accidentally feeds a Dune Awakening sandworm an entire base, then scrambles across Arrakis for fuel, salvage, and safer ground.
-- **[Oya's Game Hub](https://oyito.substack.com/p/my-baldurs-gate-3-experience-part)** — Oya’s Baldur’s Gate 3 run gets messier and better, with clever spider tactics, companion revelations, and a very avoidable Aunt Ethel mask disaster.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-17-2026)** — Sey rounds up wishlists and cool finds, spotlighting Moomintroll, Gambonanza, Petrichor’s Kickstarter, and a lovely MIO: Memories In Orbit vinyl.
-- **[In An Age](https://inanage.com/2026/04/23/e33-back-on-the-horse/)** — Azuriel is still mixed on Clair Obscur: Expedition 33, loving the characters and buildcraft while bouncing hard off its parry-heavy QTE combat.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/04/24/magic-knight-rayearth-girls-day-out/)** — Kimimi digs Game Gear’s Magic Knight Rayearth for its gorgeous, breezy presentation and short mascot-chasing adventure, even if it’s barely an RPG.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/23/ancients-and-warlocks-oh-my/)** — Belghast reacts to Path of Exile II’s delayed reveal and possible atlas shakeup, while getting more tempted by Diablo 4: Lord of Hatred.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/04/23.html#a134603)** — Dave Winer argues Firefox should lead on open AI-powered web text tools, and also muses about posting to your blog straight from Claude Code.
-- **[Axxuy](https://axxuy.com/blog/2026/i-also-got-an-xteink-x4/)** — Axxuy is sold on the Xteink X4 as a cheap, tiny ereader that’s perfect for offline reading on the go, despite iffy build quality.
+- **[Scripting News](http://scripting.com/2026/04/24.html#a210607)** — Dave Winer argues writing should work more like podcasting, with open formats, user-controlled storage, and simpler web publishing for indie developers.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/24/enshrouded-forging-the-path-update-arrives/)** — Wilhelm highlights Enshrouded’s hefty Forging the Path update, from skill tree resets to gear upgrades and water changes, ahead of 1.0.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/04/24/murder-at-the-birch-tree-theater-review/)** — Frostilyte says Murder at the Birch Tree Theater is a well-made Golden Idol-style detective game, even if its puzzles feel too guided.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/04/turtle-wow-dungeons-crescent-grove-vs.html)** — Shintar compares Turtle WoW’s Crescent Grove and Stormwrought Ruins, with the former feeling plain and the latter looking dramatically more ambitious.
+- **[Indiecator](https://indiecator.org/2026/04/24/island-of-hearts-review/)** — Magi finds Island of Hearts amusingly self-aware and polished, but says the FMV dating-adventure setup doesn’t offer enough depth or meaningful interactivity.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/24/bethesda-actually-hates-new-vegas-video/)** — Thomas points to a video digging into alleged Bethesda resentment over Fallout: New Vegas outshining Fallout 3, with Avellone adding fuel.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/projection-onto-pragmata.html)** — Tobold argues criticism of Pragmata’s Hugh and Diana dynamic says more about culture-war projection than about Capcom’s game itself.
+- **[Bio Break](https://biobreak.wordpress.com/2026/04/24/world-of-warcraft-jump-the-guild/)** — Syp talks World of Warcraft Midnight progress, alt indecision, and swapping to a much livelier guild that finally makes chat worth watching.
+- **[Virtual Moose](https://virtualmoose.org/2026/04/24/jetpac-remake-by-langford-productions/)** — Michael recommends Langford Productions’ Jetpac remake for its flexible visuals, extra options, and solid arcade feel that still respects the ZX Spectrum original.
+## General
+
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-04-24-week-17-digest/)** — Anarchae’s week was mostly moving prep: endless decluttering, donating, selling, sidewalk free piles, and wrestling furniture, garbage, and rain.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html)** — Bruce Schneier shares research on squid and cuttlefish surviving extinction events in deep-sea refuges before later diversifying into shallow waters.
 ## Writing
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/fracturing-fractal.html)** — Bhagpuss starts on AI, detours through bathroom books and Geoff Dyer, and lands on the headache of writers who refuse to stay in one lane.
+- **[brennan.day](https://brennan.day/being-a-citizen-journalist/)** — Brennan reflects on interviewing Frances Widdowson, focusing less on her claims than on the motivations behind her residential school denialism.
