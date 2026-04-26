@@ -1,22 +1,17 @@
-# Daily Blogroll: 2026-04-25
+# Daily Blogroll: 2026-04-26
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/04/24.html#a210607)** — Dave Winer argues writing should work more like podcasting, with open formats, user-controlled storage, and simpler web publishing for indie developers.
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/24/enshrouded-forging-the-path-update-arrives/)** — Wilhelm highlights Enshrouded’s hefty Forging the Path update, from skill tree resets to gear upgrades and water changes, ahead of 1.0.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/04/24/murder-at-the-birch-tree-theater-review/)** — Frostilyte says Murder at the Birch Tree Theater is a well-made Golden Idol-style detective game, even if its puzzles feel too guided.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/04/turtle-wow-dungeons-crescent-grove-vs.html)** — Shintar compares Turtle WoW’s Crescent Grove and Stormwrought Ruins, with the former feeling plain and the latter looking dramatically more ambitious.
-- **[Indiecator](https://indiecator.org/2026/04/24/island-of-hearts-review/)** — Magi finds Island of Hearts amusingly self-aware and polished, but says the FMV dating-adventure setup doesn’t offer enough depth or meaningful interactivity.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/24/bethesda-actually-hates-new-vegas-video/)** — Thomas points to a video digging into alleged Bethesda resentment over Fallout: New Vegas outshining Fallout 3, with Avellone adding fuel.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/projection-onto-pragmata.html)** — Tobold argues criticism of Pragmata’s Hugh and Diana dynamic says more about culture-war projection than about Capcom’s game itself.
-- **[Bio Break](https://biobreak.wordpress.com/2026/04/24/world-of-warcraft-jump-the-guild/)** — Syp talks World of Warcraft Midnight progress, alt indecision, and swapping to a much livelier guild that finally makes chat worth watching.
-- **[Virtual Moose](https://virtualmoose.org/2026/04/24/jetpac-remake-by-langford-productions/)** — Michael recommends Langford Productions’ Jetpac remake for its flexible visuals, extra options, and solid arcade feel that still respects the ZX Spectrum original.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-04-24-week-17-digest/)** — Anarchae’s week was mostly moving prep: endless decluttering, donating, selling, sidewalk free piles, and wrestling furniture, garbage, and rain.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html)** — Bruce Schneier shares research on squid and cuttlefish surviving extinction events in deep-sea refuges before later diversifying into shallow waters.
-## Writing
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/25/binge-watching-the-continue-watching-list-apple-tv-edition/)** — Wilhelm runs down abandoned Apple TV shows and asks whether awkward comedies and dry sci-fi like Foundation deserve another shot.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/26/sunday-morning-reading-152/)** — Warner skips Sunday Morning Reading this week to hang out with the grandkids, which honestly sounds like the better kind of chaos.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/muskrat-love.html)** — Bhagpuss meant to revisit The Expanse show, then wound up mulling memory and tearing through the Leviathan Falls novels instead.
+## Tech
 
-- **[brennan.day](https://brennan.day/being-a-citizen-journalist/)** — Brennan reflects on interviewing Frances Widdowson, focusing less on her claims than on the motivations behind her residential school denialism.
+- **[Scripting News](http://scripting.com/2026/04/25.html#a013405)** — Dave Winer cheers a Knicks blowout, then argues the writer’s web needs real interop, with WordPress and maybe Firefox helping break silos.
+- **[Jamie Zawinski's Blog](https://www.dnalounge.com/backstage/log/2026/04/25.html)** — Jamie turns POS doodle dongs into a joke, then a pretty grim warning about vendors hoarding years of customer transaction data.
+- **[brennan.day](https://brennan.day/the-indieweb-is-wonderfully-dionysian/)** — Brennan contrasts AI-slop-heavy LinkedIn, Meta ads, and Medium with an IndieWeb that still feels human, messy, and worth trusting.
+## Gaming
+
+- **[READ ONLY MEMO](https://readonlymemo.com/if-youre-going-to-hype-up-the-neo-geo-at-least-admit-you-know-about-all-the-blood/)** — Wes says Neo Geo+ coverage can’t ignore SNK ownership politics, then points to a GDC panel on emulation and game preservation.
+- **[Scopique](https://scopique.com/2026/04/25/impressions-tides-of-tomorrow/)** — Scopique digs Tides of Tomorrow’s colorful plasticpunk vibe, with plastemia, scarce Ozen, and a flooded world making the premise click.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/24/srs-warlock-maybe/)** — Belghast went from lukewarm to hyped on Diablo IV: Lord of Hatred, especially for Horadric Cube crafting and the new War Plans system.
