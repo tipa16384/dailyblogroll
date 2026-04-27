@@ -1,17 +1,20 @@
-# Daily Blogroll: 2026-04-26
+# Daily Blogroll: 2026-04-27
 
-## General
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/25/binge-watching-the-continue-watching-list-apple-tv-edition/)** — Wilhelm runs down abandoned Apple TV shows and asks whether awkward comedies and dry sci-fi like Foundation deserve another shot.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/26/sunday-morning-reading-152/)** — Warner skips Sunday Morning Reading this week to hang out with the grandkids, which honestly sounds like the better kind of chaos.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/muskrat-love.html)** — Bhagpuss meant to revisit The Expanse show, then wound up mulling memory and tearing through the Leviathan Falls novels instead.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/04/25.html#a013405)** — Dave Winer cheers a Knicks blowout, then argues the writer’s web needs real interop, with WordPress and maybe Firefox helping break silos.
-- **[Jamie Zawinski's Blog](https://www.dnalounge.com/backstage/log/2026/04/25.html)** — Jamie turns POS doodle dongs into a joke, then a pretty grim warning about vendors hoarding years of customer transaction data.
-- **[brennan.day](https://brennan.day/the-indieweb-is-wonderfully-dionysian/)** — Brennan contrasts AI-slop-heavy LinkedIn, Meta ads, and Medium with an IndieWeb that still feels human, messy, and worth trusting.
+- **[Scripting News](http://scripting.com/2026/04/26.html#a221131)** — Dave Winer gripes about Bluesky outages, argues big systems need patterns, and says Claude still needs explicit memory and human guidance.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-04-26.html)** — Tofutush shares a handy Sogou input trick for rare Chinese characters, then nerds out over building a more intuitive Uyghur keyboard.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html)** — Bruce Schneier spots a newly decoded medieval encrypted letter from a Spanish diplomat, a nice little history-of-cryptography nugget.
 ## Gaming
 
-- **[READ ONLY MEMO](https://readonlymemo.com/if-youre-going-to-hype-up-the-neo-geo-at-least-admit-you-know-about-all-the-blood/)** — Wes says Neo Geo+ coverage can’t ignore SNK ownership politics, then points to a GDC panel on emulation and game preservation.
-- **[Scopique](https://scopique.com/2026/04/25/impressions-tides-of-tomorrow/)** — Scopique digs Tides of Tomorrow’s colorful plasticpunk vibe, with plastemia, scarce Ozen, and a flooded world making the premise click.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/24/srs-warlock-maybe/)** — Belghast went from lukewarm to hyped on Diablo IV: Lord of Hatred, especially for Horadric Cube crafting and the new War Plans system.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/26/tagn-fantasy-critic-league-2026-week-seventeen-and-the-chronic-blunt-punch/)** — Wilhelm tracks a rough Fantasy Critic week as Jay and Silent Bob: Chronic Blunt Punch slips and scores wobble across the board.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/04/treading-water.html)** — Shintar says SWTOR feels like a slog lately, with Galactic Season 10 objectives crowding out the fun while WoW keeps pulling focus.
+- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/04/russian-pirates-rushin-goals-in-windrose.html)** — The Friendly Necromancer is happily all-in on Windrose, praising its expanded pirate-survival early access while roleplaying goofball Russian hockey pirates.
+- **[nicole express](https://nicole.express/2026/more-like-koi-yes-magic-potion.html)** — Nicole dives into Nichibutsu’s Mahjong Koi no Magic Potion, unpacking its odd premise and the mass-produced Z80-based mahjong arcade hardware beneath it.
+- **[Virtual Moose](https://virtualmoose.org/2026/04/26/dots-home-thoughts/)** — Michael warmly recommends Dot’s Home, a short free adventure that uses Detroit family history to explore housing injustice, racism, and gentrification.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/27/the-expanse-beta-left-me-worried-video/)** — Thomas worries The Expanse: Osiris Reborn could be sunk by quippy, Marvel-style dialogue, even if the Mass Effect-flavored gameplay looks solid.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/26/aggrochat-566-nom-tasty-bytes/)** — Belghast and crew bounce through Paradise Killer, FFXIV Fanfest, Diablo IV, Vampire Crawlers, anime, and Eurovision in a packed catch-up episode.
+## General
+
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/04/26/Coreys-Captives)** — Tim Bray says The Captive’s War starts slow, hits a big payoff in book two, and is worth continuing if you can stomach grim sci-fi.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/4/25/hunterian-museum)** — Roger recommends London’s Hunterian Museum for its anatomy collection, surgical history, and frank treatment of the era’s ugly medical ethics.
