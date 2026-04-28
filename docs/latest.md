@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-04-27
+# Daily Blogroll: 2026-04-28
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/04/26.html#a221131)** — Dave Winer gripes about Bluesky outages, argues big systems need patterns, and says Claude still needs explicit memory and human guidance.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-04-26.html)** — Tofutush shares a handy Sogou input trick for rare Chinese characters, then nerds out over building a more intuitive Uyghur keyboard.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html)** — Bruce Schneier spots a newly decoded medieval encrypted letter from a Spanish diplomat, a nice little history-of-cryptography nugget.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/26/tagn-fantasy-critic-league-2026-week-seventeen-and-the-chronic-blunt-punch/)** — Wilhelm tracks a rough Fantasy Critic week as Jay and Silent Bob: Chronic Blunt Punch slips and scores wobble across the board.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/04/treading-water.html)** — Shintar says SWTOR feels like a slog lately, with Galactic Season 10 objectives crowding out the fun while WoW keeps pulling focus.
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/04/russian-pirates-rushin-goals-in-windrose.html)** — The Friendly Necromancer is happily all-in on Windrose, praising its expanded pirate-survival early access while roleplaying goofball Russian hockey pirates.
-- **[nicole express](https://nicole.express/2026/more-like-koi-yes-magic-potion.html)** — Nicole dives into Nichibutsu’s Mahjong Koi no Magic Potion, unpacking its odd premise and the mass-produced Z80-based mahjong arcade hardware beneath it.
-- **[Virtual Moose](https://virtualmoose.org/2026/04/26/dots-home-thoughts/)** — Michael warmly recommends Dot’s Home, a short free adventure that uses Detroit family history to explore housing injustice, racism, and gentrification.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/04/27/the-expanse-beta-left-me-worried-video/)** — Thomas worries The Expanse: Osiris Reborn could be sunk by quippy, Marvel-style dialogue, even if the Mass Effect-flavored gameplay looks solid.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/26/aggrochat-566-nom-tasty-bytes/)** — Belghast and crew bounce through Paradise Killer, FFXIV Fanfest, Diablo IV, Vampire Crawlers, anime, and Eurovision in a packed catch-up episode.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/27/notes-from-retail-wow-anything-but-midnight/)** — Wilhelm checks in on WoW Midnight after patch 12.0.5 chaos, mostly ignores the drama, and keeps leveling through Outland before dabbling in delves.
+- **[Chasing Dings!](https://chasingdings.com/2026/04/27/speedrunning-windrose/)** — Tipa is happily losing hours to Windrose, tweaking Marksman gear, farming iron, and muddling through dodge-and-block boss fights with lots of gunfire.
+- **[Donkeyspace](https://franklantz.substack.com/p/glips)** — Frank introduces Glips, puzzle-games for AI, as a playful way to probe whether models can actually understand playing rather than just output strategies.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/04/28/nippets-review/)** — Luna finds Nippets a lovely hidden-object game, with slice-of-life storytelling, interactive clues, and smooth play across MacBook and Steam Deck.
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/04/hunter-hits-90-and-thinking-about-ffxiv.html)** — Joar gets his WoW hunter to 90, eyes Loremaster cleanup, and is cautiously tempted by FFXIV FanFest news despite limited play time.
+- **[In An Age](https://inanage.com/2026/04/28/retroid-pocket-6-and-nostalgia-horizon/)** — Azuriel frames the Retroid Pocket 6 as equal parts retro handheld upgrade and nostalgia machine, then wonders why his gaming memories seem to stop at PS2.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/04/28/o-chans-oekaki-logic-not-as-logical-as-advertised/)** — Kimimi enjoys O-chan’s Oekaki Logic’s nonograms and Hebereke charm, but says its uneven difficulty and stingy assist powers make it oddly unfriendly.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/everquest-ii-guides-links-and-not-so.html)** — Bhagpuss rounds up surviving EverQuest II guides and resources, a handy rescue mission for a game whose systems are far better documented by players.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/04/27.html#a200626)** — Dave Winer argues software is really on the web only if it can hook into other apps, with linking doing the heavy conceptual lifting.
 ## General
 
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/04/26/Coreys-Captives)** — Tim Bray says The Captive’s War starts slow, hits a big payoff in book two, and is worth continuing if you can stomach grim sci-fi.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/4/25/hunterian-museum)** — Roger recommends London’s Hunterian Museum for its anatomy collection, surgical history, and frank treatment of the era’s ugly medical ethics.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/04/28/cybertronic-spree-introducing-a-spark/)** — Emily kicks off a Cybertronic Spree series by praising 'Cybertronic Warrior' as a killer Transformers-meets-rock intro track with standout riffs and vocals.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/04/single-issue-voters/)** — Jamie Zawinski grumbles that San Francisco’s Sunset keeps turning local politics into a weird one-issue crusade about roads, parks, and car-brain nonsense.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/28/when-theres-no-truth-to-set-you-free/)** — Warner argues public discourse has cheapened truth so thoroughly that lies now spread with barely any consequence, even among people who know better.
