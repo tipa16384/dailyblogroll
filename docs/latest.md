@@ -1,20 +1,15 @@
-# Daily Blogroll: 2026-04-28
+# Daily Blogroll: 2026-04-29
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/27/notes-from-retail-wow-anything-but-midnight/)** — Wilhelm checks in on WoW Midnight after patch 12.0.5 chaos, mostly ignores the drama, and keeps leveling through Outland before dabbling in delves.
-- **[Chasing Dings!](https://chasingdings.com/2026/04/27/speedrunning-windrose/)** — Tipa is happily losing hours to Windrose, tweaking Marksman gear, farming iron, and muddling through dodge-and-block boss fights with lots of gunfire.
-- **[Donkeyspace](https://franklantz.substack.com/p/glips)** — Frank introduces Glips, puzzle-games for AI, as a playful way to probe whether models can actually understand playing rather than just output strategies.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/04/28/nippets-review/)** — Luna finds Nippets a lovely hidden-object game, with slice-of-life storytelling, interactive clues, and smooth play across MacBook and Steam Deck.
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/04/hunter-hits-90-and-thinking-about-ffxiv.html)** — Joar gets his WoW hunter to 90, eyes Loremaster cleanup, and is cautiously tempted by FFXIV FanFest news despite limited play time.
-- **[In An Age](https://inanage.com/2026/04/28/retroid-pocket-6-and-nostalgia-horizon/)** — Azuriel frames the Retroid Pocket 6 as equal parts retro handheld upgrade and nostalgia machine, then wonders why his gaming memories seem to stop at PS2.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/04/28/o-chans-oekaki-logic-not-as-logical-as-advertised/)** — Kimimi enjoys O-chan’s Oekaki Logic’s nonograms and Hebereke charm, but says its uneven difficulty and stingy assist powers make it oddly unfriendly.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/everquest-ii-guides-links-and-not-so.html)** — Bhagpuss rounds up surviving EverQuest II guides and resources, a handy rescue mission for a game whose systems are far better documented by players.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/04/27.html#a200626)** — Dave Winer argues software is really on the web only if it can hook into other apps, with linking doing the heavy conceptual lifting.
-## General
+- **[Scripting News](http://scripting.com/2026/04/28.html#a152440)** — Dave Winer rolls through an XML-RPC JavaScript update, WordPress platform angst, and AI regressions, then wonders if today’s giant AI data centers are just a phase.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html)** — Bruce Schneier says Claude Mythos finding 271 Firefox zero-days is staggering, but argues AI-driven bug hunting could finally tilt security toward defenders.
+## Gaming
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/04/28/cybertronic-spree-introducing-a-spark/)** — Emily kicks off a Cybertronic Spree series by praising 'Cybertronic Warrior' as a killer Transformers-meets-rock intro track with standout riffs and vocals.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/04/single-issue-voters/)** — Jamie Zawinski grumbles that San Francisco’s Sunset keeps turning local politics into a weird one-issue crusade about roads, parks, and car-brain nonsense.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/04/28/when-theres-no-truth-to-set-you-free/)** — Warner argues public discourse has cheapened truth so thoroughly that lies now spread with barely any consequence, even among people who know better.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/28/the-archive-epics-of-virtual-history-kickstarter-campaign-launches/)** — Wilhelm highlights Andrew Groen’s The Archive, a Kickstarter book collecting big virtual-world histories from EVE Online, WoW, Shadowbane, Urban Dead, and Asheron’s Call.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/04/28/wow-a-tour-you-wont-find-in-the-brochures/)** — Stargrace gives World of Warcraft’s Azeroth the unofficial tour, swapping heroic landmarks for smugglers, shady fish deals, and Booty Bay gossip.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/04/28/ninja-gaiden-ii-the-dark-sword-of-chaos/)** — Ellie finds Ninja Gaiden II on NES a faithful, brutally hard sequel that doubles down on the first game’s 80s action-movie charm.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/04/27/ginger-jollibee-and-pragmata/)** — Belghast jumps from selling an old RV and meeting Ginger to FFXIV FanFest hype, Jollibee cosplay, and renewed interest in Evercold.
+## Writing
+
+- **[brennan.day](https://brennan.day/video-games-that-secretly-teach-mathematics/)** — Brennan makes a friendly case that games like Super Mario 64 and Factorio can reveal the beauty of math through glitches, systems, and algorithmic thinking.
