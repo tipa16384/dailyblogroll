@@ -256,7 +256,7 @@ feeds:
     update_frequency: daily
     category: Gaming
     blogger: The Chronicler
-    skip: True
+    skip: False
   - name: Mailvaltar
     url: https://mailvaltar.wordpress.com/feed/
     update_frequency: daily
@@ -332,7 +332,7 @@ feeds:
     pronouns: he/him
     mastodon: "@hamatti@mastodon.world"
     bluesky: Juhis
-    skip: True
+    skip: False
   - name: West Karana
     url: https://westkarana.blog/feed/
     update_frequency: daily
@@ -587,4 +587,9 @@ feeds:
     pronouns: he/him
     bluesky: "@digiantiquarian.bsky.social"
     mastodon: "@DigiAntiquarian@oldbytes.space"
-  
+  - name: Retro XP
+    url: https://rss.beehiiv.com/feeds/FlxjAIihEr.xml
+    category: Gaming
+    update_frequency: daily
+    blogger: Marc
+    pronouns: he/him
