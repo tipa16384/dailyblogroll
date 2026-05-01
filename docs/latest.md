@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-04-30
+# Daily Blogroll: 2026-05-01
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/29/winterco-staging-keepstar-in-4-hwwf-destroyed/)** — Wilhelm recounts EVE Online’s Imperium overshooting its Geminate goal by destroying WinterCo’s main staging Keepstar in 4-HWWF after a messy, setback-filled push.
-- **[Chasing Dings!](https://chasingdings.com/2026/04/29/giiker-super-reversi/)** — Tipa digs into GiiKER’s Super Reversi handheld, from its slick OLED-and-dial design to whether its learning AI can actually hang with her Othello code.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/04/29/first-impressions-for-monumental-from-funforge/)** — The Chronicler comes away impressed by Monumental’s clever cross-tapping, lavish production, and big-table civ-deckbuilding ambition, even with expansions piled on.
-- **[Retro XP](https://retroxp.beehiiv.com/p/re-release-this-phoenix)** — Marc makes the case for Phoenix to return, spotlighting the 1980 shooter’s murky origins and outsized importance to Centuri, Taito, and early home-port history.
-- **[Aywren's Nook](https://aywren.com/2026/04/29/ffxiv-return-from-ffxiv-fanfest-2026)** — Aywren says FFXIV Fanfest 2026 in Anaheim felt energetic and much better organized, with good swag and vibes, even if the merch line was a disaster.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/04/29/inkonbini-review/)** — Krista highlights inKONBINI as a cozy, slow-paced 1990s Japan narrative game about running a convenience store and connecting with regulars.
-- **[Bio Break](https://biobreak.wordpress.com/2026/04/29/syps-gaming-goal-for-may-2026/)** — Syp scales Bio Break back to monthly check-ins while mapping out May plans across WoW, WoW Classic, and LOTRO after a rough Patch 12.0.5.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/04/drinking-from-buggy-content-hose.html)** — Shintar likes WoW Midnight’s new 12.0.5 activities well enough, but says the constant content flood and rising bug count are getting hard to ignore.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/04/29.html#a163141)** — Dave Winer riffs on locked-open platforms, Claude’s weirdly human vibes, and figuring out how WordLand can post to Automattic’s new short-form WordPress tool.
-## Writing
+- **[Scripting News](http://scripting.com/2026/04/30.html#a021811)** — Dave Winer untangles the WordPress Social mix-up, saying the slick WordPress.com/Social page looked real and sharpened his push for an open web writing stack.
+- **[Sid's Blog](https://0xsid.com/blog/agentic-coding-fatigue)** — Sid argues LLM-driven agentic coding trades steady programming flow for gacha-like oversight, context switching, and brutal decision fatigue.
+## Gaming
 
-- **[Hamatti](https://hamatti.org/posts/indieweb-carnival-write-a-love-letter/)** — Juhis invites the IndieWeb Carnival to go full love letter in May, celebrating people, art, software, and whatever else deserves some unapologetic enthusiasm.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/30/april-2026-in-review/)** — Wilhelm mixes WordPress comment woes with a whirlwind month spanning WoW Classic, Enshrouded, EVE Online, LOTRO, and more in a brisk April recap.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/05/visible-zork-3)** — Andrew Plotkin opens Visible Zork 3 to everyone, framing Zork 3 as a quieter, virtue-tinged finale and teasing Deadline and Starcross next.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-18-2026)** — Sey rounds up indie finds including City of None, Wunder, and Wax Heads, with wishlist-worthy hooks plus soundtrack and merch chatter.
+- **[Oya's Game Hub](https://oyito.substack.com/p/co-op-days-trine)** — Oya revisits Trine as a reliable co-op fallback, praising its gorgeous puzzle-platforming while fondly recalling hard-mode chaos with friends.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/04/30/stories-from-forest-city-fighters-3/)** — Frostilyte shares the setup, camaraderie, and local FGC energy that made Forest City Fighters 3 feel like a real scene in London, Ontario.
+- **[Indiecator](https://indiecator.org/2026/05/01/goblin-vyke-the-thief-tycoon-sneaks-onto-steam/)** — Magi says Goblin Vyke’s Steam launch delivers a surprisingly fresh loop of stealthy dungeon theft, shopkeeping, and progression that really sticks.
+- **[Scopique](https://scopique.com/2026/04/30/rock-on-mining-updates-in-star-citizen-4-8-ptu/)** — Scopique breaks down Star Citizen 4.8 PTU mining changes, where ore quality bands should cut down on annoying one-off resource boxes.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/you-take-train-ill-take-bus-this-time.html)** — Bhagpuss tours Neverness To Everness’s huge Hethereau, sizing up walking, climbing, swimming, gliding, and transit in a city that feels startlingly real.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/04/29/the-stories-we-tell-ourselves-about-money/)** — Joar unpacks how money narratives about security, enough, and optimization can quietly outgrow the math and start running the show.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/04/life-choices-and-assuming-consequences.html)** — Tobold argues life choices matter more than victim narratives, and that freedom means owning the long-tail consequences of how we choose to live.
+- **[The Digital Antiquarian](https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/)** — Jimmy points readers to The Analog Antiquarian, kicking off a new series with an introduction to the Bard.
+## Writing
+
+- **[Axxuy](https://axxuy.com/blog/2026/emailing-about-blogging-and-blogging-about-emailing/)** — Axxuy makes a warm case for treating blogs, RSS, and plain old email as a real social network for actually talking to fellow bloggers.
