@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-05-01
+# Daily Blogroll: 2026-05-02
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/04/30.html#a021811)** — Dave Winer untangles the WordPress Social mix-up, saying the slick WordPress.com/Social page looked real and sharpened his push for an open web writing stack.
-- **[Sid's Blog](https://0xsid.com/blog/agentic-coding-fatigue)** — Sid argues LLM-driven agentic coding trades steady programming flow for gacha-like oversight, context switching, and brutal decision fatigue.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/04/30/april-2026-in-review/)** — Wilhelm mixes WordPress comment woes with a whirlwind month spanning WoW Classic, Enshrouded, EVE Online, LOTRO, and more in a brisk April recap.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/05/visible-zork-3)** — Andrew Plotkin opens Visible Zork 3 to everyone, framing Zork 3 as a quieter, virtue-tinged finale and teasing Deadline and Starcross next.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-18-2026)** — Sey rounds up indie finds including City of None, Wunder, and Wax Heads, with wishlist-worthy hooks plus soundtrack and merch chatter.
-- **[Oya's Game Hub](https://oyito.substack.com/p/co-op-days-trine)** — Oya revisits Trine as a reliable co-op fallback, praising its gorgeous puzzle-platforming while fondly recalling hard-mode chaos with friends.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/04/30/stories-from-forest-city-fighters-3/)** — Frostilyte shares the setup, camaraderie, and local FGC energy that made Forest City Fighters 3 feel like a real scene in London, Ontario.
-- **[Indiecator](https://indiecator.org/2026/05/01/goblin-vyke-the-thief-tycoon-sneaks-onto-steam/)** — Magi says Goblin Vyke’s Steam launch delivers a surprisingly fresh loop of stealthy dungeon theft, shopkeeping, and progression that really sticks.
-- **[Scopique](https://scopique.com/2026/04/30/rock-on-mining-updates-in-star-citizen-4-8-ptu/)** — Scopique breaks down Star Citizen 4.8 PTU mining changes, where ore quality bands should cut down on annoying one-off resource boxes.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/04/you-take-train-ill-take-bus-this-time.html)** — Bhagpuss tours Neverness To Everness’s huge Hethereau, sizing up walking, climbing, swimming, gliding, and transit in a city that feels startlingly real.
-## General
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/01/pearl-abyss-sheds-ccp-as-hilmar-buys-the-company-back-for-120-million/)** — Wilhelm wades through CCP’s ownership maze and argues Pearl Abyss dumping EVE Online’s loss-making studio back to management looks more like relief than triumph.
+- **[Endgame Viable](https://endgameviable.com/post/2026/04/2026-04-30-april-pt2/)** — UltrViolet rounds up tactical RPG experiments, Pathfinder: Kingmaker frustrations, and a plea for built-in AI help instead of outdated wiki-diving.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/05/well-be-going-to-ryloth-in-80.html)** — Shintar is most hyped that SWTOR 8.0 brings Ryloth, a level cap bump, a new operation, and more progress toward DirectX 12.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/05/02/warcraft-i-remastered-my-liege-review/)** — Thomas finds Warcraft I: Remastered the easiest way to play Blizzard’s classic, even if the modernized controls can’t hide its cheap-looking AI-upscaled presentation.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/05/01/one-piece-grand-battle-swan-colosseum-big-fights-on-a-tiny-screen/)** — Kimimi barely knows One Piece, but she’s sold on Grand Battle Swan Colosseum’s fast, chaotic WonderSwan arena fights and wonderfully simple controls.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/01/great-story-meh-endgame/)** — Belghast says Diablo IV’s Lord of Hatred campaign and Skovos land well, but the endgame still feels flat beside Path of Exile and Last Epoch.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/05/01/gaming-april-wrap-up-2026/)** — Stargrace’s April gaming slump still had EVE Online narrowly beating World of Warcraft, with community keeping New Eden more compelling than Midnight.
+## Tech
 
-- **[The Digital Antiquarian](https://www.filfre.net/2026/04/this-week-on-the-analog-antiquarian/)** — Jimmy points readers to The Analog Antiquarian, kicking off a new series with an introduction to the Bard.
+- **[Scripting News](http://scripting.com/2026/05/01.html#a125056)** — Dave Winer cheers the Knicks, then pivots back to web writing, arguing Bluesky should embrace RSS-style openness instead of clinging to Twitter habits.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html)** — Bruce Schneier flags a grim ransomware conflict-of-interest story: a negotiator secretly working both sides pleaded guilty.
 ## Writing
 
-- **[Axxuy](https://axxuy.com/blog/2026/emailing-about-blogging-and-blogging-about-emailing/)** — Axxuy makes a warm case for treating blogs, RSS, and plain old email as a real social network for actually talking to fellow bloggers.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-05-01.html)** — Tofutush recaps an anxious April of finals, rough mood swings, starting a Spy School novel, and pushing ahead with a Wings of Fire reread.
+## General
+
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/04/30/sleepless-nova-jealous-of-tomorrow-reputation-music-of-april-2026/)** — Emily mixes life updates with April music picks, shouting out Luke Combs, Green Day, Chromeo, and Metal Hellsinger’s Serj Tankian finale track.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/01/home-again/)** — Warner is back from a grandkid-helping week, happily wiped out and already noting the kids have outgrown some of his old grandpa tricks.
