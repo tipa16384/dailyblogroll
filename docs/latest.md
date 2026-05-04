@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-05-03
+# Daily Blogroll: 2026-05-04
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/02/in-which-i-accidentally-get-a-solo-kill/)** — Wilhelm recounts an almost accidental EVE Online solo kill in an Ishtar, with the usual self-deprecating reminder that null-sec PvP still mostly ends badly.
-- **[Sweetie Games](https://sweetie.games/2026/05/02/were-seeing-more-video-game-adaptations-than-ever-before/)** — Sweetie uses the Mario Galaxy movie, Arcane, Fallout, Iron Lung, and Bloodbourne to argue games finally deserve mainstream cultural respect.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/05/03/eastward/)** — Ellie reviews Eastward through the lens of the 'sad dad' game, asking how much emotional storytelling John and Sam can carry with few words.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/05/longevity-of-survival-crafting-games.html)** — Tobold wonders why survival-crafting games like Windrose and Enshrouded lose their pull, blaming rigid tech-tree progression and weak replay value.
-- **[Retro XP](https://retroxp.beehiiv.com/p/retro-spotlight-red-faction-guerrilla)** — Marc revisits Red Faction: Guerrilla as a blunt, timely critique of labor exploitation, resource collapse, and post-2008 economic misery on Mars.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/05/02.html#a023128)** — Dave Winer bounces from Markdown and AI to WordPress news feeds, making a breezy case for better web-native writing and discovery.
-- **[Nik Kantar](https://nkantar.com/blog/2026/05/nbpy-2026-afterfeels/)** — Nik comes away from North Bay Python 2026 glowing about the talks, the barn venue, and the conference’s thoughtful, welcoming vibe.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/5/1/spotify-and-sound-quality)** — Roger tweaks Spotify’s bitrate, normalization, and EQ settings, with a handy reminder that the default sound can be flatter than expected.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/05/happy-time_t-1777777777-to-all-who-celebrate/)** — Jamie Zawinski marks the delightfully nerdy milestone of Unix time_t hitting 1777777777, continuing his long-running calendar-chaos fascination.
-## Writing
+- **[Scripting News](http://scripting.com/2026/05/03.html#a172548)** — Dave Winer riffs on Claude, open-source trust, and his new WordPress news page, all with that classic blogging-is-still-great energy.
+## Gaming
 
-- **[brennan.day](https://brennan.day/writers-who-burned-all-their-words-feat-bix-frankonis/)** — Brennan reflects on obsessive archiving by looking at writers who wanted their work destroyed, turning literary loss into a personal writing meditation.
-- **[Hamatti](https://hamatti.org/posts/i-tell-about-my-blog-to-anyone-willing-to-listen/)** — Juhis happily tells offline people about his blog, framing blogging as just one outlet for a broader love of writing.
+- **[Chasing Dings!](https://chasingdings.com/2026/05/03/heroquest-first-light-the-might-of-the-synchroform/)** — Tipa wraps HeroQuest: First Light by praising its stronger campaign while arguing the Wizard and Elf still get shortchanged by weak magic.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/03/tagn-fantasy-critic-league-2026-week-eighteen-and-saros-soars/)** — Wilhelm’s Fantasy Critic standings get shuffled by Kiln and Diablo IV: Lord of Hatred, with scores bouncing around all over the board.
+- **[Dragonchasers](https://dragonchasers.com/2026/05/03/backlogs-if-you-care/)** — Nimgimli shares a couple smart backlog hacks: narrow your picks, ditch distractions, and keep a notebook so you remember what to do next.
+- **[Virtual Moose](https://virtualmoose.org/2026/05/03/text-adventures-still-rule-in-the-year-2026/)** — Michael makes a solid case for text adventures in 2026, with beginner-friendly IF picks plus tips on interpreters, mapping, and where the scene lives.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/05/03/first-impressions-for-arcs-the-blighted-reach-from-leder-games/)** — The Chronicler dives into Arcs: The Blighted Reach, a three-act campaign that sounds ambitious, asymmetric, and packed with evolving systems.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/05/the-grim-reaches-twows-take-on-twilight.html)** — Shintar finds Turtle WoW’s Grim Reaches serviceable but bland, with repetitive quests and a weird lack of gryphon flavor for Wildhammer dwarves.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/05/01/month-in-review-mewgenics-guilty-gear-strive-2-0/)** — Frostilyte checks in on Mewgenics and says Guilty Gear Strive 2.0 actually delivered, trimming cheese and earning unusually broad praise.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/03/aggrochat-567-lords-be-hatin/)** — Belghast and crew bounce through Diablo IV: Lord of Hatred, WoW nostalgia, Pokémon ZA, Heroes of Might and Magic, and Sorcery: Contested Realm.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/05/04/resident-evil-4-the-occultists-plaga/)** — Emily revisits Resident Evil 4 and enjoys Leon, Las Plagas, the Merchant, and the remix of survival horror with upgrades and treasure hunting.
 ## General
 
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/badgers-and-bears.html)** — Bhagpuss detours briefly from Neverness to Everness to confess how NightCafe login streaks and badge chasing can quietly take over your brain.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-05-03-week-18-digest/)** — Anarchae made the move, survived cleanup and ISP chaos, and is now settling into the new condo one microwave and Poang dream at a time.
+- **[Indiecator](https://indiecator.org/2026/05/01/vtubing-radio-episode-1-vtubing-explained/)** — Magi launches TheVTubingRadio with VTubing Explained, aiming to spotlight creators and the people behind the VTubing scene.
