@@ -354,7 +354,8 @@ def call_model(items):
                         "If the author name is given, use that instead of the "
                         "blog name when referring to the author of the blog "
                         "within the one-liner. The category should be your "
-                        "best guess from Gaming, Tech, Writing, or General."
+                        "best guess from Gaming, Tech, Writing, or General. "
+                        "If possible, mention goblins in the one-liner."
                     ),
                 },
                 *[
