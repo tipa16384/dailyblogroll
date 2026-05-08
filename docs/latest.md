@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-05-07
+# Daily Blogroll: 2026-05-08
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/05/06.html#a125359)** — Dave Winer wishes Automattic had gone RSS-first and says Claude-style coding could unleash a wave of remixed web software.
-- **[Full Time Casual](https://blog.kevinbrill.com/2026/05/being-more-welcoming.html)** — Kevin reworks TempusGameIt’s first-run flow so new users actually see the app, hit a clearer welcome screen, and get less overwhelmed.
-- **[Scopique](https://scopique.com/2026/05/06/what-the-arcbrush/)** — Scopique is excited by ArcBrush, a node-based image tool for palette swaps, masking, and fast PBR texture outputs without making AI the whole pitch.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html)** — Bruce Schneier points to ICE developing smart glasses that pair facial recognition with agency databases, which is exactly as unsettling as it sounds.
+- **[Scripting News](http://scripting.com/2026/05/07.html#a132833)** — Dave Winer argues RSS lost to Twitter because developers wouldn’t cooperate, and says AI-era social tools need open collaboration or we’ll just get Elon II.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/06/midnight-in-which-we-delve/)** — Wilhelm finally digs into WoW: Midnight, finding delves fun but oddly old-school when your whole group has to physically hoof it there.
-- **[Buried Treasure](https://buried-treasure.org/2026/05/elementallis/)** — John says Elementallis is a shockingly good 2D Zelda-like RPG, huge and engrossing, with only some story ambiguity and occasional lack of direction.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/05/spring-id-games)** — Andrew Plotkin rounds up games that scratch very specific itches, from Hunt-style puzzlers to gecko climbing and absurdly overstuffed libraries.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/05/06/seljuk-gmt-games-new-levy-campaign-mechanics-presentation/)** — The Chronicler spotlights Seljuk’s new Levy & Campaign twists, including asymmetric scoring, one-shot events, Roman themata troops, and treachery cards.
-- **[Indiecator](https://indiecator.org/2026/05/05/playism-game-show-returns-may-10-2026/)** — Magi flags the May 10 PLAYISM Game Show, promising eleven announcements with world premieres and updates from the veteran indie publisher’s lineup.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/settling-in-or-just-another-day-in.html)** — Bhagpuss is happily overwhelmed by Neverness To Everness, from irresistible lens flare screenshots to the slow process of figuring out daily life in Hethereau.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/05/the-turks-at-vienna-eu5-dlc-comments.html)** — Tobold thinks EU5’s Fate of the Phoenix makes Byzantium too scripted and ahistorical, especially when the DLC all but guarantees crushing the Ottomans.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/07/hilmar-rebrands-ccp-as-fenris-creations-says-everything-is-great-demands-you-call-him-fc-now/)** — Wilhelm side-eyes Hilmar’s Fenris Creations rebrand, questioning how EVE Online’s parent can be “profitable” after being sold back so cheaply.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-19-2026)** — Sey’s latest indie roundup highlights Dice Have No Eyes, Besmirch, TOEM 2, cute Pikmin folder icons, and a Wholesome Games soundtrack worth spinning.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/04/the-safe-spot-episode-6-exordium.html)** — CrazyKinux and Rixx are intrigued but skeptical about EVE Online’s PvP-free Exordium, wondering if a safe starter zone teaches habits the real game punishes.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/05/08/spiral-wave-getting-genres-in-a-twist/)** — Kimimi digs into Spiral Wave, a 1991 PC Engine “New RPG” that blends sci-fi adventure, dialogue, and shmup action into something charmingly odd.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/07/diablo-iv-has-good-numbers/)** — Belghast says Diablo IV is finally thriving, with packed hubs, strong timing against ARPG rivals, and a crafting system that makes good gear feel achievable.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/05/07/final-fantasy-xiv-the-return/)** — Krista is back in Final Fantasy XIV thanks to Fan Fest, Evercold hype, and the eternal appeal of causing tiny Lalafell chaos.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/we-need-to-talk-about-taygedo.html)** — Bhagpuss unpacks why Neverness To Everness players bounce off Taygedo, while sketching the game’s anomaly rules, Oddities, and weirdly bureaucratic citizenship.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/05/06/what-credentials-actually-signal/)** — Joar argues credentials like the CPA open doors, but long-term credibility comes from judgment, results, and the track record behind them.
+- **[Westhorpe.net](https://westhorpe.net/2026/05/1984-the-year-i-invented-roleplaying-games/)** — Mat traces his homemade childhood RPGs to building AI-assisted projects like Tavern Keeper and EVE Crews, with Gemini and Claude correcting old design math.
+- **[West Karana](https://westkarana.blog/2026/05/07/movies-without-chris-pratt-the-green-mile/)** — Tipa reads The Green Mile as an explicit Jesus story told from the guards’ perspective, even if the plot logic feels awfully thin.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/07/sometimes-nature-stares-back-at-you/)** — Warner shares a pansy whose face-like markings make nature look a little uncanny, and maybe a bit too observant.
+## Writing
+
+- **[brennan.day](https://brennan.day/where-is-the-indigenous-cultural-revolution/)** — Brennan uses The Undercommons to ask why Indigenous cultural power took such a different shape from Black America under intertwined but distinct colonial violence.

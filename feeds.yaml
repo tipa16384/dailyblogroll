@@ -593,3 +593,10 @@ feeds:
     update_frequency: daily
     blogger: Marc
     pronouns: he/him
+  - name: Westhorpe.net
+    url: https://westhorpe.net/feed/
+    update_frequency: monthly
+    category: General
+    blogger: Mat
+    pronouns: he/him
+    
