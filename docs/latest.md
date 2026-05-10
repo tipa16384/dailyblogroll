@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-05-09
+# Daily Blogroll: 2026-05-10
 
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2026/05/08/preparing-for-dcc-dungeon-crawl-classic/)** — Tipa digs Dungeon Crawl Classics for its fast, old-school Level 0 Funnel chaos, where you roll a pile of doomed nobodies and see who survives.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/08/friday-bullet-points-about-games-i-am-not-currently-playing/)** — Wilhelm rounds up Conan Exiles on UE5, Palia’s horse-heavy expansion, Path of Exile 2 chatter, and Monsters & Memories slipping to October.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/05/turtle-wow-notes-from-dying-server.html)** — Shintar spends Turtle WoW’s final week savoring custom content, a shrinking auction house, and the oddly tender vibes of a fading server.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/05/08/cube4me-update-may-2026/)** — The Chronicler rolls out six new Cube4Me storage sets, plus the long-awaited Magazine Tray for wargame magazines, trays, and card holders.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/08/ancients-league-is-gonna-be-wild/)** — Belghast says Path of Exile II 0.5.0 looks huge, with sweeping endgame reworks, new ascendancies, and a much clearer Atlas progression.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/a-few-improvements-necessary-things-id.html)** — Bhagpuss likes Neverness To Everness but wants more personalization, especially ways to build identity beyond swapping gacha characters and cash-shop outfits.
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/05/08.html#a164319)** — Dave Winer notes WordPress 7.0 buzz, tweaks how Claude acknowledges requests, and quietly pitches Scripting News’ nightly email.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html)** — Bruce Schneier’s comment thread detours from squid into skepticism about Mythos AI, vulnerability triage, and AI-driven technical debt.
-## Writing
-
-- **[False Machine](https://falsemachine.blogspot.com/2026/05/i-read-generators-of-underground-worlds.html)** — Patrick surveys sprawling underground world-generation systems, chasing nation-sized caves and ideas for VotE;ReDux.
 ## General
 
-- **[The Digital Antiquarian](https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/)** — Jimmy keeps unpacking the Pierre Plantard saga, tracing the very ordinary roots behind Rennes-le-Château’s grandiose myths.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-05-08-week-19-digest/)** — Anarchae settles into a new place, wrestles with post-move aches, reads more Albert Campion, and slowly rebuilds routines around work and feeds.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/05/wealth-generation-through-houses.html)** — Tobold argues houses aren’t the only road to wealth, and that mortgages often work more as forced saving than magic economics.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/09/farewell-to-portland/)** — Wilhelm says goodbye to Portland after one last 700-mile family haul on I-5, with Mount Shasta, Weed, and his daughter’s move to San Diego marking the end.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/5/7/uk-local-elections-2026)** — Roger sketches the UK local elections as a messy midterm test for Labour, with Reform UK, the Greens, and Bexley’s three-way fights looming large.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/10/sunday-morning-reading-154/)** — Warner’s weekly reading roundup ranges from The Baffler to AI populism and human writing, with a loose theme of how weird the frame has gotten.
+- **[brennan.day](https://brennan.day/the-hondius-pneumonia-low-risk-assessment/)** — Brennan weighs the Hondius pneumonia case against COVID-era warning failures, stressing Andes virus isn’t airborne while questioning how much “low risk” should reassure anyone.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/05/09/142415.html?title=webToMastodonMakesSense)** — Dave Winer notes WordPress-to-Mastodon mirroring via ActivityPub preserves long text, styling, and links, which makes the open-web publishing flow look surprisingly solid.
+## Gaming
+
+- **[Aywren's Nook](https://aywren.com/2026/05/09/ffxiv-evercold-announcements-my-thoughts-on-the-future)** — Aywren is upbeat on FFXIV Evercold, arguing the 4th reflection and broader shakeups have rekindled excitement after players long asked for real change.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/05/09/outpacked/)** — Ellie finds Outpacked less Unpacking and more logic puzzler, with sweet characters and tidy little suitcase challenges that sound cozy but brainy.
+- **[Dragonchasers](https://dragonchasers.com/2026/05/09/mixtape/)** — Nimgimli absolutely adores Mixtape, a short, low-interactivity coming-of-age story whose mid-90s nostalgia, soundtrack, and trio of friends hit like a masterpiece.
+- **[Virtual Moose](https://virtualmoose.org/2026/05/09/marges-destimbats-crumbled-stone-walls-thoughts/)** — Michael highlights Marges Destimbats, a short FMV interactive documentary about olive terraces near Deltebre, and makes a strong case for more games this specific.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/05/legacy-level-50-on-all-servers.html)** — Shintar hits legacy level 50 on every SWTOR server, then immediately sets sights on the next long-haul alt project: every class, every class story.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/05/firefighting)** — Andrew Plotkin finally gets an ID on a mysterious early-80s Toronto forest-fire simulator: a custom Ontario Science Centre machine with cellular-automata fire spread.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/05/harnessing-power-of-parasocial.html)** — Tobold argues parasocial chat, from OnlyFans to AI companions, may solve what MMORPGs and virtual worlds never cracked: reliable, supportive social presence.
