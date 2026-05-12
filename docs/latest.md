@@ -1,18 +1,20 @@
-# Daily Blogroll: 2026-05-11
+# Daily Blogroll: 2026-05-12
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/05/10.html#a233725)** — Dave Winer cheers the Knicks, likes Leaflet adding email and RSS, and argues the web can route news around platform algorithms.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html)** — Bruce Schneier flags research showing LLMs are really good at hiding text messages inside other text.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/10/tagn-fantasy-critic-league-2026-week-nineteen-and-bhagpuss-arrives-strong-with-mixtape/)** — Wilhelm tracks another Fantasy Critic League shuffle as inKONBINI, Saros, and Diablo IV scores jostle the standings.
-- **[READ ONLY MEMO](https://readonlymemo.com/ayn-thor-owners-rejoice-wii-u-emulation-on-android-is-nigh/)** — Wes rounds up emulator news, with Android Wii U emulation via Cemu and fresh momentum for CrankBoy on Playdate.
-- **[nicole express](https://nicole.express/2026/zoom-zoom.html)** — Nicole digs into how the Master System inherited limited sprite magnification from the TMS9918A lineage, a neat almost-scaling hardware trick.
-- **[In An Age](https://inanage.com/2026/05/11/gamenative/)** — Azuriel says GameNative turned a Retroid Pocket 6 into a mini handheld PC backlog machine for Steam, Epic, Amazon, and GOG.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/05/11/warcraft-ii-remastered-orc-fest-review/)** — Thomas finds Warcraft II: Remastered smoother than the original, but says the visuals and CGI upgrades feel like cheap AI slop.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/05/11/war-of-genesis-iii-part-2-emails-of-doom/)** — Kimimi likes The War of Genesis III Part 2’s polish and quality-of-life upgrades, but its abrupt style shift and no-context sequel setup sting.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/05/10/paralives-early-access-launch/)** — Krista gives a handy pre-launch rundown on Paralives, from flexible building tools to its cozy open-world life sim pitch.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/dosa-divas-review-indie-rpg-cooking-combat-story-analysis)** — Sey is all-in on Dosa Divas, praising its family drama, turn-based combat, cooking hooks, and spirit-mech energy.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/we-dont-need-to-talk-about-lacrimosa.html)** — Bhagpuss has fun poking at Neverness to Everness’s Lacrimosa, a very obvious vampire with some suspiciously bloodlike tomato jelly habits.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/05/10/europa-universalis-the-price-of-power-game-overview/)** — The Chronicler spotlights Europa Universalis: The Price of Power as a big, demanding grand-strategy board game packed with diplomacy, war, and long planning.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/11/capsuleer-day-xxiii-warpath-and-the-event-so-far/)** — Wilhelm says EVE Online’s Warpath event mostly repeats the election event, but with way more grind, a little extra PLEX, and easier hacking.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/05/12/titanium-court-review/)** — Dodo finds Titanium Court a weirdly compelling mashup of match-3, base defense, and roguelike structure, even if repetition sets in fairly fast.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/05/from-ccp-to-fenris-creations-eve-online.html)** — CrazyKinux argues the real EVE Online story isn’t CCP becoming Fenris Creations, but the new Google DeepMind partnership behind it.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/05/why-ive-become-classic-believer.html)** — Shintar says Blizzard’s recent willingness to follow player feedback makes a WoW Classic+ announcement finally feel plausible.
+- **[Virtual Moose](https://virtualmoose.org/2026/05/11/loved-the-incredibly-ambitious-interactive-fiction-game-para-llax/)** — Michael enthusiastically recommends PARA//LLAX, a browser interactive fiction game whose asynchronous two-column storytelling and 27 endings sound genuinely wild.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/05/11.html#a131433)** — Dave Winer plugs WordPress News in FeedLand, wants Beeper to support RSS, and keeps chasing a near-realtime Claude workflow for messaging.
+- **[Scopique](https://scopique.com/2026/05/11/audio-rodeo-a-mostly-non-technical-talk-about-iems/)** — Scopique offers an approachable rundown on IEMs, from planar versus dynamic drivers to the rabbit hole of portable audio obsession.
+- **[brennan.day](https://brennan.day/i-made-my-eleventy-build-5-faster-with-five-changes/)** — Brennan sped up an Eleventy build fivefold by profiling bottlenecks, especially a costly git-based lastModified filter spawning hundreds of processes.
+## General
+
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/05/operation-epic-furious/)** — Jamie Zawinski spotlights a satirical anti-war arcade stunt, Operation Epic Furious, installed at the D.C. War Memorial and briefly playable online.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/11/mixtape-mondays-road-rash-rail/)** — Belghast shares a skater-punk mixtape steeped in 80s and 90s skate culture nostalgia, with plenty of affection for thrashier sounds.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/5/9/tactical-voting)** — Roger reflects on UK local-election tactical voting as a grim but practical way to block Reform UK with the least-worst option.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/11/the-promise-no-tech-ceo-or-politician-will-ever-make/)** — Warner argues nobody in politics or tech will seriously kill spam, because too many of them benefit from the same incentives driving AI and junk outreach.
