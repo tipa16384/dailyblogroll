@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-05-14
+# Daily Blogroll: 2026-05-15
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/05/13.html#a142427)** — Dave Winer gripes about getting stuck paying for X Premium on two accounts, then dives back into fast JSONL streaming via FeedLand websockets.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/05/how-to-radicalize-investment-bankers-against-ai/)** — Jamie Zawinski points to Lake Tahoe’s power crunch as another ugly AI cost, with data centers threatening electricity for resorts, casinos, and residents.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/5/11/learning-via-ai)** — Roger compares AI to the helpful IT mentors he misses, finding Google Gemini useful for technical troubleshooting despite its quirks.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/13/indigo-a-well-designed-social-media-app-for-those-who-need-it/)** — Warner recommends Indigo as a polished way to merge Mastodon and Bluesky timelines, especially if crossposting and feed browsing are your thing.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/13/concord-steps-in-and-finally-installs-cloning-services-in-jita-4-4/)** — Wilhelm notes EVE Online’s Jita is now under CONCORD control, a lore-and-gameplay shift that should spare Caldari enemies from getting shot on arrival.
-- **[Sweetie Games](https://sweetie.games/2026/05/13/ai-is-invading-dragon-quest/)** — Sweetie is firmly against Dragon Quest X adding Google Gemini’s Chatty Slimey, arguing AI companionship and generated voices are a bad fit for games.
-- **[Retro XP](https://retroxp.beehiiv.com/p/it-s-new-to-me-paddle-mania)** — Marc discovers Paddle Mania isn’t really tennis at all, but a weird 1988 arcade mashup closer to Olympic air hockey than Pong.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/05/13/vultures-scavengers-of-death-review/)** — Frostilyte says Vultures smartly fuses turn-based tactics with survival horror, using cramped zombie encounters to keep the tension humming.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/05/13/kingdom-of-heaven-scenario-f-the-seventh-crusade/)** — The Chronicler’s sixth Kingdom of Heaven session digs into the Seventh Crusade, praising its tense card-driven play, sieges, and historical what-ifs.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/replaced-review-cyberpunk-pixel-platformer-gameplay-story-analysis)** — Sey calls Replaced a stylish cyberpunk must-play, pairing cinematic pixel platforming with an AI-fueled story about Phoenix Corporation’s brutal control.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/14/friday-eve-online-bullet-points-on-thursday-for-eve-fanfest/)** — Wilhelm previews EVE Fanfest streams, expects June expansion news, side-eyes EVE Classic nostalgia, and grumbles that EVE Frontier prize money beats supporting fan sites.
+- **[Aywren's Nook](https://aywren.com/2026/05/14/ffxiv-patch-7-5-biggest-quality-of-life-features)** — Aywren cheers FFXIV Patch 7.5 for finally easing retainer pain with bigger housing storage and dye consolidation, even if hoarders will still fill it all.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/05/15/jungle-park-saturn-island-trying/)** — Kimimi digs into Jungle Park’s gloriously weird Saturn-era energy, from Cubivore-like animals to a giant foldout map and baffling early monkey puzzles.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/05/turtle-wows-final-farewell.html)** — Shintar joins Turtle WoW’s shutdown farewell, where DJs, fireworks, turtle mounts, and Closing Time turned a private server goodbye into a surprisingly emotional sendoff.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/05/15/inkonbini-review/)** — Luna finds inKONBINI’s 1990s konbini vibe charming and checkout oddly satisfying, but says the overall cozy slice-of-life package felt too bland.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/what-are-odds-rolling-dice-in-neverness.html)** — Bhagpuss uses Neverness To Everness to unpack gacha basics, odds, and why chasing Hotori still isn’t enough to make him care much about pulls.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/05/14/eve-treasureless-space/)** — Stargrace finds ten lousy relic sites in an EVE wormhole, but the quiet beauty, danger, and solitude make the treasureless run feel worth it.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/05/14.html#a150919)** — Dave Winer notes RSS feeds already have avatars via the image element, and says Claude Code poking around Chrome’s DOM could make UI work much nicer.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html)** — Bruce Schneier highlights how AI video age checks can apparently be fooled by something as low-tech as a fake mustache.
 ## General
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/05/13/the-woman-in-me-overcoming-control-of-ones-life/)** — Emily finds Britney Spears’ memoir The Woman in Me an absorbing, personal read focused more on Britney’s life and control than music-making.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/05/14/learning-to-be-invisible/)** — Joar reflects on retirement’s odd tradeoff: losing the status and shorthand of being known, but also the exhausting obligation to always play the role.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/05/ai-virtue-signalling.html)** — Tobold argues AI debate is stuck in hype, doom, and board-game YouTube purity tests instead of any useful middle-ground conversation about tools.
 ## Writing
 
-- **[Virtual Moose](https://virtualmoose.org/2026/05/12/stop-using-experimental-art-as-a-cudgel/)** — Michael argues experimental art in games, music, and storytelling should be appreciated on its own terms, not weaponized to dunk on mainstream work.
+- **[brennan.day](https://brennan.day/on-being-a-river/)** — Brennan turns rivers into a meditation on civilization, blood, and the body, drawing a calm, flowing line between human history and human fragility.
