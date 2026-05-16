@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-05-15
+# Daily Blogroll: 2026-05-16
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/14/friday-eve-online-bullet-points-on-thursday-for-eve-fanfest/)** — Wilhelm previews EVE Fanfest streams, expects June expansion news, side-eyes EVE Classic nostalgia, and grumbles that EVE Frontier prize money beats supporting fan sites.
-- **[Aywren's Nook](https://aywren.com/2026/05/14/ffxiv-patch-7-5-biggest-quality-of-life-features)** — Aywren cheers FFXIV Patch 7.5 for finally easing retainer pain with bigger housing storage and dye consolidation, even if hoarders will still fill it all.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/05/15/jungle-park-saturn-island-trying/)** — Kimimi digs into Jungle Park’s gloriously weird Saturn-era energy, from Cubivore-like animals to a giant foldout map and baffling early monkey puzzles.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/05/turtle-wows-final-farewell.html)** — Shintar joins Turtle WoW’s shutdown farewell, where DJs, fireworks, turtle mounts, and Closing Time turned a private server goodbye into a surprisingly emotional sendoff.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/05/15/inkonbini-review/)** — Luna finds inKONBINI’s 1990s konbini vibe charming and checkout oddly satisfying, but says the overall cozy slice-of-life package felt too bland.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/what-are-odds-rolling-dice-in-neverness.html)** — Bhagpuss uses Neverness To Everness to unpack gacha basics, odds, and why chasing Hotori still isn’t enough to make him care much about pulls.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/05/14/eve-treasureless-space/)** — Stargrace finds ten lousy relic sites in an EVE wormhole, but the quiet beauty, danger, and solitude make the treasureless run feel worth it.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/15/making-level-75-in-pokemon-go-and-onward-to-level-76/)** — Wilhelm hits Pokémon Go level 75, with Great Throws as the real grind, and now eyes Rocket battles, 300 km, and a brutal 200-catch day.
+- **[Oya's Game Hub](https://oyito.substack.com/p/clair-obscur-expedition-33-a-painted)** — Oya writes a very personal love letter to Clair Obscur: Expedition 33, especially its soundtrack and the concert trip it inspired.
+- **[Indiecator](https://indiecator.org/2026/05/16/opus-prism-peak-review/)** — Magi says OPUS: Prism Peak is a gorgeous, tearjerking narrative adventure about regret, identity, and moving forward, with SIGONO very much in its feelings bag.
+- **[Buried Treasure](https://buried-treasure.org/2026/05/uncle-lees-cookbook-five-recipes-for-disaster/)** — John finds Uncle Lee’s Cookbook a smart little point-and-click remix, packing reality-bending puzzles, gentle gags, and a lot of ideas into a few hours.
+- **[Scopique](https://scopique.com/2026/05/15/star-citizen-4-8-because-they-had-to/)** — Scopique sympathizes with devs but says Star Citizen 4.8 shipped half-baked, with busted missions, shaky insurance, and the usual navigation chaos.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/05/what-deepminds-partnership-could.html)** — CrazyKinux comes away wanting more from the DeepMind talk, then sketches plausible AI uses for EVE Online like smarter NPCs and dynamic events.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/05/14.html#a150919)** — Dave Winer notes RSS feeds already have avatars via the image element, and says Claude Code poking around Chrome’s DOM could make UI work much nicer.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html)** — Bruce Schneier highlights how AI video age checks can apparently be fooled by something as low-tech as a fake mustache.
+- **[Scripting News](http://scripting.com/2026/05/15.html#a160223)** — Dave Winer wants Claude to get an outliner, ships Scripting News as JSONL, and keeps pushing simple RSS-style plumbing for AI-era feeds.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/05/the-rust-evangelism-task-force-has-declared-ethics-to-be-out-of-scope/)** — Jamie Zawinski spotlights Rust’s proposed LLM contribution policy and is, unsurprisingly, not impressed by ethics being fenced off from discussion.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/5/15/changing-internet-service-provider)** — Roger says switching UK fiber from EE to Plusnet was mostly painless, cheaper, and ended with powerline adapters fixing a stubborn lounge connection.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/05/14/learning-to-be-invisible/)** — Joar reflects on retirement’s odd tradeoff: losing the status and shorthand of being known, but also the exhausting obligation to always play the role.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/05/ai-virtue-signalling.html)** — Tobold argues AI debate is stuck in hype, doom, and board-game YouTube purity tests instead of any useful middle-ground conversation about tools.
-## Writing
-
-- **[brennan.day](https://brennan.day/on-being-a-river/)** — Brennan turns rivers into a meditation on civilization, blood, and the body, drawing a calm, flowing line between human history and human fragility.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-05-15-week-20-digest/)** — Anarchae rounds up a busy week of mystery fiction, racing docs, and a new Ital Tek album, with work still eating most of life.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/15/random-bag-of-nonsense/)** — Belghast checks in from a rough chemo week, grateful for friends, chatting Eurovision, and still finding room for Sorcery boxes and AFK Journey.
+- **[Hamatti](https://hamatti.org/posts/even-the-dogs-have-started-to-notice/)** — Juhis writes about a sharp upswing in happiness and how even the neighborhood dogs seem to be picking up on the change.
