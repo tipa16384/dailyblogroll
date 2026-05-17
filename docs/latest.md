@@ -1,20 +1,19 @@
-# Daily Blogroll: 2026-05-16
+# Daily Blogroll: 2026-05-17
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/15/making-level-75-in-pokemon-go-and-onward-to-level-76/)** — Wilhelm hits Pokémon Go level 75, with Great Throws as the real grind, and now eyes Rocket battles, 300 km, and a brutal 200-catch day.
-- **[Oya's Game Hub](https://oyito.substack.com/p/clair-obscur-expedition-33-a-painted)** — Oya writes a very personal love letter to Clair Obscur: Expedition 33, especially its soundtrack and the concert trip it inspired.
-- **[Indiecator](https://indiecator.org/2026/05/16/opus-prism-peak-review/)** — Magi says OPUS: Prism Peak is a gorgeous, tearjerking narrative adventure about regret, identity, and moving forward, with SIGONO very much in its feelings bag.
-- **[Buried Treasure](https://buried-treasure.org/2026/05/uncle-lees-cookbook-five-recipes-for-disaster/)** — John finds Uncle Lee’s Cookbook a smart little point-and-click remix, packing reality-bending puzzles, gentle gags, and a lot of ideas into a few hours.
-- **[Scopique](https://scopique.com/2026/05/15/star-citizen-4-8-because-they-had-to/)** — Scopique sympathizes with devs but says Star Citizen 4.8 shipped half-baked, with busted missions, shaky insurance, and the usual navigation chaos.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/05/what-deepminds-partnership-could.html)** — CrazyKinux comes away wanting more from the DeepMind talk, then sketches plausible AI uses for EVE Online like smarter NPCs and dynamic events.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/16/nethack-turns-5-0/)** — Wilhelm checks back in on NetHack 5.0 and the old ASCII roguelike still feels like a milestone with four decades of history behind it.
+- **[Endgame Viable](https://endgameviable.com/post/2026/05/2026-05-16-may-pt1/)** — UltrViolet rounds up a low-energy month with FFXIV Evercold news, Wartales revisits, and Battle Brothers mercenary runs getting absolutely wrecked.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/05/16/currently-playing-vultures-scavengers-of-death-almost-a-review/)** — Thomas says Vultures: Scavengers of Death nails the old Resident Evil vibe through top-down, turn-based survival horror and rewarding exploration.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-20-2026)** — Sey packs the roundup with Phonopolis, ZERO PARADES, PEAK merch, Mario & Chill 3, and a Disco Elysium Gaming Club push.
+- **[Retro XP](https://retroxp.beehiiv.com/p/past-meets-present-wonderland-of-carbuncle)** — Marc digs into Compile’s oddball history through Wonderland of Carbuncle, tying Disc Station experimentation to today’s indie-dev spirit.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/tell-me-about-your-childhood-backstory.html)** — Bhagpuss says Neverness To Everness hides character-defining backstory in Hotta’s messy sprawl of videos, so players are missing context if they skip them.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/05/battlefield-barrens.html)** — Shintar revisits Mists of Pandaria Classic’s temporary Battlefield: Barrens event and finds an interesting proto-world-quest idea in a mostly empty zone.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/05/15.html#a160223)** — Dave Winer wants Claude to get an outliner, ships Scripting News as JSONL, and keeps pushing simple RSS-style plumbing for AI-era feeds.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/05/the-rust-evangelism-task-force-has-declared-ethics-to-be-out-of-scope/)** — Jamie Zawinski spotlights Rust’s proposed LLM contribution policy and is, unsurprisingly, not impressed by ethics being fenced off from discussion.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/5/15/changing-internet-service-provider)** — Roger says switching UK fiber from EE to Plusnet was mostly painless, cheaper, and ended with powerline adapters fixing a stubborn lounge connection.
-## General
+- **[Scripting News](http://scripting.com/2026/05/16.html#a150155)** — Dave Winer documents an RSS 2.0 inReplyTo addition and shares how Claude found a sneaky typo in seconds when his brain stalled.
+- **[brennan.day](https://brennan.day/a-love-letter-to-everything/)** — Brennan turns an IndieWeb Carnival prompt into a wide-open thank-you note to Netlify, Unix-like systems, internet infrastructure, and the people behind them.
+## Writing
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-05-15-week-20-digest/)** — Anarchae rounds up a busy week of mystery fiction, racing docs, and a new Ital Tek album, with work still eating most of life.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/15/random-bag-of-nonsense/)** — Belghast checks in from a rough chemo week, grateful for friends, chatting Eurovision, and still finding room for Sorcery boxes and AFK Journey.
-- **[Hamatti](https://hamatti.org/posts/even-the-dogs-have-started-to-notice/)** — Juhis writes about a sharp upswing in happiness and how even the neighborhood dogs seem to be picking up on the change.
+- **[False Machine](https://falsemachine.blogspot.com/2026/05/the-doom-of-dark-is-success.html)** — Patrick celebrates Doom of the Dark blowing past its Kickstarter goal, unlocking better print quality and maybe a more playable interlinked PDF.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/16/what-goes-around-is-always-coming-back-around/)** — Warner finds Putu Wijaya’s OH uncomfortably timely in rehearsal, a reminder that theatre from far away still lands painfully close to home.
