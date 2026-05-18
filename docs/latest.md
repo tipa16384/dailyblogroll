@@ -1,19 +1,18 @@
-# Daily Blogroll: 2026-05-17
+# Daily Blogroll: 2026-05-18
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/16/nethack-turns-5-0/)** — Wilhelm checks back in on NetHack 5.0 and the old ASCII roguelike still feels like a milestone with four decades of history behind it.
-- **[Endgame Viable](https://endgameviable.com/post/2026/05/2026-05-16-may-pt1/)** — UltrViolet rounds up a low-energy month with FFXIV Evercold news, Wartales revisits, and Battle Brothers mercenary runs getting absolutely wrecked.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/05/16/currently-playing-vultures-scavengers-of-death-almost-a-review/)** — Thomas says Vultures: Scavengers of Death nails the old Resident Evil vibe through top-down, turn-based survival horror and rewarding exploration.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-20-2026)** — Sey packs the roundup with Phonopolis, ZERO PARADES, PEAK merch, Mario & Chill 3, and a Disco Elysium Gaming Club push.
-- **[Retro XP](https://retroxp.beehiiv.com/p/past-meets-present-wonderland-of-carbuncle)** — Marc digs into Compile’s oddball history through Wonderland of Carbuncle, tying Disc Station experimentation to today’s indie-dev spirit.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/tell-me-about-your-childhood-backstory.html)** — Bhagpuss says Neverness To Everness hides character-defining backstory in Hotta’s messy sprawl of videos, so players are missing context if they skip them.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/05/battlefield-barrens.html)** — Shintar revisits Mists of Pandaria Classic’s temporary Battlefield: Barrens event and finds an interesting proto-world-quest idea in a mostly empty zone.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/17/tagn-fantasy-critic-league-2026-week-twenty-outbound-and-down/)** — Wilhelm’s Fantasy Critic update is a quick one: Outbound keeps sliding, Mixtape dips a bit, and the week 20 rankings get reshuffled.
+- **[Chasing Dings!](https://chasingdings.com/2026/05/17/windrose-a-fine-collection-of-neer-do-wells/)** — Tipa says Windrose isn’t just pirate Valheim; its livelier world and parry-heavy boss fights make it a tougher, distinct survival-crafting beast.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/05/17/super-mario-bros-3/)** — Ellie bounces off Super Mario Bros. 3 despite its classic status, finding the difficulty, movement, and stage design more frustrating than fun.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/05/17/my-top-new-solitaire-wargames-what-have-i-played-in-last-year/)** — The Chronicler rounds up ten new-to-them solitaire wargames, spotlighting solo systems that delivered strong replayability, narrative, and tabletop tension.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/05/18/flash-koibito-kun-full-of-heart/)** — Kimimi delights in Flash Koibito-kun, a charming WonderSwan puzzle game about a love ninja shepherding walking hearts across tricky gaps.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/05/speedlinking-new-eden-more-may-17th.html)** — CrazyKinux revives Speedlinking with an EVE-heavy roundup covering Fanfest 2026, Cradle of War, Fenris Creations, and the DeepMind tie-in.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/05/16.html#a150155)** — Dave Winer documents an RSS 2.0 inReplyTo addition and shares how Claude found a sneaky typo in seconds when his brain stalled.
-- **[brennan.day](https://brennan.day/a-love-letter-to-everything/)** — Brennan turns an IndieWeb Carnival prompt into a wide-open thank-you note to Netlify, Unix-like systems, internet infrastructure, and the people behind them.
-## Writing
+- **[Scripting News](http://scripting.com/2026/05/17.html#a135922)** — Dave Winer jumps from web-built Twitter-like networks to a nasty location.href startup bug, with side takes on AI, media, and Trump.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html)** — Bruce Schneier’s squid post turns into a meaty BitLocker thread, digging into TPMs, key storage, and why broken trust chains matter either way.
+## General
 
-- **[False Machine](https://falsemachine.blogspot.com/2026/05/the-doom-of-dark-is-success.html)** — Patrick celebrates Doom of the Dark blowing past its Kickstarter goal, unlocking better print quality and maybe a more playable interlinked PDF.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/16/what-goes-around-is-always-coming-back-around/)** — Warner finds Putu Wijaya’s OH uncomfortably timely in rehearsal, a reminder that theatre from far away still lands painfully close to home.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/05/17/spin-the-wheel-solve-the-puzzle/)** — Emily reflects on why Wheel of Fortune clicked so hard, tying its spinning-wheel joy and puzzle-solving thrill to a lifelong stim.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/17/sunday-morning-reading-155/)** — Warner serves a smart Sunday reading list, pulling together politics, criticism, OpenAI drama, and culture with an eye for the subtext.
