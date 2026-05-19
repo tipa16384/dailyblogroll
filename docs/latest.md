@@ -1,18 +1,20 @@
-# Daily Blogroll: 2026-05-18
+# Daily Blogroll: 2026-05-19
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/17/tagn-fantasy-critic-league-2026-week-twenty-outbound-and-down/)** — Wilhelm’s Fantasy Critic update is a quick one: Outbound keeps sliding, Mixtape dips a bit, and the week 20 rankings get reshuffled.
-- **[Chasing Dings!](https://chasingdings.com/2026/05/17/windrose-a-fine-collection-of-neer-do-wells/)** — Tipa says Windrose isn’t just pirate Valheim; its livelier world and parry-heavy boss fights make it a tougher, distinct survival-crafting beast.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/05/17/super-mario-bros-3/)** — Ellie bounces off Super Mario Bros. 3 despite its classic status, finding the difficulty, movement, and stage design more frustrating than fun.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/05/17/my-top-new-solitaire-wargames-what-have-i-played-in-last-year/)** — The Chronicler rounds up ten new-to-them solitaire wargames, spotlighting solo systems that delivered strong replayability, narrative, and tabletop tension.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/05/18/flash-koibito-kun-full-of-heart/)** — Kimimi delights in Flash Koibito-kun, a charming WonderSwan puzzle game about a love ninja shepherding walking hearts across tricky gaps.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/05/speedlinking-new-eden-more-may-17th.html)** — CrazyKinux revives Speedlinking with an EVE-heavy roundup covering Fanfest 2026, Cradle of War, Fenris Creations, and the DeepMind tie-in.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/05/17.html#a135922)** — Dave Winer jumps from web-built Twitter-like networks to a nasty location.href startup bug, with side takes on AI, media, and Trump.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html)** — Bruce Schneier’s squid post turns into a meaty BitLocker thread, digging into TPMs, key storage, and why broken trust chains matter either way.
+- **[Scripting News](http://scripting.com/2026/05/18/164538.html?title=theMindOfClaude)** — Dave Winer says Claude Code can absorb his coding style fast, explain huge codebases, and makes gnarly software maintenance look newly tractable.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/18/three-hundred-million-skill-points/)** — Wilhelm hits 300 million skill points in EVE Online and marvels at how wildly CCP now showers players with SP.
+- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/05/18/5-18-2026-were-going-home-again/)** — Blockade85 gets that annual late-spring pull back to Final Fantasy XI, chasing the old summertime feeling of freedom in Vana’diel.
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/05/simplifying-warlock.html)** — Joar ditches WoW crafting for mining and herbalism, narrowing focus to one warlock while real-life moving chaos eats alt time.
+- **[In An Age](https://inanage.com/2026/05/18/about-that-e33-mocap/)** — Azuriel digs into Clair Obscur: Expedition 33’s standout mocap and credits Unreal Engine 5 plus a nimble team for the magic.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/05/18/coffee-talk-tokyo/)** — Krista says Coffee Talk Tokyo keeps the series’ cosy vibe while adding a Tokyo setting, yokai cast, and a bigger drink-brewing toolbox.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/05/rerolling-maps.html)** — Tobold reflects on Farthest Frontier and his habit of rerolling random maps until the starting conditions feel good enough to commit.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/05/19/can-we-stop-blindly-accusing-indie-games-of-using-generative-ai/)** — Luna argues players should do basic homework before accusing indie games of using generative AI, especially given how damaging the label is.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/18/winding-down-diablo/)** — Belghast is cooling on Diablo 4 after his Paladin stalls out, with stingy Ancestral drops and annoying one-shot boss mechanics killing the vibe.
+- **[Scopique](https://scopique.com/2026/05/18/well-make-it-work/)** — Scopique recounts a gloriously janky Star Citizen session where busted 4.8 physics, insurance quirks, and sheer stubbornness somehow still made it fun.
 ## General
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/05/17/spin-the-wheel-solve-the-puzzle/)** — Emily reflects on why Wheel of Fortune clicked so hard, tying its spinning-wheel joy and puzzle-solving thrill to a lifelong stim.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/17/sunday-morning-reading-155/)** — Warner serves a smart Sunday reading list, pulling together politics, criticism, OpenAI drama, and culture with an eye for the subtext.
+- **[Virtual Moose](https://virtualmoose.org/2026/05/18/books-i-enjoyed-winter-spring-2026/)** — Michael rounds up winter and spring reads, mostly sci-fi and fantasy, with a friendly stack of recommendations from Discworld to Singing Hills.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-05-18-uniforms/)** — Anarchae shares how school and workplace uniforms became a long-running struggle with gender conformity, comfort, and being read as professional.

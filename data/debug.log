@@ -1,36 +1,36 @@
 First pass: checking feeds for recent activity...
-Checked Chasing Dings!: recent_activity=True
-Checked An Archaeopteryx: recent_activity=False
+Checked Chasing Dings!: recent_activity=False
+Checked An Archaeopteryx: recent_activity=True
 Checked Musing over Pints and Coffee: recent_activity=False
-Checked MMO Casual: recent_activity=False
+Checked MMO Casual: recent_activity=True
 Checked Heartless Gamer: recent_activity=False
 Checked Tales of the Aggronaut: recent_activity=True
-Checked Words Under My Name: recent_activity=False
+Checked Words Under My Name: recent_activity=True
 Checked Dragonchasers: recent_activity=False
-Checked Inventory Full: recent_activity=False
-Checked Scopique: recent_activity=False
+Checked Inventory Full: recent_activity=True
+Checked Scopique: recent_activity=True
 Checked The Friendly Necromancer: recent_activity=False
 Checked The Ancient Gaming Noob: recent_activity=True
 Checked Lisette's Mxtadventures: recent_activity=False
-Checked Monsterlady's Diary: recent_activity=True
+Checked Monsterlady's Diary: recent_activity=False
 Checked Nik Kantar: recent_activity=False
 Checked The Ghastly Mirror: recent_activity=False
 Checked Frostilyte Writes: recent_activity=False
 Checked Scripting News: recent_activity=True
 Checked Coding Horror: recent_activity=False
-Checked Schneier on Security: recent_activity=False
+Checked Schneier on Security: recent_activity=True
 Checked Ongoing: recent_activity=False
-Checked Jamie Zawinski's Blog: recent_activity=False
-Checked Tobold's Blog: recent_activity=False
+Checked Jamie Zawinski's Blog: recent_activity=True
+Checked Tobold's Blog: recent_activity=True
 Checked Contains Moderate Peril: recent_activity=False
 Checked Bio Break: recent_activity=False
-Checked In An Age: recent_activity=False
+Checked In An Age: recent_activity=True
 Checked A Pixel Nomad: recent_activity=False
 Checked Aywren's Nook: recent_activity=False
-Checked The Boardgames Chronicle: recent_activity=True
+Checked The Boardgames Chronicle: recent_activity=False
 Checked Mailvaltar: recent_activity=False
 Checked Smith Talks Tech: recent_activity=False
-Checked CrazyKinux's Musings: recent_activity=True
+Checked CrazyKinux's Musings: recent_activity=False
 Checked Tofutush's Blog: recent_activity=False
 Checked Indiecator: recent_activity=False
 Checked Ready Pixel One: recent_activity=False
@@ -39,18 +39,18 @@ Checked Time to Loot: recent_activity=False
 Checked Axxuy: recent_activity=False
 Checked Hamatti: recent_activity=False
 Checked West Karana: recent_activity=False
-Checked Virtual Moose: recent_activity=False
+Checked Virtual Moose: recent_activity=True
 Checked Going Commando: recent_activity=False
 Checked Priest with a Cause: recent_activity=False
 Checked Grumpy Gamer: recent_activity=False
 Checked usebox.net: recent_activity=False
-Checked Kimimi the Game Eating She-Monster: recent_activity=True
+Checked Kimimi the Game Eating She-Monster: recent_activity=False
 Checked Cliffski's Blog: recent_activity=False
 Checked Life on the Wicked Stage: recent_activity=True
-Checked Luna's Gaming Log: recent_activity=False
-Checked Leeks Cosy Corner: recent_activity=False
+Checked Luna's Gaming Log: recent_activity=True
+Checked Leeks Cosy Corner: recent_activity=True
 Checked Zarf Updates: recent_activity=False
-Checked The Almighty Backlog: recent_activity=True
+Checked The Almighty Backlog: recent_activity=False
 Checked READ ONLY MEMO: recent_activity=False
 Checked nicole express: recent_activity=False
 Checked Quarter Circle Forward: recent_activity=False
@@ -61,10 +61,10 @@ Checked Good Game Lobby: recent_activity=False
 Checked Alexia Unplugged: recent_activity=False
 Checked Oya's Game Hub: recent_activity=False
 Checked Sid's Blog: recent_activity=False
-Checked Tom's Gaming Vault: recent_activity=False
+Checked Tom's Gaming Vault: recent_activity=True
 Checked Donkeyspace: recent_activity=False
 Checked Leaded Solder: recent_activity=False
-Checked brennan.day: recent_activity=False
+Checked brennan.day: recent_activity=True
 Checked Endgame Viable: recent_activity=False
 Checked Auric Quanta Strategies: recent_activity=False
 Checked False Machine: recent_activity=False
@@ -78,37 +78,41 @@ Feed selection priority order (other feeds):
   Lisette's Mxtadventures: Never selected
   The Ghastly Mirror: Never selected
   Ready Pixel One: Never selected
-  Quarter Circle Forward: 83 days since last selection
-  Auric Quanta Strategies: 66 days since last selection
-  Smith Talks Tech: 64 days since last selection
-  Margot Plays: 62 days since last selection
-  Alexia Unplugged: 54 days since last selection
-  Mailvaltar: 38 days since last selection
-  Grumpy Gamer: 38 days since last selection
-
-Processing feed: The Ancient Gaming Noob https://tagn.wordpress.com/feed/
-Picking entry: TAGN Fantasy Critic League 2026 – Week Twenty, Outbound and Down https://tagn.wordpress.com/2026/05/17/tagn-fantasy-critic-league-2026-week-twenty-outbound-and-down/
-Fetching readable content for URL: https://tagn.wordpress.com/2026/05/17/tagn-fantasy-critic-league-2026-week-twenty-outbound-and-down/
-Fetched article length: 9070 characters
-Picked item: TAGN Fantasy Critic League 2026 – Week Twenty, Outbound and Down from The Ancient Gaming Noob
-Feed cap reached, stopping.
-Updated selection tracking for The Ancient Gaming Noob
+  Quarter Circle Forward: 84 days since last selection
+  Auric Quanta Strategies: 67 days since last selection
+  Smith Talks Tech: 65 days since last selection
+  Margot Plays: 63 days since last selection
+  Alexia Unplugged: 55 days since last selection
+  Mailvaltar: 39 days since last selection
+  Grumpy Gamer: 39 days since last selection
 
 Processing feed: Chasing Dings! https://chasingdings.com/feed/
-Picking entry: Windrose: A Fine Collection of Ne’er-do-Wells https://chasingdings.com/2026/05/17/windrose-a-fine-collection-of-neer-do-wells/
-Fetching readable content for URL: https://chasingdings.com/2026/05/17/windrose-a-fine-collection-of-neer-do-wells/
-Fetched article length: 8721 characters
-Picked item: Windrose: A Fine Collection of Ne’er-do-Wells from Chasing Dings!
-Feed cap reached, stopping.
-Updated selection tracking for Chasing Dings!
+Skipping entry older than last_ts: https://chasingdings.com/2026/05/17/windrose-a-fine-collection-of-neer-do-wells/
+Skipping entry older than last_ts: https://chasingdings.com/2026/05/12/rogue-solitaire-a-true-roguelike-card-game/
+Skipping entry older than last_ts: https://chasingdings.com/2026/05/08/preparing-for-dcc-dungeon-crawl-classic/
+Skipping entry older than last_ts: https://chasingdings.com/2026/05/05/frosthaven-105-ruins-of-the-equinox/
+Skipping entry older than last_ts: https://chasingdings.com/2026/05/03/heroquest-first-light-the-might-of-the-synchroform/
+Skipping entry older than last_ts: https://chasingdings.com/2026/04/29/giiker-super-reversi/
+Skipping entry older than last_ts: https://chasingdings.com/2026/04/27/speedrunning-windrose/
+Skipping entry older than last_ts: https://chasingdings.com/2026/04/23/frosthaven-115-pylon-problems/
+Skipping entry older than last_ts: https://chasingdings.com/2026/04/21/windrose-yo-ho-ho-its-the-pirate-life-for-me/
+Skipping entry older than last_ts: https://chasingdings.com/2026/04/12/dune-awakening-packing-up-the-base-for-good/
 
 Processing feed: Scripting News http://scripting.com/rss.xml
-Picking entry:  http://scripting.com/2026/05/17.html#a135922
-Fetching readable content for URL: http://scripting.com/2026/05/17.html#a135922
-Fetched article length: 3316 characters
-Picked item: (untitled) from Scripting News
+Picking entry: The Mind of Claude http://scripting.com/2026/05/18/164538.html?title=theMindOfClaude
+Fetching readable content for URL: http://scripting.com/2026/05/18/164538.html?title=theMindOfClaude
+Fetched article length: 4367 characters
+Picked item: The Mind of Claude from Scripting News
 Feed cap reached, stopping.
 Updated selection tracking for Scripting News
+
+Processing feed: The Ancient Gaming Noob https://tagn.wordpress.com/feed/
+Picking entry: Three Hundred Million Skill Points https://tagn.wordpress.com/2026/05/18/three-hundred-million-skill-points/
+Fetching readable content for URL: https://tagn.wordpress.com/2026/05/18/three-hundred-million-skill-points/
+Fetched article length: 5834 characters
+Picked item: Three Hundred Million Skill Points from The Ancient Gaming Noob
+Feed cap reached, stopping.
+Updated selection tracking for The Ancient Gaming Noob
 
 Processing feed: Lisette's Mxtadventures https://lisettesmxtadventures.wordpress.com/feed/?alt=rss
 Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/25/little-joys-the-numbers/
@@ -576,7 +580,21 @@ Skipping entry older than last_ts: https://www.timetoloot.com/blog/thinking-out-
 Skipping entry older than last_ts: https://www.timetoloot.com/game/final-fantasy-xiv/the-far-edge-of-fate/
 
 Processing feed: Coding Horror https://blog.codinghorror.com/rss/
-No new entries.
+Skipping entry older than last_ts: https://blog.codinghorror.com/thank-you-for-being-a-friend/
+Skipping entry older than last_ts: https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/
+Skipping entry older than last_ts: https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/
+Skipping entry older than last_ts: https://blog.codinghorror.com/lets-talk-about-the-american-dream/
+Skipping entry older than last_ts: https://blog.codinghorror.com/stay-gold-america/
+Skipping entry older than last_ts: https://blog.codinghorror.com/the-great-filter-comes-for-us-all/
+Skipping entry older than last_ts: https://blog.codinghorror.com/i-fight-for-the-users/
+Skipping entry older than last_ts: https://blog.codinghorror.com/the-2030-self-driving-car-bet/
+Skipping entry older than last_ts: https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era/
+Skipping entry older than last_ts: https://blog.codinghorror.com/building-a-pc-part-ix-downsizing/
+Skipping entry older than last_ts: https://blog.codinghorror.com/the-rise-of-the-electric-scooter/
+Skipping entry older than last_ts: https://blog.codinghorror.com/electric-geek-transportation-systems/
+Skipping entry older than last_ts: https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/
+Skipping entry older than last_ts: https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/
+Skipping entry older than last_ts: https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/
 
 Processing feed: usebox.net https://www.usebox.net/jjm/blog/index.xml
 No new entries.
@@ -589,19 +607,39 @@ Skipping entry older than last_ts: http://www.heartlessgamer.com/2026/03/thought
 Skipping entry older than last_ts: http://www.heartlessgamer.com/2026/02/arc-raiders-has-item-value-problem.html
 
 Processing feed: Words Under My Name https://wordsundermyname.wordpress.com/feed/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/04/23/4-22-2026-worm-sweet-worm/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/04/13/4-13-2026-advance-and-survive/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/03/31/3-31-2026-pop-in/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/03/05/3-5-2026-eye-balling-out/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/02/20/2-20-2026-rites-of-spring/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/02/13/2-13-2026-top-of-the-heap/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/02/03/2-3-2026-february-2026-check-in/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/01/22/1-22-2026-open-book/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/01/11/1-11-2026-becoming-human/
-Skipping entry older than last_ts: https://wordsundermyname.wordpress.com/2026/01/07/1-7-2026-lighten-up/
+Picking entry: 5/18/2026 – We’re Going Home Again https://wordsundermyname.wordpress.com/2026/05/18/5-18-2026-were-going-home-again/
+Fetching readable content for URL: https://wordsundermyname.wordpress.com/2026/05/18/5-18-2026-were-going-home-again/
+Fetched article length: 4169 characters
+Picked item: 5/18/2026 – We’re Going Home Again from Words Under My Name
+Feed cap reached, stopping.
+Updated selection tracking for Words Under My Name
 
 Processing feed: The Friendly Necromancer https://thefriendlynecromancer.blogspot.com/feeds/posts/default?alt=rss
-No new entries.
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/04/russian-pirates-rushin-goals-in-windrose.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/04/team-tom-its-been-long-time-but-i-have.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/03/the-music-of-mewgenics-chasin-rats.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/03/pain-and-pawnishment-in-mewgenics.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/03/skip-and-julia-sailing-hungry-seas-in.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/02/mewgenics-is-meowvelous.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/02/a-10-mmo-ok-quinfall-whats-this-all.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/02/comic-book-store-fantasies-and-anime.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/01/d4-project-gorgon-and-riding-road-to.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2026/01/trying-to-make-2026-awesome-dune-bg3.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/12/team-tom-update-kick-cancers-kras.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/11/ding-200-max-level-in-dune-awakening.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/11/team-tom-update-nov-2025-thank-you-and.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/10/tales-from-casual-dune-endgamer-free.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/10/infusion-illusion-profusion-confusion.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/09/cancer-journey-and-real-life-update-for.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/09/tragedy-and-rebuilding-in-dune-awakening.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/09/dune-dlc-one-and-done-but-we-aint-done.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/09/team-spode-awakened-in-dunes-endgame.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/08/third-chemo-first-immuno-team-tom-is.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/08/dune-awakening-onward-to-endgame.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/08/second-chemo-with-love-and-kindness-we.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/08/my-musical-history-part-5-fountain-avm.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/07/first-chemo-i-got-this.html
+Skipping entry older than last_ts: https://thefriendlynecromancer.blogspot.com/2025/07/time-for-real-boss-fight-lung-cancer.html
 
 Processing feed: Donkeyspace https://franklantz.substack.com/feed
 Skipping entry older than last_ts: https://franklantz.substack.com/p/glips
@@ -644,7 +682,12 @@ Processing feed: Nik Kantar https://nkantar.com/blog/feed/
 No new entries.
 
 Processing feed: MMO Casual https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss
-No new entries.
+Picking entry: Simplifying the Warlock https://wowaltaddiction.blogspot.com/2026/05/simplifying-warlock.html
+Fetching readable content for URL: https://wowaltaddiction.blogspot.com/2026/05/simplifying-warlock.html
+Fetched article length: 2423 characters
+Picked item: Simplifying the Warlock from MMO Casual
+Feed cap reached, stopping.
+Updated selection tracking for MMO Casual
 
 Processing feed: WCRobinson https://wcrobinson.org/feed/
 Skipping entry older than last_ts: https://wcrobinson.org/2026/05/04/may-update-the-norfolk-marathon-what-im-playing-getting-back-into-my-writing-routine/
@@ -674,7 +717,16 @@ Processing feed: Westhorpe.net https://westhorpe.net/feed/
 No new entries.
 
 Processing feed: The Digital Antiquarian https://www.filfre.net/feed/
-No new entries.
+Skipping already seen entry: https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/
+Skipping entry older than last_ts: https://www.filfre.net/2026/05/the-mystery-of-rennes-le-chateau-part-5-the-man-behind-the-curtain/
+Skipping entry older than last_ts: https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-4-non-fiction-meets-fiction/
+Skipping entry older than last_ts: https://www.filfre.net/2026/04/the-mystery-of-rennes-le-chateau-part-3-a-secret-history/
+Skipping entry older than last_ts: https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-2-secret-codes-and-hidden-messages/
+Skipping entry older than last_ts: https://www.filfre.net/2026/03/the-mystery-of-rennes-le-chateau-part-1-the-priests-treasure/
+Skipping entry older than last_ts: https://www.filfre.net/2026/02/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/
+Skipping entry older than last_ts: https://www.filfre.net/2026/02/1998-ebook/
+Skipping entry older than last_ts: https://www.filfre.net/2026/02/ultima-ix/
+Skipping entry older than last_ts: https://www.filfre.net/2026/01/omikron-the-nomad-soul/
 
 Processing feed: Dragonchasers https://dragonchasers.com/feed/
 No new entries.
@@ -709,14 +761,6 @@ Skipping entry older than last_ts: https://swtorcommando.blogspot.com/2025/12/a-
 Processing feed: Zarf Updates https://blog.zarfhome.com/feeds/posts/default.rss
 No new entries.
 
-Processing feed: The Almighty Backlog https://thealmightybacklog.wordpress.com/feed/
-Picking entry: Super Mario Bros. 3 https://thealmightybacklog.wordpress.com/2026/05/17/super-mario-bros-3/
-Fetching readable content for URL: https://thealmightybacklog.wordpress.com/2026/05/17/super-mario-bros-3/
-Fetched article length: 12518 characters
-Picked item: Super Mario Bros. 3 from The Almighty Backlog
-Feed cap reached, stopping.
-Updated selection tracking for The Almighty Backlog
-
 Processing feed: READ ONLY MEMO https://readonlymemo.com/rss/
 Skipping entry older than last_ts: https://readonlymemo.com/ayn-thor-owners-rejoice-wii-u-emulation-on-android-is-nigh/
 Skipping entry older than last_ts: https://readonlymemo.com/if-youre-going-to-hype-up-the-neo-geo-at-least-admit-you-know-about-all-the-blood/
@@ -738,42 +782,89 @@ Processing feed: nicole express https://nicole.express/feed.xml
 No new entries.
 
 Processing feed: In An Age http://inanage.com/feed/
-Skipping entry older than last_ts: https://inanage.com/2026/05/13/clair-obscure-expedition-33-complete/
-Skipping entry older than last_ts: https://inanage.com/2026/05/11/gamenative/
-Skipping entry older than last_ts: https://inanage.com/2026/04/28/retroid-pocket-6-and-nostalgia-horizon/
-Skipping entry older than last_ts: https://inanage.com/2026/04/23/e33-back-on-the-horse/
-Skipping entry older than last_ts: https://inanage.com/2026/04/18/more-impressions-slay-the-spire-2-pt-2/
-Skipping entry older than last_ts: https://inanage.com/2026/04/06/entry-point/
-Skipping entry older than last_ts: https://inanage.com/2026/04/02/game-development-is-expensive-for-dumb-reasons/
-Skipping entry older than last_ts: https://inanage.com/2026/03/30/priced-in/
-Skipping entry older than last_ts: https://inanage.com/2026/03/23/subnautica-may-day-maybe/
-Skipping entry older than last_ts: https://inanage.com/2026/03/09/impressions-slay-the-spire-2/
+Picking entry: About that E33 MoCap https://inanage.com/2026/05/18/about-that-e33-mocap/
+Fetching readable content for URL: https://inanage.com/2026/05/18/about-that-e33-mocap/
+Fetched article length: 2809 characters
+Picked item: About that E33 MoCap from In An Age
+Feed cap reached, stopping.
+Updated selection tracking for In An Age
 
 Processing feed: Tofutush's Blog https://tofutush.github.io/feed.xml
-No new entries.
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2024-09-26.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2024-09-29.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2024-10-15.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2024-12-30.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-03-09.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-03-19.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-04-21.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-05-12.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-05-19.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-07-16.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-08-03.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-08-13.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-08-15.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-08-28.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-08-31.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-09-06.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-09-10.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-09-14.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-09-16.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-09-19.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-09-24.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-09-30.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-10-01.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-10-07.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-10-10.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-10-12.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-10-13.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-10-15.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-10-18.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-10-26.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-11-17.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-11-23.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-12-05.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-12-09.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-12-10.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-12-11.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-12-14.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-12-15.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-12-16.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-12-28.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-12-29.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2025-12-31.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-05.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-17.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-20.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-21.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-23.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-29.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-01-31.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-02-01.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-02-15.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-03-01.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-03-10.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-03-14.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-03-18.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-03-21.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-03-26.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-03-30.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-04-01.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-04-18.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-04-20.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-04-26.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-05-01.html
+Skipping entry older than last_ts: https://tofutush.github.io/posts/2026-05-12.html
 
 Processing feed: Axxuy https://axxuy.com/blog/feed.xml
 No new entries.
 
 Processing feed: Leeks Cosy Corner https://leekscosycorner.com/feed/
-Skipping entry older than last_ts: https://leekscosycorner.com/2026/05/11/totopia/
-Skipping entry older than last_ts: https://leekscosycorner.com/2026/05/10/paralives-early-access-launch/
-Skipping entry older than last_ts: https://leekscosycorner.com/2026/05/07/final-fantasy-xiv-the-return/
-Skipping entry older than last_ts: https://leekscosycorner.com/2026/05/05/moomintroll-winters-warmth/
-Skipping entry older than last_ts: https://leekscosycorner.com/2026/04/29/inkonbini-review/
-Skipping entry older than last_ts: https://leekscosycorner.com/2026/04/22/loftia-closed-beta/
-Skipping entry older than last_ts: https://leekscosycorner.com/2026/04/18/egx-rezzed-2018/
-Skipping entry older than last_ts: https://leekscosycorner.com/2026/04/15/pokemon-tcg-april/
-Skipping entry older than last_ts: https://leekscosycorner.com/2026/04/07/nippets/
-Skipping entry older than last_ts: https://leekscosycorner.com/2026/03/30/fishbowl-review/
-
-Processing feed: Monsterlady's Diary https://monsterladysdiary.wordpress.com/feed/
-Picking entry: Spin the Wheel, Solve the Puzzle https://monsterladysdiary.wordpress.com/2026/05/17/spin-the-wheel-solve-the-puzzle/
-Fetching readable content for URL: https://monsterladysdiary.wordpress.com/2026/05/17/spin-the-wheel-solve-the-puzzle/
-Fetched article length: 3080 characters
-Picked item: Spin the Wheel, Solve the Puzzle from Monsterlady's Diary
+Picking entry: Review: Coffee Talk Tokyo – A Narrative Driven Experience https://leekscosycorner.com/2026/05/18/coffee-talk-tokyo/
+Fetching readable content for URL: https://leekscosycorner.com/2026/05/18/coffee-talk-tokyo/
+Fetched article length: 11582 characters
+Picked item: Review: Coffee Talk Tokyo – A Narrative Driven Experience from Leeks Cosy Corner
 Feed cap reached, stopping.
-Updated selection tracking for Monsterlady's Diary
+Updated selection tracking for Leeks Cosy Corner
 
 Processing feed: Frostilyte Writes https://frostilyte.ca/feed/
 Skipping entry older than last_ts: https://frostilyte.ca/2026/05/13/vultures-scavengers-of-death-review/
@@ -783,16 +874,13 @@ Skipping entry older than last_ts: https://frostilyte.ca/2026/04/24/murder-at-th
 Skipping entry older than last_ts: https://frostilyte.ca/2026/04/13/the-king-is-watchings-latest-update-is-an-absolute-banger/
 Skipping entry older than last_ts: https://frostilyte.ca/2026/04/08/my-ever-evolving-relationship-with-roguelikes/
 
-Processing feed: The Boardgames Chronicle https://theboardgameschronicle.com/feed/
-Picking entry: My Top New Solitaire Wargames: what have I played in last year? https://theboardgameschronicle.com/2026/05/17/my-top-new-solitaire-wargames-what-have-i-played-in-last-year/
-Fetching readable content for URL: https://theboardgameschronicle.com/2026/05/17/my-top-new-solitaire-wargames-what-have-i-played-in-last-year/
-Fetched article length: 13936 characters
-Picked item: My Top New Solitaire Wargames: what have I played in last year? from The Boardgames Chronicle
-Feed cap reached, stopping.
-Updated selection tracking for The Boardgames Chronicle
-
 Processing feed: Virtual Moose https://virtualmoose.org/feed/
-No new entries.
+Picking entry: Books I Enjoyed Winter/Spring 2026 https://virtualmoose.org/2026/05/18/books-i-enjoyed-winter-spring-2026/
+Fetching readable content for URL: https://virtualmoose.org/2026/05/18/books-i-enjoyed-winter-spring-2026/
+Fetched article length: 10853 characters
+Picked item: Books I Enjoyed Winter/Spring 2026 from Virtual Moose
+Feed cap reached, stopping.
+Updated selection tracking for Virtual Moose
 
 Processing feed: Sweetie Games https://sweetie.games/feed/
 Skipping entry older than last_ts: https://sweetie.games/2026/05/13/ai-is-invading-dragon-quest/
@@ -818,40 +906,13 @@ Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.c
 Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/02/18/the-things-we-carry-forward/
 Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/02/10/what-id-tell-someone-starting-in-accounting-today/
 
-Processing feed: Schneier on Security https://www.schneier.com/feed/
-Picking entry: Friday Squid Blogging: Bigfin Squid https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html
-Fetching readable content for URL: https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html
-Fetched article length: 4660 characters
-Picked item: Friday Squid Blogging: Bigfin Squid from Schneier on Security
-Feed cap reached, stopping.
-Updated selection tracking for Schneier on Security
-
 Processing feed: Tobold's Blog http://feeds2.feedburner.com/ToboldsBlog
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/05/ai-virtue-signalling.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/05/harnessing-power-of-parasocial.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/05/wealth-generation-through-houses.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/05/the-turks-at-vienna-eu5-dlc-comments.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/05/progressive-ideas-and-their-realisation.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/05/internationalization-of-netflix.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/05/heroes-of-might-and-magic-olden-era.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/05/longevity-of-survival-crafting-games.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/05/the-sock-drawer-problem.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/04/life-choices-and-assuming-consequences.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/04/projection-onto-pragmata.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/04/data-centers-and-district-heating.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/04/windrose-beginner-tips.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/04/windrose-first-impressions.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/04/gaming-status-april-2026.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/04/playing-tourist-game.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/04/house-of-cards-season-7.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/04/eu5-game-playing-itself.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/03/shrimp-jesus-on-feet-of-clay.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/03/sovl-fantasy-warfare.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/03/not-buying-that-game-board-game-edition.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/03/a-post-scriptum-to-yesterdays-post.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/03/bridgerton-vs-crimson-desert.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/03/war-profiteering-and-future-of-oil.html
-Skipping entry older than last_ts: http://tobolds.blogspot.com/2026/03/creativity-tools-as-barriers-to-entry.html
+Picking entry: Rerolling maps http://tobolds.blogspot.com/2026/05/rerolling-maps.html
+Fetching readable content for URL: http://tobolds.blogspot.com/2026/05/rerolling-maps.html
+Fetched article length: 3724 characters
+Picked item: Rerolling maps from Tobold's Blog
+Feed cap reached, stopping.
+Updated selection tracking for Tobold's Blog
 
 Processing feed: A Pixel Nomad https://pixelnomad.ca/feed/
 Skipping entry older than last_ts: https://pixelnomad.ca/2026/05/14/eve-treasureless-space/
@@ -863,525 +924,49 @@ Skipping entry older than last_ts: https://pixelnomad.ca/2026/04/20/wow-gold-mak
 Processing feed: Aywren's Nook https://aywren.com/feed.xml
 No new entries.
 
-Processing feed: Kimimi the Game Eating She-Monster https://kimimithegameeatingshemonster.com/feed/
-Picking entry: Flash Koibito-kun: Full of heart https://kimimithegameeatingshemonster.com/2026/05/18/flash-koibito-kun-full-of-heart/
-Fetching readable content for URL: https://kimimithegameeatingshemonster.com/2026/05/18/flash-koibito-kun-full-of-heart/
-Fetched article length: 6392 characters
-Picked item: Flash Koibito-kun: Full of heart from Kimimi the Game Eating She-Monster
-Feed cap reached, stopping.
-Updated selection tracking for Kimimi the Game Eating She-Monster
-
 Processing feed: Luna's Gaming Log https://lunasgaminglog.com/feed/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/05/15/inkonbini-review/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/05/12/titanium-court-review/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/05/05/my-april-log/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/04/28/nippets-review/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/04/27/hello-writers-block/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/04/14/how-i-feel-playing-chants-of-sennaar/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/04/07/kitchen-sync-aloha-review/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/04/05/feeling-like-this-lately-%e2%80%92-scribbles-1/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/03/31/my-most-neglected-backlog-games/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/03/24/moonstone-island-deluxe-edition-unboxing/
+Picking entry: Can we stop blindly accusing indie games of using generative AI? https://lunasgaminglog.com/2026/05/19/can-we-stop-blindly-accusing-indie-games-of-using-generative-ai/
+Fetching readable content for URL: https://lunasgaminglog.com/2026/05/19/can-we-stop-blindly-accusing-indie-games-of-using-generative-ai/
+Fetched article length: 4576 characters
+Picked item: Can we stop blindly accusing indie games of using generative AI? from Luna's Gaming Log
+Feed cap reached, stopping.
+Updated selection tracking for Luna's Gaming Log
 
 Processing feed: An Archaeopteryx https://anarchaeopteryx.bearblog.dev/feed/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2026-05-15-week-20-digest/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2026-05-08-week-19-digest/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2026-05-03-week-18-digest/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2026-04-24-week-17-digest/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2026-04-18-trash-bins-everywhere/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2026-04-17-week-16-digest/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2026-04-10-week-15-digest/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2026-04-02-week-14-digest/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2026-03-30-comply/
-Skipping entry older than last_ts: https://anarchaeopteryx.bearblog.dev/2026-03-27-week-12-5-digest/
+Picking entry: Uniforms https://anarchaeopteryx.bearblog.dev/2026-05-18-uniforms/
+Fetching readable content for URL: https://anarchaeopteryx.bearblog.dev/2026-05-18-uniforms/
+Fetched article length: 6428 characters
+Picked item: Uniforms from An Archaeopteryx
+Feed cap reached, stopping.
+Updated selection tracking for An Archaeopteryx
 
 Processing feed: Tales of the Aggronaut https://aggronaut.com/feed/
-Picking entry: AggroChat #568 – Anti-Fun Features https://aggronaut.com/2026/05/17/aggrochat-568-anti-fun-features/
-Fetching readable content for URL: https://aggronaut.com/2026/05/17/aggrochat-568-anti-fun-features/
-HTTP error processing entry: 500 Server Error: Internal Server Error for url: https://aggronaut.com/2026/05/17/aggrochat-568-anti-fun-features/
-Skipping entry older than last_ts: https://aggronaut.com/2026/05/15/random-bag-of-nonsense/
-Skipping entry older than last_ts: https://aggronaut.com/2026/05/11/mixtape-mondays-road-rash-rail/
-Skipping entry older than last_ts: https://aggronaut.com/2026/05/08/ancients-league-is-gonna-be-wild/
-Skipping entry older than last_ts: https://aggronaut.com/2026/05/07/diablo-iv-has-good-numbers/
-Skipping entry older than last_ts: https://aggronaut.com/2026/05/06/arbiter-is-awesome/
-Skipping entry older than last_ts: https://aggronaut.com/2026/05/05/state-of-the-bel-round-three/
-Skipping entry older than last_ts: https://aggronaut.com/2026/05/04/warlock-pretty-great/
-Skipping entry older than last_ts: https://aggronaut.com/2026/05/03/aggrochat-567-lords-be-hatin/
-Skipping entry older than last_ts: https://aggronaut.com/2026/05/01/great-story-meh-endgame/
+Picking entry: Winding Down Diablo https://aggronaut.com/2026/05/18/winding-down-diablo/
+Fetching readable content for URL: https://aggronaut.com/2026/05/18/winding-down-diablo/
+Fetched article length: 6348 characters
+Picked item: Winding Down Diablo from Tales of the Aggronaut
+Feed cap reached, stopping.
+Updated selection tracking for Tales of the Aggronaut
 
 Processing feed: Scopique https://scopique.com/feed/
-No new entries.
+Picking entry: We’ll Make It Work https://scopique.com/2026/05/18/well-make-it-work/
+Fetching readable content for URL: https://scopique.com/2026/05/18/well-make-it-work/
+Fetched article length: 4904 characters
+Picked item: We’ll Make It Work from Scopique
+Feed cap reached, stopping.
+Updated selection tracking for Scopique
 
 Processing feed: Jamie Zawinski's Blog https://cdn.jwz.org/blog/feed/
-Skipping already seen entry: https://www.jwz.org/blog/2026/05/links/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/the-rust-evangelism-task-force-has-declared-ethics-to-be-out-of-scope/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/today-in-fascists-and-their-dongs-news/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/internet-of-shit/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/i-see-1password-is-stepping-on-the-rake-again/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/how-to-radicalize-investment-bankers-against-ai/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/speaking-of-robot-bartenders/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/a-slopfondler-walks-into-a-bar-redux/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/life-imitates-carpenter-once-more/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/operation-epic-furious/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/this-fountain-is-not-going-down-without-a-fight/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/last-days-of-playland/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/file-systems/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/happy-time_t-1777777777-to-all-who-celebrate/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/a-c-a-bee/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/05/fake-courtesy-machine/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/single-issue-voters/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/respectful/
-Skipping entry older than last_ts: https://www.dnalounge.com/backstage/log/2026/04/25.html
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/everything-is-free-and-nothing-matters/
-Skipping entry older than last_ts: https://www.dnalounge.com/backstage/log/2026/04/21.html
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/penis-costume-protester-prevails-in-court/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/global-tetrahedron-2/
-Skipping entry older than last_ts: https://www.dnalounge.com/backstage/log/2026/04/20.html
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/pablo-escobars-cocaine-hippos-are-doomed/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/insurance-fraud-fursona/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/joy-which-they-have-rebranded-as-economic-impact/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/ai-vegan/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/honk-honk-its-the-bonk/
-Skipping entry older than last_ts: https://www.jwz.org/blog/2026/04/emphasis-on-con/
-
-Processing feed: Contains Moderate Peril http://www.containsmoderateperil.com/blog?format=rss
-No new entries.
-
-Processing feed: CrazyKinux's Musings https://feeds.feedburner.com/CrazykinuxsMusing
-Picking entry: Speedlinking New Eden & more - The May 17th, 2026 edition http://www.crazykinux.ca/2026/05/speedlinking-new-eden-more-may-17th.html
-Fetching readable content for URL: http://www.crazykinux.ca/2026/05/speedlinking-new-eden-more-may-17th.html
-Fetched article length: 7072 characters
-Picked item: Speedlinking New Eden & more - The May 17th, 2026 edition from CrazyKinux's Musings
-Feed cap reached, stopping.
-Updated selection tracking for CrazyKinux's Musings
-
-Processing feed: Indiecator https://indiecator.org/feed/
-Skipping entry older than last_ts: https://indiecator.org/2026/05/16/opus-prism-peak-review/
-Skipping entry older than last_ts: https://indiecator.org/2026/05/05/playism-game-show-returns-may-10-2026/
-Skipping entry older than last_ts: https://indiecator.org/2026/05/01/vtubing-radio-episode-1-vtubing-explained/
-Skipping entry older than last_ts: https://indiecator.org/2026/05/01/mochi-o-review-tamagotchi-meets-bullet-heaven-arcade-shooter/
-Skipping entry older than last_ts: https://indiecator.org/2026/05/01/goblin-vyke-the-thief-tycoon-sneaks-onto-steam/
-Skipping entry older than last_ts: https://indiecator.org/2026/04/24/island-of-hearts-review/
-Skipping entry older than last_ts: https://indiecator.org/2026/04/23/holding-pattern-review/
-Skipping entry older than last_ts: https://indiecator.org/2026/04/21/bobo-bay-launches-april-29-on-steam/
-Skipping entry older than last_ts: https://indiecator.org/2026/04/18/the-great-villainess-strategy-of-lily-review/
-Skipping entry older than last_ts: https://indiecator.org/2026/04/17/10-wonderful-indie-games-you-should-try/
-Skipping entry older than last_ts: https://indiecator.org/2026/04/16/opus-prism-peak-is-out-now-on-steam-and-switch-a-melancholic-adventure-worth-watching/
-Skipping entry older than last_ts: https://indiecator.org/2026/04/16/triple-i-initiative-showcase-recap-11-games-you-need-to-know-all-the-announcements/
-Skipping entry older than last_ts: https://indiecator.org/2026/03/09/bossgame-final-boss-review/
-Skipping entry older than last_ts: https://indiecator.org/2026/03/02/airframe-ultra-preview/
-Skipping entry older than last_ts: https://indiecator.org/2026/02/23/grimshire-early-access-review/
-Skipping entry older than last_ts: https://indiecator.org/2026/02/20/cash-cleaner-simulator-review/
-Skipping entry older than last_ts: https://indiecator.org/2026/02/10/shinies-for-good-pokemon-charity-american-immigration-council/
-Skipping entry older than last_ts: https://indiecator.org/2026/01/30/goblin-vyke-demo-review/
-Skipping entry older than last_ts: https://indiecator.org/2025/12/31/trash-goblin-review-cozy-shop-keeping-sim/
-Skipping entry older than last_ts: https://indiecator.org/2025/12/30/samantha-fulnecky-oklahoma-essay-failing-grade/
-Skipping entry older than last_ts: https://indiecator.org/2025/11/30/good-boy-observer-interactive-gamescom-interview/
-Skipping entry older than last_ts: https://indiecator.org/2025/10/29/10-indie-horror-games-that-really-got-under-my-skin/
-Skipping entry older than last_ts: https://indiecator.org/2025/10/10/burggeist-review/
-Skipping entry older than last_ts: https://indiecator.org/2025/10/07/tiny-aquarium-social-fishkeeping-review/
-Skipping entry older than last_ts: https://indiecator.org/2025/09/28/is-antifa-a-terrorist-organisation/
-Skipping entry older than last_ts: https://indiecator.org/2025/08/31/i-dont-think-i-really-need-silksong/
-Skipping entry older than last_ts: https://indiecator.org/2025/08/31/cryptmaster-achievement-guide/
-Skipping entry older than last_ts: https://indiecator.org/2025/08/31/changing-my-theme-wasnt-an-option-but-i-made-changes-still/
-Skipping entry older than last_ts: https://indiecator.org/2025/08/31/talented-review/
-Skipping entry older than last_ts: https://indiecator.org/2025/08/31/on-llm-dependency-and-overreliance-a-blaugust-response-post/
-
-Processing feed: Hamatti https://hamatti.org/feed/feed.xml
-Skipping entry older than last_ts: https://hamatti.org/posts/even-the-dogs-have-started-to-notice/
-Skipping entry older than last_ts: https://hamatti.org/posts/a-love-letter-to-our-library-bus/
-Skipping entry older than last_ts: https://hamatti.org/posts/practicing-writing-about-games/
-Skipping entry older than last_ts: https://hamatti.org/posts/i-tell-about-my-blog-to-anyone-willing-to-listen/
-Skipping entry older than last_ts: https://hamatti.org/posts/indieweb-carnival-write-a-love-letter/
-Skipping entry older than last_ts: https://hamatti.org/posts/i-have-been-tempted-by-ayn-thor-but-i-have-ayn-thor-at-home/
-Skipping entry older than last_ts: https://hamatti.org/posts/thumbs-up-for-a-good-adventure/
-Skipping entry older than last_ts: https://hamatti.org/posts/small-bit-of-functional-graphic-design-i-like/
-Skipping entry older than last_ts: https://hamatti.org/posts/dungeons-and-degenerate-gamblers-is-the-betamax-of-casino-roguelikes/
-Skipping entry older than last_ts: https://hamatti.org/posts/external-from-juhis-with-love-013-sun-is-back/
-Skipping entry older than last_ts: https://hamatti.org/posts/im-building-a-python-script-to-create-form-filling-bookmarklets/
-Skipping entry older than last_ts: https://hamatti.org/posts/how-much-change-is-the-right-amount-of-change/
-Skipping entry older than last_ts: https://hamatti.org/posts/new-protocol-proposal-for-indie-web-human-json/
-Skipping entry older than last_ts: https://hamatti.org/posts/markdown-content-split-to-sections-in-eleventy-and-nunjucks/
-Skipping entry older than last_ts: https://hamatti.org/posts/i-completed-stardew-valleys-shipping-collection-in-reverse/
-Skipping entry older than last_ts: https://hamatti.org/posts/au-revoir-eleventy/
-Skipping entry older than last_ts: https://hamatti.org/posts/happy-10th-birthday-stardew-valley/
-Skipping entry older than last_ts: https://hamatti.org/posts/different-notebook-sizes-for-different-ideas/
-Skipping entry older than last_ts: https://hamatti.org/posts/them-weird-dreams/
-Skipping entry older than last_ts: https://hamatti.org/posts/indieweb-carnival-hosting-qa-with-zachary-kai/
-Skipping entry older than last_ts: https://hamatti.org/posts/taskmaster-uk-series-7-is-peak-entertainment/
-Skipping entry older than last_ts: https://hamatti.org/posts/i-made-a-board-game-zine/
-Skipping entry older than last_ts: https://hamatti.org/posts/gaming-for-busy-people/
-Skipping entry older than last_ts: https://hamatti.org/posts/i-added-booklore-to-my-homelab/
-Skipping entry older than last_ts: https://hamatti.org/posts/year-in-review-2025/
-Skipping entry older than last_ts: https://hamatti.org/posts/external-from-juhis-with-love-012-for-a-happy-new-year/
-Skipping entry older than last_ts: https://hamatti.org/posts/we-played-a-full-scarlet-and-violet-progression-series/
-Skipping entry older than last_ts: https://hamatti.org/posts/merry-christmas-2025/
-Skipping entry older than last_ts: https://hamatti.org/posts/i-played-some-games-this-year/
-
-Processing feed: Buried Treasure https://buried-treasure.org/feed/
-No new entries.
-
-Processing feed: Oya's Game Hub https://oyito.substack.com/feed
-Skipping entry older than last_ts: https://oyito.substack.com/p/clair-obscur-expedition-33-a-painted
-Skipping entry older than last_ts: https://oyito.substack.com/p/co-op-days-trine
-Skipping entry older than last_ts: https://oyito.substack.com/p/my-baldurs-gate-3-experience-part
-Skipping entry older than last_ts: https://oyito.substack.com/p/ayn-thor-dream-come-true
-Skipping entry older than last_ts: https://oyito.substack.com/p/in-a-nutshell-march-2026
-Skipping entry older than last_ts: https://oyito.substack.com/p/co-op-days-peak
-Skipping entry older than last_ts: https://oyito.substack.com/p/the-baldurs-gate-iii-diaries-part
-Skipping entry older than last_ts: https://oyito.substack.com/p/return-of-the-obra-dinn-is-dark-weird
-Skipping entry older than last_ts: https://oyito.substack.com/p/in-a-nutshell-february-2026
-Skipping entry older than last_ts: https://oyito.substack.com/p/pov-live-action-adaptations-of-animated
-Skipping entry older than last_ts: https://oyito.substack.com/p/in-a-nutshell-january-2026
-Skipping entry older than last_ts: https://oyito.substack.com/p/game-roundup-5
-Skipping entry older than last_ts: https://oyito.substack.com/p/a-thank-you-note
-Skipping entry older than last_ts: https://oyito.substack.com/p/my-top-10-games-of-2025-part-2
-Skipping entry older than last_ts: https://oyito.substack.com/p/my-top-10-games-of-2025-part-1
-Skipping entry older than last_ts: https://oyito.substack.com/p/in-a-nutshell-november-2025
-Skipping entry older than last_ts: https://oyito.substack.com/p/game-roundup-4
-Skipping entry older than last_ts: https://oyito.substack.com/p/co-op-days-sea-of-thieves
-Skipping entry older than last_ts: https://oyito.substack.com/p/in-a-nutshell-october-2025
-Skipping entry older than last_ts: https://oyito.substack.com/p/the-supergiant-run-hades
-
-Processing feed: Inventory Full https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/tell-me-about-your-childhood-backstory.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/what-are-odds-rolling-dice-in-neverness.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/head-in-hole.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/career-opportunities-work-life-balance.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/we-dont-need-to-talk-about-lacrimosa.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/a-few-improvements-necessary-things-id.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/we-play-all-hits.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/we-need-to-talk-about-taygedo.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/settling-in-or-just-another-day-in.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/stars-fell-like-rain-or-two-on-tower.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/05/badgers-and-bears.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/you-take-train-ill-take-bus-this-time.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/welcome-to-hethereau-very-first.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/everquest-ii-guides-links-and-not-so.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/muskrat-love.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/a-rockin-good-time.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/fracturing-fractal.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/recursion-to-max.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/a-warm-drink-and-comforting-toy-lucy.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/video-games-and-blunt-force-trauma.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/in-event.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/out-but-not-down.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/progress-is-illusion.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/ding-135.html
-Skipping entry older than last_ts: https://bhagpuss.blogspot.com/2026/04/stress-on-super-not-on-girl.html
-
-Processing feed: Priest with a Cause https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/05/battlefield-barrens.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/05/turtle-wows-final-farewell.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/05/why-ive-become-classic-believer.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/05/turtle-wow-notes-from-dying-server.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/05/the-grim-reaches-twows-take-on-twilight.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/04/drinking-from-buggy-content-hose.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/04/turtle-wow-dungeons-crescent-grove-vs.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/04/the-twilight-of-turtle.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/04/turtle-wow-is-shutting-down.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/04/more-notes-from-midnight.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/03/casual-midnight-endgame.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/03/exploring-midnight-professions-abundance.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/03/the-quiet-at-midnight.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/02/the-wod-classic-question.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/02/on-writing-wow-blog-in-2026.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/02/casual-thoughts-on-midnight-class.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/02/my-most-played-characters.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/02/the-new-and-improved-exiles-reach.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/02/running-out-of-steam-in-mop-classic.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/02/am-i-looking-forward-to-midnight.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/02/was-war-within-better-expansion-than.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/01/a-futile-endeavour.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/01/midnight-pre-patch-impressions.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/01/mop-classic-still-better-housing.html
-Skipping entry older than last_ts: https://priestwithacause.blogspot.com/2026/01/bringing-order-to-isles.html
-
-Processing feed: Life on the Wicked Stage https://warnercrocker.com/feed/
-Picking entry: Sunday Morning Reading https://warnercrocker.com/2026/05/17/sunday-morning-reading-155/
-Fetching readable content for URL: https://warnercrocker.com/2026/05/17/sunday-morning-reading-155/
-Fetched article length: 5534 characters
-Picked item: Sunday Morning Reading from Life on the Wicked Stage
-Feed cap reached, stopping.
-Updated selection tracking for Life on the Wicked Stage
-
-Processing feed: Good Game Lobby https://goodgamelobby.substack.com/feed
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-20-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/replaced-review-cyberpunk-pixel-platformer-gameplay-story-analysis
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/dosa-divas-review-indie-rpg-cooking-combat-story-analysis
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-19-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-18-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-17-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-16-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-15-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/under-the-island-review-zelda-like-indie-rpg-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-14-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/mr-sleepy-man-review-a-comedic-indie-game
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-13-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-12-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-11-2026-future-games
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-10-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-9-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-8-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/lil-gator-game-review-in-the-dark
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-7-2026
-Skipping entry older than last_ts: https://goodgamelobby.substack.com/p/friday-follow-up-6-2026
-
-Processing feed: Tom's Gaming Vault https://tomsgaming.com/feeds/posts/default
-Skipping entry older than last_ts: https://tomsgaming.com/2026/05/16/currently-playing-vultures-scavengers-of-death-almost-a-review/
-Skipping entry older than last_ts: https://tomsgaming.com/2026/05/11/warcraft-ii-remastered-orc-fest-review/
-Skipping entry older than last_ts: https://tomsgaming.com/2026/05/02/warcraft-i-remastered-my-liege-review/
-Skipping entry older than last_ts: https://tomsgaming.com/2026/04/27/the-expanse-beta-left-me-worried-video/
-Skipping entry older than last_ts: https://tomsgaming.com/2026/04/24/bethesda-actually-hates-new-vegas-video/
-
-Processing feed: brennan.day https://brennan.day/feed.xml
-Skipping entry older than last_ts: https://brennan.day/a-love-letter-to-everything/
-Skipping entry older than last_ts: https://brennan.day/cleaning-house-refactoring-my-eleventy-config-into-modules/
-Skipping entry older than last_ts: https://brennan.day/on-being-a-river/
-Skipping entry older than last_ts: https://brennan.day/what-we-lose-with-cultural-extinction-the-red-thread-cut/
-Skipping entry older than last_ts: https://brennan.day/i-made-my-eleventy-build-5-faster-with-five-changes/
-Skipping entry older than last_ts: https://brennan.day/last-online-620-weeks-ago-why-i-m-loyal-to-the-indieweb/
-Skipping entry older than last_ts: https://brennan.day/the-hondius-pneumonia-low-risk-assessment/
-Skipping entry older than last_ts: https://brennan.day/where-is-the-indigenous-cultural-revolution/
-Skipping entry older than last_ts: https://brennan.day/pattern-recognition/
-Skipping entry older than last_ts: https://brennan.day/announcing-my-new-radio-show-a-love-letter-to-public-access-television/
-Skipping entry older than last_ts: https://brennan.day/writers-who-burned-all-their-words-feat-bix-frankonis/
-Skipping entry older than last_ts: https://brennan.day/dreamwidth-and-yearning-for-humanity-on-the-web/
-Skipping entry older than last_ts: https://brennan.day/video-games-that-secretly-teach-mathematics/
-Skipping entry older than last_ts: https://brennan.day/brenjour-c-est-moi-sur-l-identite/
-Skipping entry older than last_ts: https://brennan.day/floating-up-an-interview-with-the-creator-of-bubbles-town-benjamin-behnke/
-Skipping entry older than last_ts: https://brennan.day/deeds-not-words-the-myth-of-polite-revolution/
-Skipping entry older than last_ts: https://brennan.day/the-indieweb-is-wonderfully-dionysian/
-Skipping entry older than last_ts: https://brennan.day/being-a-citizen-journalist/
-Skipping entry older than last_ts: https://brennan.day/follow-up-an-interview-with-frances-widdowson/
-Skipping entry older than last_ts: https://brennan.day/frances-widdowson-dedicates-her-life-to-denying-residential-indian-school-survivors-then-calls-herself-the-victim/
-Skipping entry older than last_ts: https://brennan.day/right-wing-conservatives-cannot-make-good-art/
-Skipping entry older than last_ts: https://brennan.day/how-and-why-i-believe-in-god-the-ballad-of-tragic-theism/
-Skipping entry older than last_ts: https://brennan.day/a-thousand-cranes-why-i-write-every-day/
-Skipping entry older than last_ts: https://brennan.day/clean-air-long-covid-is-a-catastrophic-public-policy-failure/
-Skipping entry older than last_ts: https://brennan.day/memes-metal-gear-solid-and-you/
-Skipping entry older than last_ts: https://brennan.day/good-standard-work-creating-the-commons/
-Skipping entry older than last_ts: https://brennan.day/grain-elevator-country/
-Skipping entry older than last_ts: https://brennan.day/poetry-saved-my-life/
-Skipping entry older than last_ts: https://brennan.day/30-finding-my-footing/
-Skipping entry older than last_ts: https://brennan.day/loss-and-loss-and-loss-a-eulogy/
-Skipping entry older than last_ts: https://brennan.day/earning-my-keep/
-Skipping entry older than last_ts: https://brennan.day/review-falling-into-sinkhole-jake-beka-2026/
-Skipping entry older than last_ts: https://brennan.day/how-has-a-lack-of-ownership-changed-art/
-Skipping entry older than last_ts: https://brennan.day/thats-home-thats-us/
-Skipping entry older than last_ts: https://brennan.day/the-moon/
-Skipping entry older than last_ts: https://brennan.day/behind-glass/
-Skipping entry older than last_ts: https://brennan.day/the-internets-landlord-problem/
-Skipping entry older than last_ts: https://brennan.day/the-fools-autopsy/
-Skipping entry older than last_ts: https://brennan.day/great-news-brennan-day-is-being-acquired/
-Skipping entry older than last_ts: https://brennan.day/the-blogging-uebermensch-or-being-the-luckiest-person-on-earth/
-Skipping entry older than last_ts: https://brennan.day/incels-won-the-culture-war/
-Skipping entry older than last_ts: https://brennan.day/being-a-21st-century-schizoid-man/
-Skipping entry older than last_ts: https://brennan.day/storytelling-part-two-the-literal-magic-of-writing/
-Skipping entry older than last_ts: https://brennan.day/being-taken-seriously-as-a-writer/
-Skipping entry older than last_ts: https://brennan.day/storytelling-part-one-the-neurology-of-narrative/
-Skipping entry older than last_ts: https://lazybea.rs/ovr-058/
-Skipping entry older than last_ts: https://brennan.day/review-to-be-un-poeta-2025-dir-simon-mesa-soto/
-Skipping entry older than last_ts: https://brennan.day/building-the-good-web/
-Skipping entry older than last_ts: https://brennan.day/downgrading-to-macos-catalina-a-sermon-on-obsolescence/
-Skipping entry older than last_ts: https://brennan.day/trust-and-faith-in-our-web/
-Skipping entry older than last_ts: https://brennan.day/et-maintenant-quelque-chose-de-completement-different/
-Skipping entry older than last_ts: https://brennan.day/software-harm-reduction/
-Skipping entry older than last_ts: https://brennan.day/constellation-of-living-stars/
-Skipping entry older than last_ts: https://brennan.day/fermenting-boredom/
-Skipping entry older than last_ts: https://brennan.day/childhood-hypercapitalist-nostalgia-and-unsupervised-internet-access/
-Skipping entry older than last_ts: https://brennan.day/a-more-perfect-morality-the-progressive-failure-of-ethics/
-Skipping entry older than last_ts: https://brennan.day/building-brennan-day-part-two-indieweb-new-features-and-three-months-of-iterations/
-Skipping entry older than last_ts: https://brennan.day/how-do-we-account-for-evil/
-Skipping entry older than last_ts: https://brennan.day/write-weird-shit/
-Skipping entry older than last_ts: https://brennan.day/we-as-men-must-do-more-and-we-must-do-better/
-Skipping entry older than last_ts: https://brennan.day/r-calgary-deleted-the-top-post-of-the-day-because-i-wrote-it-myself/
-Skipping entry older than last_ts: https://brennan.day/why-is-my-local-city-and-public-library-looking-to-pay-50-hr-to-an-ai-artist-residency/
-Skipping entry older than last_ts: https://brennan.day/build-awesomes-kickstarter-is-cancelled/
-Skipping entry older than last_ts: https://brennan.day/the-big-arch-distraction-while-the-world-is-burning/
-Skipping entry older than last_ts: https://brennan.day/the-end-of-eleventy/
-Skipping entry older than last_ts: https://brennan.day/my-blogging-workflow-a-routine-for-nearly-a-post-a-day-for-4-months-straight/
-Skipping entry older than last_ts: https://brennan.day/how-are-we-preparing-for-the-long-web/
-Skipping entry older than last_ts: https://brennan.day/a-room-of-ones-own-in-2026-in-6-parts-the-domain-the-material-and-the-immaterial/
-Skipping entry older than last_ts: https://brennan.day/the-friend-of-mankind-is-no-friend-of-mine-whats-the-misanthropes-place-in-community/
-Skipping entry older than last_ts: https://brennan.day/the-work-isnt-finished-its-abandoned-thoughts-on-wip-pages/
-Skipping entry older than last_ts: https://brennan.day/12-000-generations-on-deep-time-grief-and-the-body/
-Skipping entry older than last_ts: https://brennan.day/introducing-the-toonie-club/
-Skipping entry older than last_ts: https://brennan.day/an-open-letter-to-cory-doctorow-ollama-is-part-of-the-enshittification/
-Skipping entry older than last_ts: https://brennan.day/wont-you-be-my-neighbour/
-Skipping entry older than last_ts: https://brennan.day/my-malware-story-gets-stolen-yet-another-argument-for-the-indieweb/
-Skipping entry older than last_ts: https://brennan.day/what-can-i-offer-the-shell/
-Skipping entry older than last_ts: https://brennan.day/apathetic-intentionally-why-i-dont-block-ai-scrapers-on-my-website/
-Skipping entry older than last_ts: https://brennan.day/the-many-wonders-of-being-a-late-bloomer/
-Skipping entry older than last_ts: https://brennan.day/the-1-rule-an-open-letter-to-everyone-who-doesnt-post-anything-online/
-Skipping entry older than last_ts: https://brennan.day/the-curious-case-of-the-triton-malware-fork/
-Skipping entry older than last_ts: https://brennan.day/what-is-the-indieweb/
-Skipping entry older than last_ts: https://brennan.day/unseasonal/
-Skipping entry older than last_ts: https://brennan.day/introducing-meddler/
-Skipping entry older than last_ts: https://brennan.day/our-shared-oblivion/
-Skipping entry older than last_ts: https://brennan.day/why-i-m-changing-the-license-in-over-80-of-my-code-repos-after-talking-to-the-co-creator-of-fediverse/
-Skipping entry older than last_ts: https://brennan.day/announcing-three-new-free-jamstack-blogging-themes/
-Skipping entry older than last_ts: https://brennan.day/ai-artists-have-no-role-models/
-Skipping entry older than last_ts: https://brennan.day/substacks-subpar-subculture/
-Skipping entry older than last_ts: https://brennan.day/writerbox-french-magazines-and-money-making/
-Skipping entry older than last_ts: https://brennan.day/no-moltbook-is-not-the-singularity-or-agi-not-even-close/
-Skipping entry older than last_ts: https://brennan.day/to-continue-with-hope/
-Skipping entry older than last_ts: https://brennan.day/the-artists-treadmill-escaping-the-scope-creep-of-our-creative-lives/
-Skipping entry older than last_ts: https://brennan.day/a-beginners-guide-to-the-indieweb-for-writers-who-dont-code-but-maybe-want-to-a-little/
-Skipping entry older than last_ts: https://brennan.day/announcing-fireweed-writing-school/
-Skipping entry older than last_ts: https://brennan.day/the-final-coding-bootcamp-a-eulogy-for-lighthouse-labs/
-Skipping entry older than last_ts: https://brennan.day/more-than-one-way-on-ritual-morality-and-the-darkness-beyond-knowing/
-Skipping entry older than last_ts: https://brennan.day/creating-an-alphabetical-tag-page-feat-nunjucks-pitfalls/
-Skipping entry older than last_ts: https://brennan.day/twtxt-simple-decentralized-microblogging-with-status-lol/
-Skipping entry older than last_ts: https://brennan.day/how-you-can-support-indie-creators-and-you-need-to/
-Skipping entry older than last_ts: https://brennan.day/the-pandemic-never-ended-we-only-pretend-it-did/
-Skipping entry older than last_ts: https://brennan.day/computing-for-the-apocalypse/
-Skipping entry older than last_ts: https://brennan.day/review-light-joy-writing-on-elizabeth-gilberts-big-magic/
-Skipping entry older than last_ts: https://brennan.day/what-i-have-learned-being-on-the-indieweb-for-a-month/
-Skipping entry older than last_ts: https://brennan.day/posting-to-your-static-site-with-quill-and-micropub/
-Skipping entry older than last_ts: https://brennan.day/respecting-the-no-js-choice-making-your-site-work-for-everyone/
-Skipping entry older than last_ts: https://brennan.day/greenland-belongs-to-the-inuit/
-Skipping entry older than last_ts: https://brennan.day/from-65-to-83-attempts-at-performance-optimization/
-Skipping entry older than last_ts: https://brennan.day/extending-the-post-graph-plugin-adding-clickable-links-and-tooltips/
-Skipping entry older than last_ts: https://brennan.day/resources-for-the-personal-web-a-follow-up-guide/
-Skipping entry older than last_ts: https://brennan.day/building-an-indieauth-comment-system-for-your-static-site/
-Skipping entry older than last_ts: https://brennan.day/review-how-do-we-reckon-on-yiyun-lis-things-in-nature-merely-grow/
-Skipping entry older than last_ts: https://brennan.day/how-can-we-use-the-internet-for-good/
-Skipping entry older than last_ts: https://brennan.day/how-a-taylor-swift-lyric-gave-me-an-existential-crisis/
-Skipping entry older than last_ts: https://brennan.day/auld-lang-syne-the-commonplace-micro-log/
-Skipping entry older than last_ts: https://brennan.day/deploying-an-eleventy-site-to-neocities-with-gitlab-ci-cd/
-Skipping entry older than last_ts: https://brennan.day/why-i-m-not-a-full-stack-dev/
-Skipping entry older than last_ts: https://brennan.day/to-dance-is-to-live/
-Skipping entry older than last_ts: https://brennan.day/building-brennan-day-part-one-design-rainbows-and-accessibility/
-Skipping entry older than last_ts: https://brennan.day/what-can-we-give-one-another-on-public-domain-preservation-and-living-without-copyright/
-Skipping entry older than last_ts: https://brennan.day/thoughts-on-digital-third-spaces/
-Skipping entry older than last_ts: https://brennan.day/do-it-ugly-on-bad-art-and-civic-duty/
-Skipping entry older than last_ts: https://brennan.day/choosing-quiet-i-m-no-longer-using-ai-editors/
-Skipping entry older than last_ts: https://brennan.day/bring-back-the-90s-guestbook-with-jamstack-how-i-added-dynamic-comments-to-my-static-11ty-site/
-Skipping entry older than last_ts: https://brennan.day/building-an-independent-literary-publication-in-2025/
-Skipping entry older than last_ts: https://brennan.day/why-start-again-on-cycles-beginnings-and-the-art-of-returning/
-Skipping entry older than last_ts: https://brennan.day/dawn-of-a-new-day-dawn-of-a-new-year/
-Skipping entry older than last_ts: https://brennan.day/worse-than-wrestling-with-god/
-Skipping entry older than last_ts: https://brennan.day/getting-things-up-and-running/
-Skipping entry older than last_ts: https://brennan.day/time-to-fun-blog/
-Skipping entry older than last_ts: https://brennan.day/omg-lol-is-the-internet-we-need-right-now/
-Skipping entry older than last_ts: https://brennan.day/are-nsfw-ai-companions-actually-just-exploited-workers-in-developing-countries/
-Skipping entry older than last_ts: https://brennan.day/hello-world/
-Skipping entry older than last_ts: https://brennan.day/the-only-real-sport/
-Skipping entry older than last_ts: https://brennan.day/no-smiling-friends-won-t-become-the-next-rick-and-morty/
-Skipping entry older than last_ts: https://brennan.day/10-ways-to-write-like-the-90-s/
-Skipping entry older than last_ts: https://brennan.day/i-started-listening-to-justin-vernon-in-grade-school-now-he-s-retiring-as-i-turn-30/
-Skipping entry older than last_ts: https://brennan.day/what-does-it-mean-to-be-a-good-editor/
-Skipping entry older than last_ts: https://brennan.day/fandom-is-awesome-furries-are-awesome-bronies-are-awesome-cringe-is-awesome-fuck-you/
-Skipping entry older than last_ts: https://brennan.day/move-to-a-better-internet-in-2026/
-Skipping entry older than last_ts: https://brennan.day/you-will-never-do-anything-productive-or-meaningful-with-your-life/
-Skipping entry older than last_ts: https://brennan.day/the-three-times-the-world-nearly-ended/
-Skipping entry older than last_ts: https://brennan.day/i-wrote-two-dozen-articles-on-medium-in-november-it-made-me-a-living-wage/
-Skipping entry older than last_ts: https://brennan.day/tough-but-fair-how-to-elevate-your-craft-from-blogging-to-literary-journalism/
-Skipping entry older than last_ts: https://brennan.day/steal-my-work/
-Skipping entry older than last_ts: https://brennan.day/the-art-of-the-microessay/
-Skipping entry older than last_ts: https://brennan.day/we-ve-known-about-thomas-king-for-over-ten-years/
-Skipping entry older than last_ts: https://brennan.day/the-misdirection/
-Skipping entry older than last_ts: https://brennan.day/did-joan-westenberg-memoryhole-web3-nfts/
-Skipping entry older than last_ts: https://brennan.day/a-love-letter-to-public-transit/
-Skipping entry older than last_ts: https://brennan.day/community-will-save-your-life/
-Skipping entry older than last_ts: https://brennan.day/my-best-advice-for-medium-writers-with-no-followers/
-Skipping entry older than last_ts: https://brennan.day/the-inertia-effect-stop-optimizing/
-Skipping entry older than last_ts: https://brennan.day/your-civic-duty-to-make-art/
-Skipping entry older than last_ts: https://brennan.day/gen-z-love-dumb-phones-the-analog-e-ink-screens-slow-living-community-and-longform-work/
-Skipping entry older than last_ts: https://brennan.day/how-to-rewild-your-writing-practice/
-Skipping entry older than last_ts: https://brennan.day/lovebombing-psychosis-and-murder/
-Skipping entry older than last_ts: https://brennan.day/bojack-and-the-temptation-of-suicide/
-Skipping entry older than last_ts: https://brennan.day/how-the-hell-do-i-find-good-creators/
-Skipping entry older than last_ts: https://brennan.day/in-defence-of-rupi-kaur/
-Skipping entry older than last_ts: https://brennan.day/the-compassion-economy/
-Skipping entry older than last_ts: https://brennan.day/when-we-get-blackheart/
-Skipping entry older than last_ts: https://brennan.day/the-piss-average-problem/
-Skipping entry older than last_ts: https://brennan.day/witnessing-palestine-and-the-united-states/
-Skipping entry older than last_ts: https://brennan.day/the-current-state-of-the-internet-should-terrify-you/
-Skipping entry older than last_ts: https://brennan.day/ceremony/
-Skipping entry older than last_ts: https://brennan.day/mise-en-place-for-writers/
-Skipping entry older than last_ts: https://brennan.day/the-banana-mystery/
-Skipping entry older than last_ts: https://brennan.day/be-prolific-accept-every-thought-mythologize-yourself-show-up/
-Skipping entry older than last_ts: https://brennan.day/want-to-decolonize-your-writing/
-Skipping entry older than last_ts: https://brennan.day/want-to-be-a-good-researcher-go-down-rabbit-holes/
-Skipping entry older than last_ts: https://brennan.day/yes-you-can-write-about-anything/
-Skipping entry older than last_ts: https://brennan.day/this-is-how-i-m-making-writing-my-full-time-career/
-Skipping entry older than last_ts: https://brennan.day/the-dying-art-of-having-something-to-say/
-Skipping entry older than last_ts: https://brennan.day/the-architecture-of-belonging/
-Skipping entry older than last_ts: https://brennan.day/i-analyzed-14-years-of-my-writing-with-vibe-coding/
-Skipping entry older than last_ts: https://brennan.day/walking-softly-navigating-the-transformation-of-a-writing-life/
-Skipping entry older than last_ts: https://brennan.day/medium-vs-substack/
-Skipping entry older than last_ts: https://brennan.day/29-done/
-Skipping entry older than last_ts: https://brennan.day/disability-in-adventure-time/
-Skipping entry older than last_ts: https://brennan.day/how-do-we-fall-in-love-in-the-future/
-Skipping entry older than last_ts: https://brennan.day/from-digital-to-analog/
-Skipping entry older than last_ts: https://brennan.day/what-if-you-created-as-much-as-you-consume/
-Skipping entry older than last_ts: https://brennan.day/the-great-forgetting/
-Skipping entry older than last_ts: https://brennan.day/our-hysterical-strength/
-Skipping entry older than last_ts: https://brennan.day/the-geometry-of-writing/
-Skipping entry older than last_ts: https://brennan.day/setting-up-decap-cms-with-jekyll-a-real-world-example/
-
-Processing feed: Endgame Viable https://endgameviable.com/index.xml
-No new entries.
-
-Processing feed: False Machine https://falsemachine.blogspot.com/feeds/posts/default
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2026/05/the-doom-of-dark-is-success.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2026/05/the-doom-of-dark-is-coming.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2026/05/i-read-generators-of-underground-worlds.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2026/04/recommend-me-generators-of-underground.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2026/04/the-lost-great-crystal-debate.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2026/03/take-this-you-fiends.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2026/02/and-next-year-queen-mab.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2026/01/hugh-cook-is-re-published.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2026/01/spider-is-mushroom-now-concepts-for.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2026/01/a-review-of-soliloquies-in-england-by.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/12/count-belisarius-by-robert-graves.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/12/the-future-of-false-machine.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/11/a-review-of-local-heroes-by-amanda-lee.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/11/false-machine-christmas-discount.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/11/currencies-of-dark.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/11/a-review-of-all-tomorrows-by-cm-kosemen.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/10/a-review-of-medieval-welsh-lyrics.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/10/a-review-of-golden-peaches-of-samarkand.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/09/false-machine-update.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/09/un-american-activities.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/08/most-false-machine-sales-to-usa-are.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/08/mac-attack-interview-with-amanda-lee.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/08/on-guard.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/06/loopy-tombs.html
-Skipping entry older than last_ts: https://falsemachine.blogspot.com/2025/06/dead-eyed-dwarves-development-for-vote.html
-
-Processing feed: Retro XP https://rss.beehiiv.com/feeds/FlxjAIihEr.xml
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/past-meets-present-wonderland-of-carbuncle
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/it-s-new-to-me-paddle-mania
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/retro-spotlight-red-faction-guerrilla
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/re-release-this-phoenix
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/it-s-new-to-me-road-runner
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/xp-arcade-max-rpm
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/it-s-new-to-me-snk-gals-fighters
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/retro-spotlight-resident-evil
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/it-s-new-to-me-final-zone
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/past-meets-present-wizman-s-world-re-try
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/past-meets-present-alex-kidd-in-miracle-world
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/past-meets-present-carbuncle-pi
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/retro-spotlight-wario-s-woods
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/past-meets-present-scurge-hive
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/it-s-new-to-me-megapanel
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/xp-arcade-10-yard-fight
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/retro-spotlight-kid-icarus
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/it-s-new-to-me-basketball-atari-2600
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/retro-spotlight-vic-viper-battle-racing
-Skipping entry older than last_ts: https://retroxp.beehiiv.com/p/re-release-this-ganbare-goemon-3-shishi-j-rokub-s-mechanical-manji-hold
+Total cap reached, stopping.
 
 === Feed Selection Statistics ===
-https://quartercircleforward.blog/feed/: 83 days since last selection (1 total)
-https://auricquantastrategies.space/feed/: 66 days since last selection (1 total)
-https://smithtalkstech.com/feed/: 64 days since last selection (1 total)
-https://margotplays.substack.com/feed: 62 days since last selection (5 total)
-https://axxuy.xyz/blog/feed.xml: 60 days since last selection (3 total)
-https://alexiaunplugged.com/feed/: 54 days since last selection (1 total)
-https://www.grumpygamer.com/rss: 38 days since last selection (3 total)
-https://mailvaltar.wordpress.com/feed/: 38 days since last selection (4 total)
-https://www.positech.co.uk/cliffsblog/feed/: 31 days since last selection (5 total)
-https://www.timetoloot.com/feed/: 29 days since last selection (2 total)
+https://quartercircleforward.blog/feed/: 84 days since last selection (1 total)
+https://auricquantastrategies.space/feed/: 67 days since last selection (1 total)
+https://smithtalkstech.com/feed/: 65 days since last selection (1 total)
+https://margotplays.substack.com/feed: 63 days since last selection (5 total)
+https://axxuy.xyz/blog/feed.xml: 61 days since last selection (3 total)
+https://alexiaunplugged.com/feed/: 55 days since last selection (1 total)
+https://www.grumpygamer.com/rss: 39 days since last selection (3 total)
+https://mailvaltar.wordpress.com/feed/: 39 days since last selection (4 total)
+https://www.positech.co.uk/cliffsblog/feed/: 32 days since last selection (5 total)
+https://www.timetoloot.com/feed/: 30 days since last selection (2 total)
