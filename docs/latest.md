@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-05-19
+# Daily Blogroll: 2026-05-20
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/05/18/164538.html?title=theMindOfClaude)** — Dave Winer says Claude Code can absorb his coding style fast, explain huge codebases, and makes gnarly software maintenance look newly tractable.
+- **[Scripting News](http://scripting.com/2026/05/19.html#a171955)** — Dave Winer says Opus 4.6 is a huge leap over Sonnet for software work, and argues AI-era social systems should be open, interoperable web components.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/05/today-in-hot-superyacht-probs-10/)** — Jamie Zawinski skewers peak billionaire absurdity with private-jet Google sign-ins and a pointed jab at which CEO gets toppled next.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/18/three-hundred-million-skill-points/)** — Wilhelm hits 300 million skill points in EVE Online and marvels at how wildly CCP now showers players with SP.
-- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/05/18/5-18-2026-were-going-home-again/)** — Blockade85 gets that annual late-spring pull back to Final Fantasy XI, chasing the old summertime feeling of freedom in Vana’diel.
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/05/simplifying-warlock.html)** — Joar ditches WoW crafting for mining and herbalism, narrowing focus to one warlock while real-life moving chaos eats alt time.
-- **[In An Age](https://inanage.com/2026/05/18/about-that-e33-mocap/)** — Azuriel digs into Clair Obscur: Expedition 33’s standout mocap and credits Unreal Engine 5 plus a nimble team for the magic.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/05/18/coffee-talk-tokyo/)** — Krista says Coffee Talk Tokyo keeps the series’ cosy vibe while adding a Tokyo setting, yokai cast, and a bigger drink-brewing toolbox.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/05/rerolling-maps.html)** — Tobold reflects on Farthest Frontier and his habit of rerolling random maps until the starting conditions feel good enough to commit.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/05/19/can-we-stop-blindly-accusing-indie-games-of-using-generative-ai/)** — Luna argues players should do basic homework before accusing indie games of using generative AI, especially given how damaging the label is.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/18/winding-down-diablo/)** — Belghast is cooling on Diablo 4 after his Paladin stalls out, with stingy Ancestral drops and annoying one-shot boss mechanics killing the vibe.
-- **[Scopique](https://scopique.com/2026/05/18/well-make-it-work/)** — Scopique recounts a gloriously janky Star Citizen session where busted 4.8 physics, insurance quirks, and sheer stubbornness somehow still made it fun.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/19/valheim-facing-yagluth-then-pondering-the-mistlands/)** — Wilhelm finally drops Valheim’s Yagluth after a brief totem mix-up, a lot of prep, and some strategic pillar-hugging between melee rushes.
+- **[West Karana](https://westkarana.blog/2026/05/19/so-the-nexus-cube-howzit-going/)** — Tipa checks back on the Nexus Cube Kickstarter and finds silence, weird fees, AI-looking proof, and even a bill for tax on her $1 pledge.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/05/titanium-court)** — Andrew Plotkin is fascinated by Titanium Court’s fairyland match-3 autobattler storytelling, even if he didn’t actually enjoy playing it that much.
+- **[Aywren's Nook](https://aywren.com/2026/05/19/nintendo-switch-wrens-tomodatchi-life-review)** — Aywren impulsively grabbed Tomodatchi Life on Switch and got totally hooked by its cozy, real-time Mii chaos, despite its hands-off life-sim style.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/05/18/xenonauts-2-dlc-confirmed/)** — Thomas spots strong hints of Xenonauts 2 DLC in the patch notes and is rightly pleased this kind of tactical alien-blasting still gets support.
+## Writing
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-05-20.html)** — Tofutush calls Wings of Fire arc 3 a messy roller coaster: least favorite overall, but somehow home to both the series’ best and worst books.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/05/20/gw2-velours-introduction/)** — Stargrace introduces a delightfully chaotic Guild Wars 2 commander: an asura gardener trailed by a magitech tornado and one deeply judgmental chicken.
+- **[Hamatti](https://hamatti.org/posts/11-more-days-to-write-a-love-letter-indieweb-carnival/)** — Juhis puts out a friendly last call for IndieWeb Carnival love letters, inviting anyone with an openly readable blog to join in.
 ## General
 
-- **[Virtual Moose](https://virtualmoose.org/2026/05/18/books-i-enjoyed-winter-spring-2026/)** — Michael rounds up winter and spring reads, mostly sci-fi and fantasy, with a friendly stack of recommendations from Discworld to Singing Hills.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-05-18-uniforms/)** — Anarchae shares how school and workplace uniforms became a long-running struggle with gender conformity, comfort, and being read as professional.
+- **[Axxuy](https://axxuy.com/blog/2026/tab-cleaning-may-edition/)** — Axxuy’s tab-cleaning roundup hits nostalgia, dogs, bookshelves, blogging, and reading critically—basically proof that neglected tabs sometimes pay off.
+- **[brennan.day](https://brennan.day/manifestation-the-law-of-attraction-cancer-and-abuse/)** — Brennan digs into manifestation culture from New Thought to TikTok, framing its glossy promises around illness and harm with real skepticism.
