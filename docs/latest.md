@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-05-20
+# Daily Blogroll: 2026-05-21
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/05/19.html#a171955)** — Dave Winer says Opus 4.6 is a huge leap over Sonnet for software work, and argues AI-era social systems should be open, interoperable web components.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/05/today-in-hot-superyacht-probs-10/)** — Jamie Zawinski skewers peak billionaire absurdity with private-jet Google sign-ins and a pointed jab at which CEO gets toppled next.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/19/valheim-facing-yagluth-then-pondering-the-mistlands/)** — Wilhelm finally drops Valheim’s Yagluth after a brief totem mix-up, a lot of prep, and some strategic pillar-hugging between melee rushes.
-- **[West Karana](https://westkarana.blog/2026/05/19/so-the-nexus-cube-howzit-going/)** — Tipa checks back on the Nexus Cube Kickstarter and finds silence, weird fees, AI-looking proof, and even a bill for tax on her $1 pledge.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/05/titanium-court)** — Andrew Plotkin is fascinated by Titanium Court’s fairyland match-3 autobattler storytelling, even if he didn’t actually enjoy playing it that much.
-- **[Aywren's Nook](https://aywren.com/2026/05/19/nintendo-switch-wrens-tomodatchi-life-review)** — Aywren impulsively grabbed Tomodatchi Life on Switch and got totally hooked by its cozy, real-time Mii chaos, despite its hands-off life-sim style.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/05/18/xenonauts-2-dlc-confirmed/)** — Thomas spots strong hints of Xenonauts 2 DLC in the patch notes and is rightly pleased this kind of tactical alien-blasting still gets support.
-## Writing
+- **[Chasing Dings!](https://chasingdings.com/2026/05/20/confessions-of-a-superbacker-2026-edition/)** — Tipa weighs crowdfunding regrets against shiny temptations, from Mystery Dice delays to Terraforming Mars: Legacy of Mars and its admitted AI-assisted art.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/20/the-next-everquest-ii-time-locked-expansion-server-wuoshi-is-coming-june-9th/)** — Wilhelm calls EverQuest II’s new Wuoshi TLE a pretty tepid, subscription-only rerun: PvE, free trade, Echoes of Faydwer start, and a planned Chaos Descending finish.
+- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/05/20/neverness-to-everness-or-as-i-call-it-the-city/)** — Mailvaltar is smitten with Neverness to Everness not as “anime GTA,” but as a gorgeous, startlingly alive city full of tiny reactive details.
+- **[WCRobinson](https://wcrobinson.org/2026/05/20/yu-gi-oh-report-returning-to-locals-learning-new-decks-adventures-in-master-duel/)** — WCRobinson checks in on a thoughtful Yu-Gi-Oh! return, balancing Master Duel progress, Sky Striker practice, and easing back into locals.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/05/the-dantooine-crash-site-five-months.html)** — Shintar revisits SWTOR’s Dantooine crash site and finds the experimental endgame more exhausting than engrossing, especially for group play and weekly routines.
+- **[Sweetie Games](https://sweetie.games/2026/05/20/what-could-be-in-the-future-of-otome-games/)** — Sweetie sees otome games getting more immersive through Live2D and 3D, while warning that AI-generated images and videos are already creeping in.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/5/17/star-trek-online-reputation-system)** — Roger breaks down Star Trek Online’s reputation grind: 13 factions, daily 20-hour projects, alt sponsorship, and a long haul to meta gear.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/its-only-rock-n-roll-life-in-hethereau.html)** — Bhagpuss is happily losing hours in Neverness To Everness, where aimless city wandering and little discoveries matter more than chasing Hunter XP.
+## Tech
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-05-20.html)** — Tofutush calls Wings of Fire arc 3 a messy roller coaster: least favorite overall, but somehow home to both the series’ best and worst books.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/05/20/gw2-velours-introduction/)** — Stargrace introduces a delightfully chaotic Guild Wars 2 commander: an asura gardener trailed by a magitech tornado and one deeply judgmental chicken.
-- **[Hamatti](https://hamatti.org/posts/11-more-days-to-write-a-love-letter-indieweb-carnival/)** — Juhis puts out a friendly last call for IndieWeb Carnival love letters, inviting anyone with an openly readable blog to join in.
+- **[Scripting News](http://scripting.com/2026/05/20.html#a191155)** — Dave Winer argues Bluesky isn’t the web, cheers the Knicks’ wild comeback, and notes Frontier, Manila, and Claude Code learning more user perspective.
 ## General
 
-- **[Axxuy](https://axxuy.com/blog/2026/tab-cleaning-may-edition/)** — Axxuy’s tab-cleaning roundup hits nostalgia, dogs, bookshelves, blogging, and reading critically—basically proof that neglected tabs sometimes pay off.
-- **[brennan.day](https://brennan.day/manifestation-the-law-of-attraction-cancer-and-abuse/)** — Brennan digs into manifestation culture from New Thought to TikTok, framing its glossy promises around illness and harm with real skepticism.
+- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/05/20/solar-powered-borehole-opening-ceremony/)** — Cliffski shares the happy payoff of a £20k solar-powered borehole in Cameroon, now delivering clean drinking water to hundreds.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/05/19/Declining-America)** — Tim Bray explains why he turned down a US AI event, citing threats to Canadian sovereignty and the risks of US border scrutiny.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/05/20/the-milestones-nobody-mentions/)** — Joar reflects on the quiet family moments behind the big calendar events, where adult children’s lives shift before anyone marks it down.
