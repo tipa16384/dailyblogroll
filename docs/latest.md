@@ -1,20 +1,18 @@
-# Daily Blogroll: 2026-05-21
+# Daily Blogroll: 2026-05-22
 
-## Gaming
-
-- **[Chasing Dings!](https://chasingdings.com/2026/05/20/confessions-of-a-superbacker-2026-edition/)** — Tipa weighs crowdfunding regrets against shiny temptations, from Mystery Dice delays to Terraforming Mars: Legacy of Mars and its admitted AI-assisted art.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/20/the-next-everquest-ii-time-locked-expansion-server-wuoshi-is-coming-june-9th/)** — Wilhelm calls EverQuest II’s new Wuoshi TLE a pretty tepid, subscription-only rerun: PvE, free trade, Echoes of Faydwer start, and a planned Chaos Descending finish.
-- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/05/20/neverness-to-everness-or-as-i-call-it-the-city/)** — Mailvaltar is smitten with Neverness to Everness not as “anime GTA,” but as a gorgeous, startlingly alive city full of tiny reactive details.
-- **[WCRobinson](https://wcrobinson.org/2026/05/20/yu-gi-oh-report-returning-to-locals-learning-new-decks-adventures-in-master-duel/)** — WCRobinson checks in on a thoughtful Yu-Gi-Oh! return, balancing Master Duel progress, Sky Striker practice, and easing back into locals.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/05/the-dantooine-crash-site-five-months.html)** — Shintar revisits SWTOR’s Dantooine crash site and finds the experimental endgame more exhausting than engrossing, especially for group play and weekly routines.
-- **[Sweetie Games](https://sweetie.games/2026/05/20/what-could-be-in-the-future-of-otome-games/)** — Sweetie sees otome games getting more immersive through Live2D and 3D, while warning that AI-generated images and videos are already creeping in.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/5/17/star-trek-online-reputation-system)** — Roger breaks down Star Trek Online’s reputation grind: 13 factions, daily 20-hour projects, alt sponsorship, and a long haul to meta gear.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/its-only-rock-n-roll-life-in-hethereau.html)** — Bhagpuss is happily losing hours in Neverness To Everness, where aimless city wandering and little discoveries matter more than chasing Hunter XP.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/05/20.html#a191155)** — Dave Winer argues Bluesky isn’t the web, cheers the Knicks’ wild comeback, and notes Frontier, Manila, and Claude Code learning more user perspective.
-## General
+- **[Scripting News](http://scripting.com/2026/05/21.html#a210820)** — Dave Winer bounces from AI-on-the-web and Claude coding habits to Cormac McCarthy, all with that familiar sense that AI changes everything.
+- **[usebox.net](https://www.usebox.net/jjm/blog/back-to-streaming/)** — JJM is back streaming late-night OCaml and SDL2 RPG coding on Twitch, treating it like pair programming even if it’s intense and exhausting.
+- **[Sid's Blog](https://0xsid.com/blog/antigravity-bait-n-switch)** — Sid says Google’s Antigravity 2.0 swapped his IDE for a chatbot, broke his workflow, and forced a full reinstall just to get back to work.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html)** — Bruce Schneier notes Anthropic’s Mythos helped researchers find a macOS kernel memory corruption exploit on Apple’s M5 in just five days.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/21/one-button-only-apple-when-it-comes-to-unwanted-spam-calls/)** — Warner wants Apple to kill spam calls with one obvious button that blocks, reports, and deletes everything in one satisfying tap.
+## Gaming
 
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/05/20/solar-powered-borehole-opening-ceremony/)** — Cliffski shares the happy payoff of a £20k solar-powered borehole in Cameroon, now delivering clean drinking water to hundreds.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/05/19/Declining-America)** — Tim Bray explains why he turned down a US AI event, citing threats to Canadian sovereignty and the risks of US border scrutiny.
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/05/20/the-milestones-nobody-mentions/)** — Joar reflects on the quiet family moments behind the big calendar events, where adult children’s lives shift before anyone marks it down.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/21/eve-online-fanfest-2026-and-cradle-of-war-expansion-as-seen-from-under-a-palm-tree/)** — Wilhelm likes EVE Online’s Cradle of War reveal, but thinks Fanfest 2026 buried it under too much Vanguard, Frontier, and Hilmar baggage.
+- **[Indiecator](https://indiecator.org/2026/05/18/endix-digital-expo-2026-returns-in-may/)** — Magi is hyped for ENDIX Digital Expo 2026, a free Steam-and-Epic virtual convention that makes showcasing and attending games far more accessible.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-21-2026-six-one-indie-showcase-2026)** — Sey rounds up 18 wishlist-worthy highlights from the Six One Indie Showcase 2026, spotlighting a bunch of stylish indies worth keeping tabs on.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/05/the-safe-spot-episode-8-our-eve-fanfest.html)** — CrazyKinux and Rixx unpack EVE Fanfest 2026, from the Cradle of War reveal to Vanguard, Frontier, DeepMind, and Rixx’s Polaris Award.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/05/22/shin-megami-tensei-a-mega-rpg/)** — Kimimi makes the case for the Mega CD Shin Megami Tensei as the deluxe version, with subtle upgrades that really sharpen the original RPG.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/05/21/find-your-words/)** — Ellie finds Find Your Words a gentle adventure that thoughtfully connects parenting, disability, and interactive storytelling in a way games do especially well.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/21/kombating-mortals-and-more/)** — Belghast says Mortal Kombat II is a blast for fans thanks to Karl Urban’s Johnny Cage, even if the rest of his watchlist was mixed.
