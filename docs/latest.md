@@ -1,18 +1,20 @@
-# Daily Blogroll: 2026-05-22
+# Daily Blogroll: 2026-05-23
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/05/21.html#a210820)** — Dave Winer bounces from AI-on-the-web and Claude coding habits to Cormac McCarthy, all with that familiar sense that AI changes everything.
-- **[usebox.net](https://www.usebox.net/jjm/blog/back-to-streaming/)** — JJM is back streaming late-night OCaml and SDL2 RPG coding on Twitch, treating it like pair programming even if it’s intense and exhausting.
-- **[Sid's Blog](https://0xsid.com/blog/antigravity-bait-n-switch)** — Sid says Google’s Antigravity 2.0 swapped his IDE for a chatbot, broke his workflow, and forced a full reinstall just to get back to work.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html)** — Bruce Schneier notes Anthropic’s Mythos helped researchers find a macOS kernel memory corruption exploit on Apple’s M5 in just five days.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/21/one-button-only-apple-when-it-comes-to-unwanted-spam-calls/)** — Warner wants Apple to kill spam calls with one obvious button that blocks, reports, and deletes everything in one satisfying tap.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/21/eve-online-fanfest-2026-and-cradle-of-war-expansion-as-seen-from-under-a-palm-tree/)** — Wilhelm likes EVE Online’s Cradle of War reveal, but thinks Fanfest 2026 buried it under too much Vanguard, Frontier, and Hilmar baggage.
-- **[Indiecator](https://indiecator.org/2026/05/18/endix-digital-expo-2026-returns-in-may/)** — Magi is hyped for ENDIX Digital Expo 2026, a free Steam-and-Epic virtual convention that makes showcasing and attending games far more accessible.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-21-2026-six-one-indie-showcase-2026)** — Sey rounds up 18 wishlist-worthy highlights from the Six One Indie Showcase 2026, spotlighting a bunch of stylish indies worth keeping tabs on.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/05/the-safe-spot-episode-8-our-eve-fanfest.html)** — CrazyKinux and Rixx unpack EVE Fanfest 2026, from the Cradle of War reveal to Vanguard, Frontier, DeepMind, and Rixx’s Polaris Award.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/05/22/shin-megami-tensei-a-mega-rpg/)** — Kimimi makes the case for the Mega CD Shin Megami Tensei as the deluxe version, with subtle upgrades that really sharpen the original RPG.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/05/21/find-your-words/)** — Ellie finds Find Your Words a gentle adventure that thoughtfully connects parenting, disability, and interactive storytelling in a way games do especially well.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/21/kombating-mortals-and-more/)** — Belghast says Mortal Kombat II is a blast for fans thanks to Karl Urban’s Johnny Cage, even if the rest of his watchlist was mixed.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/22/friday-bullet-points-about-middle-earth-video-game-things/)** — Wilhelm rounds up Middle-earth game chaos: Amazon’s LOTR MMO is officially dead, Warhorse has a new RPG coming, and LOTRO still stands alone.
+- **[Quarter Circle Forward](https://quartercircleforward.blog/2026/05/22/e3-or-whatever-predictions-2026/)** — Andrew makes showcase-season calls, betting on Ocarina of Time, FFVII Remake Part 3, Code Veronica, and a long-shot PaRappa comeback.
+- **[Westhorpe.net](https://westhorpe.net/2026/05/eve-crews-bridge-dynamics-and-crew-simulation-for-new-eden/)** — Mat’s EVE Crews adds AI-assisted bridge officers, departments, and loyalty systems to EVE Online for a more human, starship-command vibe.
+- **[The Digital Antiquarian](https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/)** — Jimmy starts unpacking why Planescape: Torment is a gloriously messy, writing-heavy CRPG whose real punch comes from tragedy, not power fantasy.
+- **[Dragonchasers](https://dragonchasers.com/2026/05/22/more-neverness-to-everness-musings/)** — Nimgimli is still wrestling with Neverness to Everness’s buggy UI and annoying kids, but the city, scooter cruising, and style keep pulling him back.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/05/turtle-wows-version-of-gilneas.html)** — Shintar tours Turtle WoW’s Gilneas and digs into its alternate-history spin on Genn, rebellion, and worgen lore.
+- **[Retro XP](https://retroxp.beehiiv.com/p/guest-feature-cosmic-ark)** — Garrett Martin revisits Atari 2600’s Cosmic Ark, using its scrappy space-escape premise to connect old-school sci-fi anxiety with today’s planet-doom mood.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/05/22/race-to-berlin-2nd-edition-portal-games-game-overview/)** — The Chronicler spotlights Race to Berlin 2nd Edition, a two-player 1945 wargame with upgraded components, revised rules, and extra scenarios.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/05/20/6-upcoming-indie-game-showcases-you-might-want-to-check-out/)** — Luna lines up six indie showcases worth watching, from Six One Indie and Thinky Direct to Indie Quest and Summer Game Fest.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/05/22.html#a160029)** — Dave Winer riffs on Claude Code, AI forgetfulness, a WordPress reboot, and why the web shouldn’t just be a machine for getting rich.
+- **[Scopique](https://scopique.com/2026/05/22/easier-and-harder-than-expected/)** — Scopique wrangles WordPress XML into Astro with Claude, then runs into the very relatable headache of image hosting and too much manual setup.
+## General
+
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-05-22-week-21-digest/)** — Anarchae’s weekly digest checks in on Fate/GO, movie watching, mystery reading, sports, puzzles, and the general weirdness of time slipping away.
