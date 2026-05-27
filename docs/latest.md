@@ -1,18 +1,22 @@
-# Daily Blogroll: 2026-05-26
+# Daily Blogroll: 2026-05-27
 
-## General
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/25/memorial-day-2026/)** — Wilhelm marks Memorial Day by sharing a US Civil War poem about a fallen young soldier, a quiet, solemn remembrance.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/5/25/thinking-out-loud)** — Roger muses on Warhorse’s Middle-earth RPG, hoping for third-person, while also wrestling with how to find more meaningful social connection at 58.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/25/mixtape-mondays-spectacle-politique/)** — Belghast’s latest mixtape rounds up Eurovision bangers old and recent, with extra love for Finnish artists and that carefully sequenced listen-through flow.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/25/end-of-a-crazy-wonderful-week/)** — Warner wraps up a grandkid-filled week equal parts exhausting and delightful, happy to trade the chaos for stronger bonds and louder laughs.
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/05/25.html#a131000)** — Dave Winer reflects on Memorial Day, cheers Jake Savin’s Frontier revival, and says he wants to move conversations off X into new Claude Code-built software.
 ## Gaming
 
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/05/coriolis-great-dark-session-zero.html)** — CrazyKinux kicks off Coriolis: The Great Dark with a roughneck mechanic, praising its Alien-meets-Dune exploration vibe over crunchier Fallout-style systems.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/sledding-game-review-cozy-multiplayer-frog-chaos)** — Sey says Sledding Game is a goofy cozy hit: thick frog sledding, fishing, snowball fights, and easy multiplayer laughs with friends and helpful randoms.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/vibe-blogging.html)** — Bhagpuss says Neverness To Everness runs fine until logout crashes Windows, and Gemini was helpful but couldn’t beat the likely anti-cheat mess.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/05/why-i-didnt-back-lands-of-evershade.html)** — Tobold skips Lands of Evershade because its campaign sounds too story-heavy and too light on tactical combat for his four-player board game group.
-- **[Virtual Moose](https://virtualmoose.org/2026/05/25/frog-detective-2-the-case-of-the-invisible-wizard/)** — Michael revisits Frog Detective 2 with his kid and finds its short, clue-tracking mystery perfect for low-stakes detective roleplay together.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/26/forza-horizon-6-with-jimmy/)** — Wilhelm keeps test-driving Forza Horizon 6’s huge garage, but for laid-back exploring he’s unexpectedly fallen for the clunky 1970 GMC Jimmy.
+- **[In An Age](https://inanage.com/2026/05/27/impressions-metaphor-refantazio/)** — Azuriel taps out on Metaphor: ReFantazio, put off by its looming Game Pass exit, punishing weakness system, and dreaded time limits.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/26/path-of-exile-and-meeting-someone/)** — Belghast mixes Path of Exile build tinkering and Path of Exile II plans with a sweet update about meeting someone unexpectedly compatible.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/this-is-your-situation.html)** — Bhagpuss picks apart Jack Emmert’s MMO revival thesis, arguing New World-sized curiosity doesn’t necessarily mean lasting demand or better design.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/05/26.html#a145326)** — Dave Winer bounces from Claude weirdness to mini-podcasts and modular social tech, with the usual push for user-driven tools over lock-in.
+- **[Leaded Solder](https://www.leadedsolder.com/2026/05/26/fujitsu-fm-towns-ii-hr20-power-supply-repair-pickup.html)** — Mike digs into reviving a Fujitsu FM Towns II, a multimedia-minded Japanese 486 oddball with CD-ROM, sprites, and YM2612 game cred.
+- **[Hamatti](https://hamatti.org/posts/tame-your-pesky-little-scripts/)** — Juhis shares a neat system for wrangling shell scripts with command prefixes and shebangs, making mixed-language tools easier to find and run.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html)** — Bruce Schneier flags Wi-Fi sensing as a surveillance risk, where ordinary router signals can be used to infer people and surroundings.
+- **[brennan.day](https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/)** — Brennan tours finger, gopher, and gemini as terminal-friendly alternatives to https, framing them as antidotes to browser monoculture.
+## Writing
+
+- **[Scopique](https://scopique.com/2026/05/26/frustration-versus-convenience/)** — Scopique ditches a brittle Astro, GitHub Pages, and Cloudflare setup for WordPress, choosing easy publishing over static-site busywork.
+## General
+
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/05/i-am-not-seeing-orange-catholic-pope-trending-yet-and-that-causes-me-pain/)** — Jamie Zawinski does his trademark linkstorm, riffing on another absurdly on-brand Catholic Church headline with maximal exasperation.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/05/26/a-tone-deaf-world/)** — Emily unloads on Katy Perry’s Blue Origin joyride, calling the 11-minute celebrity space stunt gaudy, shallow, and painfully out of touch.
