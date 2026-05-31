@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-05-30
+# Daily Blogroll: 2026-05-31
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/29/the-everquest-time-locked-progression-server-frostreaver-is-live/)** — Wilhelm sizes up EverQuest’s new Frostreaver TLP as another Daybreak nostalgia run, faster and easier by design, but maybe one trip too many to the well.
-- **[Chasing Dings!](https://chasingdings.com/2026/05/29/the-exit-8-is-this-what-addiction-feels-like/)** — Tipa gets hypnotized by The Exit 8’s anomaly-spotting subway loop, where tiny tells and creepy surprises make quick runs weirdly relaxing and maddening.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/05/29/seljuk-gmt-games-battle-of-manzikert-1071-ad/)** — The Chronicler uses Seljuk to reenact Manzikert, walking through Levy & Campaign battle mechanics and landing on a satisfyingly historical result.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/05/29/a-good-death/)** — Belghast says goodbye to Destiny as Bungie sunsets it, worrying Marathon won’t fill the gap and the looter-shooter space may be fading to Warframe alone.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/05/dice-gambit.html)** — Tobold recommends Dice Gambit, a clever tactical RPG mixing hex combat, dice abilities, family-building, and replayable class combos despite its tiny audience.
-- **[Indiecator](https://indiecator.org/2026/05/30/warding-witches-preview-dokomi/)** — Magi comes away impressed by Warding Witches at DoKomi, praising its bullet-hell scoring loop and defensive spells that reward planning over panic bombs.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/05/making-sense-of-neverness-to-everness.html)** — Bhagpuss uses Neverness to Everness and Genshin Impact to unpack how gacha games share progression grinds even when their genres look wildly different.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/05/30/tagn-fantasy-critic-league-2026-week-twenty-two-with-mina-the-hollower-and-most-wanted-reviews/)** — Wilhelm tracks Fantasy Critic week 22 as 007 First Light scores big, Warhammer 40,000: Mechanicus II lands, and Ghost of Yotei: Legends still needs reviews.
+- **[West Karana](https://westkarana.blog/2026/05/30/the-nexus-cube-scam-the-next-chapter/)** — Tipa says the Nexus Infinity Dice Cube creators seem to have rebranded and rolled straight into another dubious Kickstarter, this time a foldable chess set.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/05/30/alice-madness-returns/)** — Ellie revisits Alice: Madness Returns as a very 2011 slice of grimdark Wonderland, shaped by edgy aesthetics and a long, messy road to release.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/05/30.html#a123838)** — Dave Winer argues Bluesky should embrace the web, then pokes at standard.site with ChatGPT, comparing it to RSS, FeedLand, and AT Proto.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html)** — Bruce Schneier’s squid post veers into OS security, with Clive Robinson arguing CIFswitch exposes deep legacy architecture problems, not just sloppy kernel coding.
+- **[Smith Talks Tech](https://smithtalkstech.com/2026/05/30/ai-generated-character-sheets/)** — Pete walks through how AI image prompting evolved from plain descriptions and tags to giant structured character-sheet prompts for Astrid One-Eye.
+- **[brennan.day](https://brennan.day/announcing-fanfiction-lol-a-manifesto-on-human-creativity-and-ao3/)** — Brennan spins up fanfiction.lol, an AO3 fork on Rails, MySQL, Redis, Elasticsearch, and Docker, as both a self-hosting challenge and creativity statement.
 ## General
 
-- **[The Digital Antiquarian](https://www.filfre.net/2026/05/this-week-on-the-analog-antiquarian/)** — Jimmy points readers to The Analog Antiquarian for “A Portrait of the Bard as a Young Man,” a quick cross-site nudge rather than a full essay.
-- **[Hamatti](https://hamatti.org/posts/saoirse-ronan-appreciation-week/)** — Juhis spends a week watching Saoirse Ronan films, sharing spoiler-light reactions and the joy of talking movies without pretending to be a film scholar.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/29/the-emperors-new-car-wreck/)** — Warner unloads on Trump-era American politics, framing the whole mess as a decaying Emperor’s New Clothes spectacle heading for an ugly cleanup.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-05-30-week-22-digest/)** — Anarchae’s weekly digest hits brutal early shifts, TCAF plans, Tears of the Kingdom, new music, TV, hockey misery, and John Dickson Carr.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/5/29/riverhill-himalayan-gardens)** — Roger recommends Riverhill Himalayan Gardens for sculptures, roses, a maze, hillside walks, kid-friendly spots, and an especially good orange drizzle cake.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/05/chad-valley-wooden-influencer-roleplay-set/)** — Jamie Zawinski spots a wooden influencer playset—tripod, ring light, phone, tablet, microphone—and lets the bleak joke mostly tell itself.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/05/30/tilting/)** — Warner argues AI and U.S. politics are both leaning toward collapse, with the system already damaged badly enough to feel barely playable.
+## Writing
+
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-05-22.html)** — Tofutush reflects on identity, preferring interests over labels, while tying coding, drawing, and worldbuilding to certainty, creation, and control.
