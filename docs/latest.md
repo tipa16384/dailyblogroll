@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-06-02
+# Daily Blogroll: 2026-06-03
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/01/a-subscription-price-increase-for-lotro/)** — Wilhelm breaks down LOTRO’s steeper multi-month sub prices and why SSG seems understandably nervous about asking MMO players to pay more.
-- **[Bio Break](https://biobreak.wordpress.com/2026/06/01/syps-gaming-goals-for-june-2026/)** — Syp shelved WoW after alt juggling and weeklies, then drifted back toward FFXIV’s comfy free-trial appeal even if ARR quickly slowed the momentum.
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/06/may-month-in-review.html)** — Joar logged just 7.5 hours in WoW on his warlock as graduations, moving, and cross-country drives completely steamrolled May gaming time.
-- **[Dragonchasers](https://dragonchasers.com/2026/06/01/helping-bhagpuss-carry-the-nte-torch/)** — Nimgimli spends a weekend grinding Neverness to Everness, catching up on quests and characters while hoping that rough rhythm mini-game gets smoothed out.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/06/02/my-may-log/)** — Luna’s May was a reminder not to let review keys crowd out her backlog, with thoughts on indie-game AI discourse and a mixed batch of cozy releases.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/02/gw2-the-announcement/)** — Stargrace isn’t buying the Guild Wars 3 hype, guessing ArenaNet’s teaser points more toward a standalone single-player Tyria project.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/06/01/month-in-review-cairn-the-artisan-of-glimmith/)** — Frostilyte used a lighter month to revisit Cairn’s climbing and story, and came away even more convinced it’s something special.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/of-time-and-cities.html)** — Bhagpuss follows Neverness to Everness with Moon Gaze, intrigued by another strikingly convincing game city even if the actual game remains a mystery.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/01.html#a204534)** — Dave Winer bounces from FeedLand and Automattic API ideas to blunt AI dread, with a side recommendation for John C. Reilly’s Cuckoo’s Nest audiobook.
-- **[Sid's Blog](https://0xsid.com/blog/meta-account-takeover-fiasco)** — Sid says Instagram’s now-patched AI support flow enabled absurdly easy account takeovers, bypassing 2FA with little more than a username and fake recovery details.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html)** — Bruce Schneier spotlights a paper arguing AI is accelerating vulnerability discovery so fast that disclosure and patching now need coordinated, large-scale urgency.
-## Writing
+- **[Scripting News](http://scripting.com/2026/06/02.html#a163232)** — Dave Winer ties his MacWrite-for-the-web idea to open-source ecosystem building and argues Twitter-likes should focus on better text features, not owning the web.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/06/01/XML-and-JSON-in-2026)** — Tim Bray says JSON at 25 is basically frozen, XML is mostly obsolete, and both are now old enough that nobody really wants surprises.
+- **[brennan.day](https://brennan.day/the-internet-needs-more-cross-pollinators/)** — Brennan reflects on launching fanfiction.lol, the AO3 fork backlash, and how siloed social media leaves people unfamiliar with joyful, experimental web culture.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html)** — Bruce Schneier revisits why cryptography excels at narrow math problems while real-world computer security stays a fragile, fast-moving arms race.
+## Gaming
 
-- **[Hamatti](https://hamatti.org/posts/indieweb-carnival-may-2026-roundup-of-love-letters/)** — Juhis rounds up a big IndieWeb Carnival full of love letters, celebrating personal blogs, open-web community, and the joy of people sharing what matters to them.
+- **[Chasing Dings!](https://chasingdings.com/2026/06/02/malifaux-kirai-envoy-vs-colette-smuggler/)** — Tipa breaks down why Colette’s mobile Performer crew stumbled against Kirai’s summons in Malifaux, then eyes Toni Ironsides as the anti-summoner answer.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/02/windrose-im-on-a-boat/)** — Wilhelm dives into Windrose early access, joining Potshot for pirate survival, base-building, and a quick lesson that boars and dodos hit back.
+- **[Heartless Gamer](http://www.heartlessgamer.com/2026/06/arenanet-june-5th-announcement.html)** — Heartless keeps Guild Wars 3 hype in check, guessing ArenaNet’s Summer Games Fest tease is more likely Guild Wars 2 news than a moonshot.
+- **[Donkeyspace](https://franklantz.substack.com/p/the-500-year-video-game)** — Frank uses a 500-year game thought experiment to poke at how aesthetic judgment, critical consensus, and cultural memory shape what survives.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/02/mortal-kombat-excellent/)** — Kimimi revisits the original Mortal Kombat via Legacy Kollection and finds a clunky fighter that still sells its tournament atmosphere incredibly well.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/03/007-first-light-an-update-of-despair/)** — Thomas is souring hard on 007 First Light, blaming endless quips, weak Bond characterization, and boring walk-and-talk missions for the burnout.
+## General
+
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/02/the-smartest-thing-ive-read-in-a-long-time/)** — Warner enthusiastically recommends Om Malik’s Pinocchio essay as a sharp read on deception, politics, tech, and why the story still lands hard.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/01/mixtape-mondays-te-amo-amor/)** — Belghast assembles a love-song mixtape shaped by karaoke, old mixtape instincts, and deeply personal picks from The Cure to Bryan Adams.
