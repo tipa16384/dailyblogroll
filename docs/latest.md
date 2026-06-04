@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-06-03
+# Daily Blogroll: 2026-06-04
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/02.html#a163232)** — Dave Winer ties his MacWrite-for-the-web idea to open-source ecosystem building and argues Twitter-likes should focus on better text features, not owning the web.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/06/01/XML-and-JSON-in-2026)** — Tim Bray says JSON at 25 is basically frozen, XML is mostly obsolete, and both are now old enough that nobody really wants surprises.
-- **[brennan.day](https://brennan.day/the-internet-needs-more-cross-pollinators/)** — Brennan reflects on launching fanfiction.lol, the AO3 fork backlash, and how siloed social media leaves people unfamiliar with joyful, experimental web culture.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html)** — Bruce Schneier revisits why cryptography excels at narrow math problems while real-world computer security stays a fragile, fast-moving arms race.
+- **[Scripting News](http://scripting.com/2026/06/03.html#a171801)** — Dave Winer argues for a social web for nobodies and says Claude makes wrangling big codebases and software complexity feel newly manageable.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/ai-taking-all-our-jobs.html)** — Tobold doubts AI will replace most work soon, arguing physical labor, customer-facing jobs, and the real cost of bots make the panic feel overblown.
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2026/06/02/malifaux-kirai-envoy-vs-colette-smuggler/)** — Tipa breaks down why Colette’s mobile Performer crew stumbled against Kirai’s summons in Malifaux, then eyes Toni Ironsides as the anti-summoner answer.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/02/windrose-im-on-a-boat/)** — Wilhelm dives into Windrose early access, joining Potshot for pirate survival, base-building, and a quick lesson that boars and dodos hit back.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2026/06/arenanet-june-5th-announcement.html)** — Heartless keeps Guild Wars 3 hype in check, guessing ArenaNet’s Summer Games Fest tease is more likely Guild Wars 2 news than a moonshot.
-- **[Donkeyspace](https://franklantz.substack.com/p/the-500-year-video-game)** — Frank uses a 500-year game thought experiment to poke at how aesthetic judgment, critical consensus, and cultural memory shape what survives.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/02/mortal-kombat-excellent/)** — Kimimi revisits the original Mortal Kombat via Legacy Kollection and finds a clunky fighter that still sells its tournament atmosphere incredibly well.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/03/007-first-light-an-update-of-despair/)** — Thomas is souring hard on 007 First Light, blaming endless quips, weak Bond characterization, and boring walk-and-talk missions for the burnout.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/03/the-capsuleer-day-xxiii-warpath-event-wrap-up/)** — Wilhelm wraps EVE Online’s Warpath event as decent but grindy, with mining tasks a slog and competitive bits bringing out New Eden’s worst instincts.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/06/the-safe-spot-episode-9-featuring-oz.html)** — CrazyKinux returns with Rixx and first guest Oz for a loose chat on EVE Online markets, FanFest, trading tools, and how AI changed the toolkit.
+- **[Sweetie Games](https://sweetie.games/2026/06/03/dragon-quest-xii-has-finally-been-revealed-but-it-looks-different/)** — Sweetie is upbeat that Dragon Quest XII restarted as Beyond Dreams, ditching the darker Flames of Fate for something closer to classic DQ vibes.
+- **[Retro XP](https://retroxp.beehiiv.com/p/past-meets-present-gulkave)** — Marc revisits Compile’s Gulkave as a rough-looking but technically impressive 8-bit shooter, especially given the MSX, SG-1000, and Master System hardware.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/06/03/the-sims-4-favourite-dlc/)** — Krista runs through favorite Sims 4 add-ons, with City Living, Get Famous, and family-focused picks standing out from years of expansions and packs.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/03/into-the-woods-the-battle-of-shiloh-april-6-7-1862-unboxing-overview/)** — The Chronicler spotlights GMT’s Into the Woods, a GBACW Shiloh game with chit-pull activations, ten scenarios, and a strong fog-of-war feel.
+- **[Indiecator](https://indiecator.org/2026/06/03/far-far-west-review/)** — Magi says Far Far West nails roguelike shooter progression, making upgrades feel meaningful, customizable, and fun instead of one more grindy timesink.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/06/04/phoenix-wright-ace-attorney-spirit-of-justice/)** — Ellie reaches the mainline Ace Attorney finish line with Spirit of Justice, a bittersweet finale that throws Phoenix Wright into mortal peril in Khura’in.
 ## General
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/02/the-smartest-thing-ive-read-in-a-long-time/)** — Warner enthusiastically recommends Om Malik’s Pinocchio essay as a sharp read on deception, politics, tech, and why the story still lands hard.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/01/mixtape-mondays-te-amo-amor/)** — Belghast assembles a love-song mixtape shaped by karaoke, old mixtape instincts, and deeply personal picks from The Cure to Bryan Adams.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/06/04/what-travel-used-to-mean-versus-what-it-means-now/)** — Joar contrasts decades of beige business travel with a newer, slower kind shaped by maps, history books, and finally choosing trips worth taking.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-06-01.html)** — Tofutush’s May brought finishing first year, surprise grades, a fun reverse-engineering course, travel plans for Xinjiang, and steady progress on reading and writing.
