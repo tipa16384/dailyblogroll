@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-06-04
+# Daily Blogroll: 2026-06-05
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/06/03.html#a171801)** — Dave Winer argues for a social web for nobodies and says Claude makes wrangling big codebases and software complexity feel newly manageable.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/ai-taking-all-our-jobs.html)** — Tobold doubts AI will replace most work soon, arguing physical labor, customer-facing jobs, and the real cost of bots make the panic feel overblown.
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/03/the-capsuleer-day-xxiii-warpath-event-wrap-up/)** — Wilhelm wraps EVE Online’s Warpath event as decent but grindy, with mining tasks a slog and competitive bits bringing out New Eden’s worst instincts.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/06/the-safe-spot-episode-9-featuring-oz.html)** — CrazyKinux returns with Rixx and first guest Oz for a loose chat on EVE Online markets, FanFest, trading tools, and how AI changed the toolkit.
-- **[Sweetie Games](https://sweetie.games/2026/06/03/dragon-quest-xii-has-finally-been-revealed-but-it-looks-different/)** — Sweetie is upbeat that Dragon Quest XII restarted as Beyond Dreams, ditching the darker Flames of Fate for something closer to classic DQ vibes.
-- **[Retro XP](https://retroxp.beehiiv.com/p/past-meets-present-gulkave)** — Marc revisits Compile’s Gulkave as a rough-looking but technically impressive 8-bit shooter, especially given the MSX, SG-1000, and Master System hardware.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/06/03/the-sims-4-favourite-dlc/)** — Krista runs through favorite Sims 4 add-ons, with City Living, Get Famous, and family-focused picks standing out from years of expansions and packs.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/03/into-the-woods-the-battle-of-shiloh-april-6-7-1862-unboxing-overview/)** — The Chronicler spotlights GMT’s Into the Woods, a GBACW Shiloh game with chit-pull activations, ten scenarios, and a strong fog-of-war feel.
-- **[Indiecator](https://indiecator.org/2026/06/03/far-far-west-review/)** — Magi says Far Far West nails roguelike shooter progression, making upgrades feel meaningful, customizable, and fun instead of one more grindy timesink.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/06/04/phoenix-wright-ace-attorney-spirit-of-justice/)** — Ellie reaches the mainline Ace Attorney finish line with Spirit of Justice, a bittersweet finale that throws Phoenix Wright into mortal peril in Khura’in.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/06/04/what-travel-used-to-mean-versus-what-it-means-now/)** — Joar contrasts decades of beige business travel with a newer, slower kind shaped by maps, history books, and finally choosing trips worth taking.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-06-01.html)** — Tofutush’s May brought finishing first year, surprise grades, a fun reverse-engineering course, travel plans for Xinjiang, and steady progress on reading and writing.
+- **[Scripting News](http://scripting.com/2026/06/04.html#a155608)** — Dave Winer marvels at the Knicks reaching the Finals, mixing disbelief, old Melo-era scars, and his usual Mets-fan fatalism.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/04/darkest-hour-enter-the-chaosbringer/)** — Emily dives into The Cybertronic Spree’s Darkest Hour EP, loving its heavy Transformers energy, especially the Megatron, Unicron, and Hot Rod/Arcee tracks.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/in-case-you-needed-one-more-reason-to-shake-an-angry-fist-at-bezos/)** — Jamie Zawinski fumes that a newly greenlit Stargate revival is dead again, and points the angry fist squarely at Bezos.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/04/ready-or-not-here-comes-stars-reach-early-access/)** — Wilhelm eyes Stars Reach early access with skepticism, arguing “soon” likely means soon soon and the current playtests are basically what buyers will get.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/06/why-i-like-midnight-professions.html)** — Shintar explains why WoW: Midnight professions click for her: meaningful, sometimes painful choices that feel more Classic than modern retail.
+- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/06/windrose-and-jumping-puzzle.html)** — The Friendly Necromancer turns Windrose into pirate Minecraft, building triangle houses, sky-high nerd poles, and a future house-party obstacle course.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-23-latin-american-games-showcase-2026)** — Sey spotlights standout Latin American Games Showcase picks, from Bibidi Bibidi and Colorbound to Ghostless and Magical Blush, with wishlist energy throughout.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/here-she-comes-now-feat-lacrimosa.html)** — Bhagpuss gleefully wins Lacrimosa from Neverness to Everness’s new 1.1 banner with leftover dice, and yes, gets totally got by it.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/06/03/highlights-from-the-thinky-direct-2026/)** — Frostilyte rounds up Thinky Direct 2026 highlights, shouting out clever puzzle hooks like Pikku Adventure’s language deciphering and Mimic Meadows’ shapeshifting critters.
+- **[Heartless Gamer](http://www.heartlessgamer.com/2026/06/guild-wars-3.html)** — Heartless talks himself into Guild Wars 3 hopium after fans spot a maybe-backwards 3 hidden in ArenaNet’s teaser art.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/04/too-many-greebles/)** — Belghast is vibing with a chill Path of Exile 2 minion build, but says mapping still suffers from cluttered layouts and too many annoying choke points.
+## Tech
+
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html)** — Bruce Schneier says the Meta AI support hack isn’t just one bug—it’s a sign LLM chatbots aren’t trustworthy for account recovery.
