@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-06-06
+# Daily Blogroll: 2026-06-07
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/05/forza-horizon-6-open-world-open-road/)** — Wilhelm says Forza Horizon 6 starts guided, then drowns you in map markers and gloriously silly spectacle races against planes and even a mech.
-- **[In An Age](https://inanage.com/2026/06/06/guild-wars-3-anti-hyped/)** — Azuriel’s Guild Wars 3 reaction is negative hype: the reveal makes Guild Wars 2’s long Legendary grind suddenly feel pointless.
-- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/06/06/the-whole-nine-yards-er-years/)** — Mailvaltar marks nine years of blogging, reflecting on changing tastes and why Neverness to Everness scratches that MMO-ish solo-gaming itch.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/06/wurm-online-happy-20th-anniversary/)** — Stargrace celebrates Wurm Online turning 20, a singular sandbox MMO that shaped her love of community and even launched her games career.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/06/kuro-no-ken-aka-blade-of-the-darkness-small-but-perfectly-formed/)** — Kimimi praises Kuro no Ken’s gorgeous PlayStation remake art and brisk, compact storytelling, where the Black Dragon’s damage feels immediate and personal.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/05/wars-of-constantine-the-great-battle-of-adrianople-324-ad-session-report/)** — The Chronicler shares a fan-made Commands & Colors Ancients EPIC Adrianople scenario, mixing big-table wargame fun with a solid Roman history lesson.
-- **[Indiecator](https://indiecator.org/2026/06/06/indie-pass-the-gamepass-for-indie-games-launches-on-pc/)** — Magi likes Indie Pass as a cheap, genre-spanning indie subscription on PC that could boost discovery while still steering players toward buying games later.
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/06/05.html#a175234)** — Dave Winer bounces from AI-powered blog search to Knicks Finals joy and why he’s using EMX over Bluesky, trolls and all.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/06/guild-wars-3-announced-with-a-beta-target-of-q4-2027/)** — Wilhelm digs into Guild Wars 3’s reveal: Orr, Vael spirit companion, parkour-y movement, and a long wait with beta penciled in for late 2027.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/06/effinger-replies)** — Andrew Plotkin revisits George Alec Effinger, The Zork Chronicles, and an old Usenet correction that neatly upends his assumptions about Infocom tie-ins.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/06/hellslave-ii-judgment-of-the-archon-demo-impressions/)** — Thomas likes HellSlave II’s solo blobber setup, flexible respecs, and loot-heavy combat, even if the early demo sounds pretty punishing.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/06/07/one-move-away/)** — Krista finds One Move Away a charming strategy puzzler where packing, overstacking, and three character stories turn moving house into a satisfying brain teaser.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/theres-something-in-water-its-getting.html)** — Bhagpuss greets the Guild Wars 3 announcement with more obligation than excitement, colored by a long, complicated history with Guild Wars 2.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/07/shadow-of-the-beast-more-than-just-pretty-parallax/)** — Kimimi argues Shadow of the Beast is more than parallax eye candy, selling its world through atmosphere, direction, and surprisingly RPG-like exploration.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-06-05-week-23-digest/)** — Anarchae’s weekly digest covers settling into a new routine, replaying Zelda: Tears of the Kingdom, and dipping back into FFXIV.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/05/the-kennedy-center-saga-continues/)** — Warner sees hope in a ruling against Trump branding the Kennedy Center, while warning the damage to the arts institution runs much deeper.
-## Writing
+- **[Scripting News](http://scripting.com/2026/06/06.html#a161350)** — Dave Winer is delightfully rattled by the Knicks going up 2-0 on the road, to the point reality itself seems briefly negotiable.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/5/local-theatres)** — Roger says local theatre has become more accessible, audience-friendly, and better value than London premium shows, with The Lion King as one standout.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/06/dance-of-the-parasite/)** — Emily logs a gloriously weird Resident Evil-flavored dream starring a parasite monster, Ashley Graham, Luis, pistols, knives, and inexplicably missed propane tanks.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/06/the-old-man/)** — Warner frames Trump’s visible decline through the familiar, painful reality of aging relatives, arguing denial only works until everyone admits the obvious.
+## Tech
 
-- **[Hamatti](https://hamatti.org/posts/junited-is-a-celebration-of-the-blogosphere/)** — Juhis joins Junited with daily link-sharing, pitching it as a friendly excuse to discover bloggers and celebrate the wider blogosphere.
-- **[brennan.day](https://brennan.day/a-ship-in-harbour-is-safe/)** — Brennan connects Taleb’s skin-in-the-game to art and the IndieWeb, arguing real craft means using what you build and risking something personal.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/ai-worm.html)** — Bruce Schneier flags a prototype AI worm that carries its own LLM onto hacked machines, calling it the closest thing yet to Brunner’s Shockwave Rider vision.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/433-mhz-remote-from-cron/)** — Jamie Zawinski wants the least-annoying way to fire a 433 MHz remote from the command line, with zero Alexa, Siri, or cloud nonsense.
