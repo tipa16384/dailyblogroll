@@ -1,20 +1,18 @@
-# Daily Blogroll: 2026-06-07
+# Daily Blogroll: 2026-06-08
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/06/guild-wars-3-announced-with-a-beta-target-of-q4-2027/)** — Wilhelm digs into Guild Wars 3’s reveal: Orr, Vael spirit companion, parkour-y movement, and a long wait with beta penciled in for late 2027.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/06/effinger-replies)** — Andrew Plotkin revisits George Alec Effinger, The Zork Chronicles, and an old Usenet correction that neatly upends his assumptions about Infocom tie-ins.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/06/hellslave-ii-judgment-of-the-archon-demo-impressions/)** — Thomas likes HellSlave II’s solo blobber setup, flexible respecs, and loot-heavy combat, even if the early demo sounds pretty punishing.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/06/07/one-move-away/)** — Krista finds One Move Away a charming strategy puzzler where packing, overstacking, and three character stories turn moving house into a satisfying brain teaser.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/theres-something-in-water-its-getting.html)** — Bhagpuss greets the Guild Wars 3 announcement with more obligation than excitement, colored by a long, complicated history with Guild Wars 2.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/07/shadow-of-the-beast-more-than-just-pretty-parallax/)** — Kimimi argues Shadow of the Beast is more than parallax eye candy, selling its world through atmosphere, direction, and surprisingly RPG-like exploration.
-## General
-
-- **[Scripting News](http://scripting.com/2026/06/06.html#a161350)** — Dave Winer is delightfully rattled by the Knicks going up 2-0 on the road, to the point reality itself seems briefly negotiable.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/5/local-theatres)** — Roger says local theatre has become more accessible, audience-friendly, and better value than London premium shows, with The Lion King as one standout.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/06/dance-of-the-parasite/)** — Emily logs a gloriously weird Resident Evil-flavored dream starring a parasite monster, Ashley Graham, Luis, pistols, knives, and inexplicably missed propane tanks.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/06/the-old-man/)** — Warner frames Trump’s visible decline through the familiar, painful reality of aging relatives, arguing denial only works until everyone admits the obvious.
 ## Tech
 
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/ai-worm.html)** — Bruce Schneier flags a prototype AI worm that carries its own LLM onto hacked machines, calling it the closest thing yet to Brunner’s Shockwave Rider vision.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/433-mhz-remote-from-cron/)** — Jamie Zawinski wants the least-annoying way to fire a 433 MHz remote from the command line, with zero Alexa, Siri, or cloud nonsense.
+- **[Scripting News](http://scripting.com/2026/06/07.html#a140756)** — Dave Winer argues AI coverage is stuck on hallucinations and says WordPress still has huge potential for open, non-lock-in web writing.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/07/tagn-fantasy-critic-league-2026-week-twenty-three-with-gothic-remake-and-summer-game-fest-updates/)** — Wilhelm tracks a messy Fantasy Critic week, with Gothic Remake landing mid, Mechanicus II slipping, and Summer Game Fest suddenly flooding the board with dates.
+- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/06/07/building-a-deterministic-space-auto-battler/)** — Cliffski gets into the weeds on making Ridiculous Space Battles fully deterministic, and why tiny simulation drift can wreck balance, scoring, and sanity.
+- **[nicole express](https://nicole.express/2026/the-truth-about-tmss.html)** — Nicole digs into the Sega Genesis TMSS mess, unpacking how the trademark-based lockout actually worked and why it's weirder than the usual story.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/06/galactic-season-10-review-gs-11-plans.html)** — Shintar says SWTOR Galactic Season 10 was a slog, with objective design and repeat bosses finally souring her long-running cross-server routine.
+- **[Oya's Game Hub](https://oyito.substack.com/p/sociology-graduate-plays-disco-elysium)** — Oya comes away floored by Disco Elysium, praising its politics, grief, humor, and storytelling as way more than a standard detective RPG.
+- **[Dragonchasers](https://dragonchasers.com/2026/06/07/eternal-strands-finished/)** — Nimgimli finally wraps Eternal Strands after 18 months, liking its world and core combat but finding the giant-climbing fights increasingly frustrating.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/after-game-ends.html)** — Tobold finishes Arydia, then wrestles with the very board-game problem of what to do with a huge legacy box he’ll probably never replay.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/06/speedlinking-new-eden-june-7th-2026.html)** — CrazyKinux rounds up a tense quiet week in EVE Online as Cradle of War looms, from expansion notes to lore beats and retention chatter.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/07/aggrochat-571-sad-cat-game/)** — Belghast and crew bounce through Life Below, Spirit Crossing, Summer Game Fest, Guild Wars 3, and a deep Path of Exile II build-crafting rabbit hole.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/07/wu-dragons-oh-my/)** — Stargrace celebrates Wurm Online's 20th with a purple dragon sighting, community events, and a post-party hunt for a new Deliverance deed spot.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/07/battle-commander-volume-i-game-overview/)** — The Chronicler spotlights Battle Commander: Volume I, a deluxe Napoleonic wargame built around cube-pull activation, command decisions, and playability.
