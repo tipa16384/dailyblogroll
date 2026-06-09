@@ -1,18 +1,20 @@
-# Daily Blogroll: 2026-06-08
+# Daily Blogroll: 2026-06-09
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/06/07.html#a140756)** — Dave Winer argues AI coverage is stuck on hallucinations and says WordPress still has huge potential for open, non-lock-in web writing.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/07/tagn-fantasy-critic-league-2026-week-twenty-three-with-gothic-remake-and-summer-game-fest-updates/)** — Wilhelm tracks a messy Fantasy Critic week, with Gothic Remake landing mid, Mechanicus II slipping, and Summer Game Fest suddenly flooding the board with dates.
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/06/07/building-a-deterministic-space-auto-battler/)** — Cliffski gets into the weeds on making Ridiculous Space Battles fully deterministic, and why tiny simulation drift can wreck balance, scoring, and sanity.
-- **[nicole express](https://nicole.express/2026/the-truth-about-tmss.html)** — Nicole digs into the Sega Genesis TMSS mess, unpacking how the trademark-based lockout actually worked and why it's weirder than the usual story.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/06/galactic-season-10-review-gs-11-plans.html)** — Shintar says SWTOR Galactic Season 10 was a slog, with objective design and repeat bosses finally souring her long-running cross-server routine.
-- **[Oya's Game Hub](https://oyito.substack.com/p/sociology-graduate-plays-disco-elysium)** — Oya comes away floored by Disco Elysium, praising its politics, grief, humor, and storytelling as way more than a standard detective RPG.
-- **[Dragonchasers](https://dragonchasers.com/2026/06/07/eternal-strands-finished/)** — Nimgimli finally wraps Eternal Strands after 18 months, liking its world and core combat but finding the giant-climbing fights increasingly frustrating.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/after-game-ends.html)** — Tobold finishes Arydia, then wrestles with the very board-game problem of what to do with a huge legacy box he’ll probably never replay.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/06/speedlinking-new-eden-june-7th-2026.html)** — CrazyKinux rounds up a tense quiet week in EVE Online as Cradle of War looms, from expansion notes to lore beats and retention chatter.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/07/aggrochat-571-sad-cat-game/)** — Belghast and crew bounce through Life Below, Spirit Crossing, Summer Game Fest, Guild Wars 3, and a deep Path of Exile II build-crafting rabbit hole.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/07/wu-dragons-oh-my/)** — Stargrace celebrates Wurm Online's 20th with a purple dragon sighting, community events, and a post-party hunt for a new Deliverance deed spot.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/07/battle-commander-volume-i-game-overview/)** — The Chronicler spotlights Battle Commander: Volume I, a deluxe Napoleonic wargame built around cube-pull activation, command decisions, and playability.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/08/valheim-1-0-set-to-launch-on-september-9-with-the-deep-north-update/)** — Wilhelm flags Valheim finally hitting 1.0 with Deep North on September 9, plus PS5, Switch 2, and promised full cross-play.
+- **[Chasing Dings!](https://chasingdings.com/2026/06/08/catchin-up-on-games-post-windrose/)** — Tipa shifts from survival-crafting marathons to cozy Switch 2 catch-up, especially Pokopia's weirdly utopian Ditto setup and some Tomodachi Life.
+- **[WCRobinson](https://wcrobinson.org/2026/06/09/resident-evil-requiem-review-a-stunning-combination-of-rejuvenated-horror/)** — WCRobinson digs into Resident Evil Requiem as Capcom's big blend of first-person horror, third-person action, and dual leads Grace Ashcroft and Leon.
+- **[The Digital Antiquarian](https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/)** — Jimmy traces Planescape: Torment from its newly unearthed pitch doc to the desktop, highlighting how rough origins fed a future CRPG classic.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/06/09/sledding-game-review/)** — Luna says Sledding Game is a silly, low-stakes multiplayer hangout where frog-butt sledding, fishing, racing, and friendly lobbies are the whole point.
+- **[Retro XP](https://retroxp.beehiiv.com/p/re-release-this-simcity-snes)** — Marc argues the SNES version of SimCity deserves a re-release, with Nintendo's role in Will Wright's path and the game's open-ended weirdness front and center.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/lets-all-go-get-ice-cream-every-day-new.html)** — Bhagpuss is baffled and intrigued by Neverness To Everness, a massive hit that feels less cyberpunk action and more urban life sim with anomalies.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/08/the-scent-that-cures-the-spark/)** — Emily shares a Transformers Prime dream where Optimus is lured off by a strange beacon and a bottle of perfume might snap him out of it.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/06/08.html#a141559)** — Dave Winer says Scripting News can't realistically move to HTTPS without breaking its archives, so he's pointing readers to an HTTPS WordPress mirror instead.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html)** — Bruce Schneier spotlights a fixed Zcash flaw that could have minted fake coins, then uses it to underline his broader distrust of blockchain fragility.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/08/apple-announces-new-oss-im-still-in-wait-and-see-mode/)** — Warner comes away from Apple's WWDC 26 cautiously unconvinced, watching OS27 design tweaks, parental controls, and the new Siri AI with a wait-and-see shrug.
+## Writing
+
+- **[Aywren's Nook](https://aywren.com/2026/06/08/ffxiv-introverted-eorzea-my-new-youtube-channel)** — Aywren launches an FFXIV YouTube channel aimed at shy, introverted, and socially anxious MMO players, building on her own hard-won comfort with grouping.
