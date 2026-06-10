@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-06-09
+# Daily Blogroll: 2026-06-10
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/08/valheim-1-0-set-to-launch-on-september-9-with-the-deep-north-update/)** — Wilhelm flags Valheim finally hitting 1.0 with Deep North on September 9, plus PS5, Switch 2, and promised full cross-play.
-- **[Chasing Dings!](https://chasingdings.com/2026/06/08/catchin-up-on-games-post-windrose/)** — Tipa shifts from survival-crafting marathons to cozy Switch 2 catch-up, especially Pokopia's weirdly utopian Ditto setup and some Tomodachi Life.
-- **[WCRobinson](https://wcrobinson.org/2026/06/09/resident-evil-requiem-review-a-stunning-combination-of-rejuvenated-horror/)** — WCRobinson digs into Resident Evil Requiem as Capcom's big blend of first-person horror, third-person action, and dual leads Grace Ashcroft and Leon.
-- **[The Digital Antiquarian](https://www.filfre.net/2026/06/planescape-torment-part-2-to-the-desktop/)** — Jimmy traces Planescape: Torment from its newly unearthed pitch doc to the desktop, highlighting how rough origins fed a future CRPG classic.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/06/09/sledding-game-review/)** — Luna says Sledding Game is a silly, low-stakes multiplayer hangout where frog-butt sledding, fishing, racing, and friendly lobbies are the whole point.
-- **[Retro XP](https://retroxp.beehiiv.com/p/re-release-this-simcity-snes)** — Marc argues the SNES version of SimCity deserves a re-release, with Nintendo's role in Will Wright's path and the game's open-ended weirdness front and center.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/lets-all-go-get-ice-cream-every-day-new.html)** — Bhagpuss is baffled and intrigued by Neverness To Everness, a massive hit that feels less cyberpunk action and more urban life sim with anomalies.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/08/the-scent-that-cures-the-spark/)** — Emily shares a Transformers Prime dream where Optimus is lured off by a strange beacon and a bottle of perfume might snap him out of it.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/08.html#a141559)** — Dave Winer says Scripting News can't realistically move to HTTPS without breaking its archives, so he's pointing readers to an HTTPS WordPress mirror instead.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html)** — Bruce Schneier spotlights a fixed Zcash flaw that could have minted fake coins, then uses it to underline his broader distrust of blockchain fragility.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/08/apple-announces-new-oss-im-still-in-wait-and-see-mode/)** — Warner comes away from Apple's WWDC 26 cautiously unconvinced, watching OS27 design tweaks, parental controls, and the new Siri AI with a wait-and-see shrug.
-## Writing
+- **[Scripting News](http://scripting.com/2026/06/09.html#a174040)** — Dave Winer gripes about Claude going full backseat coder, questions Meta glasses privacy, and sees the Knicks’ 2026 run as a turning point.
+- **[Axxuy](https://axxuy.com/blog/2026/i-want-to-talk-to-people-not-chatbots/)** — Axxuy’s take on LLMs is refreshingly personal: if conversation takes effort, they’d rather spend it talking to actual people.
+- **[Hamatti](https://hamatti.org/posts/a-sign-of-a-good-tool-is-that-you-dont-notice-it-one-year-with-wallabag/)** — Juhis says wallabag has quietly become the ideal Pocket replacement for saving articles, note-taking, and offline reading without demanding attention.
+## Gaming
 
-- **[Aywren's Nook](https://aywren.com/2026/06/08/ffxiv-introverted-eorzea-my-new-youtube-channel)** — Aywren launches an FFXIV YouTube channel aimed at shy, introverted, and socially anxious MMO players, building on her own hard-won comfort with grouping.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/09/the-cradle-of-war-expansion-lands-in-eve-online/)** — Wilhelm breaks down EVE Online’s Cradle of War, where CCP pairs a PvP-safe starter region with a bigger push into faction warfare.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/06/08/summer-game-fest-2026/)** — Krista rounds up Summer Game Fest 2026 favorites, with Rayman Legends Retold and Final Fantasy VII Revelation leading the hype.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/06/spring-surprise-games)** — Andrew Plotkin spotlights surprise indies The Archives of Trevosa, Hypogea, and The 7th Guest Remake with his usual sharp design-eye.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/09/pulsebreaker-demo-impressions/)** — Thomas came away impressed by Pulsebreaker, a Resident Evil-style survival horror demo with fixed cameras, retro vibes, and a smart focus-based combat twist.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/concordia-special-edition.html)** — Tobold uses his pricey Concordia Special Edition pledge to mull board-game bling, from wooden bits and metal coins to deluxe excess.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/08/wow-gold-making-wrap-up-week-23-2026/)** — Stargrace’s WoW gold-making week was modest, but she’s staying flexible and hoping a 48-hour auction rhythm helps restore consistency.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/everquest-legends-stars-reach-and.html)** — Bhagpuss surveys MMO news with EverQuest Legends, Stars Reach, and Valheim grabbing attention while Guild Wars 3 mostly lurks in the background.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/09/words-with-multiple-meanings/)** — Emily argues that calling games “accessible” can mean platform availability too, not just disability features, after Sony’s Wolverine-on-PS5 frustration.
+## General
+
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/08/accidental-starvation/)** — Belghast shares a rough cancer-treatment update, connecting severe fatigue and weight loss with the appetite-suppressing effects of tirzepatide.
