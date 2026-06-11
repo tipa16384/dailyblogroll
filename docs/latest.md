@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-06-10
+# Daily Blogroll: 2026-06-11
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/06/09.html#a174040)** — Dave Winer gripes about Claude going full backseat coder, questions Meta glasses privacy, and sees the Knicks’ 2026 run as a turning point.
-- **[Axxuy](https://axxuy.com/blog/2026/i-want-to-talk-to-people-not-chatbots/)** — Axxuy’s take on LLMs is refreshingly personal: if conversation takes effort, they’d rather spend it talking to actual people.
-- **[Hamatti](https://hamatti.org/posts/a-sign-of-a-good-tool-is-that-you-dont-notice-it-one-year-with-wallabag/)** — Juhis says wallabag has quietly become the ideal Pocket replacement for saving articles, note-taking, and offline reading without demanding attention.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/09/the-cradle-of-war-expansion-lands-in-eve-online/)** — Wilhelm breaks down EVE Online’s Cradle of War, where CCP pairs a PvP-safe starter region with a bigger push into faction warfare.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/06/08/summer-game-fest-2026/)** — Krista rounds up Summer Game Fest 2026 favorites, with Rayman Legends Retold and Final Fantasy VII Revelation leading the hype.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/06/spring-surprise-games)** — Andrew Plotkin spotlights surprise indies The Archives of Trevosa, Hypogea, and The 7th Guest Remake with his usual sharp design-eye.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/09/pulsebreaker-demo-impressions/)** — Thomas came away impressed by Pulsebreaker, a Resident Evil-style survival horror demo with fixed cameras, retro vibes, and a smart focus-based combat twist.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/concordia-special-edition.html)** — Tobold uses his pricey Concordia Special Edition pledge to mull board-game bling, from wooden bits and metal coins to deluxe excess.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/08/wow-gold-making-wrap-up-week-23-2026/)** — Stargrace’s WoW gold-making week was modest, but she’s staying flexible and hoping a 48-hour auction rhythm helps restore consistency.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/everquest-legends-stars-reach-and.html)** — Bhagpuss surveys MMO news with EverQuest Legends, Stars Reach, and Valheim grabbing attention while Guild Wars 3 mostly lurks in the background.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/09/words-with-multiple-meanings/)** — Emily argues that calling games “accessible” can mean platform availability too, not just disability features, after Sony’s Wolverine-on-PS5 frustration.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/10/a-brief-survey-of-mmorpg-subscription-prices/)** — Wilhelm surveys 2026 MMORPG sub prices after LOTRO’s increase and, yeah, free options are everywhere even if cash shops still run the show.
+- **[Sweetie Games](https://sweetie.games/2026/06/10/we-finally-had-a-first-glimpse-at-persona-6/)** — Sweetie is thrilled Persona 6 finally feels real, digging into the teaser, leaked character designs, and chatter about possible dual protagonists.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/06/10/another-major-update-is-inbound-for-the-king-is-watching/)** — Frostilyte previews The King Is Watching’s free Shifting Sands update, a desert map full of chaos, new enemies, and Hades-style modular difficulty.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/06/wow-classic-blizzcon-ponderings.html)** — Shintar speculates on BlizzCon’s WoW Classic future, weighing whether Blizzard will consolidate servers or keep piling on more versions.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/9/rv-there-yet-the-best-game-ive-never-played)** — Roger argues RV There Yet? might be more fun to watch than play, thanks to chaotic co-op physics, teamwork disasters, and great YouTube videos.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/08/taiko-no-tatsujin-ds-hitting-the-right-notes-not-too-hard-though/)** — Kimimi finds Taiko no Tatsujin DS a fascinating but awkward handheld remix, where touchscreen drumming works just well enough to be charming.
+- **[Dragonchasers](https://dragonchasers.com/2026/06/10/a-quick-dip-into-tunic/)** — Nimgimli admires Tunic’s polish, combat, and secrets, but the vague map, unreadable language, and opaque story make it a pass personally.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/10/wargameron-2026-an-invitation/)** — The Chronicler invites fellow wargamers to Wargameron 2026 in Poland, pitching four days of all-in-one gaming, meals, rooms, and monster tables.
 ## General
 
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/08/accidental-starvation/)** — Belghast shares a rough cancer-treatment update, connecting severe fatigue and weight loss with the appetite-suppressing effects of tirzepatide.
+- **[Scripting News](http://scripting.com/2026/06/11.html#a041214)** — Dave Winer is all in on the Knicks’ wild comeback over the Spurs, framing it as the kind of sports moment fans live for.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/06/05/Long-Links)** — Tim Bray serves up an AI-free Long Links with books, music, humor, political economy, and a welcome break from the usual AI deluge.
+## Tech
+
+- **[brennan.day](https://brennan.day/why-make-your-website-accessible-anyways/)** — Brennan makes the straightforward case that web accessibility isn’t checklist theater; it makes sites better for disabled users and basically everyone else.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html)** — Bruce Schneier flags Leonardo’s plan to add Bluetooth tracking to license plate readers, making an already invasive surveillance tool even creepier.
