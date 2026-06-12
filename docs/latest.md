@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-06-11
+# Daily Blogroll: 2026-06-12
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/10/a-brief-survey-of-mmorpg-subscription-prices/)** — Wilhelm surveys 2026 MMORPG sub prices after LOTRO’s increase and, yeah, free options are everywhere even if cash shops still run the show.
-- **[Sweetie Games](https://sweetie.games/2026/06/10/we-finally-had-a-first-glimpse-at-persona-6/)** — Sweetie is thrilled Persona 6 finally feels real, digging into the teaser, leaked character designs, and chatter about possible dual protagonists.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/06/10/another-major-update-is-inbound-for-the-king-is-watching/)** — Frostilyte previews The King Is Watching’s free Shifting Sands update, a desert map full of chaos, new enemies, and Hades-style modular difficulty.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/06/wow-classic-blizzcon-ponderings.html)** — Shintar speculates on BlizzCon’s WoW Classic future, weighing whether Blizzard will consolidate servers or keep piling on more versions.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/9/rv-there-yet-the-best-game-ive-never-played)** — Roger argues RV There Yet? might be more fun to watch than play, thanks to chaotic co-op physics, teamwork disasters, and great YouTube videos.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/08/taiko-no-tatsujin-ds-hitting-the-right-notes-not-too-hard-though/)** — Kimimi finds Taiko no Tatsujin DS a fascinating but awkward handheld remix, where touchscreen drumming works just well enough to be charming.
-- **[Dragonchasers](https://dragonchasers.com/2026/06/10/a-quick-dip-into-tunic/)** — Nimgimli admires Tunic’s polish, combat, and secrets, but the vague map, unreadable language, and opaque story make it a pass personally.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/10/wargameron-2026-an-invitation/)** — The Chronicler invites fellow wargamers to Wargameron 2026 in Poland, pitching four days of all-in-one gaming, meals, rooms, and monster tables.
-## General
-
-- **[Scripting News](http://scripting.com/2026/06/11.html#a041214)** — Dave Winer is all in on the Knicks’ wild comeback over the Spurs, framing it as the kind of sports moment fans live for.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/06/05/Long-Links)** — Tim Bray serves up an AI-free Long Links with books, music, humor, political economy, and a welcome break from the usual AI deluge.
 ## Tech
 
-- **[brennan.day](https://brennan.day/why-make-your-website-accessible-anyways/)** — Brennan makes the straightforward case that web accessibility isn’t checklist theater; it makes sites better for disabled users and basically everyone else.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html)** — Bruce Schneier flags Leonardo’s plan to add Bluetooth tracking to license plate readers, making an already invasive surveillance tool even creepier.
+- **[Scripting News](http://scripting.com/2026/06/11.html#a204214)** — Dave Winer mixes Knicks euphoria with a pitch for AI-assisted web software that gives writers more power online.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/11/ai-may-make-mistakes-but-court-finds-ai-makers-are-still-responsible/)** — Warner argues a German ruling against Google’s AI Overviews makes the obvious point: humans behind AI still own the fallout from hallucinated falsehoods.
+## Gaming
+
+- **[Chasing Dings!](https://chasingdings.com/2026/06/11/star-trek-outposts-unknown/)** — Tipa turns Star Trek Online’s new outpost setup into a hilarious briefing about tetryon storms, killer flora, and a definitely respectful alien calling you “Sucker.”
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/11/no-mans-sky-and-getting-started-with-expedition-22-the-swarm/)** — Wilhelm dives into No Man’s Sky’s Expedition 22, wary of forced co-op swarm battles but curious how The Swarm actually plays out.
+- **[Buried Treasure](https://buried-treasure.org/2026/06/emuurom/)** — John can barely explain Emuurom without underselling it, but his take on its scan-driven, combat-free puzzle metroidvania is a glowing recommendation.
+- **[Virtual Moose](https://virtualmoose.org/2026/06/11/a-lost-man-adventure-game-demo-explores-life-during-world-war-1/)** — Michael says A Lost Man’s short World War 1 adventure demo nails its near-the-front atmosphere, dry humor, and striking art in motion.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/06/11/sheepo/)** — Ellie finds Sheepo the least exciting of Kyle Thompson’s games, with more puzzle-platforming and fewer of the bullet-hell flourishes she loves.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-24-2026)** — Sey rounds up indie wishlist picks like Signet City, I’M YOUR HOST, and Wild n Chill, plus the usual crowdfunding and soundtrack chatter.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/10/spirit-crossing-is-great/)** — Belghast is having a great time with Spirit Crossing on Steam, praising the co-op vibes while side-eyeing its time-gated quests and daily-play structure.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/gnomes-pandas-and-flying-sharks-it-can.html)** — Bhagpuss does a breezy Daybreak summer-events check-in, spotlighting EverQuest II’s Tinkerfest and the usual delightfully odd seasonal chaos.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/06/10/nintendo-direct-june-2026/)** — Krista’s Nintendo Direct highlights home in on Pokémon Pokopia’s expansion pass and a long-rumored Zelda reveal that clearly hit hard.
+## General
+
+- **[Axxuy](https://axxuy.com/blog/2026/i-bought-a-new-notebook/)** — Axxuy’s post is exactly what it says on the tin: a very minimal note about buying a new notebook.
