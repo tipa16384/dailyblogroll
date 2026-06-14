@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-06-13
+# Daily Blogroll: 2026-06-14
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/12/friday-bullet-points-about-beginnings-and-endings-and-in-betweens/)** — Wilhelm runs through EverQuest Legends preorders, beta dates, and EverQuest II’s new Wuoshi TLE server with his usual skeptical MMO eye.
-- **[In An Age](https://inanage.com/2026/06/12/gaming-news-roundup-2/)** — Azuriel sizes up fresh trailers and release dates for Fable, Palworld 1.0, Valheim 1.0, and Abiotic Factor’s upcoming Entropic Break DLC.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/12/the-tragedy-at-deer-creek-frontier-trauma/)** — Thomas finds The Tragedy at Deer Creek beautifully made and emotionally effective, even if its late ghost-story turn undercuts the grounded mystery for him.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/06/11/next-fest-june-2026-green-mist-over-portland-demo-impressions/)** — Frostilyte digs Green Mist over Portland’s psychic detective setup and timeline-hopping mystery, though the note-taking tools sound a bit thin.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/12/the-charge-of-the-3-kings-navas-de-tolosa-1212-unboxing-overview/)** — The Chronicler unboxes The Charge of the 3 Kings and sketches its asymmetric Navas de Tolosa 1212 wargame systems and card-driven initiative.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/12/raven-staves-and-smashy-monkeys/)** — Belghast checks in from chemo recovery while pushing deeper into Path of Exile II maps and planning a minion build around The Raven’s Flock.
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/06/12.html#a152535)** — Dave Winer wants one OPML for podcast subscriptions and hacked around Mastodon’s messy gift-article RSS with a little app and Claude’s help.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html)** — Bruce Schneier’s weekly squid post spotlights a squid-inspired fluid pump and leaves the comments open for whatever security news he missed.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/06/08/Long-Links-AI)** — Tim Bray rounds up anti-hype AI reading, arguing GenAI is making people miserable and the OpenAI, Anthropic, and SpaceX frenzy feels deeply bubble-like.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/13/stardew-valley-on-our-tv/)** — Wilhelm tried Stardew Valley co-op with his daughter on Switch, but tiny text and a dim Switch Lite quickly made the farm life a squint-heavy chore.
+- **[Chasing Dings!](https://chasingdings.com/2026/06/13/dune-palworld-valheim-windrose-starpath-update-on-the-survival-crafters/)** — Tipa returns to Dune: Awakening after server-transfer gymnastics, with Funcom’s coming PvP changes making the survival-crafter comeback feel worth watching.
+- **[READ ONLY MEMO](https://readonlymemo.com/namco-system-246-pcsx2x6-emulation/)** — Wes tees up Namco 246 and 256 emulation via a PCSX2 fork, with side notes on MiSTer, Game Boy Advance hardware, and preservation.
+- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/06/using-ai-to-make-game-theres-no-money.html)** — The Friendly Necromancer is using ChatGPT to prototype a niche poetry-themed Unity mobile game, arguing AI finally clicks better here than it did with VR.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/06/legacy-reborns-potential-gameplay.html)** — Shintar digs into SWTOR Legacy Reborn’s ending and what broader Force sensitivity could mean for non-Force classes and future combat styles.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/13/separate-ways-the-one-in-red-with-amber/)** — Emily had a blast with Resident Evil 4’s Separate Ways, enjoying Ada Wong’s grappling-hook mobility, arsenal, and parallel spin on Leon’s story.
+- **[Dragonchasers](https://dragonchasers.com/2026/06/11/50-hours-of-neverness-to-everness/)** — Nimgimli went from lukewarm to hooked on Neverness to Everness, staying current on the story while happily puttering around its city and systems.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/12/omega-boost-peak-playstation/)** — Kimimi revels in Omega Boost’s late-’90s PlayStation excess, from lavish FMV swagger to flashy free-ish mech movement and satisfying auto-targeting.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-06-12-week-24-digest/)** — Anarchae’s weekly digest mixes TCAF manga-panel notes, Zelda: Tears of the Kingdom sessions, and mixed feelings on John Dickson Carr’s Hag's Nook and The Mad Hatter Mystery.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/speculativex.html)** — Tobold contrasts steady dividend-paying value stocks with SpaceX’s speculative IPO pop, arguing the pricing only works if fantastical growth arrives.
-## Writing
+- **[Scripting News](http://scripting.com/2026/06/14.html#a044707)** — Dave Winer is all in on the Knicks’ title run, shouting out their depth, heart, and late-game rope-a-dope against the Spurs.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/11/food-banks)** — Roger reflects on volunteering at a Trussell Trust food bank, pushing back on lazy myths and stressing how many working people still need help.
+## Tech
 
-- **[The Digital Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/)** — Jimmy points readers to The Analog Antiquarian for a new piece on Henry VI, Part 1.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/hot-2/)** — Jamie Zawinski dryly notes that putting heat-belching AI data centers in hot, water-starved places is obviously a terrible idea.
+- **[Hamatti](https://hamatti.org/posts/future-frontend-2026-recap/)** — Juhis recaps Future Frontend 2026 in Espoo, praising Dipoli, the design-and-development split, and the cozy conference vibe.
