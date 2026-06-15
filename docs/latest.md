@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-06-14
+# Daily Blogroll: 2026-06-15
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/13/stardew-valley-on-our-tv/)** — Wilhelm tried Stardew Valley co-op with his daughter on Switch, but tiny text and a dim Switch Lite quickly made the farm life a squint-heavy chore.
-- **[Chasing Dings!](https://chasingdings.com/2026/06/13/dune-palworld-valheim-windrose-starpath-update-on-the-survival-crafters/)** — Tipa returns to Dune: Awakening after server-transfer gymnastics, with Funcom’s coming PvP changes making the survival-crafter comeback feel worth watching.
-- **[READ ONLY MEMO](https://readonlymemo.com/namco-system-246-pcsx2x6-emulation/)** — Wes tees up Namco 246 and 256 emulation via a PCSX2 fork, with side notes on MiSTer, Game Boy Advance hardware, and preservation.
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/06/using-ai-to-make-game-theres-no-money.html)** — The Friendly Necromancer is using ChatGPT to prototype a niche poetry-themed Unity mobile game, arguing AI finally clicks better here than it did with VR.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/06/legacy-reborns-potential-gameplay.html)** — Shintar digs into SWTOR Legacy Reborn’s ending and what broader Force sensitivity could mean for non-Force classes and future combat styles.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/13/separate-ways-the-one-in-red-with-amber/)** — Emily had a blast with Resident Evil 4’s Separate Ways, enjoying Ada Wong’s grappling-hook mobility, arsenal, and parallel spin on Leon’s story.
-- **[Dragonchasers](https://dragonchasers.com/2026/06/11/50-hours-of-neverness-to-everness/)** — Nimgimli went from lukewarm to hooked on Neverness to Everness, staying current on the story while happily puttering around its city and systems.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/12/omega-boost-peak-playstation/)** — Kimimi revels in Omega Boost’s late-’90s PlayStation excess, from lavish FMV swagger to flashy free-ish mech movement and satisfying auto-targeting.
 ## General
 
-- **[Scripting News](http://scripting.com/2026/06/14.html#a044707)** — Dave Winer is all in on the Knicks’ title run, shouting out their depth, heart, and late-game rope-a-dope against the Spurs.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/11/food-banks)** — Roger reflects on volunteering at a Trussell Trust food bank, pushing back on lazy myths and stressing how many working people still need help.
+- **[Scripting News](http://scripting.com/2026/06/14.html#a205505)** — Dave Winer is all-in on the Knicks’ championship formula, with a quick nod that FeedLand’s Gift Articles feed looks great in his blogroll.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/14/sunday-morning-reading-159/)** — Warner rounds up essays on normality, AI consciousness, bad CEOs, slow news, scams, and why weird, inefficient creativity still matters.
+## Gaming
+
+- **[Chasing Dings!](https://chasingdings.com/2026/06/14/dcc-sailors-on-a-starless-sea-part-2/)** — Tipa recaps a bloody Dungeon Crawl Classics funnel, owning missed rulings and landing on the real lesson: clever, non-combat play beats dying heroically.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/14/tagn-fantasy-critic-league-2026-week-twenty-four-the-back-half-of-summer-game-fest-and-beastro/)** — Wilhelm’s Fantasy Critic week mostly means Gothic 1 Remake sliding, Beastro waiting on reviews, and Summer Game Fest release-date fallout.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/idle-thoughts-and-meaningless-musings.html)** — Bhagpuss skips the AI post and instead shares a loose, screenshot-filled wander through Neverness To Everness apartments, flatmates, drive-ins, and vibe-heavy curiosities.
+- **[Virtual Moose](https://virtualmoose.org/2026/06/14/things-every-video-game-should-have/)** — Michael delivers a delightfully unserious game-design wishlist—moose, FMV, taunting weirdos, recurring assets—and one serious hard no on AI.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/14/aggrochat-572-time-is-weird/)** — Belghast’s crew keeps it short but lively, bouncing through Forza Horizon 6, Voidling Bound, Fields of Mistria, Path of Exile II, and Pokémon Horizons.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/06/13/next-fest-june-2026-desktop-explorer-demo-impressions/)** — Frostilyte comes away impressed by Desktop Explorer, a clever Next Fest demo that turns file-manager fiddling into cryptic puzzles with great atmosphere.
 ## Tech
 
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/hot-2/)** — Jamie Zawinski dryly notes that putting heat-belching AI data centers in hot, water-starved places is obviously a terrible idea.
-- **[Hamatti](https://hamatti.org/posts/future-frontend-2026-recap/)** — Juhis recaps Future Frontend 2026 in Espoo, praising Dipoli, the design-and-development split, and the cozy conference vibe.
+- **[Nik Kantar](https://nkantar.com/blog/2026/06/pycon-us-2026-afterfeels/)** — Nik says returning to PyCon US after years away was emotional, and the real draw was finally seeing Python friends in person again.
+- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/06/14/another-solar-farm-visit/)** — Cliffski shares a sunny solar-farm check-in: sheep-trimmed grass, one odd-looking panel, clean arrays, and a deserved rant about pointless planning requirements.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html)** — Bruce Schneier flags a proposed FCC rule that would tie phone plans to IDs and addresses, raising big privacy and surveillance concerns.
+## Writing
+
+- **[brennan.day](https://brennan.day/a-new-indieweb-publication-or-i-want-to-start-something-and-be-bad-at-it/)** — Brennan, inspired by Good Internet Magazine, weighs starting an IndieWeb publication with open eyes about burnout, shipping costs, and doing it imperfectly.
