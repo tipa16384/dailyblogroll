@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-06-16
+# Daily Blogroll: 2026-06-17
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/15/windrose-wolves-iron-and-bigger-boats/)** — Wilhelm finds Windrose a familiar survival-crafter with a fun pirate vibe and a welcome early boat upgrade, even if he’s still hunting for the right angle.
-- **[Aywren's Nook](https://aywren.com/2026/06/15/steam-personal-challenge-im-done)** — Aywren calls time on her 12-year Steam backlog project, deciding free games, Windrose, and Paralives matter more than chasing library stats.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/06/16/save-point-scribbles-4/)** — Luna swaps in a quick comic while her Thrifty Business review waits, turning the idea of a save point into a light personal prompt.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/06/the-zones-of-midnight.html)** — Shintar digs into World of Warcraft: Midnight’s zones, especially loving the revamped Eversong Woods and Silvermoon despite some old navigation awkwardness.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/06/15/stick-a-round-demo/)** — Krista spotlights Stick A Round’s Next Fest demo, a nostalgic stick-battling romp with custom weapons, chaotic minigames, seasons, and cute animal avatars.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/15/bomberman-94-surprisingly-laid-back-for-a-game-full-of-explosives/)** — Kimimi loves Bomberman ’94 for its easygoing, cheerfully weird vibe, where bananas, penguins, and explosions somehow make classic Bomberman feel downright cozy.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/15/raven-rf-mostly-works/)** — Belghast’s Path of Exile II minion build gets sturdier with Raven’s Flock and a Lich swap, even if the real test still lies ahead.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/06/15/next-fest-june-2026-prophet-margin-demo-impressions/)** — Frostilyte is impressed by Prophet Margin, a trade-route puzzler where scarce resources, card-built cities, and tribute to the gods make optimization deliciously twisty.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/15.html#a132212)** — Dave Winer sketches an RSS-only messaging network and muses on AI verbosity, pushing a very web-native, replaceable vision of social software.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/judge-rules-blacked-com-can-sue-meta-for-scraping-its-porn/)** — Jamie Zawinski shares a wild ruling letting Strike 3 sue Meta over torrenting porn, with the judge plainly unconvinced by the rogue-employee excuse.
+- **[Scripting News](http://scripting.com/2026/06/16.html#a192557)** — Dave Winer connects Jason Calacanis’s open-source bounty idea, AI-as-alien riffing, and Knicks chemistry into a loose, very webby meditation on reach and teamwork.
+- **[Leaded Solder](https://www.leadedsolder.com/2026/06/16/apple-iigs-pickup-ram-expansion-ys.html)** — Mike revisits the Apple IIgs with fresh appreciation, framing Apple’s oddball 16-bit machine as both collectible curiosity and genuinely clever hardware.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/06/14/DFA-Costs)** — Tim Bray’s Quamina update gets delightfully nerdy, weighing NFA flexibility against DFA speed while regex support turns finite automata into a benchmark headache.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/16/no-mans-sky-expedition-22-the-swarm-why-would-i-run-these-missions/)** — Wilhelm digs into No Man’s Sky’s Swarm expedition, where time-gated community missions and faction competition make progress slower and more collective than usual.
+- **[Chasing Dings!](https://chasingdings.com/2026/06/16/frosthaven-8-crystal-trench/)** — Tipa’s Frosthaven party sprints through Crystal Trench, with the Trapper’s rear-guard traps doing standout work against wolves in a relatively smooth scenario.
+- **[Scopique](https://scopique.com/2026/06/17/tidbits-for-whenever-now-is/)** — Scopique returns with mixed feelings on Guild Wars 3, Summer Games Fest catch-up plans, and a reread before diving into Exodus: Helium Sea.
+- **[Indiecator](https://indiecator.org/2026/06/16/steam-next-fest-has-an-ai-problem-and-players-cant-filter-it-out/)** — Magi argues Steam Next Fest needs clear generative-AI badges and filters, because buried disclosures make it too hard to avoid AI-heavy demos.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/06/the-safe-spot-episode-10-black-rise.html)** — CrazyKinux celebrates ten episodes with an EVE Online chat about faction warfare, gate camps, corp culture, and Black Rise Regional News.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/17/wo-a-deliverance-deed/)** — Stargrace plants a new Wurm Online deed on Deliverance, using Quail Point as a priest retreat, treasure-map base, and excuse to build slowly.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/16/exodus-extended-gameplay-reveal-gameplay-trailer/)** — Thomas comes away newly hyped for EXODUS, saying the gameplay reveal finally makes its Mass Effect-style space opera look lively and fun.
 ## General
 
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/15/uk-to-ban-social-media-for-under-16-year-olds)** — Roger argues the UK’s under-16 social media ban is a blunt, politically easy answer to a messy problem, with gaming-platform spillover still murky.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/i-guess-thats-what-everything-is-now.html)** — Bhagpuss reacts to the UK under-16 social media ban with skepticism, wondering where blogs, YouTube, Twitch, Minecraft, and Roblox actually fit.
+- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/06/17/the-advice-i-would-give-my-30-year-old-self/)** — Joar reflects on aging, ambition, distance, and family, arguing the scoreboards we obsess over at 30 usually matter far less than we think.
+- **[Hamatti](https://hamatti.org/posts/chris-ramsey-taskmaster-and-no-way/)** — Juhis answers an IndieWeb Carnival prompt with a tiny ode to Chris Ramsey’s perfect 'No way!?' from that memorable Taskmaster shoe challenge.
