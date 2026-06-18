@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-06-17
+# Daily Blogroll: 2026-06-18
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/06/16.html#a192557)** — Dave Winer connects Jason Calacanis’s open-source bounty idea, AI-as-alien riffing, and Knicks chemistry into a loose, very webby meditation on reach and teamwork.
-- **[Leaded Solder](https://www.leadedsolder.com/2026/06/16/apple-iigs-pickup-ram-expansion-ys.html)** — Mike revisits the Apple IIgs with fresh appreciation, framing Apple’s oddball 16-bit machine as both collectible curiosity and genuinely clever hardware.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/06/14/DFA-Costs)** — Tim Bray’s Quamina update gets delightfully nerdy, weighing NFA flexibility against DFA speed while regex support turns finite automata into a benchmark headache.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/16/no-mans-sky-expedition-22-the-swarm-why-would-i-run-these-missions/)** — Wilhelm digs into No Man’s Sky’s Swarm expedition, where time-gated community missions and faction competition make progress slower and more collective than usual.
-- **[Chasing Dings!](https://chasingdings.com/2026/06/16/frosthaven-8-crystal-trench/)** — Tipa’s Frosthaven party sprints through Crystal Trench, with the Trapper’s rear-guard traps doing standout work against wolves in a relatively smooth scenario.
-- **[Scopique](https://scopique.com/2026/06/17/tidbits-for-whenever-now-is/)** — Scopique returns with mixed feelings on Guild Wars 3, Summer Games Fest catch-up plans, and a reread before diving into Exodus: Helium Sea.
-- **[Indiecator](https://indiecator.org/2026/06/16/steam-next-fest-has-an-ai-problem-and-players-cant-filter-it-out/)** — Magi argues Steam Next Fest needs clear generative-AI badges and filters, because buried disclosures make it too hard to avoid AI-heavy demos.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/06/the-safe-spot-episode-10-black-rise.html)** — CrazyKinux celebrates ten episodes with an EVE Online chat about faction warfare, gate camps, corp culture, and Black Rise Regional News.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/17/wo-a-deliverance-deed/)** — Stargrace plants a new Wurm Online deed on Deliverance, using Quail Point as a priest retreat, treasure-map base, and excuse to build slowly.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/16/exodus-extended-gameplay-reveal-gameplay-trailer/)** — Thomas comes away newly hyped for EXODUS, saying the gameplay reveal finally makes its Mass Effect-style space opera look lively and fun.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/17/the-may-2026-eve-online-monthly-economic-report-and-how-much-isk-is-too-much-isk/)** — Wilhelm digs into EVE Online’s May MER and argues that a rising ISK supply chart alone doesn’t prove there’s actually a problem.
+- **[Heartless Gamer](http://www.heartlessgamer.com/2026/06/guild-wars-3-has-me-optimistic-and.html)** — Heartless likes Guild Wars 3’s no-subscription, no-pay-to-win pitch, but wonders how ArenaNet will handle convenience, gold, and time-saving monetization.
+- **[Retro XP](https://retroxp.beehiiv.com/p/guest-feature-bio-force-ape)** — Retro XP hosts Madeline Blondeau on Bio Force Ape, tracing the canceled NES oddity from magazine previews to its weird 2005 prototype resurfacing.
+- **[Sweetie Games](https://sweetie.games/2026/06/17/as-an-autistic-person-i-love-adopting-fictional-characters/)** — Sweetie reflects on autistic headcanons in games, from Sonic’s Tails to Persona 5’s Yusuke, and why seeing herself in them feels validating.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/06/18/mika-and-the-witchs-mountain/)** — Ellie reviews Mika and the Witch’s Mountain as a cozy, Kiki’s Delivery Service-flavored parcel game that turns broom flight into a charming hook.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/17/dice-commandos-game-overview/)** — The Chronicler spotlights Dice Commandos, a compact solo tactical dice puzzler with 80s action-movie vibes and approachable wargame mechanics.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/16/easing-back-in/)** — Belghast eases back into Guild Wars 2 for world bosses and weeklies, enjoying its easy drop-in play while chemo still limits his stamina.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/06/17.html#a184757)** — Dave Winer jumps from Knicks joy to a sharp thought on Claude Code: future dev tools may need psychology-backed rules for working with people.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/17/more-thoughts-on-the-economics-of-ai-not-adding-up/)** — Warner argues AI still doesn’t pencil out, with token costs, pricier hardware, and on-device memory demands all pushing the bill higher.
+## Writing
+
+- **[Margot Plays](https://margotplays.substack.com/p/whats-been-happening)** — Margot says building her own site made writing awkward, but now it’s smoother and she’s back with posts on Steam Next Fest, Crimson Desert, and more.
+- **[brennan.day](https://brennan.day/blogging-saved-my-life/)** — Brennan says writing publicly every day changed everything, opening friendships, investigations, and a creative path away from genAI work.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/06/17/the-advice-i-would-give-my-30-year-old-self/)** — Joar reflects on aging, ambition, distance, and family, arguing the scoreboards we obsess over at 30 usually matter far less than we think.
-- **[Hamatti](https://hamatti.org/posts/chris-ramsey-taskmaster-and-no-way/)** — Juhis answers an IndieWeb Carnival prompt with a tiny ode to Chris Ramsey’s perfect 'No way!?' from that memorable Taskmaster shoe challenge.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/17/the-mirror-reliving-history-of-the-pooles/)** — Emily enjoys Nora Roberts’ The Mirror for its slow-burn romance, spooky manor drama, and Hester Dobbs haunting every step toward the big open house.
