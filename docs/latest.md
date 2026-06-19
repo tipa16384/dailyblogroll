@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-06-18
+# Daily Blogroll: 2026-06-19
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/17/the-may-2026-eve-online-monthly-economic-report-and-how-much-isk-is-too-much-isk/)** — Wilhelm digs into EVE Online’s May MER and argues that a rising ISK supply chart alone doesn’t prove there’s actually a problem.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2026/06/guild-wars-3-has-me-optimistic-and.html)** — Heartless likes Guild Wars 3’s no-subscription, no-pay-to-win pitch, but wonders how ArenaNet will handle convenience, gold, and time-saving monetization.
-- **[Retro XP](https://retroxp.beehiiv.com/p/guest-feature-bio-force-ape)** — Retro XP hosts Madeline Blondeau on Bio Force Ape, tracing the canceled NES oddity from magazine previews to its weird 2005 prototype resurfacing.
-- **[Sweetie Games](https://sweetie.games/2026/06/17/as-an-autistic-person-i-love-adopting-fictional-characters/)** — Sweetie reflects on autistic headcanons in games, from Sonic’s Tails to Persona 5’s Yusuke, and why seeing herself in them feels validating.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/06/18/mika-and-the-witchs-mountain/)** — Ellie reviews Mika and the Witch’s Mountain as a cozy, Kiki’s Delivery Service-flavored parcel game that turns broom flight into a charming hook.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/17/dice-commandos-game-overview/)** — The Chronicler spotlights Dice Commandos, a compact solo tactical dice puzzler with 80s action-movie vibes and approachable wargame mechanics.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/16/easing-back-in/)** — Belghast eases back into Guild Wars 2 for world bosses and weeklies, enjoying its easy drop-in play while chemo still limits his stamina.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/17.html#a184757)** — Dave Winer jumps from Knicks joy to a sharp thought on Claude Code: future dev tools may need psychology-backed rules for working with people.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/17/more-thoughts-on-the-economics-of-ai-not-adding-up/)** — Warner argues AI still doesn’t pencil out, with token costs, pricier hardware, and on-device memory demands all pushing the bill higher.
-## Writing
+- **[Scripting News](http://scripting.com/2026/06/18.html#a155038)** — Dave Winer says Claude caught nasty cross-app coding mistakes fast, while Google AI search makes old-web ideas harder to dig up.
+- **[Sid's Blog](https://0xsid.com/blog/double-entry-programming)** — Sid compares double-entry accounting and keypunch verification to tests and pair programming, arguing software quality still benefits from built-in redundancy.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html)** — Bruce Schneier argues Anthropic’s Fable crackdown misses the bigger issue: AI capability keeps rising, and model bans alone won’t solve that.
+## Gaming
 
-- **[Margot Plays](https://margotplays.substack.com/p/whats-been-happening)** — Margot says building her own site made writing awkward, but now it’s smoother and she’s back with posts on Steam Next Fest, Crimson Desert, and more.
-- **[brennan.day](https://brennan.day/blogging-saved-my-life/)** — Brennan says writing publicly every day changed everything, opening friendships, investigations, and a creative path away from genAI work.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/18/stardew-valley-co-op-mines-and-fishing/)** — Wilhelm’s Stardew Valley co-op with his daughter turned into a pleasant surprise once the mines, combat, and backpack upgrade entered the picture.
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/06/happy-17th-blogoversary-to-me.html)** — Joar marks 17 years of blogging with more World of Warcraft delves, renown, Loremaster progress, and the eternal hunt for better leg gear.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-25-2026-steam-next)** — Sey’s Steam Next Fest favorites include Well Dweller, Screenbound, D-topia, and Desktop Explorer, with inventive hooks and strong demo impressions throughout.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/three-down-three-to-go.html)** — Bhagpuss blitzes three Steam Next Fest demos, finding Over The Hill more punishing vehicle puzzler than the relaxing driving game hoped for.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/06/17/steam-next-fest-june-2026-indie-round-up/)** — Frostilyte rounds up promising Steam Next Fest demos, spotlighting Well Dweller while specifically steering clear of games that disclosed AI use.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/19/sonic-adventure-three-minutes-of-success/)** — Kimimi argues Sonic Adventure’s opening minutes on Emerald Coast sold the Dreamcast dream by making 3D Sonic instantly feel right.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/19/eve-goodbye-signal-cartel/)** — Stargrace steps away from EVE’s Signal Cartel, choosing a solo corp so wormhole exploration can fit around Guild Wars 2, WoW, and life.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/06/the-complete-guide-to-planetary.html)** — CrazyKinux turns a lowsec tutorial into a big EVE Online primer on Planetary Industry, from skills and setups to full factory chains.
 ## General
 
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/17/the-mirror-reliving-history-of-the-pooles/)** — Emily enjoys Nora Roberts’ The Mirror for its slow-burn romance, spooky manor drama, and Hester Dobbs haunting every step toward the big open house.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/priest-removed-as-exorcist-after-his-comments-on-ufos-and-demons/)** — Jamie Zawinski shares the wonderfully weird news of a D.C. exorcist getting removed after publicly tying UFO sightings to demons.
