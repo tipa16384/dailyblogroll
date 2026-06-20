@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-06-19
+# Daily Blogroll: 2026-06-20
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/18.html#a155038)** — Dave Winer says Claude caught nasty cross-app coding mistakes fast, while Google AI search makes old-web ideas harder to dig up.
-- **[Sid's Blog](https://0xsid.com/blog/double-entry-programming)** — Sid compares double-entry accounting and keypunch verification to tests and pair programming, arguing software quality still benefits from built-in redundancy.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html)** — Bruce Schneier argues Anthropic’s Fable crackdown misses the bigger issue: AI capability keeps rising, and model bans alone won’t solve that.
+- **[Scripting News](http://scripting.com/2026/06/19.html#a131253)** — Dave Winer argues WordPress should act like part of the web, not a silo, with interchangeable APIs that give writers real choice.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/18/stardew-valley-co-op-mines-and-fishing/)** — Wilhelm’s Stardew Valley co-op with his daughter turned into a pleasant surprise once the mines, combat, and backpack upgrade entered the picture.
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/06/happy-17th-blogoversary-to-me.html)** — Joar marks 17 years of blogging with more World of Warcraft delves, renown, Loremaster progress, and the eternal hunt for better leg gear.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-25-2026-steam-next)** — Sey’s Steam Next Fest favorites include Well Dweller, Screenbound, D-topia, and Desktop Explorer, with inventive hooks and strong demo impressions throughout.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/three-down-three-to-go.html)** — Bhagpuss blitzes three Steam Next Fest demos, finding Over The Hill more punishing vehicle puzzler than the relaxing driving game hoped for.
-- **[Frostilyte Writes](https://frostilyte.ca/2026/06/17/steam-next-fest-june-2026-indie-round-up/)** — Frostilyte rounds up promising Steam Next Fest demos, spotlighting Well Dweller while specifically steering clear of games that disclosed AI use.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/19/sonic-adventure-three-minutes-of-success/)** — Kimimi argues Sonic Adventure’s opening minutes on Emerald Coast sold the Dreamcast dream by making 3D Sonic instantly feel right.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/19/eve-goodbye-signal-cartel/)** — Stargrace steps away from EVE’s Signal Cartel, choosing a solo corp so wormhole exploration can fit around Guild Wars 2, WoW, and life.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/06/the-complete-guide-to-planetary.html)** — CrazyKinux turns a lowsec tutorial into a big EVE Online primer on Planetary Industry, from skills and setups to full factory chains.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/19/no-mans-sky-on-the-switch-2-cross-saves-and-becoming-a-sage-green-weaver-in-the-swarm-expedition/)** — Wilhelm finds No Man’s Sky runs well on Switch 2, then gets pleasantly surprised by Hello Games making cross-saves actually work.
+- **[In An Age](https://inanage.com/2026/06/19/stop-killing-games-stopped-possibly-killed/)** — Azuriel says Stop Killing Games hit an EU wall, but the fight over keeping purchased games playable is far from over.
+- **[The Digital Antiquarian](https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/)** — Jimmy revisits Heroes of Might and Magic II and III, weighing brightness, complexity, and why strategy games need the balance just right.
+- **[Dragonchasers](https://dragonchasers.com/2026/06/19/outbound-neverness-to-everness-and-nintendo-switch/)** — Nimgimli hits a content wall in Neverness to Everness, then unexpectedly falls hard for the bigger, easier-on-the-eyes Switch 2.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/06/my-raiding-history-part-5-wow-classic.html)** — Shintar recalls how WoW Classic turned from a lonely nostalgia trip into casual Zul'Gurub runs and a renewed social raiding life.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/19/dverghold-early-access-release-date-trailer/)** — Thomas says retro blobber Dverghold looks promising, though its July 22 Early Access launch brings the usual indie gamble.
 ## General
 
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/priest-removed-as-exorcist-after-his-comments-on-ufos-and-demons/)** — Jamie Zawinski shares the wonderfully weird news of a D.C. exorcist getting removed after publicly tying UFO sightings to demons.
+- **[Endgame Viable](https://endgameviable.com/post/2026/06/2026-06-20-june-pt1/)** — UltrViolet skips gaming, grumbles about Hugo breakage, and gets absorbed digitizing his grandfather’s World War I diaries and records.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-06-19.html)** — Tofutush goes to Toy Story 5 with her dad, then spirals into funny, thorny questions about sentient toys, ownership, and Disney logic.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-06-19-week-25-digest/)** — Anarchae’s week is sickness, soccer, Zelda, eye-exam aggravation, and a John Dickson Carr mystery keeping things weird.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/19/novelty-candidates-in-uk-elections)** — Roger explains why UK by-elections attract joke candidates, and how satire has basically become part of the democratic pageantry.
+## Writing
+
+- **[Hamatti](https://hamatti.org/posts/writing-about-it-approach-to-writers-block/)** — Juhis tackles writer’s block by going to the pub and writing around the idea until the real post finally loosens up.
