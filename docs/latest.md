@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-06-20
+# Daily Blogroll: 2026-06-21
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/06/19.html#a131253)** — Dave Winer argues WordPress should act like part of the web, not a silo, with interchangeable APIs that give writers real choice.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/19/no-mans-sky-on-the-switch-2-cross-saves-and-becoming-a-sage-green-weaver-in-the-swarm-expedition/)** — Wilhelm finds No Man’s Sky runs well on Switch 2, then gets pleasantly surprised by Hello Games making cross-saves actually work.
-- **[In An Age](https://inanage.com/2026/06/19/stop-killing-games-stopped-possibly-killed/)** — Azuriel says Stop Killing Games hit an EU wall, but the fight over keeping purchased games playable is far from over.
-- **[The Digital Antiquarian](https://www.filfre.net/2026/06/the-goldilocks-principle-in-fantasy-strategy/)** — Jimmy revisits Heroes of Might and Magic II and III, weighing brightness, complexity, and why strategy games need the balance just right.
-- **[Dragonchasers](https://dragonchasers.com/2026/06/19/outbound-neverness-to-everness-and-nintendo-switch/)** — Nimgimli hits a content wall in Neverness to Everness, then unexpectedly falls hard for the bigger, easier-on-the-eyes Switch 2.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/06/my-raiding-history-part-5-wow-classic.html)** — Shintar recalls how WoW Classic turned from a lonely nostalgia trip into casual Zul'Gurub runs and a renewed social raiding life.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/19/dverghold-early-access-release-date-trailer/)** — Thomas says retro blobber Dverghold looks promising, though its July 22 Early Access launch brings the usual indie gamble.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/20/the-gog-com-summer-sale-starts/)** — Wilhelm flags GoG’s summer sale as an early Steam-beater, with DRM-free classics, newer games, and a cheap shout for Wreckfest.
+- **[nicole express](https://nicole.express/2026/stay-on-target.html)** — Nicole digs into Konami’s 1996 Target Panic PCB, where a cheap ceramic resonator explains a lot about this barebones arcade test board.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/19/world-completion-still-chill/)** — Belghast settles back into Guild Wars 2 with Wizard’s Vault chores, Orr group runs, and the always-relaxing grind of world completion.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/18/cat-memories-find-the-hidden-stories-immortal-heartfelt-memories/)** — Emily finds Immortal Heartfelt Memories way more emotional than expected, as its hidden cat stories hit hard on pet grief and remembrance.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/21/silver-bayonet-the-first-team-in-vietnam-1965-game-overview/)** — The Chronicler gives Silver Bayonet a brisk overview, highlighting its Ia Drang setting, asymmetric design, and refreshed GMT anniversary edition.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/the-fifth-bell-tolls-but-not-for-me.html)** — Bhagpuss comes away cool on The Fifth Bell: pretty Strasbourg vibes, shaky narrative pull, and AI-made art and audio raising eyebrows.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/21/gw2-dragon-bash-annual-completed/)** — Stargrace finally wraps Guild Wars 2’s Dragon Bash annual, banking achievement points, candy cash, and the usual Fashion Wars rewards.
+- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/06/brawl-or-kite-how-veteran-pirate.html)** — CrazyKinux gets a practical EVE Online Hookbill lesson: pick brawler or kiter, stop overfitting, and actually use the hull’s Scourge bonus.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/06/20.html#a154348)** — Dave Winer ricochets from Claude’s stateless coding to old DaveNet layouts and why silos still trap developers off the open web.
+- **[brennan.day](https://brennan.day/how-webmentions-work-on-brennan-day/)** — Brennan walks through adding Webmentions to an Eleventy static site with webmention.io, making decentralized replies and likes actually practical.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html)** — Bruce Schneier’s comments thread veers into AI ‘cognitive debt,’ arguing fast code and vibe development pile up maintenance and security risks.
 ## General
 
-- **[Endgame Viable](https://endgameviable.com/post/2026/06/2026-06-20-june-pt1/)** — UltrViolet skips gaming, grumbles about Hugo breakage, and gets absorbed digitizing his grandfather’s World War I diaries and records.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-06-19.html)** — Tofutush goes to Toy Story 5 with her dad, then spirals into funny, thorny questions about sentient toys, ownership, and Disney logic.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-06-19-week-25-digest/)** — Anarchae’s week is sickness, soccer, Zelda, eye-exam aggravation, and a John Dickson Carr mystery keeping things weird.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/19/novelty-candidates-in-uk-elections)** — Roger explains why UK by-elections attract joke candidates, and how satire has basically become part of the democratic pageantry.
-## Writing
-
-- **[Hamatti](https://hamatti.org/posts/writing-about-it-approach-to-writers-block/)** — Juhis tackles writer’s block by going to the pub and writing around the idea until the real post finally loosens up.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/21/sunday-morning-reading-160/)** — Warner hits pause on Sunday Morning Reading this week, citing family loss, grandkid time, and celebrations around his wife’s theatre gig.
