@@ -1,20 +1,19 @@
-# Daily Blogroll: 2026-06-21
+# Daily Blogroll: 2026-06-22
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/20/the-gog-com-summer-sale-starts/)** — Wilhelm flags GoG’s summer sale as an early Steam-beater, with DRM-free classics, newer games, and a cheap shout for Wreckfest.
-- **[nicole express](https://nicole.express/2026/stay-on-target.html)** — Nicole digs into Konami’s 1996 Target Panic PCB, where a cheap ceramic resonator explains a lot about this barebones arcade test board.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/19/world-completion-still-chill/)** — Belghast settles back into Guild Wars 2 with Wizard’s Vault chores, Orr group runs, and the always-relaxing grind of world completion.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/18/cat-memories-find-the-hidden-stories-immortal-heartfelt-memories/)** — Emily finds Immortal Heartfelt Memories way more emotional than expected, as its hidden cat stories hit hard on pet grief and remembrance.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/21/silver-bayonet-the-first-team-in-vietnam-1965-game-overview/)** — The Chronicler gives Silver Bayonet a brisk overview, highlighting its Ia Drang setting, asymmetric design, and refreshed GMT anniversary edition.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/the-fifth-bell-tolls-but-not-for-me.html)** — Bhagpuss comes away cool on The Fifth Bell: pretty Strasbourg vibes, shaky narrative pull, and AI-made art and audio raising eyebrows.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/21/gw2-dragon-bash-annual-completed/)** — Stargrace finally wraps Guild Wars 2’s Dragon Bash annual, banking achievement points, candy cash, and the usual Fashion Wars rewards.
-- **[CrazyKinux's Musings](http://www.crazykinux.ca/2026/06/brawl-or-kite-how-veteran-pirate.html)** — CrazyKinux gets a practical EVE Online Hookbill lesson: pick brawler or kiter, stop overfitting, and actually use the hull’s Scourge bonus.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/21/tagn-fantasy-critic-league-2026-week-twenty-five/)** — Wilhelm checks Fantasy Critic League week 25, tracking score swings for Warhammer 40,000: Mechanicus II, The Adventures of Elliot, and Dave the Diver.
+- **[WCRobinson](https://wcrobinson.org/2026/06/21/post-300-my-top-ten-announcements-from-2026-gaming-summer/)** — WCRobinson celebrates post 300 with a hype list of favorite 2026 gaming summer reveals, plus quick thoughts on showcases and big headliner announcements.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/06/aeonic-nebular)** — Andrew Plotkin shares a playful fake TTRPG jam entry, a downloadable sci-fi character generator riff where surviving character creation is part of the joke.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/an-eternity-later.html)** — Tobold gives Pillars of Eternity another shot, helped by its new turn-based mode and a renewed craving for Infinity Engine-style CRPGs.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/22/sakura-taisen-gb-2-mission-thunderbolt-bottled-lightning/)** — Kimimi digs into Sakura Taisen GB 2’s wrecked-battleship RPG adventure, loving its LIPS choices, expressive pixel art, and eager-rookie charm.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/22/star-wars-games-are-best-when-they-let-the-weird-jobs-matter-guest-article/)** — Thomas argues Star Wars games shine brightest when you’re a bounty hunter, pilot, or grunt instead of another Jedi with galaxy-saving destiny.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/22/wow-gold-making-wrap-up-week-25-2026/)** — Stargrace’s WoW gold-making week was quiet, but 500k profit and a switch to 24-hour auctions still kept the transmog machine moving.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/20.html#a154348)** — Dave Winer ricochets from Claude’s stateless coding to old DaveNet layouts and why silos still trap developers off the open web.
-- **[brennan.day](https://brennan.day/how-webmentions-work-on-brennan-day/)** — Brennan walks through adding Webmentions to an Eleventy static site with webmention.io, making decentralized replies and likes actually practical.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html)** — Bruce Schneier’s comments thread veers into AI ‘cognitive debt,’ arguing fast code and vibe development pile up maintenance and security risks.
+- **[Scripting News](http://scripting.com/2026/06/21.html#a152143)** — Dave Winer riffs on AI as an all-purpose assistant for coding and publishing, then veers into a blunt, frustrated take on ex-presidents and Trump.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html)** — Bruce Schneier flags the privacy mess around athlete wearables, especially how biometric data could aid surveillance, contracts, and sports gambling.
 ## General
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/21/sunday-morning-reading-160/)** — Warner hits pause on Sunday Morning Reading this week, citing family loss, grandkid time, and celebrations around his wife’s theatre gig.
+- **[West Karana](https://westkarana.blog/2026/06/21/books-weve-read-books/)** — Tipa rounds up recent reads, praising Witch King, diving back into Dungeon Crawler Carl, and unpacking T. Kingfisher’s darker fairy-tale horror.
+- **[Hamatti](https://hamatti.org/posts/unexpected-weekend-with-pedro-pascal-as-a-father-figure/)** — Juhis links Fantastic Four, The Last of Us, and The Mandalorian through Pedro Pascal’s dad-energy, with spoiler-light reactions to all three.
