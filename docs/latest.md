@@ -1,19 +1,22 @@
-# Daily Blogroll: 2026-06-22
+# Daily Blogroll: 2026-06-23
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/21/tagn-fantasy-critic-league-2026-week-twenty-five/)** — Wilhelm checks Fantasy Critic League week 25, tracking score swings for Warhammer 40,000: Mechanicus II, The Adventures of Elliot, and Dave the Diver.
-- **[WCRobinson](https://wcrobinson.org/2026/06/21/post-300-my-top-ten-announcements-from-2026-gaming-summer/)** — WCRobinson celebrates post 300 with a hype list of favorite 2026 gaming summer reveals, plus quick thoughts on showcases and big headliner announcements.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/06/aeonic-nebular)** — Andrew Plotkin shares a playful fake TTRPG jam entry, a downloadable sci-fi character generator riff where surviving character creation is part of the joke.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/an-eternity-later.html)** — Tobold gives Pillars of Eternity another shot, helped by its new turn-based mode and a renewed craving for Infinity Engine-style CRPGs.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/22/sakura-taisen-gb-2-mission-thunderbolt-bottled-lightning/)** — Kimimi digs into Sakura Taisen GB 2’s wrecked-battleship RPG adventure, loving its LIPS choices, expressive pixel art, and eager-rookie charm.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/22/star-wars-games-are-best-when-they-let-the-weird-jobs-matter-guest-article/)** — Thomas argues Star Wars games shine brightest when you’re a bounty hunter, pilot, or grunt instead of another Jedi with galaxy-saving destiny.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/22/wow-gold-making-wrap-up-week-25-2026/)** — Stargrace’s WoW gold-making week was quiet, but 500k profit and a switch to 24-hour auctions still kept the transmog machine moving.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/21.html#a152143)** — Dave Winer riffs on AI as an all-purpose assistant for coding and publishing, then veers into a blunt, frustrated take on ex-presidents and Trump.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html)** — Bruce Schneier flags the privacy mess around athlete wearables, especially how biometric data could aid surveillance, contracts, and sports gambling.
+- **[Scripting News](http://scripting.com/2026/06/22.html#a142958)** — Dave Winer argues RSS already supports extensions, so reinventing it from scratch just wastes effort and hurts interoperability.
+- **[Coding Horror](https://blog.codinghorror.com/every-choice-changes-everything-the-show/)** — Jeff Atwood launches Off By One on TWiT with Leo Laporte, pitching a long, upbeat tech show about computing, the open web, and assorted chaos.
+## Gaming
+
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/22/microsoft-embraces-layoffs-and-enshittification-for-xbox-games/)** — Wilhelm sees Xbox’s thin margins, layoffs, and harder monetization pushes as Microsoft steering the gaming division toward enshittification.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/06/pvp-season-10-ponderings.html)** — Shintar says SWTOR PvP Season 10 still has charm, but stale queues, old maps, and years without new modes are wearing thin.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/06/23/thrifty-business-review/)** — Luna says Thrifty Business nails the cozy thrift-store vibe with approachable management, surprise inventory, and customer stories that add real heart.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/06/22/restory-demo/)** — Krista enjoys ReStory’s Steam Next Fest demo for its chill Tokyo repair-shop sim, satisfying device restoration, and story choices around customers.
+- **[In An Age](https://inanage.com/2026/06/23/steam-machine-is-1000/)** — Azuriel balks at Valve’s $1049 Steam Machine without a controller, arguing the price makes it niche rather than Steam Deck-level disruptive.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/wild-go-wild-go-wild-in-city.html)** — Bhagpuss finds Wild Tactics a polished XCOM-style tactics game with anthropomorphic animals, sharp dialogue, and an easy Steam wishlist add.
 ## General
 
-- **[West Karana](https://westkarana.blog/2026/06/21/books-weve-read-books/)** — Tipa rounds up recent reads, praising Witch King, diving back into Dungeon Crawler Carl, and unpacking T. Kingfisher’s darker fairy-tale horror.
-- **[Hamatti](https://hamatti.org/posts/unexpected-weekend-with-pedro-pascal-as-a-father-figure/)** — Juhis links Fantastic Four, The Last of Us, and The Mandalorian through Pedro Pascal’s dad-energy, with spoiler-light reactions to all three.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/22/mixtape-mondays-jangly-bits/)** — Belghast shares a melancholy 90s-leaning mixtape built around Toad the Wet Sprocket and Jars of Clay, as personal and jangly as advertised.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/22/angry-storm/)** — Emily recounts a Star Trek dream where Worf’s rejection spirals into a tornado, then reads the storm as a symbol for sudden emotional upheaval.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/22/today-i-climbed-trees/)** — Warner keeps it simple and sweet: a day with the grandkids, a few trees climbed, and good pictures to prove it.
+## Writing
+
+- **[brennan.day](https://brennan.day/compulsion-the-writers-who-wrote-the-most-in-history/)** — Brennan digs into prolific writers like G.K. Chesterton to understand what compulsive, high-volume writing looks like as a daily life.
