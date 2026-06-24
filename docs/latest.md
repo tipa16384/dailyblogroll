@@ -1,22 +1,21 @@
-# Daily Blogroll: 2026-06-23
+# Daily Blogroll: 2026-06-24
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/06/22.html#a142958)** — Dave Winer argues RSS already supports extensions, so reinventing it from scratch just wastes effort and hurts interoperability.
-- **[Coding Horror](https://blog.codinghorror.com/every-choice-changes-everything-the-show/)** — Jeff Atwood launches Off By One on TWiT with Leo Laporte, pitching a long, upbeat tech show about computing, the open web, and assorted chaos.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/22/microsoft-embraces-layoffs-and-enshittification-for-xbox-games/)** — Wilhelm sees Xbox’s thin margins, layoffs, and harder monetization pushes as Microsoft steering the gaming division toward enshittification.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/06/pvp-season-10-ponderings.html)** — Shintar says SWTOR PvP Season 10 still has charm, but stale queues, old maps, and years without new modes are wearing thin.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/06/23/thrifty-business-review/)** — Luna says Thrifty Business nails the cozy thrift-store vibe with approachable management, surprise inventory, and customer stories that add real heart.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/06/22/restory-demo/)** — Krista enjoys ReStory’s Steam Next Fest demo for its chill Tokyo repair-shop sim, satisfying device restoration, and story choices around customers.
-- **[In An Age](https://inanage.com/2026/06/23/steam-machine-is-1000/)** — Azuriel balks at Valve’s $1049 Steam Machine without a controller, arguing the price makes it niche rather than Steam Deck-level disruptive.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/wild-go-wild-go-wild-in-city.html)** — Bhagpuss finds Wild Tactics a polished XCOM-style tactics game with anthropomorphic animals, sharp dialogue, and an easy Steam wishlist add.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/23/its-a-clean-machine-this-steam-machine/)** — Wilhelm sizes up Valve’s Steam Machine as a big-screen Steam Deck-style Linux console-PC, with queue signup now and $1,049/$1,349 storage options.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/06/project-camelot-and-other-crazy.html)** — Shintar digs into Blizzard’s rumored Project Camelot and an older Warcraft franchise leak that suddenly looks a lot more plausible.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/06/23.html#a153630)** — Dave Winer argues Bluesky-style apps should let readers filter posts while writers publish once, instead of forcing everyone into 300-character boxes.
+- **[usebox.net](https://www.usebox.net/jjm/blog/don-t-overheat/)** — JJM shares a scrappy Linux fix: a bash-and-cron temperature alarm for a suspend bug that leaves PC fans idle and YouTube pushing CPU/GPU heat.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html)** — Bruce Schneier highlights spyware stuffing WMD-themed comment text into JavaScript to spook naive LLM malware analysis without affecting execution.
 ## General
 
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/22/mixtape-mondays-jangly-bits/)** — Belghast shares a melancholy 90s-leaning mixtape built around Toad the Wet Sprocket and Jars of Clay, as personal and jangly as advertised.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/22/angry-storm/)** — Emily recounts a Star Trek dream where Worf’s rejection spirals into a tornado, then reads the storm as a symbol for sudden emotional upheaval.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/22/today-i-climbed-trees/)** — Warner keeps it simple and sweet: a day with the grandkids, a few trees climbed, and good pictures to prove it.
+- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/06/24/6-24-2024-lets-bash/)** — Blockade85 recounts a brutal poison ivy flare-up, steroid treatment, and the unsettling possibility that post-Covid brain fog has been dragging him down for years.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/the-warrior-witches-of-ukraines-resistance/)** — Jamie Zawinski points to a gripping look at Ukraine’s resistance using honey traps, hidden manuals, and drone-strike intel under Russian occupation.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/23/the-uk-electorate)** — Roger delivers a bleak take on UK politics, where social-media misinformation, impatience, and zero-cost expectations leave democracy stuck in paralysis.
+- **[Hamatti](https://hamatti.org/posts/if-you-dont-know-what-to-do-pick-up-a-chair/)** — Juhis celebrates the unglamorous community magic of 'stacking chairs'—the practical, no-ego work that actually makes events like PyCon CZ happen.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/23/moments-captured-and-not-captured/)** — Warner shares a lovely family memory from Always Patsy Cline, where his grandson’s flower-in-hand sprint to Grandma T beat everyone’s cameras.
 ## Writing
 
-- **[brennan.day](https://brennan.day/compulsion-the-writers-who-wrote-the-most-in-history/)** — Brennan digs into prolific writers like G.K. Chesterton to understand what compulsive, high-volume writing looks like as a daily life.
+- **[brennan.day](https://brennan.day/you-must-you-must-you-must/)** — Brennan turns memento mori into a grammar-and-philosophy meditation, arguing 'you must die' frames mortality as duty, not just forecast.
