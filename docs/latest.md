@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-06-25
+# Daily Blogroll: 2026-06-26
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/24/forza-horizon-6-every-day-is-race-day/)** — Wilhelm digs into Forza Horizon 6’s race-heavy progression, admitting tight, wet night street races and twitchy supercars are absolutely not his thing.
-- **[False Machine](https://falsemachine.blogspot.com/2026/06/a-review-of-forgotten-realms-underdark.html)** — Patrick finds Forgotten Realms: Underdark uneven but increasingly rewarding, especially when its gloriously absurd 3.5 prestige classes get weirdly specific.
-- **[Scopique](https://scopique.com/2026/06/24/rising-tides/)** — Scopique is thrilled Elite Dangerous is getting ship interiors, and sees ED, No Man’s Sky, and Star Citizen converging on similar space-sim feature sets.
-- **[Sweetie Games](https://sweetie.games/2026/06/24/review-illusion-of-itehari-utakata-no-uchronia/)** — Sweetie praises Illusion of Itehari’s gorgeous art and surprisingly gripping political drama, where the otome romance sometimes takes a back seat.
-- **[Retro XP](https://retroxp.beehiiv.com/p/xp-arcade-football-champ)** — Marc traces Taito’s long soccer-game history, from 1967 electro-mechanical tables to Tomohiro Nishikado’s 1973 Soccer and beyond.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/06/steam-machine-oh-no)** — Andrew Plotkin still wants Valve’s new Steam Machine, but $1400 prices him out, so the Steam Deck-on-a-TV plan gets another chance.
-- **[Tales of the Aggronaut](https://aggronaut.com/2026/06/24/tequatl-and-phrecia/)** — Belghast is still deep in Guild Wars 2—Tequatl, housing chores, world completion—and also grinding Path of Exile II on the side.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/25/stardew-valley-the-luau-the-train-and-the-green-rain/)** — Wilhelm shares co-op Stardew Valley discoveries with his daughter, including a missed luau redo and other first-time 1.6-era surprises.
+- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/06/25/the-low-spenders-guide-to-gacha-games/)** — Mailvaltar breaks down low-spender gacha math, using Genshin Impact and Neverness to Everness to argue there’s a middle ground beyond whales or F2P.
+- **[Indiecator](https://indiecator.org/2026/06/25/dead-as-disco-early-access-review/)** — Magi digs Dead as Disco’s beat-'em-up-meets-rhythm premise and style, even if the Early Access execution doesn’t fully keep the groove.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-26-2026)** — Sey’s roundup spotlights Bugscraper, A Fighter’s Nova: Mindara, Deer & Boy’s soundtrack, a Sonic 2 anniversary cartridge, and this month’s TUNIC club.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/26/escalator-action-going-up/)** — Kimimi falls hard for Escalator Action, praising its Elevator Action riff, twin-stick mouse aiming, recoil, and varied guns.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/revoked.html)** — Bhagpuss bristles at Steam’s alarmingly punitive 'REVOKED!' wording for a key notice, and the subtext is really the whole rant.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/24.html#a151927)** — Dave Winer says coding with Claude demands skepticism: debugging needs proof, not confident AI word salad about bugs it may not understand.
-- **[Axxuy](https://axxuy.com/blog/2026/adding-stats-to-a-static-blog/)** — Axxuy adds blog stats with wc, awk, rg, and bash, a nice reminder that static sites make nerdy word counts delightfully easy.
+- **[Scripting News](http://scripting.com/2026/06/25.html#a221939)** — Dave Winer mourns Om Malik, riffs on Claude as an alien pair-programmer, and argues interop matters more than open source alone.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html)** — Bruce Schneier points to a million leaked passports as a nasty example of high-value IDs getting exposed by a low-value verification system.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/25/no-surprise-apple-raises-prices-due-to-memory-woes/)** — Warner ties Apple’s Mac and iPad price hikes to AI-driven memory shortages, and thinks this squeeze is only getting started.
 ## General
 
-- **[Donkeyspace](https://franklantz.substack.com/p/i-love-the-world-cup)** — Frank says GeoGuessr made the World Cup click by turning countries from abstractions into real places, deepening soccer’s cultural and political charge.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/25/happy-20th-blog-birthday/)** — Stargrace celebrates 20 years of blogging about games and life, reflecting on moves, studio work, family, and growing into herself.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/lacrimosa-moves-in-peace-and-quiet-move.html)** — Bhagpuss writes from the coolest room in the house during a brutal heatwave, after a storm dumped floodwater into the conservatory.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/26/toms-gaming-vault-goes-hollywood/)** — Thomas is adding film deep dives and older-movie reviews to the site, while keeping gaming as the main course.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/recent-movies-and-tv-34/)** — Jamie Zawinski runs through recent watches, especially loving The Bride! and Mother Mary, with side praise for The Peripheral on rewatch.
+## Writing
+
+- **[brennan.day](https://brennan.day/every-commit-a-sentence-git-commit-messages-for-bloggers/)** — Brennan argues conventional Git commit types flatten writing work, and makes the case for commit messages that fit bloggers better.
