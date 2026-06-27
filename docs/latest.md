@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-06-26
+# Daily Blogroll: 2026-06-27
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/25/stardew-valley-the-luau-the-train-and-the-green-rain/)** — Wilhelm shares co-op Stardew Valley discoveries with his daughter, including a missed luau redo and other first-time 1.6-era surprises.
-- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/06/25/the-low-spenders-guide-to-gacha-games/)** — Mailvaltar breaks down low-spender gacha math, using Genshin Impact and Neverness to Everness to argue there’s a middle ground beyond whales or F2P.
-- **[Indiecator](https://indiecator.org/2026/06/25/dead-as-disco-early-access-review/)** — Magi digs Dead as Disco’s beat-'em-up-meets-rhythm premise and style, even if the Early Access execution doesn’t fully keep the groove.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-26-2026)** — Sey’s roundup spotlights Bugscraper, A Fighter’s Nova: Mindara, Deer & Boy’s soundtrack, a Sonic 2 anniversary cartridge, and this month’s TUNIC club.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/26/escalator-action-going-up/)** — Kimimi falls hard for Escalator Action, praising its Elevator Action riff, twin-stick mouse aiming, recoil, and varied guns.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/revoked.html)** — Bhagpuss bristles at Steam’s alarmingly punitive 'REVOKED!' wording for a key notice, and the subtext is really the whole rant.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/26/steam-kicks-off-its-summer-sale-for-2026/)** — Wilhelm notes Steam’s 2026 Summer Sale still matters, even if the old rush is gone and deep discounts like Wreckfest make the wishlist worth a peek.
+- **[Virtual Moose](https://virtualmoose.org/2026/06/26/caper-in-the-castro-thoughts/)** — Michael recommends Caper in the Castro as a charming, campy HyperCard adventure and a moving queer gaming time capsule from 1989.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/06/26/islets/)** — Ellie says Islets delivers the floating-islands hook, metroidvania exploration, and bullet-hell combat, with stronger character writing than Sheepo.
+- **[Dragonchasers](https://dragonchasers.com/2026/06/26/im-still-a-solarpunk/)** — Nimgimli is still hooked on Solarpunk’s floating-island crafting loop, even if the airship progression and vanishing chicken jank are very videogame-y.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/26/battle-box-napoleonic-wars-game-overview/)** — The Chronicler spotlights Battle Box: Napoleonic Wars, a pocket-size black-powder wargame that still squeezes in terrain, tactics, and quick 30-minute sessions.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/25.html#a221939)** — Dave Winer mourns Om Malik, riffs on Claude as an alien pair-programmer, and argues interop matters more than open source alone.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html)** — Bruce Schneier points to a million leaked passports as a nasty example of high-value IDs getting exposed by a low-value verification system.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/25/no-surprise-apple-raises-prices-due-to-memory-woes/)** — Warner ties Apple’s Mac and iPad price hikes to AI-driven memory shortages, and thinks this squeeze is only getting started.
+- **[Scripting News](http://scripting.com/2026/06/26.html#a122544)** — Dave Winer wrestles with Claude forgetting to fetch needed context, calls out hallucinations, and keeps digging for better ways to steer it.
 ## General
 
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/26/toms-gaming-vault-goes-hollywood/)** — Thomas is adding film deep dives and older-movie reviews to the site, while keeping gaming as the main course.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/recent-movies-and-tv-34/)** — Jamie Zawinski runs through recent watches, especially loving The Bride! and Mother Mary, with side praise for The Peripheral on rewatch.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-06-26-week-26-digest/)** — Anarchae’s week is sick days, soccer, Zelda, Father Brown mysteries, and a heartfelt reminder why Pride still matters.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/climate-change-practically-speaking.html)** — Tobold gets practical about Belgium’s heat wave, weighing a costly split air conditioner as climate change pushes summer temperatures toward 40°C.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/the-question-everyones-asking-whats-new.html)** — Bhagpuss rounds up recent listening with enthusiasm, from Grease Baby and Perennial to label-diving detours and a side of PC hardware chaos.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html)** — Bruce Schneier’s comment thread veers hard from squid fleets into Venezuela quake aid, AUKUS, Taiwan, and broader geopolitical doomposting.
 ## Writing
 
-- **[brennan.day](https://brennan.day/every-commit-a-sentence-git-commit-messages-for-bloggers/)** — Brennan argues conventional Git commit types flatten writing work, and makes the case for commit messages that fit bloggers better.
+- **[The Digital Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/)** — Jimmy points readers to a new Analog Antiquarian entry on Henry VI, Part 2.
+- **[Scopique](https://scopique.com/2026/06/26/narrative-numbskull/)** — Scopique rethinks GM prep for a Secret World module, arguing the missing piece isn’t big plot or tiny details but flexible side-quest-sized 'medium pictures.'
