@@ -1,22 +1,19 @@
-# Daily Blogroll: 2026-06-27
+# Daily Blogroll: 2026-06-28
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/26/steam-kicks-off-its-summer-sale-for-2026/)** — Wilhelm notes Steam’s 2026 Summer Sale still matters, even if the old rush is gone and deep discounts like Wreckfest make the wishlist worth a peek.
-- **[Virtual Moose](https://virtualmoose.org/2026/06/26/caper-in-the-castro-thoughts/)** — Michael recommends Caper in the Castro as a charming, campy HyperCard adventure and a moving queer gaming time capsule from 1989.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/06/26/islets/)** — Ellie says Islets delivers the floating-islands hook, metroidvania exploration, and bullet-hell combat, with stronger character writing than Sheepo.
-- **[Dragonchasers](https://dragonchasers.com/2026/06/26/im-still-a-solarpunk/)** — Nimgimli is still hooked on Solarpunk’s floating-island crafting loop, even if the airship progression and vanishing chicken jank are very videogame-y.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/26/battle-box-napoleonic-wars-game-overview/)** — The Chronicler spotlights Battle Box: Napoleonic Wars, a pocket-size black-powder wargame that still squeezes in terrain, tactics, and quick 30-minute sessions.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/27/friday-bullet-points-on-saturday-about-video-game-business-money-and-consequences/)** — Wilhelm rounds up gaming business chatter, arguing GTA VI at $80 and rising Xbox hardware prices won’t magically fix the industry.
+- **[READ ONLY MEMO](https://readonlymemo.com/warp-point-announcement-gaming-webring/)** — Wes introduces Warp Point, a Web 1.0-style gaming blog directory and webring built around RSS, discovery, and indie games writing.
+- **[Aywren's Nook](https://aywren.com/2026/06/27/top-five-things-that-cause-anxiety-in-ffxiv)** — Aywren breaks down five common FFXIV social-anxiety triggers and rates their personal danger-bongo level with empathy and practical context.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/28/wo-the-priest-deed-continues/)** — Stargrace checks in on a slow-burn Wurm Online priest deed build, juggling slate bricks, utility, and some colorful PMK banner decorating.
+- **[Dragonchasers](https://dragonchasers.com/2026/06/27/neverness-to-everness-just-blew-my-mind/)** — Nimgimli gets delightfully blindsided by Neverness to Everness v1.2, from Shinku’s surprise boss cameo to an in-game tabletop system and fish tanks.
+- **[Scopique](https://scopique.com/2026/06/27/tools-in-the-toolbox-mithos/)** — Scopique spotlights Mithos, a modular TTRPG GM tool that skips full VTT ambitions in favor of a customizable digital GM screen.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/26.html#a122544)** — Dave Winer wrestles with Claude forgetting to fetch needed context, calls out hallucinations, and keeps digging for better ways to steer it.
+- **[Scripting News](http://scripting.com/2026/06/27.html#a172659)** — Dave Winer says Claude grasps code and old web systems like LBBS at a startling level, tying AI to decades of personal computing history.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-06-26-week-26-digest/)** — Anarchae’s week is sick days, soccer, Zelda, Father Brown mysteries, and a heartfelt reminder why Pride still matters.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/06/climate-change-practically-speaking.html)** — Tobold gets practical about Belgium’s heat wave, weighing a costly split air conditioner as climate change pushes summer temperatures toward 40°C.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/06/the-question-everyones-asking-whats-new.html)** — Bhagpuss rounds up recent listening with enthusiasm, from Grease Baby and Perennial to label-diving detours and a side of PC hardware chaos.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html)** — Bruce Schneier’s comment thread veers hard from squid fleets into Venezuela quake aid, AUKUS, Taiwan, and broader geopolitical doomposting.
-## Writing
-
-- **[The Digital Antiquarian](https://www.filfre.net/2026/06/this-week-on-the-analog-antiquarian/)** — Jimmy points readers to a new Analog Antiquarian entry on Henry VI, Part 2.
-- **[Scopique](https://scopique.com/2026/06/26/narrative-numbskull/)** — Scopique rethinks GM prep for a Secret World module, arguing the missing piece isn’t big plot or tiny details but flexible side-quest-sized 'medium pictures.'
+- **[Jamie Zawinski's Blog](https://www.dnalounge.com/backstage/log/2026/06/27.html)** — Jamie Zawinski shares a newly surfaced 1990 DNA Lounge drag-and-burlesque video and hopes more ancient VHS treasures keep emerging.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/28/sunday-morning-reading-161/)** — Warner’s Sunday link roundup threads together the open web, Google and AI, social-media control, and remembrances of Om Malik.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/27/the-lost-world-jurassic-park-who-is-the-real-bad-guy-film-deep-dive/)** — Thomas argues The Lost World misframes its villains, making John Hammond—not Peter Ludlow—the movie’s real bad guy.
+- **[brennan.day](https://brennan.day/farming-is-why-humanity-is-fucked/)** — Brennan turns an IndieWeb Carnival prompt into a big-picture revelation about farming that upended how he thinks about humanity.
