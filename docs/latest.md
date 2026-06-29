@@ -1,19 +1,21 @@
-# Daily Blogroll: 2026-06-28
+# Daily Blogroll: 2026-06-29
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/27/friday-bullet-points-on-saturday-about-video-game-business-money-and-consequences/)** — Wilhelm rounds up gaming business chatter, arguing GTA VI at $80 and rising Xbox hardware prices won’t magically fix the industry.
-- **[READ ONLY MEMO](https://readonlymemo.com/warp-point-announcement-gaming-webring/)** — Wes introduces Warp Point, a Web 1.0-style gaming blog directory and webring built around RSS, discovery, and indie games writing.
-- **[Aywren's Nook](https://aywren.com/2026/06/27/top-five-things-that-cause-anxiety-in-ffxiv)** — Aywren breaks down five common FFXIV social-anxiety triggers and rates their personal danger-bongo level with empathy and practical context.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/06/28/wo-the-priest-deed-continues/)** — Stargrace checks in on a slow-burn Wurm Online priest deed build, juggling slate bricks, utility, and some colorful PMK banner decorating.
-- **[Dragonchasers](https://dragonchasers.com/2026/06/27/neverness-to-everness-just-blew-my-mind/)** — Nimgimli gets delightfully blindsided by Neverness to Everness v1.2, from Shinku’s surprise boss cameo to an in-game tabletop system and fish tanks.
-- **[Scopique](https://scopique.com/2026/06/27/tools-in-the-toolbox-mithos/)** — Scopique spotlights Mithos, a modular TTRPG GM tool that skips full VTT ambitions in favor of a customizable digital GM screen.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/28/tagn-fantasy-critic-league-2026-week-twenty-six-with-eyes-on-deltarune-chapter-5/)** — Wilhelm hits Fantasy Critic’s halfway mark with Deltarune Chapter 5 limbo, Star Fox scoring 81.7, and a leaderboard shuffle.
+- **[Chasing Dings!](https://chasingdings.com/2026/06/28/pokopia-completed-the-pokedex/)** — Tipa celebrates finishing Pokopia’s Pokedex while roasting the Jirachi wish event and the fussy furniture demands of her Pokémon.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/06/midsummer-darkspear-dashing.html)** — Shintar dips into WoW’s Midsummer festival, enjoys the new lore-filled questline, and notices some welcome quality-of-life tweaks.
+- **[usebox.net](https://www.usebox.net/jjm/blog/cepeceros-podcast/)** — JJM plugs a Spanish Cepeceros episode about The Heart of Salamanderland and seems rightly chuffed to chat Amstrad CPC dev with Chema.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/06/29/star-fox-64-lets-rock-and-roll/)** — Kimimi celebrates Star Fox 64’s cinematic spectacle, polished rumble, chatty radio banter, and smart vehicle variety that still feels fresh.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/06/28/interview-with-wolfgang-klein-designer-of-assault-red-horizon-41-revised-edition-by-sound-of-drums/)** — The Chronicler talks with Wolfgang Klein about Assault: Red Horizon ’41, tactical WWII design, and keeping historical wargames fast and intuitive.
+- **[Virtual Moose](https://virtualmoose.org/2026/06/28/itch-io-summer-sale-2026-recommendations/)** — Michael rounds up Itch.io Summer Sale picks, spotlighting horror adventures, platformers, queer arcade games, and experimental indie collections.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/27.html#a172659)** — Dave Winer says Claude grasps code and old web systems like LBBS at a startling level, tying AI to decades of personal computing history.
+- **[Scripting News](http://scripting.com/2026/06/28.html#a154532)** — Dave Winer makes the case for email newsletters and RSS-powered social web interop, with a handy tip for corralling app globals.
 ## General
 
-- **[Jamie Zawinski's Blog](https://www.dnalounge.com/backstage/log/2026/06/27.html)** — Jamie Zawinski shares a newly surfaced 1990 DNA Lounge drag-and-burlesque video and hopes more ancient VHS treasures keep emerging.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/06/28/sunday-morning-reading-161/)** — Warner’s Sunday link roundup threads together the open web, Google and AI, social-media control, and remembrances of Om Malik.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/06/27/the-lost-world-jurassic-park-who-is-the-real-bad-guy-film-deep-dive/)** — Thomas argues The Lost World misframes its villains, making John Hammond—not Peter Ludlow—the movie’s real bad guy.
-- **[brennan.day](https://brennan.day/farming-is-why-humanity-is-fucked/)** — Brennan turns an IndieWeb Carnival prompt into a big-picture revelation about farming that upended how he thinks about humanity.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/28/long-live-empress-targaryen/)** — Emily gleefully nominates Daenerys Targaryen to challenge Darth Vader, mostly because dragons in space would absolutely rule.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/06/jwz-mixtape-259/)** — Jamie Zawinski drops another mixtape, which is basically your cue to hit play and see what weirdly good video picks he’s assembled.
+## Writing
+
+- **[brennan.day](https://brennan.day/vagueblogging-and-subtweeting-are-awful/)** — Brennan argues vagueblogging and subtweeting are toxic online habits, tying them to strategic ambiguity, paranoia, and worse mental health.
