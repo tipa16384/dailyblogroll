@@ -600,4 +600,9 @@ feeds:
     blogger: Mat
     pronouns: he/him
     bluesky: "@matwesthorpe.bsky.social"
-    
+  - name: Streets & Spores
+    url: https://streetsinturmoil.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: David
+    pronouns: he/him
