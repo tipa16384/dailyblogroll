@@ -1,22 +1,18 @@
-# Daily Blogroll: 2026-07-01
+# Daily Blogroll: 2026-07-02
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/06/30/june-2026-in-review/)** — Wilhelm mixes a June roundup with WordPress/Bing indexing worries and Google AI traffic angst, plus the usual MMO and EVE Online look-back.
-- **[Ready Pixel One](https://www.readypixelone.com/blog/playing-alone-together)** — Pixel One reflects on playing MMOs solo after two World of Warcraft RP guild collapses and the eternal endgame boss: scheduling.
-- **[Streets & Spores](https://streetsinturmoil.com/2026/06/30/slug-house-forced-entry-session-23/)** — David’s Slug House session sends the Battle Brothers sneaking into a wizard’s mansion, where weeds and bad decisions immediately complicate things.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/06/new-player-meets-old-player-meets.html)** — Shintar looks at how SWTOR still attracts newcomers, and how gently ushering one into operations is trickier than it sounds.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/07/visible-starcross)** — Andrew Plotkin releases Visible Starcross, complete with source, a recreated mass detector chart, and more lovingly overengineered Infocom archaeology.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/07/ditching-your-friends.html)** — Tobold argues Pillars of Eternity and Baldur’s Gate 3 make companion swapping feel less strategic than oddly like ditching friends.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/07/01/the-expanse-a-telltale-series-embrace-the-vacuum-review/)** — Thomas finds The Expanse: A Telltale Series strong on belter lore and Camina Drummer, even if the prequel’s pacing and villain setup wobble.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/01/stardew-valley-through-the-fair-spirits-eve-and-into-winter/)** — Wilhelm chronicles co-op Stardew Valley through the Fair and Spirit’s Eve, with grange-table disappointment, token grinding, and a steady march into winter.
+- **[Chasing Dings!](https://chasingdings.com/2026/07/01/frosthaven-scenario-15-ancient-spire/)** — Tipa’s Frosthaven crew tackles Ancient Spire, juggling retirement milestones, spawning machines, bolt throwers, and a delightfully dirty trick to avoid the balcony boss.
+- **[Bio Break](https://biobreak.wordpress.com/2026/07/01/syps-gaming-report-july-2026/)** — Syp’s monthly MMO check-in covers renewed LOTRO love, an ESO class swap, Guild Wars 2 detours, and life without a World of Warcraft sub.
+- **[Frostilyte Writes](https://frostilyte.ca/2026/07/01/month-in-review-a-whole-lotta-jolly-cooperation/)** — Frostilyte’s June was all about co-op games, Next Fest demos, and BOKURA’s clever asymmetric puzzle-solving with Mir.
+- **[WCRobinson](https://wcrobinson.org/2026/07/02/gaming-photo-album-hyrule-warriors-age-of-imprisonment/)** — WCRobinson shares a screenshot-heavy celebration of Hyrule Warriors: Age of Imprisonment, spotlighting its cinematic story, striking cutscenes, and gorgeous Switch 2 Hyrule.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/07/01/atelier-yumia/)** — Krista checks out Atelier Yumia on Switch 2, highlighting the open-world adventure plus sharper performance, faster loads, and local GameShare.
+- **[Tales of the Aggronaut](https://aggronaut.com/2026/07/01/mapping-in-poe2-kinda-sucks/)** — Belghast breaks down why Path of Exile 2 mapping feels worse than POE1, from collision-heavy clutter to oversized maps and less player choice.
+- **[Sweetie Games](https://sweetie.games/2026/07/01/lets-talk-about-deltarune-fan-theories-and-chapter-5/)** — Sweetie defends Deltarune Chapter 5 as character work over lore dumps, and digs into how fan theories can warp expectations.
+- **[Retro XP](https://retroxp.beehiiv.com/p/guest-feature-i-have-no-mouth-and-i-must-scream)** — Marc hosts Wallace Truesdale on I Have No Mouth, and I Must Scream, weighing how the 1995 adventure game adapts Harlan Ellison’s brutal short story.
+- **[Indiecator](https://indiecator.org/2026/07/01/ai-free-indie-game-demos/)** — Magi spotlights standout AI-free Steam Next Fest demos, celebrating handcrafted indie games that earned instant wishlists after the festival ended.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/06/30.html#a170748)** — Dave Winer marvels at Claude’s code-reading chops, pitches an AI-first WordPress UI, and tosses in a sharp jab at the EFF.
-## General
-
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/07/01/starting-over-at-56/)** — Joar writes candidly about moving from Ohio to Arizona and how starting over in your 50s means building a life without old scaffolding.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-07-01.html)** — Tofutush’s June was a blur, with friends, impatience for July to end, and finally finishing House of Leaves in baffled solidarity.
-## Writing
-
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/6/30/thoughts-on-blogging-part-25)** — Roger wonders if blogging still makes sense when AI summaries mine posts like his Star Trek Online writing and keep the audience for themselves.
-- **[Hamatti](https://hamatti.org/posts/goo-of-consciousness/)** — Juhis says the heat has turned looming writing deadlines into melted thoughts and pure goo of consciousness.
+- **[Scripting News](http://scripting.com/2026/07/01.html#a203134)** — Dave Winer riffs on politics, coding with Claude Code, and why AI-assisted software work now leaves a remarkably complete trail of decisions.
+- **[Sid's Blog](https://0xsid.com/blog/dont-let-ai-fill-all-the-blanks)** — Sid argues AI works best as a pair programmer: specify the taste, constraints, and tech choices yourself unless you want generic slop later.
