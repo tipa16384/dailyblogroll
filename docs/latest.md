@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-07-04
+# Daily Blogroll: 2026-07-05
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/07/03/120327.html?title=claudesFaceAsVisualizedByChatgpt)** — Dave Winer has fun with ChatGPT rendering talking-head versions of Claude and itself, with one typo turning into a surprisingly revealing text description.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html)** — Bruce Schneier flags how Flock cameras can track cars by decals and racks, then notes cell-phone location data enables the same kind of surveillance.
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/03/friday-bullet-points-about-co-op-survival-game-news-and-updates/)** — Wilhelm rounds up co-op survival news: Enshrouded gets an October 15 1.0 date, while Valheim answers lingering questions about its September launch.
-- **[The Digital Antiquarian](https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/)** — Jimmy kicks off a Maxis history by arguing game preservation can skew what mattered, especially when mass-market hits outshone enthusiast favorites.
-- **[In An Age](https://inanage.com/2026/07/02/axebox/)** — Azuriel digs into rumored Xbox studio cuts and argues Microsoft's mess isn't just layoffs, but years of mismanagement and rotten studio culture.
+- **[Scripting News](http://scripting.com/2026/07/04.html#a172350)** — Dave Winer ties July 4 memories to a warning that Twitter-like systems shrank the web, taking RSS and HTML’s richer features with them.
+- **[READ ONLY MEMO](https://readonlymemo.com/ps1-recompiled-progress-recompone-pixygarden-interview/)** — Wes digs into PS1 recompilation via RecompOne, spotlighting a human-coded approach and pointedly skipping the Claude-heavy alternative.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/07/ultra-powerful-labor-unions.html)** — Tobold argues AI vendors like OpenAI and Anthropic could become the ultimate labor monopoly, making token-dependent companies more vulnerable than old-school employers.
 ## General
 
-- **[Chasing Dings!](https://chasingdings.com/2026/07/03/a-blogging-hero-has-passed-away/)** — Tipa remembers Belghast with real grief and admiration, honoring the strength and compassion he showed through loss, cancer, and blogging.
-- **[Full Time Casual](https://blog.kevinbrill.com/2026/07/farewell-belghast.html)** — Kevin says goodbye to Belghast as a kind, welcoming MMO community fixture, recalling Guild Wars 2, shared circles, and his empathy in hard times.
-- **[The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2026/07/a-dose-of-real-life-chemo-xeriscape.html)** — Tom shares a packed life update: chemo, a stress-relieving xeriscape redo, an AI-built game prototype, his kid turning 17, and lots of D&D.
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-07-03-week-27-digest/)** — Anarchae mixes a rough personal update with links, plus a heartfelt note on Belghast's passing and what Blaugust now means to them.
-- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/06/30/hurricane-freak-can-taste-time-and-opus-music-of-june-2026/)** — Emily's June music roundup hits Luke Combs, Avril Lavigne, Sabrina Carpenter, and Michael Jackson, with side notes on concerts, videos, and nostalgia.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/07/redacted-walks-into-a-bar/)** — Jamie Zawinski drops a very dumb pig joke, and yeah, the punchline is exactly the kind of groaner you'd expect.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/07/04/yep-another-belghast-post/)** — Stargrace writes through shock and heat, sharing a personal memory of Mark and the mutual vulnerability behind seeming like you have it together.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/04/reflections-on-the-bicentennial/)** — Wilhelm looks back at America’s 1976 bicentennial as an inescapable wave of TV, stamps, logos, schools, and patriotic theme-park energy.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/07/05/sunday-morning-reading-162/)** — Warner rounds up pieces on language, the Constitution, patriotism, and founding myths for a very Fourth-of-July-coded Sunday reading list.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/07/04/my-top-10-zombie-films/)** — Thomas runs down his favorite zombie movies, favoring dread, survival, and realism over comedy, with Day of the Dead leading the horde.
+## Gaming
+
+- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/07/05/new-battle-video-from-ridiculous-space-battles/)** — Cliffski shares fresh Ridiculous Space Battles footage and makes the case that fixed formation lanes beat chaotic scrums for cleaner, more cinematic fleet battles.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/07/that-infernal-blue-dot.html)** — Shintar’s enjoying WoW lately, but Blizzard’s fake cash-shop blue dot notification is the kind of attention-grabbing UI nonsense she can’t stand.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/07/the-red-pearls-of-borneo)** — Andrew Plotkin finds The Red Pearls of Borneo’s deduction and search ideas intriguing, even if too much of the actual play feels like mechanical grid-clicking.
+- **[Streets & Spores](https://streetsinturmoil.com/2026/07/01/slug-house-curiosity-room-session-24/)** — David’s Slug House session sees secret doors, cursed ringbells, electric runes, and a goblin knight crashing through a ladder in the mansion’s curiosity room.
+## Writing
+
+- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/07/for-belghast.html)** — Joar remembers Belghast as a generous MMO blogging mainstay whose encouragement, Blaugust work, and game writing kept mattering through chemo and grief.
+- **[Aywren's Nook](https://aywren.com/2026/07/04/in-memory-of-belghast-the-one-true-aggronaut)** — Aywren honors Belghast’s long MMO blogging legacy, Blaugust community-building, and openness through grief and cancer as others carry his spaces forward.
