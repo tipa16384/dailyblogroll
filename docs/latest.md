@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-07-05
+# Daily Blogroll: 2026-07-06
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/07/04.html#a172350)** — Dave Winer ties July 4 memories to a warning that Twitter-like systems shrank the web, taking RSS and HTML’s richer features with them.
-- **[READ ONLY MEMO](https://readonlymemo.com/ps1-recompiled-progress-recompone-pixygarden-interview/)** — Wes digs into PS1 recompilation via RecompOne, spotlighting a human-coded approach and pointedly skipping the Claude-heavy alternative.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/07/ultra-powerful-labor-unions.html)** — Tobold argues AI vendors like OpenAI and Anthropic could become the ultimate labor monopoly, making token-dependent companies more vulnerable than old-school employers.
-## General
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/04/reflections-on-the-bicentennial/)** — Wilhelm looks back at America’s 1976 bicentennial as an inescapable wave of TV, stamps, logos, schools, and patriotic theme-park energy.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/07/05/sunday-morning-reading-162/)** — Warner rounds up pieces on language, the Constitution, patriotism, and founding myths for a very Fourth-of-July-coded Sunday reading list.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/07/04/my-top-10-zombie-films/)** — Thomas runs down his favorite zombie movies, favoring dread, survival, and realism over comedy, with Day of the Dead leading the horde.
 ## Gaming
 
-- **[Cliffski's Blog](https://www.positech.co.uk/cliffsblog/2026/07/05/new-battle-video-from-ridiculous-space-battles/)** — Cliffski shares fresh Ridiculous Space Battles footage and makes the case that fixed formation lanes beat chaotic scrums for cleaner, more cinematic fleet battles.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/07/that-infernal-blue-dot.html)** — Shintar’s enjoying WoW lately, but Blizzard’s fake cash-shop blue dot notification is the kind of attention-grabbing UI nonsense she can’t stand.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/07/the-red-pearls-of-borneo)** — Andrew Plotkin finds The Red Pearls of Borneo’s deduction and search ideas intriguing, even if too much of the actual play feels like mechanical grid-clicking.
-- **[Streets & Spores](https://streetsinturmoil.com/2026/07/01/slug-house-curiosity-room-session-24/)** — David’s Slug House session sees secret doors, cursed ringbells, electric runes, and a goblin knight crashing through a ladder in the mansion’s curiosity room.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/05/the-passing-of-belghast-and-reflections-on-this-online-existence/)** — Wilhelm reflects on Belghast’s death and the strange, fleeting bonds of decades spent blogging, gaming, and meeting people across forums, MMOs, and the wider internet.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/3/farewell-belghast)** — Roger remembers Belghast as a Blaugust fixture, praising his Path of Exile writing and the steady community presence now painfully missing.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/persona-non-grata-latest-eq2-producers.html)** — Bhagpuss finds EverQuest II’s latest producer letter thin, then zeroes in on Personas and why FFXIV-style all-jobs-on-one-character kills the joy of alts.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/07/06/dungeons-dragons-secret-of-the-silver-blades-somewhat-tarnished/)** — Kimimi likes Secret of the Silver Blades carrying over your AD&D heroes, but gripes when its own continuity forgets who those famous adventurers are.
+- **[Endgame Viable](https://endgameviable.com/post/2026/07/04/2026-07-04-belghast-passing/)** — UltrViolet offers a brief, heartfelt tribute to Belghast, calling him a constant force for good in MMORPG blogging.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/07/05.html#a192337)** — Dave Winer is all-in on Claude Code, arguing AI is permanently changing software development and maybe writing online too.
+- **[nicole express](https://nicole.express/2026/phase-altering-by-line.html)** — Nicole digs into why NES composite video wobbles, using Mighty Bomb Jack and Apple II captures to separate signal timing quirks from plain old interference.
+- **[brennan.day](https://brennan.day/publishing-my-eleventy-blog-to-the-atmosphere-with-standard-site/)** — Brennan walks through wiring an Eleventy blog into AT Protocol publishing with Standard.site and Sequoia, plus a clear primer on the ATmosphere.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html)** — Bruce Schneier notes France is fast-tracking post-quantum crypto by ending certification for products without quantum-safe encryption.
 ## Writing
 
-- **[MMO Casual](https://wowaltaddiction.blogspot.com/2026/07/for-belghast.html)** — Joar remembers Belghast as a generous MMO blogging mainstay whose encouragement, Blaugust work, and game writing kept mattering through chemo and grief.
-- **[Aywren's Nook](https://aywren.com/2026/07/04/in-memory-of-belghast-the-one-true-aggronaut)** — Aywren honors Belghast’s long MMO blogging legacy, Blaugust community-building, and openness through grief and cancer as others carry his spaces forward.
+- **[Words Under My Name](https://wordsundermyname.wordpress.com/2026/07/05/7-5-2026-bel/)** — Blockade85 mourns Belghast’s death, remembering his Path of Exile posts, Blaugust leadership, and the huge community he built around blogging and games.
+- **[Monsterlady's Diary](https://monsterladysdiary.wordpress.com/2026/07/04/a-hero-has-passed/)** — Emily honors Belghast’s role building Blaugust and a blogging community that welcomed people well beyond just MMORPG fandom.
+## General
+
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/07/06/i-dont-need-to-git-gud/)** — Luna pushes back on ‘git gud,’ embracing easy modes, imperfect art, and weekly writing without needing mastery of Metroidvanias, Procreate, or 3D platformers.
