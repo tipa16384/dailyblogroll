@@ -606,3 +606,10 @@ feeds:
     category: Gaming
     blogger: David
     pronouns: he/him
+  - name: Scarybooster
+    url: https://scarybooster.blogspot.com/feeds/posts/default
+    update_frequency: daily
+    category: Gaming
+    blogger: Scarybooster
+    pronouns: he/him
+    bluesky: "@scarybooster.bsky.social"
