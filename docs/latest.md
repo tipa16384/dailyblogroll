@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-07-08
+# Daily Blogroll: 2026-07-09
 
-## Tech
-
-- **[Scripting News](http://scripting.com/2026/07/07.html#a142747)** — Dave Winer argues Claude can handle sandboxed QA and debugging, while “AI-izing” apps could turn things like SQL databases into user-facing tools.
-- **[Leaded Solder](https://www.leadedsolder.com/2026/07/07/fujitsu-mb27331-crt-monitor-pickup-pc9801uv.html)** — Mike scores a bargain Fujitsu CRT, then discovers this odd 400-line monitor is pickier than expected about what retro hardware can drive it.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html)** — Bruce Schneier says AI is widening cybersecurity’s gap between skill and ability, making autonomous hacking easier and AI-powered defense more urgent.
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2026/07/07/everquest-legends-playing-to-lose/)** — Tipa takes EverQuest Legends’ preview as a chance to ditch her usual Dark Elf Shadow Knight plan and experiment with a gnome mage multiclass build.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/07/the-expected-bloodbath-at-xbox-games-begins-3200-staff-to-go/)** — Wilhelm says Xbox’s 3,200 layoffs were easy to see coming, and pins the blame higher up than Asha Sharma.
-- **[Scarybooster](https://scarybooster.blogspot.com/2026/07/warframe-tau-time.html)** — Scarybooster gleefully unpacks Warframe’s wildly convoluted lore and the hype around TennoCon 2026 and a possible trip to Tau.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/07/07/mothkeep/)** — Krista finds Mothkeep a short, wholesome mix of hidden-object play and creature collecting, with gentle summer vibes and real-world Central European moths.
-- **[Scopique](https://scopique.com/2026/07/07/hostility-of-the-video-games-space/)** — Scopique argues games like Diablo IV can feel oddly hostile, pushing players toward FOMO, control, and optimization instead of just playing comfortably.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/local-games-for-local-people.html)** — Bhagpuss realizes GeForce Now is a handy way to keep playing Neverness To Everness, no beefy local PC or account restart required.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/08/no-mans-sky-and-the-swarm-expedition-the-quick-end-to-the-hive-of-glass-and-cashing-out/)** — Wilhelm finally cashes out No Man’s Sky’s six-week Swarm expedition, relieved the Countermeasures gate is over and wondering if Hello Games learned anything.
+- **[Sweetie Games](https://sweetie.games/2026/07/08/here-are-some-otome-tropes-i-dont-want-to-see-anymore/)** — Sweetie is done with tired otome staples like love rivals, secretly evil cute characters, and heroines sidelined when the action starts.
+- **[Retro XP](https://retroxp.beehiiv.com/p/retro-spotlight-1942)** — Marc looks back at Capcom’s 1942 and its absurdly long arcade run, tracing how the shooter helped cement the company’s early reputation.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/07/08/strategy-training-materials-for-seljuk-by-gmt-games/)** — The Chronicler rounds up teach-and-strategy materials for Seljuk, highlighting its asymmetric Levy & Campaign play and Manzikert showdown.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/07/08/when-youre-not-sure-what-to-play/)** — Stargrace writes about bouncing between Wurm, WoW, EVE, GW2, and EQL, chasing the community spark that makes MMOs feel alive.
+- **[Tom's Gaming Vault](https://tomsgaming.com/2026/07/09/trespasser-jurassic-parks-biggest-failure-a-history-video/)** — Thomas recommends a deep Trespasser retrospective that digs into Jurassic Park’s famously flawed oddity, from gameplay and plot to fascinating development history.
+- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/07/07/my-pokopia-progress-100-plus-hours-later/)** — Luna checks in on 150 hours of Pokopia, praising its DQB2-style building, emotional ending, and the joy of finally sharing a Cloud Island.
+## Tech
+
+- **[Scripting News](http://scripting.com/2026/07/08.html#a143720)** — Dave Winer plugs his WordPress news feed hub and makes the usual open-web case: interop, OPML, and FeedLand still matter.
+- **[Smith Talks Tech](https://smithtalkstech.com/2026/07/08/youtube-for-geeks/)** — Pete shares four smart YouTube picks, from physics and chip fabs to AI news and Sandeep Swadia’s hard-to-pin-down thought-process videos.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/07/05/Choose-Mastodon)** — Tim Bray argues Mastodon beats enshittified social platforms because ActivityPub keeps it portable, ad-free, and impossible for any billionaire to own.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/07/07/the-rhythms-that-disappeared/)** — Joar reflects on how retirement didn’t just remove work stress, it also erased the calendar rhythms that quietly gave life its shape.
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-07-08.html)** — Tofutush answers a personal questionnaire with paracosms, Henry Stickmin, John le Carré, fusion power, cats, and some very practical anti-static advice.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/8/nigel-farage-the-clacton-by-election-and-count-binface)** — Roger says a Farage-versus-Count Binface Clacton race could expose populist theatrics while maybe making British democracy feel engaging again.
 ## Writing
 
-- **[Hamatti](https://hamatti.org/posts/junited-2026-was-wonderful/)** — Juhis celebrates Junited as proof blogging’s alive and well, and makes the case for human-curated links over algorithmic recommendations.
+- **[brennan.day](https://brennan.day/to-my-readers-what-do-you-want-to-see-more-of/)** — Brennan reflects on organizing his blog with collections, tags, favicons, and OpenGraph tricks, then asks readers what they actually want more of.
