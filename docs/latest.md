@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-07-09
+# Daily Blogroll: 2026-07-10
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/08/no-mans-sky-and-the-swarm-expedition-the-quick-end-to-the-hive-of-glass-and-cashing-out/)** — Wilhelm finally cashes out No Man’s Sky’s six-week Swarm expedition, relieved the Countermeasures gate is over and wondering if Hello Games learned anything.
-- **[Sweetie Games](https://sweetie.games/2026/07/08/here-are-some-otome-tropes-i-dont-want-to-see-anymore/)** — Sweetie is done with tired otome staples like love rivals, secretly evil cute characters, and heroines sidelined when the action starts.
-- **[Retro XP](https://retroxp.beehiiv.com/p/retro-spotlight-1942)** — Marc looks back at Capcom’s 1942 and its absurdly long arcade run, tracing how the shooter helped cement the company’s early reputation.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/07/08/strategy-training-materials-for-seljuk-by-gmt-games/)** — The Chronicler rounds up teach-and-strategy materials for Seljuk, highlighting its asymmetric Levy & Campaign play and Manzikert showdown.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/07/08/when-youre-not-sure-what-to-play/)** — Stargrace writes about bouncing between Wurm, WoW, EVE, GW2, and EQL, chasing the community spark that makes MMOs feel alive.
-- **[Tom's Gaming Vault](https://tomsgaming.com/2026/07/09/trespasser-jurassic-parks-biggest-failure-a-history-video/)** — Thomas recommends a deep Trespasser retrospective that digs into Jurassic Park’s famously flawed oddity, from gameplay and plot to fascinating development history.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/07/07/my-pokopia-progress-100-plus-hours-later/)** — Luna checks in on 150 hours of Pokopia, praising its DQB2-style building, emotional ending, and the joy of finally sharing a Cloud Island.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/09/wrapping-up-steam-summer-sale-2026/)** — Wilhelm sizes up the Steam Summer Sale 2026, arguing Steam looks refreshingly steady next to Xbox layoffs, Sony’s digital mess, and Epic’s Fortnite-first thinking.
+- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-28-2026)** — Sey rounds up wishlist picks like KAZ, Mysarium, and D-topia, plus soundtrack shout-outs for Virtue and a Sledgehammer and Phonopolis.
+- **[In An Age](https://inanage.com/2026/07/09/digital-resell-2026-edition/)** — Azuriel revisits digital game resale after Sony’s disc exit, asking why software licenses still can’t be resold like physical games.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/07/10/yain-sidae-pretty-and-pretty-basic-pc-street-fighting/)** — Kimimi says Yain Sidae nails the pixel-art beat ’em up look, but the shallow fighting leaves this Korean TV tie-in pretty basic.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/07/soap-opera.html)** — Tobold finds Like a Dragon: Infinite Wealth more cutscene-heavy soap opera than RPG so far, despite enjoying its breezy turn-based combat touches.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/owning-problem.html)** — Bhagpuss argues Sony’s move away from PlayStation discs sharpens the real issue: ownership, while downplaying archival panic around physical media’s decline.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/07/08.html#a143720)** — Dave Winer plugs his WordPress news feed hub and makes the usual open-web case: interop, OPML, and FeedLand still matter.
-- **[Smith Talks Tech](https://smithtalkstech.com/2026/07/08/youtube-for-geeks/)** — Pete shares four smart YouTube picks, from physics and chip fabs to AI news and Sandeep Swadia’s hard-to-pin-down thought-process videos.
-- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/07/05/Choose-Mastodon)** — Tim Bray argues Mastodon beats enshittified social platforms because ActivityPub keeps it portable, ad-free, and impossible for any billionaire to own.
-## General
-
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/8/nigel-farage-the-clacton-by-election-and-count-binface)** — Roger says a Farage-versus-Count Binface Clacton race could expose populist theatrics while maybe making British democracy feel engaging again.
+- **[Scripting News](http://scripting.com/2026/07/09/152001.html?title=canRssBeASocialNetwork)** — Dave Winer makes the old-school web case for RSS, OPML, Markdown, SQL, and WebSockets as a replaceable, interoperable social network stack.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/07/09/connecting-the-meta-privacy-dots/)** — Warner connects Meta’s Instagram AI grab, smart-glasses recording hacks, and ‘super sensing’ tests into one big, ugly privacy warning.
 ## Writing
 
-- **[brennan.day](https://brennan.day/to-my-readers-what-do-you-want-to-see-more-of/)** — Brennan reflects on organizing his blog with collections, tags, favicons, and OpenGraph tricks, then asks readers what they actually want more of.
+- **[Axxuy](https://axxuy.com/blog/2026/writing-too-slowly/)** — Axxuy reflects on how slow editing can erode confidence, making one-session drafting feel clearer, looser, and ultimately easier to publish.
+- **[Endgame Viable](https://endgameviable.com/post/2026/07/ai-in-blaugust-2026/)** — UltrViolet draws a line between AI writing and AI assistance, arguing Blaugust-friendly tools can handle titles, tags, and summaries without replacing the author.
+## General
+
+- **[Indiecator](https://indiecator.org/2026/07/09/goodbye-bel/)** — Magi writes through grief after Belghast’s death, reflecting on Blaugust, Aggrochat, and the quiet weight of losing a familiar online presence.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/07/we-turn-now-to-the-book-of-jones/)** — Jamie Zawinski links a McSweeney’s gag comparing Senator Jones to Indiana Jones’ face-melting Nazi, with the usual grim political eye-roll underneath.
