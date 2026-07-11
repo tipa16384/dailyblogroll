@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-07-10
+# Daily Blogroll: 2026-07-11
 
-## Gaming
-
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/09/wrapping-up-steam-summer-sale-2026/)** — Wilhelm sizes up the Steam Summer Sale 2026, arguing Steam looks refreshingly steady next to Xbox layoffs, Sony’s digital mess, and Epic’s Fortnite-first thinking.
-- **[Good Game Lobby](https://goodgamelobby.substack.com/p/friday-follow-up-28-2026)** — Sey rounds up wishlist picks like KAZ, Mysarium, and D-topia, plus soundtrack shout-outs for Virtue and a Sledgehammer and Phonopolis.
-- **[In An Age](https://inanage.com/2026/07/09/digital-resell-2026-edition/)** — Azuriel revisits digital game resale after Sony’s disc exit, asking why software licenses still can’t be resold like physical games.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/07/10/yain-sidae-pretty-and-pretty-basic-pc-street-fighting/)** — Kimimi says Yain Sidae nails the pixel-art beat ’em up look, but the shallow fighting leaves this Korean TV tie-in pretty basic.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/07/soap-opera.html)** — Tobold finds Like a Dragon: Infinite Wealth more cutscene-heavy soap opera than RPG so far, despite enjoying its breezy turn-based combat touches.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/owning-problem.html)** — Bhagpuss argues Sony’s move away from PlayStation discs sharpens the real issue: ownership, while downplaying archival panic around physical media’s decline.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/07/09/152001.html?title=canRssBeASocialNetwork)** — Dave Winer makes the old-school web case for RSS, OPML, Markdown, SQL, and WebSockets as a replaceable, interoperable social network stack.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/07/09/connecting-the-meta-privacy-dots/)** — Warner connects Meta’s Instagram AI grab, smart-glasses recording hacks, and ‘super sensing’ tests into one big, ugly privacy warning.
-## Writing
+- **[Scripting News](http://scripting.com/2026/07/10/161133.html?title=introducingRsschat)** — Dave Winer rolls out rss.chat, a read-only social experiment built on RSS, OPML, Markdown, SQL, WebSocket, and rssCloud, with textcasting in the mix.
+- **[Scopique](https://scopique.com/2026/07/10/we-are-backsliding/)** — Scopique gets nostalgic about Psion and Palm Pilot days while mulling the PocketMage as a charming, maybe-useful pushback against smartphone monoculture.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html)** — Bruce Schneier’s squid post doubles as a security note on Squidbleed, a 29-year-old Squid proxy bug that can leak HTTP requests.
+- **[Hamatti](https://hamatti.org/posts/improve-finders-quicklook-with-plugins/)** — Juhis shares a handy MacOS tip: Quick Look plugins can make Finder preview Markdown, MKV, WEBM, and more without opening apps.
+## Gaming
 
-- **[Axxuy](https://axxuy.com/blog/2026/writing-too-slowly/)** — Axxuy reflects on how slow editing can erode confidence, making one-session drafting feel clearer, looser, and ultimately easier to publish.
-- **[Endgame Viable](https://endgameviable.com/post/2026/07/ai-in-blaugust-2026/)** — UltrViolet draws a line between AI writing and AI assistance, arguing Blaugust-friendly tools can handle titles, tags, and summaries without replacing the author.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/10/stars-reach-and-becoming-a-real-game/)** — Wilhelm checks back on Stars Reach and likes that the sandbox is finally adding more structure, guidance, and an actual game-shaped intro.
+- **[Buried Treasure](https://buried-treasure.org/2026/07/conflicted-thoughts-on-omen-exitio-hunger/)** — John wrestles with Omen Exitio Hunger’s grim real-world inspiration while praising its Lovecraftian choice-driven horror, striking art, sound design, and early decisions.
+- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/07/why-is-fishing-so-weird-now.html)** — Shintar digs into how World of Warcraft: Midnight made fishing weirder, with mixed pools and rarity that doesn’t neatly match value.
+- **[Scarybooster](https://scarybooster.blogspot.com/2026/07/bad-day-baro-kiteer.html)** — Scarybooster has Baro Ki’Teer melting down over TennoCon inventory, Warframe cosmetics, and the chaos of hyperactive Tenno customers.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/07/10/eve-an-astrahus-for-one/)** — Stargrace enjoys a peaceful solo wormhole life in EVE Online, huffing, mining, exploring, and planning an eventual evac before the Astrahus dies.
 ## General
 
-- **[Indiecator](https://indiecator.org/2026/07/09/goodbye-bel/)** — Magi writes through grief after Belghast’s death, reflecting on Blaugust, Aggrochat, and the quiet weight of losing a familiar online presence.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/07/we-turn-now-to-the-book-of-jones/)** — Jamie Zawinski links a McSweeney’s gag comparing Senator Jones to Indiana Jones’ face-melting Nazi, with the usual grim political eye-roll underneath.
+- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-07-10-week-28-digest/)** — Anarchae rounds up a rough week of laptop reinstalls, backup gripes, sports, hard sci-fi reading, Zelda, and pre-family-visit stress.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/9/thoughts-on-finding-an-internet-home)** — Roger reflects on wanting one stable online home, and wonders if the Blaugust Discord could become that anchor once ownership gets sorted.
+## Writing
+
+- **[The Digital Antiquarian](https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/)** — Jimmy points readers to The Analog Antiquarian this week for Opus 4: Henry VI, Part 3.
