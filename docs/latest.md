@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-07-11
+# Daily Blogroll: 2026-07-12
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/07/10/161133.html?title=introducingRsschat)** — Dave Winer rolls out rss.chat, a read-only social experiment built on RSS, OPML, Markdown, SQL, WebSocket, and rssCloud, with textcasting in the mix.
-- **[Scopique](https://scopique.com/2026/07/10/we-are-backsliding/)** — Scopique gets nostalgic about Psion and Palm Pilot days while mulling the PocketMage as a charming, maybe-useful pushback against smartphone monoculture.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html)** — Bruce Schneier’s squid post doubles as a security note on Squidbleed, a 29-year-old Squid proxy bug that can leak HTTP requests.
-- **[Hamatti](https://hamatti.org/posts/improve-finders-quicklook-with-plugins/)** — Juhis shares a handy MacOS tip: Quick Look plugins can make Finder preview Markdown, MKV, WEBM, and more without opening apps.
+- **[Scripting News](http://scripting.com/2026/07/12/121948.html?title=whyYouCantCreateAnAccount)** — Dave Winer says rss.chat isn’t a ready-for-everyone product yet; it’s a slow-build social web ecosystem, with a waitlist coming as more instances open.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/07/nuclear-option/)** — Jamie Zawinski wants the plain-English AWS fix for blocking all Hong Kong traffic on a single server as scraper and bot attacks keep piling up.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/10/stars-reach-and-becoming-a-real-game/)** — Wilhelm checks back on Stars Reach and likes that the sandbox is finally adding more structure, guidance, and an actual game-shaped intro.
-- **[Buried Treasure](https://buried-treasure.org/2026/07/conflicted-thoughts-on-omen-exitio-hunger/)** — John wrestles with Omen Exitio Hunger’s grim real-world inspiration while praising its Lovecraftian choice-driven horror, striking art, sound design, and early decisions.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/07/why-is-fishing-so-weird-now.html)** — Shintar digs into how World of Warcraft: Midnight made fishing weirder, with mixed pools and rarity that doesn’t neatly match value.
-- **[Scarybooster](https://scarybooster.blogspot.com/2026/07/bad-day-baro-kiteer.html)** — Scarybooster has Baro Ki’Teer melting down over TennoCon inventory, Warframe cosmetics, and the chaos of hyperactive Tenno customers.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/07/10/eve-an-astrahus-for-one/)** — Stargrace enjoys a peaceful solo wormhole life in EVE Online, huffing, mining, exploring, and planning an eventual evac before the Astrahus dies.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/11/ten-years-of-pokemon-go/)** — Wilhelm looks back at Pokémon Go’s wild 2016 breakout, from battery-draining family play to PokéStop-fueled business promos and a decade of staying power.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/07/12/first-impressions-for-danger-forward-the-battle-of-gela-july-1943/)** — The Chronicler says Danger Forward makes Battalion Combat Series more approachable, offering a lighter on-ramp to grand tactical WWII wargaming at Gela.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/07/wrath-of-theorycrafter.html)** — Tobold returns to Pathfinder: Wrath of the Righteous for its agency, arguing you can dodge Pathfinder theorycrafting by just tuning the difficulty.
+- **[A Pixel Nomad](https://pixelnomad.ca/2026/07/12/wurm-green-dragon-slaying/)** — Stargrace joins a Wurm Online green dragon slaying, scores a welcome scale piece, then heads back to the long grind of bricks, mining, and skills.
 ## General
 
-- **[An Archaeopteryx](https://anarchaeopteryx.bearblog.dev/2026-07-10-week-28-digest/)** — Anarchae rounds up a rough week of laptop reinstalls, backup gripes, sports, hard sci-fi reading, Zelda, and pre-family-visit stress.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/9/thoughts-on-finding-an-internet-home)** — Roger reflects on wanting one stable online home, and wonders if the Blaugust Discord could become that anchor once ownership gets sorted.
+- **[brennan.day](https://brennan.day/why-does-conor-mcgregor-get-a-comeback/)** — Brennan questions Conor McGregor’s comeback narrative, stressing the upheld civil verdict, failed appeals, long UFC absence, and reporting around PED use.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/its-too-hot-for-clever-titles-just-play.html)** — Bhagpuss beats the heat with a quick listening post, bouncing from Micky Dolenz covering Paul Westerberg to a horsegiirl remix of Wet Leg.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/11/the-abominable-snowman-1957)** — Roger revisits Hammer’s The Abominable Snowman as less pure horror than a smart mix of psychological thriller, science fiction, and Yeti-chasing ambition.
 ## Writing
 
-- **[The Digital Antiquarian](https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/)** — Jimmy points readers to The Analog Antiquarian this week for Opus 4: Henry VI, Part 3.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/07/12/sunday-morning-reading-163/)** — Warner serves a reading roundup on attention spans, book hoarding, etymology, AI skepticism, politics, and why reading outside your bubble still matters.
