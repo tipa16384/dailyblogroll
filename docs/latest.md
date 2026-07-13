@@ -1,20 +1,19 @@
-# Daily Blogroll: 2026-07-12
+# Daily Blogroll: 2026-07-13
 
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/07/12/121948.html?title=whyYouCantCreateAnAccount)** — Dave Winer says rss.chat isn’t a ready-for-everyone product yet; it’s a slow-build social web ecosystem, with a waitlist coming as more instances open.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/07/nuclear-option/)** — Jamie Zawinski wants the plain-English AWS fix for blocking all Hong Kong traffic on a single server as scraper and bot attacks keep piling up.
+- **[Scripting News](http://scripting.com/2026/07/12.html#a132604)** — Dave Winer frames rss.chat as a slow-build social network for his “karass,” aiming less at product launch hype and more at bootstrapping a web ecosystem.
+- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html)** — Bruce Schneier argues that fights over AI data centers matter, but they can also distract from the bigger issue of AI companies concentrating wealth and power.
+- **[brennan.day](https://brennan.day/a-full-guide-to-properly-delete-corporate-social-media-accounts/)** — Brennan lays out why deleting Facebook, Instagram, X, Reddit, Discord, and friends is a drawn-out fight against dark patterns, not a one-click exit.
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/11/ten-years-of-pokemon-go/)** — Wilhelm looks back at Pokémon Go’s wild 2016 breakout, from battery-draining family play to PokéStop-fueled business promos and a decade of staying power.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/07/12/first-impressions-for-danger-forward-the-battle-of-gela-july-1943/)** — The Chronicler says Danger Forward makes Battalion Combat Series more approachable, offering a lighter on-ramp to grand tactical WWII wargaming at Gela.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/07/wrath-of-theorycrafter.html)** — Tobold returns to Pathfinder: Wrath of the Righteous for its agency, arguing you can dodge Pathfinder theorycrafting by just tuning the difficulty.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/07/12/wurm-green-dragon-slaying/)** — Stargrace joins a Wurm Online green dragon slaying, scores a welcome scale piece, then heads back to the long grind of bricks, mining, and skills.
-## General
-
-- **[brennan.day](https://brennan.day/why-does-conor-mcgregor-get-a-comeback/)** — Brennan questions Conor McGregor’s comeback narrative, stressing the upheld civil verdict, failed appeals, long UFC absence, and reporting around PED use.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/its-too-hot-for-clever-titles-just-play.html)** — Bhagpuss beats the heat with a quick listening post, bouncing from Micky Dolenz covering Paul Westerberg to a horsegiirl remix of Wet Leg.
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/11/the-abominable-snowman-1957)** — Roger revisits Hammer’s The Abominable Snowman as less pure horror than a smart mix of psychological thriller, science fiction, and Yeti-chasing ambition.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/12/tagn-fantasy-critic-league-2026-week-twenty-eight-the-allure-of-doom/)** — Wilhelm rounds up Fantasy Critic week 28, where Doom DLC stalled, Deltarune Chapter 5 buzzed, and EA Sports College Football 27 posted an early 78.3.
+- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/07/12/vampire-survivors/)** — Ellie pegs Vampire Survivors as an action game for spreadsheet brains, all compulsive number-go-up progression wrapped in hectic roguelite survival.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/07/the-power-of-indentation)** — Andrew Plotkin digs into Infocom-era ZIL formatting, arguing that decorative indentation still did a ton of work making dense Lisp-like game code readable.
+- **[Indiecator](https://indiecator.org/2026/07/12/demon-lord-just-a-block-review/)** — Magi says Demon Lord: Just a Block makes traditional roguelike combat feel surprisingly reactive, with parries, fast movement, and Crypt of the Necrodancer-style enemy patterns.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/07/13/xuan-yuan-sword-v-talk-it-out/)** — Kimimi highlights how Xuan Yuan Sword 5 lets its party grow through honest conversations and quiet support instead of big melodramatic RPG power-up scenes.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/chocolate-milk-or-dragons-of-warrens.html)** — Bhagpuss is kind of amazed that Neverness To Everness 1.2 hides a whole ARPG inside it, complete with dungeons, sidequests, and overworld events.
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/12/space-cadet-3d-pinball)** — Roger revisits Space Cadet 3D Pinball on Windows 11 and gets walloped by pure Windows 95 nostalgia in the process.
 ## Writing
 
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/07/12/sunday-morning-reading-163/)** — Warner serves a reading roundup on attention spans, book hoarding, etymology, AI skepticism, politics, and why reading outside your bubble still matters.
+- **[Hamatti](https://hamatti.org/posts/thoughts-on-making-zines-after-7-months/)** — Juhis reflects on seven months of making zines, connecting zine culture, indie web ideals, and the simple encouragement to just make one.
