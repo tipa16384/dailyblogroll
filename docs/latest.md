@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-07-15
+# Daily Blogroll: 2026-07-16
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/14/my-journey-through-the-pokemon-go-10-year-anniversary-event/)** — Wilhelm drops into Pokémon Go’s 10th anniversary weekend and gets a nice reminder that the game still pulls real crowds, even if event messaging is a mess.
-- **[Heartless Gamer](http://www.heartlessgamer.com/2026/07/crimson-desert-is-worst-best-game-ive.html)** — Heartless calls Crimson Desert a fascinating mess: gorgeous world, MMO-like vibe, awful controls, nonsense story, and somehow still weirdly compelling.
-- **[Mailvaltar](https://mailvaltar.wordpress.com/2026/07/14/nte-what-is-this-i-dont-even/)** — Mailvaltar is baffled that Neverness to Everness keeps drifting away from its great city sandbox into updates that barely connect to the core game.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/07/14/gacha-games/)** — Krista looks back on her path from Genshin Impact to Infinity Nikki while giving a clear, friendly overview of how gacha games work.
-- **[Luna's Gaming Log](https://lunasgaminglog.com/2026/07/14/i-am-excited-that-these-cozy-games-are-getting-a-1-0-release/)** — Luna highlights cozy indies finally hitting 1.0, with Go-Go Town!, Fields of Mistria, and Doloc Town all nearing full release.
-- **[Priest with a Cause](https://priestwithacause.blogspot.com/2026/07/the-war-within-recap.html)** — Shintar finds WoW’s War Within recap is really an abridged expansion storyline, but a pretty solid alt-leveling change of pace.
-- **[Scarybooster](https://scarybooster.blogspot.com/2026/07/easy-crocheting-for-tenno.html)** — Scarybooster jokes that crocheting is basically Warframe inventory management in yarn form, complete with currencies, materials, and grind-brain spreadsheets.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/07/gaming-status-july-2026.html)** — Tobold’s enjoying Pathfinder: Wrath of the Righteous at a tweaked core difficulty, with more satisfying freedom and flow than his recent RPG comparisons.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/15/stardew-valley-and-creating-a-new-save/)** — Wilhelm spun up a solo Stardew Valley save, rediscovered Steam Cloud, and found Switch 2 controller habits followed him to PC.
+- **[False Machine](https://falsemachine.blogspot.com/2026/07/a-review-of-4th-edition-underdark.html)** — Patrick sounds mostly crushed by 4th Edition Underdark, but still delights in Torog and the grotesque secret-hoarders of the Incunabulum.
+- **[Sweetie Games](https://sweetie.games/2026/07/15/we-could-be-returning-to-the-world-of-dqix/)** — Sweetie eagerly traces Dragon Quest XII trailer clues that might point back to Dragon Quest IX’s world, and maybe a long-overdue remake.
+- **[Retro XP](https://retroxp.beehiiv.com/p/re-release-this-hotel-dusk-room-215)** — Marc makes the case for Hotel Dusk: Room 215 as a stylish DS graphic adventure worth reviving, linearity complaints be damned.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/07/15/chandragupta-great-battles-of-the-mauryan-empire-unboxing-overview/)** — The Chronicler spotlights Chandragupta as GMT’s Great Battles heads to ancient India, with elephants, chariots, and varied scenarios keeping things lively.
+- **[Indiecator](https://indiecator.org/2026/07/15/denshattack-review/)** — Magi is all-in on Denshattack!, a pop-punk train trick game that channels Tony Hawk, Jet Set Radio, and pure arcade chaos.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/07/14.html#a153708)** — Dave Winer is demoing rss.chat as an RSS-based social writing surface, with ThreadWalker showing how reply trees can be crawled straight from feeds.
-- **[Scopique](https://scopique.com/2026/07/14/isolating-subjects-in-davinci-resolve-studio-21/)** — Scopique uses DaVinci Resolve Studio 21’s Magic Mask to cut Star Citizen emotes into reusable reaction clips without drowning videos in junk edits.
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/07/a-video-screen-that-is-also-a-camera.html)** — Bruce Schneier spots a new screen pixel that can also sense light, and immediately hears the creepy hum of Orwell’s telescreen getting closer.
+- **[Scripting News](http://scripting.com/2026/07/15.html#a120316)** — Dave Winer says rss.chat is still an early writing-first bootstrap, adds docs links, and notes his WordPress news site is picking up steam.
 ## General
 
-- **[Musing over Pints and Coffee](https://musingsoverpintsandcoffee.wordpress.com/2026/07/14/what-im-not-optimizing-for-anymore/)** — Joar reflects on retirement by letting go of career-maxing, status calculations, and the habit of optimizing every corner of life.
+- **[Ongoing](https://www.tbray.org/ongoing/When/202x/2026/07/10/Summer-Sports)** — Tim Bray wrestles with loving World Cup spectacle while hating FIFA corruption, NFT ticket nonsense, and prices that lock most fans out.
+- **[Jamie Zawinski's Blog](https://www.dnalounge.com/backstage/log/2026/07/15.html)** — Jamie Zawinski unearthed a 36-year-old VHS of D.O.A.’s 1990 DNA Lounge concert, complete with a YouTube upload for punk-history digging.
+- **[Life on the Wicked Stage](https://warnercrocker.com/2026/07/15/we-survived-the-window-install-adventure/)** — Warner reports survival after an all-day, 18-window installation marathon, with plenty of praise for Daniel’s crew and their sweaty professionalism.
+## Writing
+
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/14/blaugust-2026-q-ampa)** — Roger pitches Blaugust 2026 as a low-pressure August community for bloggers, podcasters, and creators who want prompts, support, and momentum.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/blaugust-is-back-baby-or-it-will-be-in.html)** — Bhagpuss rallies folks for Blaugust signups, celebrating the blogging festival while honoring Belghast’s memory and the community carrying it forward.
