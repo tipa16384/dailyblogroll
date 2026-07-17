@@ -613,3 +613,21 @@ feeds:
     blogger: Scarybooster
     pronouns: he/him
     bluesky: "@scarybooster.bsky.social"
+  - name: Jeff Geerling
+    url: https://www.jeffgeerling.com/blog.xml
+    update_frequency: daily
+    category: Tech
+    blogger: Jeff
+    pronouns: he/him
+  - name: Why I Game
+    url: https://whyigame.wordpress.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Jeromai
+    pronouns: they/them
+  - name: Sight-In Games
+    url: https://sightingames.wordpress.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Zack
+    pronouns: he/him
