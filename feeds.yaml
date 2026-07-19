@@ -145,7 +145,7 @@ feeds:
     category: Tech
     blogger: Dave Winer
     pronouns: he/him
-    required: True
+    required: False
     mastodon: "@davew@mastodon.social"
     bluesky: "@scripting.com"
   - name: Steve's Blog
