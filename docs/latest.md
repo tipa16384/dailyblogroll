@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-07-19
+# Daily Blogroll: 2026-07-20
 
 ## Gaming
 
-- **[Chasing Dings!](https://chasingdings.com/2026/07/18/captain-sonar-the-first-mission/)** — Tipa says Captain Sonar was a total hit: turn-based tutorial maps, surprise torpedoes, and a kid-friendly party game nobody checks their phone during.
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/18/my-gaming-in-2026-so-far/)** — Wilhelm crunches his 2026 gaming spreadsheet: EVE Online leads, but Stardew Valley, Forza Horizon 6, and Windrose are the ones still gaining ground.
-- **[READ ONLY MEMO](https://readonlymemo.com/get-ready-for-playstation-5-emulation/)** — Wes rounds up early PlayStation 5 emulation buzz, plus more N64 recompilation, fan-translation, and MiSTer save-sync chatter.
-- **[The Almighty Backlog](https://thealmightybacklog.wordpress.com/2026/07/18/viewfinder/)** — Ellie finds Viewfinder’s climate-collapse story gives its puzzle-box simulation real weight, making this bleak little puzzler stick harder than usual.
-- **[Retro XP](https://retroxp.beehiiv.com/p/guest-feature-street-fighter-iii-3rd-strike)** — Ashley Schofield argues Street Fighter III: 3rd Strike’s parry system is the real masterpiece, even if the roster and balance are gloriously messy.
-- **[A Pixel Nomad](https://pixelnomad.ca/2026/07/18/wo-friendship-bay-day-3/)** — Stargrace’s Wurm Online Friendship Bay trip wraps with forge-side socializing, named animal prizes, and a very relatable ready-to-go-home energy.
-- **[Scarybooster](https://scarybooster.blogspot.com/2026/07/soulframeflow.html)** — Scarybooster turns Soulframe into pure battle-poetry, riffing on Wrath, Death, Doom, parries, mounts, and going full wildfire across Midrath.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/19/tagn-fantasy-critic-league-2026-week-twenty-nine/)** — Wilhelm checks in on Fantasy Critic League as The Incident at Galley House waits on reviews and Denshattack! lands a strong early score.
+- **[WCRobinson](https://wcrobinson.org/2026/07/19/how-i-did-in-the-yu-gi-oh-master-duel-world-championship-2026-qualifiers/)** — WCRobinson recaps a personal push in Yu-Gi-Oh! Master Duel’s World Championship Qualifiers, covering prep, decks, performance, and lessons learned.
+- **[nicole express](https://nicole.express/2026/bricked-up-and-no-amontillado.html)** — Nicole digs into the gloriously janky Brick Game, from weird packaging to fake variety and its very obvious Tetris obsession.
+- **[Zarf Updates](https://blog.zarfhome.com/2026/07/the-fool-and-his-money-returns)** — Andrew Plotkin flags a browser-playable return for The Fool and his Money, plus a neat little tour through puzzle-game preservation woes.
+- **[Going Commando](https://swtorcommando.blogspot.com/2026/07/class-story-counting.html)** — Shintar celebrates finishing a SWTOR Jedi Knight story, then dives into how often each class story got completed across her alts.
+- **[Tobold's Blog](http://tobolds.blogspot.com/2026/07/using-ai-to-play-complex-games.html)** — Tobold says AI is great for cutting through SEO sludge and surfacing usable Pathfinder: Wrath of the Righteous build advice, hallucinations included.
+- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/07/20/haunted-house-lighting-the-way/)** — Kimimi makes a strong case for Atari 2600 Haunted House as real survival horror, with darkness, matches, and lightning doing the heavy lifting.
+- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/07/19/three-days-of-gettysburg-deluxe-edition-unboxing-overview/)** — The Chronicler gives Three Days of Gettysburg: Deluxe Edition an overview, spotlighting GMT’s lavish components, optional rules, and big Civil War scope.
 ## General
 
-- **[Schneier on Security](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-washing-up-on-cape-cod-beach.html)** — Bruce Schneier’s weekly squid check-in points to Cape Cod’s beached squid and opens the floor for whatever security news he missed.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/say-anything-challenge-accepted.html)** — Bhagpuss freewheels through a grab bag on memory, vaudeville, and music hall with the kind of digressive charm that makes the whole thing work.
-- **[Life on the Wicked Stage](https://warnercrocker.com/2026/07/19/sunday-morning-reading-164/)** — Warner marks turning 70 with a short Sunday reading list on kids, meaning, politics, and Google’s culture, all filtered through birthday perspective.
+- **[West Karana](https://westkarana.blog/2026/07/19/speedrunning-the-us-presidency/)** — Tipa turns presidential history into a speedrun leaderboard, with Teddy Roosevelt’s record and 2028 contenders like AOC, Ossoff, and Tiffany Trump.
 ## Tech
 
-- **[Scripting News](http://scripting.com/2026/07/18.html#a152237)** — Dave Winer shares rss.chat’s new firehose and JSON RSS experiments, then gives devs a pep talk about AI collaboration and protecting interop.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/07/wp-pro-tips/)** — Jamie Zawinski responds to a new WordPress exploit with the nuclear option: disable REST, XML-RPC, oEmbed, JSONP, and even WordPress AI support.
+- **[brennan.day](https://brennan.day/softcore-first-hardcore-eventually-a-ladder-for-the-indieweb/)** — Brennan argues the IndieWeb needs a ladder, not a purity test, with easy platforms as stepping stones toward fuller ownership.
+- **[Scripting News](http://scripting.com/2026/07/19.html#a170642)** — Dave Winer shares a WordPress example app for rss.chat and keeps pushing inbound RSS as a way to break social web lock-in.
+## Writing
+
+- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/19/preparing-your-blog-for-blaugust-2026)** — Roger tunes up his Squarespace blog for Blaugust with a post counter and a much beefier, cleaner blogroll setup.
