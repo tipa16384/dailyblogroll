@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
+import json
 import logging
 import re
 from pathlib import Path
@@ -30,6 +31,33 @@ def configure_logging(verbose: bool) -> None:
 
 def slugify(value: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
+
+
+def build_document(
+    title: str,
+    topic_name: str,
+    markdown: str,
+    generated_at: dt.datetime | None = None,
+) -> str:
+    """Add minimal Hugo front matter to a generated Markdown report."""
+    generated_at = generated_at or dt.datetime.now(dt.timezone.utc)
+    if generated_at.tzinfo is None:
+        generated_at = generated_at.replace(tzinfo=dt.timezone.utc)
+    timestamp = generated_at.astimezone(dt.timezone.utc).isoformat().replace("+00:00", "Z")
+    # JSON strings are valid double-quoted YAML scalars and safely escape titles
+    # or topic names containing quotes, backslashes, or Unicode.
+    title_yaml = json.dumps(title, ensure_ascii=False)
+    topic_yaml = json.dumps(topic_name, ensure_ascii=False)
+    return (
+        "---\n"
+        f"date: '{timestamp}'\n"
+        "draft: false\n"
+        f"title: {title_yaml}\n"
+        "categories:\n"
+        f"  - {topic_yaml}\n"
+        "---\n\n"
+        f"{markdown.strip()}\n"
+    )
 
 
 def generate_if_ready(
@@ -73,7 +101,10 @@ def generate_if_ready(
     date = dt.date.today().isoformat()
     path = output_dir / f"{date}-{slugify(result['title'])}.md"
     # Write first; consume posts only after a valid report is safely present.
-    path.write_text(f"# {result['title']}\n\n{markdown}", encoding="utf-8")
+    path.write_text(
+        build_document(result["title"], topic["name"], markdown),
+        encoding="utf-8",
+    )
     news_db.save_report(
         topic_id,
         result["title"],

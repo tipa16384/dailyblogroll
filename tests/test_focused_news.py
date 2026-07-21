@@ -260,6 +260,28 @@ class CollectorTests(unittest.TestCase):
 
 
 class OrchestrationTests(unittest.TestCase):
+    def test_generated_document_has_hugo_front_matter(self):
+        generated = dt.datetime(2026, 7, 21, 17, 30, tzinfo=dt.timezone(
+            dt.timedelta(hours=-4)
+        ))
+        document = focused_news.build_document(
+            'AI, Blogs, and "Open" Questions',
+            "Open Web and RSS",
+            "Report body.\n",
+            generated,
+        )
+        self.assertEqual(
+            document,
+            "---\n"
+            "date: '2026-07-21T21:30:00Z'\n"
+            "draft: false\n"
+            'title: "AI, Blogs, and \\"Open\\" Questions"\n'
+            "categories:\n"
+            '  - "Open Web and RSS"\n'
+            "---\n\n"
+            "Report body.\n",
+        )
+
     def test_parser_accepts_verbose_flag(self):
         args = focused_news.parser().parse_args(["--verbose"])
         self.assertTrue(args.verbose)

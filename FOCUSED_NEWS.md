@@ -99,6 +99,23 @@ no topic reaches the threshold or when report validation fails.
 python focused_news.py --output-dir draft-reports
 ```
 
+Each report begins with minimal Hugo-compatible YAML front matter:
+
+```yaml
+---
+date: '2026-07-21T21:30:00Z'
+draft: false
+title: "Signals from New Eden"
+categories:
+  - "MMORPGs"
+---
+```
+
+The date is the report-generation time normalized to UTC. The title comes from
+the generated report, and the category is the selected topic's display name.
+The article body does not repeat the title as a Markdown H1 because Hugo can
+render it from front matter.
+
 ### `--retention-days NUMBER`
 
 Controls how long full article text remains eligible, measured from the post's
