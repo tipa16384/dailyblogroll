@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import logging
 from pathlib import Path
 
 import yaml
@@ -10,6 +11,8 @@ from openai import OpenAI
 
 import news_db
 
+
+LOGGER = logging.getLogger("focused_news.classifier")
 
 def load_topics(path: str | Path = "news_topics.yaml") -> list[dict]:
     with open(path, "r", encoding="utf-8") as handle:
@@ -95,6 +98,7 @@ def classify_pending(
         posts = news_db.unclassified_posts(batch_size, db_path)
         if not posts:
             return total
+        LOGGER.debug("Classifying a GPT batch of %d posts.", len(posts))
         result = classify_batch(posts, topics, client=client, model=model)
         expected = {p["id"] for p in posts}
         returned = {item["post_id"] for item in result["posts"]}
@@ -102,5 +106,7 @@ def classify_pending(
             raise ValueError(f"Classification IDs did not match input: expected {expected}, got {returned}")
         for item in result["posts"]:
             news_db.save_classifications(item["post_id"], item["topics"], db_path=db_path)
+            LOGGER.debug(
+                "Post %s classified into %d topics.", item["post_id"], len(item["topics"])
+            )
             total += 1
-

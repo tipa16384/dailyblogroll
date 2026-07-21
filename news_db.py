@@ -226,6 +226,31 @@ def eligible_topics(
         ).fetchall()
 
 
+def topic_inventory(
+    *,
+    min_relevance: float = 0.6,
+    db_path: str | Path = DB_PATH,
+) -> list[sqlite3.Row]:
+    """Return counts of unused, unexpired posts for every represented topic."""
+    now = dt.datetime.now(dt.timezone.utc).isoformat()
+    with connect(db_path) as con:
+        return con.execute(
+            """
+            SELECT pt.topic_id, COUNT(*) AS available_count
+            FROM news_post_topics pt
+            JOIN news_posts p ON p.id = pt.post_id
+            LEFT JOIN news_report_posts rp ON rp.post_id = p.id
+            WHERE rp.post_id IS NULL
+              AND p.full_text IS NOT NULL
+              AND p.expires_at > ?
+              AND pt.relevance >= ?
+            GROUP BY pt.topic_id
+            ORDER BY pt.topic_id
+            """,
+            (now, min_relevance),
+        ).fetchall()
+
+
 def candidate_posts(
     topic_id: str,
     limit: int = 15,
