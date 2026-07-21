@@ -113,7 +113,7 @@ def setup_selection_history():
         "https://required-feed-2.com/feed.xml": 10,
     }
 
-def mock_feedparser_parse(url, etag=None):
+def mock_feedparser_parse(url, etag=None, **kwargs):
     """Mock feedparser.parse to return realistic feed data with recent entries for all feeds."""
     mock_result = MagicMock()
     

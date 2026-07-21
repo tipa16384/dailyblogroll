@@ -16,6 +16,8 @@ from collections import defaultdict
 from settings import *
 import db
 
+BOT_USER_AGENT = "DailyBlogrollBot/1.0 (+https://westkarana.xyz/)"
+
     
 env = Environment(
     loader=PackageLoader("blogroll"),
@@ -33,7 +35,7 @@ def fetch_readable(url, timeout=15, max_retries=5, debug_log=None):
 
     delay = 2  # initial backoff seconds
     headers = {
-        "User-Agent": "DailyBlogrollBot/1.0 (+https://chasingdings.com/)"  # slightly more legit
+        "User-Agent": BOT_USER_AGENT
     }
 
     rate_limit_retries = 0
@@ -120,7 +122,12 @@ def collect_new_items(cfg):
         st = state.setdefault(feed_url, {})
         
         # Quick parse to get current server-side modification info
-        parsed = feedparser.parse(feed_url, etag=st.get("etag"))
+        parsed = feedparser.parse(
+            feed_url,
+            etag=st.get("etag"),
+            agent=BOT_USER_AGENT,
+            request_headers={"User-Agent": BOT_USER_AGENT},
+        )
         
         # Update state with fresh server info
         if getattr(parsed, "etag", None):
