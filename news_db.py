@@ -132,14 +132,17 @@ def post_exists(
 def add_post(post: dict, *, retention_days: int, db_path: str | Path = DB_PATH) -> bool:
     discovered = dt.datetime.now(dt.timezone.utc)
     retention_start = discovered
-    if post.get("published_at"):
+    published_at = post.get("published_at")
+    if published_at:
         try:
-            published = dt.datetime.fromisoformat(post["published_at"])
+            published = dt.datetime.fromisoformat(published_at)
             if published.tzinfo is None:
                 published = published.replace(tzinfo=dt.timezone.utc)
+            published = published.astimezone(dt.timezone.utc)
+            published_at = published.isoformat()
             retention_start = min(discovered, published)
         except ValueError:
-            pass
+            published_at = None
     expires = retention_start + dt.timedelta(days=retention_days)
     with connect(db_path) as con:
         cur = con.execute(
@@ -151,7 +154,7 @@ def add_post(post: dict, *, retention_days: int, db_path: str | Path = DB_PATH) 
             """,
             (
                 post["feed_url"], post["guid"], post["url"], post["title"],
-                post["blogger"], post["blog_name"], post.get("published_at"),
+                post["blogger"], post["blog_name"], published_at,
                 discovered.isoformat(), expires.isoformat(), post["full_text"],
             ),
         )

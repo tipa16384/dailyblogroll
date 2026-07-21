@@ -91,6 +91,28 @@ class DatabaseTests(unittest.TestCase):
         self.assertIsNotNone(rows[1]["full_text"])
         self.assertEqual([rows[0]["id"], rows[1]["id"]], [first, second])
 
+    def test_post_timestamps_are_normalized_to_utc(self):
+        item = post(1)
+        item["published_at"] = "2026-07-20T08:00:00-04:00"
+        news_db.add_post(item, retention_days=7, db_path=self.db)
+        with news_db.connect(self.db) as con:
+            stored = con.execute(
+                "SELECT published_at, expires_at FROM news_posts WHERE guid = ?",
+                (item["guid"],),
+            ).fetchone()
+        self.assertEqual(stored["published_at"], "2026-07-20T12:00:00+00:00")
+        self.assertEqual(stored["expires_at"], "2026-07-27T12:00:00+00:00")
+
+    def test_invalid_published_timestamp_is_not_stored(self):
+        item = post(1)
+        item["published_at"] = "not a timestamp"
+        news_db.add_post(item, retention_days=7, db_path=self.db)
+        with news_db.connect(self.db) as con:
+            stored = con.execute(
+                "SELECT published_at FROM news_posts WHERE guid = ?", (item["guid"],)
+            ).fetchone()
+        self.assertIsNone(stored["published_at"])
+
 
 class ModelTests(unittest.TestCase):
     def test_classifier_uses_mocked_gpt_response(self):
