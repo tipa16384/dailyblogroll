@@ -77,7 +77,10 @@ def validate_and_render(result: dict, posts) -> tuple[str, list[int]]:
     markdown = result["markdown"]
     links = SOURCE_LINK_RE.findall(markdown)
     linked_ids = {sid for _, sid in links}
-    declared_ids = set(result["used_source_ids"])
+    declared_list = list(result["used_source_ids"])
+    if len(declared_list) != len(set(declared_list)):
+        raise ValueError(f"Declared sources contain duplicates: {declared_list}")
+    declared_ids = set(declared_list)
     if linked_ids != declared_ids:
         raise ValueError(
             f"Source links {sorted(linked_ids)} do not match declared sources {sorted(declared_ids)}"
@@ -106,4 +109,3 @@ def validate_and_render(result: dict, posts) -> tuple[str, list[int]]:
     rendered = SOURCE_LINK_RE.sub(replace, markdown).strip() + "\n"
     used_post_ids = [sources[sid]["id"] for sid in sorted(linked_ids)]
     return rendered, used_post_ids
-

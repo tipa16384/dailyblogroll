@@ -30,9 +30,15 @@ def generate_if_ready(
     eligible = news_db.eligible_topics(threshold, db_path=db_path)
     if not eligible:
         return None
-    topic_id = eligible[0]["topic_id"]
     topic_map = {t["id"]: t for t in news_classifier.load_topics(topics_path)}
-    topic = topic_map[topic_id]
+    selected = next(
+        ((row["topic_id"], topic_map[row["topic_id"]])
+         for row in eligible if row["topic_id"] in topic_map),
+        None,
+    )
+    if selected is None:
+        return None
+    topic_id, topic = selected
     posts = news_db.candidate_posts(topic_id, candidate_limit, db_path=db_path)
     result = news_reporter.generate_report(topic["name"], posts, client=client, model=model)
     markdown, used_ids = news_reporter.validate_and_render(result, posts)
@@ -97,4 +103,3 @@ def parser() -> argparse.ArgumentParser:
 if __name__ == "__main__":
     output = run(parser().parse_args())
     print(output if output else "No topic is ready for a focused report.")
-

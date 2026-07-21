@@ -105,6 +105,8 @@ def collect(
                 guid = getattr(entry, "id", None) or url
                 if not url or not guid:
                     continue
+                if news_db.post_exists(feed_url, guid, url, db_path):
+                    continue
                 try:
                     readable_title, body = fetch_readable(url)
                     if len(body) < min_chars:

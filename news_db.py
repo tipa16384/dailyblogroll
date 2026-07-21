@@ -115,6 +115,20 @@ def get_feed_state(feed_url: str, db_path: str | Path = DB_PATH) -> sqlite3.Row 
         ).fetchone()
 
 
+def post_exists(
+    feed_url: str,
+    guid: str,
+    url: str,
+    db_path: str | Path = DB_PATH,
+) -> bool:
+    with connect(db_path) as con:
+        return con.execute(
+            """SELECT 1 FROM news_posts
+               WHERE url = ? OR (feed_url = ? AND guid = ?)""",
+            (url, feed_url, guid),
+        ).fetchone() is not None
+
+
 def add_post(post: dict, *, retention_days: int, db_path: str | Path = DB_PATH) -> bool:
     discovered = dt.datetime.now(dt.timezone.utc)
     retention_start = discovered

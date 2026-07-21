@@ -8,6 +8,7 @@ from pathlib import Path
 from types import SimpleNamespace
 from unittest.mock import patch
 
+import focused_news
 import news_classifier
 import news_collector
 import news_db
@@ -17,7 +18,8 @@ import news_reporter
 class FakeClient:
     def __init__(self, payload):
         class Responses:
-            calls = []
+            def __init__(self):
+                self.calls = []
 
             def create(inner_self, **kwargs):
                 inner_self.calls.append(kwargs)
@@ -136,6 +138,22 @@ class ModelTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "do not match"):
             news_reporter.validate_and_render(result, [post(1), post(2)])
 
+    def test_reporter_rejects_duplicate_declared_source(self):
+        result = {
+            "title": "Duplicate source",
+            "markdown": "[Belghast on Tales of the Aggronaut](source:P1) reports something.",
+            "used_source_ids": ["P1", "P1"],
+        }
+        with self.assertRaisesRegex(ValueError, "duplicates"):
+            news_reporter.validate_and_render(result, [post(1)])
+
+    def test_fake_clients_do_not_share_call_history(self):
+        first = FakeClient({"posts": []})
+        second = FakeClient({"posts": []})
+        first.responses.create()
+        self.assertEqual(len(first.responses.calls), 1)
+        self.assertEqual(len(second.responses.calls), 0)
+
 
 def time_tuple(timestamp):
     return dt.datetime.fromtimestamp(timestamp, dt.timezone.utc).timetuple()
@@ -183,6 +201,56 @@ class CollectorTests(unittest.TestCase):
         with news_db.connect(self.db) as con:
             row = con.execute("SELECT full_text FROM news_posts").fetchone()
         self.assertGreater(len(row["full_text"]), 500)
+
+    def test_existing_post_is_not_fetched_again(self):
+        recent = int((dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=1)).timestamp())
+        news_db.initialize(self.db)
+        news_db.add_post(
+            {
+                **post(1),
+                "feed_url": "https://example.test/feed",
+                "guid": "item-1",
+                "url": "https://example.test/item-1",
+            },
+            retention_days=7,
+            db_path=self.db,
+        )
+        feeds, parser, fetch = self.patches(recent)
+        with feeds, parser, fetch as mocked_fetch:
+            stats = news_collector.collect(db_path=self.db, backlog_days=7)
+        self.assertEqual(stats["stored"], 0)
+        mocked_fetch.assert_not_called()
+
+
+class OrchestrationTests(unittest.TestCase):
+    def test_removed_topic_is_skipped_for_next_configured_topic(self):
+        with tempfile.TemporaryDirectory() as directory, patch.object(
+            news_db,
+            "eligible_topics",
+            return_value=[{"topic_id": "removed"}, {"topic_id": "technology"}],
+        ), patch.object(
+            news_classifier,
+            "load_topics",
+            return_value=[{"id": "technology", "name": "Technology"}],
+        ), patch.object(
+            news_db, "candidate_posts", return_value=[post(1)]
+        ), patch.object(
+            news_reporter,
+            "generate_report",
+            return_value={"title": "Tech Report", "markdown": "draft", "used_source_ids": ["P1"]},
+        ) as generate, patch.object(
+            news_reporter, "validate_and_render", return_value=("rendered\n", [1])
+        ), patch.object(news_db, "save_report") as save:
+            output = focused_news.generate_if_ready(
+                db_path=Path(directory) / "test.db",
+                topics_path="topics.yaml",
+                output_dir=directory,
+                threshold=1,
+            )
+        self.assertIsNotNone(output)
+        generate.assert_called_once()
+        self.assertEqual(generate.call_args.args[0], "Technology")
+        self.assertEqual(save.call_args.args[0], "technology")
 
 
 if __name__ == "__main__":
