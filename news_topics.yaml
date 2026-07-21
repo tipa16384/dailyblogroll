@@ -1,0 +1,26 @@
+topics:
+  - id: mmorpgs
+    name: MMORPGs
+    description: Massively multiplayer games, their communities, development, economies, and live-service changes.
+  - id: indie_games
+    name: Indie Games
+    description: Independent games, their creators, releases, demos, and player experiences.
+  - id: retro_gaming
+    name: Retro Gaming
+    description: Older games and hardware, preservation, emulation, and modern reflection on gaming history.
+  - id: cozy_gaming
+    name: Cozy Gaming
+    description: Low-pressure, comforting, creative, or deliberately gentle games and play experiences.
+  - id: blogging
+    name: Blogging
+    description: The practice and culture of blogging, blog events, readership, writing habits, and blog communities.
+  - id: open_web
+    name: Open Web and RSS
+    description: RSS, personal websites, IndieWeb, web rings, protocols, decentralization, and ownership outside closed platforms.
+  - id: ai
+    name: Artificial Intelligence
+    description: AI tools, models, policy, culture, security, labor, and their practical or social effects.
+  - id: technology
+    name: Technology
+    description: Software, hardware, programming, security, and technology culture not better covered by another topic.
+

@@ -1,2 +1,5 @@
+.deps/
+.venv/
+__pycache__/
 *.pyc
-/.venv
+news_reports/
