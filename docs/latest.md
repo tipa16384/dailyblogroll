@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-07-20
+# Daily Blogroll: 2026-07-21
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/19/tagn-fantasy-critic-league-2026-week-twenty-nine/)** — Wilhelm checks in on Fantasy Critic League as The Incident at Galley House waits on reviews and Denshattack! lands a strong early score.
-- **[WCRobinson](https://wcrobinson.org/2026/07/19/how-i-did-in-the-yu-gi-oh-master-duel-world-championship-2026-qualifiers/)** — WCRobinson recaps a personal push in Yu-Gi-Oh! Master Duel’s World Championship Qualifiers, covering prep, decks, performance, and lessons learned.
-- **[nicole express](https://nicole.express/2026/bricked-up-and-no-amontillado.html)** — Nicole digs into the gloriously janky Brick Game, from weird packaging to fake variety and its very obvious Tetris obsession.
-- **[Zarf Updates](https://blog.zarfhome.com/2026/07/the-fool-and-his-money-returns)** — Andrew Plotkin flags a browser-playable return for The Fool and his Money, plus a neat little tour through puzzle-game preservation woes.
-- **[Going Commando](https://swtorcommando.blogspot.com/2026/07/class-story-counting.html)** — Shintar celebrates finishing a SWTOR Jedi Knight story, then dives into how often each class story got completed across her alts.
-- **[Tobold's Blog](http://tobolds.blogspot.com/2026/07/using-ai-to-play-complex-games.html)** — Tobold says AI is great for cutting through SEO sludge and surfacing usable Pathfinder: Wrath of the Righteous build advice, hallucinations included.
-- **[Kimimi the Game Eating She-Monster](https://kimimithegameeatingshemonster.com/2026/07/20/haunted-house-lighting-the-way/)** — Kimimi makes a strong case for Atari 2600 Haunted House as real survival horror, with darkness, matches, and lightning doing the heavy lifting.
-- **[The Boardgames Chronicle](https://theboardgameschronicle.com/2026/07/19/three-days-of-gettysburg-deluxe-edition-unboxing-overview/)** — The Chronicler gives Three Days of Gettysburg: Deluxe Edition an overview, spotlighting GMT’s lavish components, optional rules, and big Civil War scope.
-## General
-
-- **[West Karana](https://westkarana.blog/2026/07/19/speedrunning-the-us-presidency/)** — Tipa turns presidential history into a speedrun leaderboard, with Teddy Roosevelt’s record and 2028 contenders like AOC, Ossoff, and Tiffany Trump.
-## Tech
-
-- **[brennan.day](https://brennan.day/softcore-first-hardcore-eventually-a-ladder-for-the-indieweb/)** — Brennan argues the IndieWeb needs a ladder, not a purity test, with easy platforms as stepping stones toward fuller ownership.
-- **[Scripting News](http://scripting.com/2026/07/19.html#a170642)** — Dave Winer shares a WordPress example app for rss.chat and keeps pushing inbound RSS as a way to break social web lock-in.
+- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/20/eve-online-and-the-coming-ansiblex-nerf/)** — Wilhelm breaks down EVE Online’s proposed Ansiblex jump bridge nerfs, with smaller ships favored and capitals locked out in a very nullsec-shaping change.
+- **[Streets & Spores](https://streetsinturmoil.com/2026/07/20/slug-house-end-of-investigation-session-26/)** — David recaps a lively Slug House session, with guild politics, a creeping swamp, and the Battle Brothers chasing a giant slug through Uzul’s manor.
+- **[In An Age](https://inanage.com/2026/07/20/out-of-breath-of-the-wild/)** — Azuriel is not having a great time with Breath of the Wild, blaming weapon durability, clunky menus, and combat rewards that make fighting feel pointless.
+- **[Scopique](https://scopique.com/2026/07/20/thats-it-im-done-full-circle-achieved/)** — Scopique finds a near-perfect TradeWars 2002 throwback in Warp to Sector One, with just enough modern UI to spare the paper notes.
+- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/07/20/lavender-station-demo-review/)** — Krista highlights Lavender Station’s demo as a calm, hand-drawn train-station sim built around cleaning, decorating, and zero-pressure cosy routines.
+- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/read-all-about-it-cat-scratch-fever.html)** — Bhagpuss gets cheerfully hooked on Hethereau’s Midnight Catzebo scratch-card event, proving 999 Nights added at least one very effective money sink.
 ## Writing
 
-- **[Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2026/7/19/preparing-your-blog-for-blaugust-2026)** — Roger tunes up his Squarespace blog for Blaugust with a post counter and a much beefier, cleaner blogroll setup.
+- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-07-09.html)** — Tofutush answers an OC questionnaire on influences like MLP and Homestuck, favorite tropes, and why paranoia keeps showing up in her characters.
+- **[Hamatti](https://hamatti.org/posts/a-lovely-dialogue-about-taking-notes-from-see-how-they-run/)** — Juhis spots a perfect note-taking exchange in See How They Run and delights in the ‘write everything down first’ philosophy.
+- **[Indiecator](https://indiecator.org/2026/07/20/blaugust-2026-is-coming/)** — Magi kicks off Blaugust 2026 with signup details, posting milestones, and a community-builder track that keeps the event about connection, not just output.
+## Tech
+
+- **[Smith Talks Tech](https://smithtalkstech.com/2026/07/20/learning-in-the-age-of-ai/)** — Pete likes AI but argues it can sabotage learning to code, especially when search and editor autocomplete hand you the answer too fast.
+- **[Endgame Viable](https://endgameviable.com/post/2026/07/rss-traffic-statistics/)** — UltrViolet digs into traffic logs and finds RSS dominates his readership, then pivots to thoughts on aging Kindles and Dungeon Crawler Carl.
+- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/07/sd/)** — Jamie Zawinski turns an SD-card errand into a small manifesto against paying wildly inflated storage prices on principle.
