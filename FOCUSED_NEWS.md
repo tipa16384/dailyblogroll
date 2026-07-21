@@ -30,6 +30,17 @@ feed history, run:
 python focused_news.py --backlog-days 7
 ```
 
+Use verbose mode while evaluating collection and topic accumulation:
+
+```sh
+python focused_news.py --backlog-days 7 --verbose
+```
+
+Verbose output includes per-feed cache decisions, GPT batch progress, expired
+text counts, topic inventory against the report threshold, report selection,
+source usage, and the output path. Fetch and parsing errors are logged even
+without verbose mode.
+
 Reports are written to `news_reports/` by default. Relevant options include:
 
 ```text
@@ -42,6 +53,7 @@ Reports are written to `news_reports/` by default. Relevant options include:
 --candidate-limit 15
 --batch-size 12
 --model gpt-5
+--verbose
 ```
 
 Topic definitions are deliberately editable in `news_topics.yaml`. Article

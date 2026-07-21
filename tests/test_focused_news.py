@@ -113,6 +113,19 @@ class DatabaseTests(unittest.TestCase):
             ).fetchone()
         self.assertIsNone(stored["published_at"])
 
+    def test_topic_inventory_counts_only_available_posts(self):
+        first = self.add_classified(1, "mmorpgs")
+        self.add_classified(2, "mmorpgs")
+        self.add_classified(3, "blogging")
+        news_db.save_report(
+            "mmorpgs", "Report", "body", [first], "report.md", db_path=self.db
+        )
+        inventory = {
+            row["topic_id"]: row["available_count"]
+            for row in news_db.topic_inventory(db_path=self.db)
+        }
+        self.assertEqual(inventory, {"blogging": 1, "mmorpgs": 1})
+
 
 class ModelTests(unittest.TestCase):
     def test_classifier_uses_mocked_gpt_response(self):
@@ -238,13 +251,26 @@ class CollectorTests(unittest.TestCase):
             db_path=self.db,
         )
         feeds, parser, fetch = self.patches(recent)
-        with feeds, parser, fetch as mocked_fetch:
+        with self.assertLogs("focused_news.collector", level="DEBUG") as logs, \
+                feeds, parser, fetch as mocked_fetch:
             stats = news_collector.collect(db_path=self.db, backlog_days=7)
         self.assertEqual(stats["stored"], 0)
         mocked_fetch.assert_not_called()
+        self.assertTrue(any("already cached" in message for message in logs.output))
 
 
 class OrchestrationTests(unittest.TestCase):
+    def test_parser_accepts_verbose_flag(self):
+        args = focused_news.parser().parse_args(["--verbose"])
+        self.assertTrue(args.verbose)
+
+    def test_logging_defaults_to_warnings_and_verbose_enables_debug(self):
+        self.addCleanup(focused_news.configure_logging, False)
+        focused_news.configure_logging(False)
+        self.assertEqual(focused_news.LOGGER.level, 30)
+        focused_news.configure_logging(True)
+        self.assertEqual(focused_news.LOGGER.level, 10)
+
     def test_removed_topic_is_skipped_for_next_configured_topic(self):
         with tempfile.TemporaryDirectory() as directory, patch.object(
             news_db,

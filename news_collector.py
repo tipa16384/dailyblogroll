@@ -5,6 +5,7 @@ from __future__ import annotations
 import calendar
 import datetime as dt
 import email.utils
+import logging
 import time
 from pathlib import Path
 
@@ -18,6 +19,7 @@ import news_db
 
 
 USER_AGENT = "DailyBlogrollFocusedNews/0.1 (+https://westkarana.xyz/)"
+LOGGER = logging.getLogger("focused_news.collector")
 
 
 def load_feeds(path: str | Path = "feeds.yaml") -> list[dict]:
@@ -73,10 +75,15 @@ def collect(
     cutoff = now_ts - backlog_days * 86400 if backlog_days is not None else None
     stats = {"feeds": 0, "entries": 0, "stored": 0, "errors": []}
 
-    for feed in load_feeds(feeds_path):
+    feeds = load_feeds(feeds_path)
+    LOGGER.debug("Checking %d configured feeds.", len(feeds))
+    for feed in feeds:
         if feed.get("skip", False):
+            LOGGER.debug("Skipping disabled feed %s.", feed.get("name", feed.get("url", "unknown")))
             continue
         feed_url = feed["url"]
+        feed_name = feed.get("name", feed_url)
+        LOGGER.debug("Checking %s.", feed_name)
         state = news_db.get_feed_state(feed_url, db_path)
         first_poll = state is None
         kwargs = {}
@@ -104,12 +111,15 @@ def collect(
                 url = getattr(entry, "link", "")
                 guid = getattr(entry, "id", None) or url
                 if not url or not guid:
+                    LOGGER.debug("%s: skipped entry without URL or GUID.", feed_name)
                     continue
                 if news_db.post_exists(feed_url, guid, url, db_path):
+                    LOGGER.debug("%s: already cached; skipped %s.", feed_name, url)
                     continue
                 try:
                     readable_title, body = fetch_readable(url)
                     if len(body) < min_chars:
+                        LOGGER.debug("%s: article was too short; skipped %s.", feed_name, url)
                         continue
                     published = (
                         dt.datetime.fromtimestamp(timestamp, dt.timezone.utc).isoformat()
@@ -130,8 +140,12 @@ def collect(
                         db_path=db_path,
                     )
                     stats["stored"] += int(inserted)
+                    if inserted:
+                        LOGGER.debug("%s: stored %s.", feed_name, url)
                 except Exception as exc:  # keep one broken article from blocking its feed
-                    stats["errors"].append(f"{url}: {exc}")
+                    message = f"{url}: {exc}"
+                    stats["errors"].append(message)
+                    LOGGER.warning("Article fetch failed: %s", message)
 
             modified = getattr(parsed, "modified", None)
             if modified and not isinstance(modified, str):
@@ -144,7 +158,9 @@ def collect(
                 db_path=db_path,
             )
         except Exception as exc:
-            stats["errors"].append(f"{feed_url}: {exc}")
+            message = f"{feed_url}: {exc}"
+            stats["errors"].append(message)
+            LOGGER.warning("Feed check failed: %s", message)
             news_db.upsert_feed_state(
                 feed_url, etag=None, modified=None, success=False, db_path=db_path
             )
