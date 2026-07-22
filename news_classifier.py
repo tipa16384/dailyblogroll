@@ -9,6 +9,7 @@ from pathlib import Path
 import yaml
 from openai import OpenAI
 
+from backoff import run_with_429_backoff
 import news_db
 
 
@@ -63,23 +64,27 @@ def classify_batch(posts, topics: list[dict], client=None, model: str = "gpt-5")
         f"BLOG: {p['blog_name']}\nTEXT:\n{p['full_text'][:4000]}"
         for p in posts
     )
-    response = client.responses.create(
-        model=model,
-        instructions=(
-            "Classify blog posts for a future thematic news report. Apply zero or more "
-            "topics to each post. Prefer precision: a passing mention is not a match. "
-            "Use multiple topics only when each is substantively important."
+    response = run_with_429_backoff(
+        lambda: client.responses.create(
+            model=model,
+            instructions=(
+                "Classify blog posts for a future thematic news report. Apply zero or more "
+                "topics to each post. Prefer precision: a passing mention is not a match. "
+                "Use multiple topics only when each is substantively important."
+            ),
+            input=f"TOPICS:\n{topic_text}\n\nPOSTS:\n{post_text}",
+            text={
+                "format": {
+                    "type": "json_schema",
+                    "name": "FocusedNewsClassifications",
+                    "schema": classification_schema([t["id"] for t in topics]),
+                    "strict": True,
+                }
+            },
+            metadata={"prompt_cache_key": "focused-news-classification-v1"},
         ),
-        input=f"TOPICS:\n{topic_text}\n\nPOSTS:\n{post_text}",
-        text={
-            "format": {
-                "type": "json_schema",
-                "name": "FocusedNewsClassifications",
-                "schema": classification_schema([t["id"] for t in topics]),
-                "strict": True,
-            }
-        },
-        metadata={"prompt_cache_key": "focused-news-classification-v1"},
+        logger=LOGGER,
+        description="classifying focused-news posts",
     )
     return json.loads(response.output_text)
 

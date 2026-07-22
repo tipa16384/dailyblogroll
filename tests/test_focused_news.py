@@ -8,6 +8,7 @@ from pathlib import Path
 from types import SimpleNamespace
 from unittest.mock import patch
 
+import backoff
 import focused_news
 import news_classifier
 import news_collector
@@ -26,6 +27,15 @@ class FakeClient:
                 return SimpleNamespace(output_text=json.dumps(payload))
 
         self.responses = Responses()
+
+
+class FakeRateLimitError(Exception):
+    def __init__(self, retry_after=None):
+        super().__init__("429 rate limited")
+        self.status_code = 429
+        self.headers = {}
+        if retry_after is not None:
+            self.headers["Retry-After"] = str(retry_after)
 
 
 def post(number, blogger="Belghast", blog="Tales of the Aggronaut"):
@@ -139,6 +149,30 @@ class ModelTests(unittest.TestCase):
         )
         self.assertEqual(result["posts"][0]["topics"][0]["topic_id"], "mmorpgs")
         self.assertEqual(len(client.responses.calls), 1)
+
+    def test_classifier_retries_after_429_with_graduated_backoff(self):
+        payload = {"posts": [{"post_id": 7, "topics": []}]}
+
+        class Responses:
+            def __init__(self):
+                self.calls = 0
+
+            def create(self, **kwargs):
+                self.calls += 1
+                if self.calls < 3:
+                    raise FakeRateLimitError()
+                return SimpleNamespace(output_text=json.dumps(payload))
+
+        client = SimpleNamespace(responses=Responses())
+        with patch.object(backoff.time, "sleep") as sleep:
+            result = news_classifier.classify_batch(
+                [post(7)],
+                [{"id": "mmorpgs", "name": "MMORPGs", "description": "MMOs"}],
+                client=client,
+            )
+        self.assertEqual(result, payload)
+        self.assertEqual(client.responses.calls, 3)
+        self.assertEqual([call.args[0] for call in sleep.call_args_list], [2.0, 4.0])
 
     def test_reporter_renders_verified_attribution_and_url(self):
         result = {
@@ -258,6 +292,47 @@ class CollectorTests(unittest.TestCase):
         mocked_fetch.assert_not_called()
         self.assertTrue(any("already cached" in message for message in logs.output))
 
+    def test_backlog_seed_still_ignores_entries_older_than_retention_window(self):
+        old = int((dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=10)).timestamp())
+        feeds, parser, fetch = self.patches(old)
+        with feeds, parser, fetch as mocked_fetch:
+            stats = news_collector.collect(db_path=self.db, backlog_days=30, retention_days=7)
+        self.assertEqual(stats["stored"], 0)
+        mocked_fetch.assert_not_called()
+
+    def test_fetch_readable_retries_after_429_then_succeeds(self):
+        rate_limited = SimpleNamespace(status_code=429, headers={}, text="", raise_for_status=lambda: None)
+        success = SimpleNamespace(
+            status_code=200,
+            headers={},
+            text="<html><head><title>Readable Title</title></head><body><p>body</p></body></html>",
+            raise_for_status=lambda: None,
+        )
+
+        with patch.object(news_collector.requests, "get", side_effect=[rate_limited, success]) as get, \
+                patch.object(backoff.time, "sleep") as sleep:
+            title, body = news_collector.fetch_readable("https://example.test/item-1")
+
+        self.assertEqual(title, "Readable Title")
+        self.assertTrue(body)
+        self.assertEqual(get.call_count, 2)
+        sleep.assert_called_once_with(2.0)
+
+    def test_fetch_readable_uses_retry_after_header_on_429(self):
+        rate_limited = SimpleNamespace(status_code=429, headers={"Retry-After": "7"}, text="", raise_for_status=lambda: None)
+        success = SimpleNamespace(
+            status_code=200,
+            headers={},
+            text="<html><head><title>Readable Title</title></head><body><p>body</p></body></html>",
+            raise_for_status=lambda: None,
+        )
+
+        with patch.object(news_collector.requests, "get", side_effect=[rate_limited, success]), \
+                patch.object(backoff.time, "sleep") as sleep:
+            news_collector.fetch_readable("https://example.test/item-1")
+
+        sleep.assert_called_once_with(7.0)
+
 
 class OrchestrationTests(unittest.TestCase):
     def test_generated_document_has_hugo_front_matter(self):
@@ -276,6 +351,7 @@ class OrchestrationTests(unittest.TestCase):
             "date: '2026-07-21T21:30:00Z'\n"
             "draft: false\n"
             'title: "AI, Blogs, and \\"Open\\" Questions"\n'
+            'author: "Focused News"\n'
             "categories:\n"
             '  - "Open Web and RSS"\n'
             "---\n\n"
@@ -318,6 +394,10 @@ class OrchestrationTests(unittest.TestCase):
                 threshold=1,
             )
         self.assertIsNotNone(output)
+        today = dt.date.today()
+        expected_parent = Path(directory) / f"{today:%Y}" / f"{today:%m}" / f"{today:%d}"
+        self.assertEqual(output.parent, expected_parent)
+        self.assertTrue(output.name.startswith(f"{today.isoformat()}-"))
         generate.assert_called_once()
         self.assertEqual(generate.call_args.args[0], "Technology")
         self.assertEqual(save.call_args.args[0], "technology")

@@ -53,6 +53,7 @@ def build_document(
         f"date: '{timestamp}'\n"
         "draft: false\n"
         f"title: {title_yaml}\n"
+        'author: "Focused News"\n'
         "categories:\n"
         f"  - {topic_yaml}\n"
         "---\n\n"
@@ -65,7 +66,7 @@ def generate_if_ready(
     db_path: str | Path,
     topics_path: str | Path,
     output_dir: str | Path,
-    threshold: int = 12,
+    threshold: int = 6,
     candidate_limit: int = 15,
     client=None,
     model: str = "gpt-5",
@@ -97,9 +98,11 @@ def generate_if_ready(
     )
 
     output_dir = Path(output_dir)
-    output_dir.mkdir(parents=True, exist_ok=True)
-    date = dt.date.today().isoformat()
-    path = output_dir / f"{date}-{slugify(result['title'])}.md"
+    today = dt.date.today()
+    dated_dir = output_dir / f"{today:%Y}" / f"{today:%m}" / f"{today:%d}"
+    dated_dir.mkdir(parents=True, exist_ok=True)
+    date = today.isoformat()
+    path = dated_dir / f"{date}-{slugify(result['title'])}.md"
     # Write first; consume posts only after a valid report is safely present.
     path.write_text(
         build_document(result["title"], topic["name"], markdown),
@@ -164,9 +167,9 @@ def parser() -> argparse.ArgumentParser:
     result.add_argument("--feeds", default="feeds.yaml")
     result.add_argument("--topics", default="news_topics.yaml")
     result.add_argument("--output-dir", default="news_reports")
-    result.add_argument("--retention-days", type=int, default=7)
+    result.add_argument("--retention-days", type=int, default=10, help="Expire posts older than this many days")
     result.add_argument("--backlog-days", type=int, help="Explicitly seed this many days of feed history")
-    result.add_argument("--threshold", type=int, default=12)
+    result.add_argument("--threshold", type=int, default=6, help="Minimum number of posts required to generate a report")
     result.add_argument("--candidate-limit", type=int, default=15)
     result.add_argument("--batch-size", type=int, default=12)
     result.add_argument("--model", default="gpt-5")

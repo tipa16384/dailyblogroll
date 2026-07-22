@@ -14,8 +14,16 @@ from typing import Iterable
 from settings import DB_PATH
 
 
+class ClosingConnection(sqlite3.Connection):
+    def __exit__(self, exc_type, exc_value, traceback):
+        try:
+            return super().__exit__(exc_type, exc_value, traceback)
+        finally:
+            self.close()
+
+
 def connect(db_path: str | Path = DB_PATH) -> sqlite3.Connection:
-    con = sqlite3.connect(str(db_path))
+    con = sqlite3.connect(str(db_path), factory=ClosingConnection)
     con.row_factory = sqlite3.Row
     con.execute("PRAGMA foreign_keys = ON")
     return con

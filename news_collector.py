@@ -15,6 +15,7 @@ import yaml
 from markdownify import markdownify
 from readability import Document
 
+from backoff import run_with_429_backoff
 import news_db
 
 
@@ -46,8 +47,18 @@ def entry_timestamp(entry) -> int | None:
 
 
 def fetch_readable(url: str, timeout: int = 20) -> tuple[str, str]:
-    response = requests.get(url, timeout=timeout, headers={"User-Agent": USER_AGENT})
-    response.raise_for_status()
+    def load_response():
+        response = requests.get(url, timeout=timeout, headers={"User-Agent": USER_AGENT})
+        if response.status_code == 429:
+            raise requests.HTTPError("429 Too Many Requests", response=response)
+        response.raise_for_status()
+        return response
+
+    response = run_with_429_backoff(
+        load_response,
+        logger=LOGGER,
+        description=f"fetching article {url}",
+    )
     document = Document(response.text)
     title = (document.title() or "").strip()
     body = markdownify(document.summary()).strip()
@@ -72,7 +83,8 @@ def collect(
     """
     news_db.initialize(db_path)
     now_ts = int(time.time())
-    cutoff = now_ts - backlog_days * 86400 if backlog_days is not None else None
+    retention_cutoff = now_ts - retention_days * 86400
+    backlog_cutoff = now_ts - backlog_days * 86400 if backlog_days is not None else None
     stats = {"feeds": 0, "entries": 0, "stored": 0, "errors": []}
 
     feeds = load_feeds(feeds_path)
@@ -98,8 +110,12 @@ def collect(
             if getattr(parsed, "bozo", False) and not parsed.entries:
                 raise ValueError(str(getattr(parsed, "bozo_exception", "feed parse failed")))
 
+            # Never fetch feed entries older than the retention window.
+            effective_cutoff = retention_cutoff
+            if backlog_cutoff is not None:
+                effective_cutoff = max(effective_cutoff, backlog_cutoff)
+
             # First ordinary poll establishes the DB checkpoint without mining.
-            effective_cutoff = cutoff
             if first_poll and backlog_days is None:
                 effective_cutoff = now_ts
 

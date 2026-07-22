@@ -134,15 +134,12 @@ def mock_feedparser_parse(url, etag=None, **kwargs):
     return mock_result
 
 def mock_db_with_selection_history(selection_history):
-    """Mock database connection with selection history."""
-    mock_con = MagicMock()
-    mock_con.execute.return_value.fetchone.return_value = None  # Nothing seen before
-    
+    """Build mock database helpers with selection history."""
     # Mock get_days_since_last_selection function
     def mock_get_days_since_last_selection(con, feed_url):
         return selection_history.get(feed_url, None)
-    
-    return mock_con, mock_get_days_since_last_selection
+
+    return mock_get_days_since_last_selection
 
 def test_feed_prioritization():
     """Test that feeds are properly ordered: required first, then by selection history."""
@@ -181,13 +178,14 @@ def test_feed_prioritization():
                     pass
             return MockFile()
         
-        mock_con, mock_get_days_func = mock_db_with_selection_history(selection_history)
+           mock_get_days_func = mock_db_with_selection_history(selection_history)
         
         with patch('blogroll.feedparser.parse', side_effect=mock_feedparser_parse), \
-             patch('blogroll.db', return_value=mock_con), \
-             patch('blogroll.get_days_since_last_selection', side_effect=mock_get_days_func), \
-             patch('blogroll.get_all_feed_selection_stats', return_value=[]), \
-             patch('blogroll.update_feed_selection'), \
+               patch('blogroll.db.get_days_since_last_selection', side_effect=lambda feed_url: mock_get_days_func(None, feed_url)), \
+               patch('blogroll.db.get_all_feed_selection_stats', return_value=[]), \
+               patch('blogroll.db.update_feed_selection'), \
+               patch('blogroll.db.already_seen', return_value=False), \
+               patch('blogroll.db.mark_seen'), \
              patch('blogroll.STATE_PATH', Path(temp_state_file)), \
              patch('blogroll.ROOT', Path.cwd()), \
              patch('builtins.open', side_effect=lambda filename, *args, **kwargs: 

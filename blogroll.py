@@ -1,4 +1,5 @@
 import os, textwrap, json, datetime, time
+import html
 from urllib.parse import urlparse
 import requests, feedparser, yaml
 from readability import Document
@@ -501,7 +502,14 @@ def render_markdown(blog_title, items):
         lines.append(f"## {category}\n")
         for it in cat_items:
             # bullet: blog name — one-liner (with link)
-            lines.append(f"- **[{it['source']}]({it['url']})** — {it['one_liner'].rstrip()}")
+            source = html.escape(str(it["source"]))
+            url = html.escape(str(it["url"]), quote=True)
+            lines.append(
+                "- **"
+                f"<a href=\"{url}\" target=\"_blank\" rel=\"noopener noreferrer\">{source}</a>"
+                "**"
+                f" -- {it['one_liner'].rstrip()}"
+            )
             
     md = "\n".join(lines) + "\n"
     path = BLOGROLLS_DIR / "latest.md"

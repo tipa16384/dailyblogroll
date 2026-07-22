@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-07-21
+# Daily Blogroll: 2026-07-22
 
 ## Gaming
 
-- **[The Ancient Gaming Noob](https://tagn.wordpress.com/2026/07/20/eve-online-and-the-coming-ansiblex-nerf/)** — Wilhelm breaks down EVE Online’s proposed Ansiblex jump bridge nerfs, with smaller ships favored and capitals locked out in a very nullsec-shaping change.
-- **[Streets & Spores](https://streetsinturmoil.com/2026/07/20/slug-house-end-of-investigation-session-26/)** — David recaps a lively Slug House session, with guild politics, a creeping swamp, and the Battle Brothers chasing a giant slug through Uzul’s manor.
-- **[In An Age](https://inanage.com/2026/07/20/out-of-breath-of-the-wild/)** — Azuriel is not having a great time with Breath of the Wild, blaming weapon durability, clunky menus, and combat rewards that make fighting feel pointless.
-- **[Scopique](https://scopique.com/2026/07/20/thats-it-im-done-full-circle-achieved/)** — Scopique finds a near-perfect TradeWars 2002 throwback in Warp to Sector One, with just enough modern UI to spare the paper notes.
-- **[Leeks Cosy Corner](https://leekscosycorner.com/2026/07/20/lavender-station-demo-review/)** — Krista highlights Lavender Station’s demo as a calm, hand-drawn train-station sim built around cleaning, decorating, and zero-pressure cosy routines.
-- **[Inventory Full](https://bhagpuss.blogspot.com/2026/07/read-all-about-it-cat-scratch-fever.html)** — Bhagpuss gets cheerfully hooked on Hethereau’s Midnight Catzebo scratch-card event, proving 999 Nights added at least one very effective money sink.
+- **<a href="https://chasingdings.com/2026/07/21/frosthaven-scenario-23-spire-basement/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa’s Frosthaven crew bungles Spire Basement hilariously, clogging the start with traps and obstacles before chasing a Living Doom kill for her Trapper quest.
+- **<a href="https://frostilyte.ca/2026/07/21/the-absurdity-of-mewgenics-radio/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte marvels at Mewgenics’ absurdly detailed in-game radio, a pointless-on-paper feature that quietly makes the world feel weirdly alive.
+- **<a href="https://priestwithacause.blogspot.com/2026/07/a-peculiar-casual.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar digs through Data for Azeroth and realizes her supposedly casual World of Warcraft playstyle has earned some surprisingly rare achievements.
+- **<a href="https://pixelnomad.ca/2026/07/21/wo-mining-mining-more-mining/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace is deep in Wurm Online mining grind mode, pushing from 83 toward 99 while juggling meditation and an army of brick-making priests.
+- **<a href="http://tobolds.blogspot.com/2026/07/barrier-to-entry-games.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold argues Pathfinder: Wrath of the Righteous loses plenty of players to complexity, but that same brutal barrier is exactly where the fun lives.
 ## Writing
 
-- **[Tofutush's Blog](https://tofutush.github.io/posts/2026-07-09.html)** — Tofutush answers an OC questionnaire on influences like MLP and Homestuck, favorite tropes, and why paranoia keeps showing up in her characters.
-- **[Hamatti](https://hamatti.org/posts/a-lovely-dialogue-about-taking-notes-from-see-how-they-run/)** — Juhis spots a perfect note-taking exchange in See How They Run and delights in the ‘write everything down first’ philosophy.
-- **[Indiecator](https://indiecator.org/2026/07/20/blaugust-2026-is-coming/)** — Magi kicks off Blaugust 2026 with signup details, posting milestones, and a community-builder track that keeps the event about connection, not just output.
+- **<a href="https://tagn.wordpress.com/2026/07/21/the-herald-of-blaugust-2026-blaugust-must-go-on/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm kicks off Blaugust 2026, keeping Belghast’s blogging tradition alive with the usual signups, Discord, and room for both daily grinders and casual posters.
+- **<a href="https://wordsundermyname.wordpress.com/2026/07/21/7-21-2026-take-care/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 reflects on building basic self-care habits, surviving summer projects and Poison Everything, and maybe reviving a writing routine before Blaugust.
+## General
+
+- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/07/21/the-questions-your-kids-dont-ask/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar writes about retirement, moving, and the big unasked questions his sons are really asking sideways about whether he’s okay and whether it was worth it.
 ## Tech
 
-- **[Smith Talks Tech](https://smithtalkstech.com/2026/07/20/learning-in-the-age-of-ai/)** — Pete likes AI but argues it can sabotage learning to code, especially when search and editor autocomplete hand you the answer too fast.
-- **[Endgame Viable](https://endgameviable.com/post/2026/07/rss-traffic-statistics/)** — UltrViolet digs into traffic logs and finds RSS dominates his readership, then pivots to thoughts on aging Kindles and Dungeon Crawler Carl.
-- **[Jamie Zawinski's Blog](https://www.jwz.org/blog/2026/07/sd/)** — Jamie Zawinski turns an SD-card errand into a small manifesto against paying wildly inflated storage prices on principle.
+- **<a href="https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier flags MIT’s rollout of 500-plus AI surveillance cameras with face, object, and behavior classification, and the takeaway is basically just: yikes.
+- **<a href="https://warnercrocker.com/2026/07/21/report-apple-to-launch-subscription-services-for-devices/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner reads Apple’s rumored device leasing plan as another step toward segmented computing, where financing softens sticker shock but widens who gets access.
+- **<a href="http://scripting.com/2026/07/21.html#a143716" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer sketches rss.chat as a three-part RSS ecosystem for writing, reading, and whatever indie developers build in the space between.
+- **<a href="https://brennan.day/adding-thousands-of-lines-to-your-codebase-isnt-impressive-its-actually-bad/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan pushes back on vibe coding bravado, arguing AI-generated mountains of code are a maintenance liability, not a meaningful productivity flex.
