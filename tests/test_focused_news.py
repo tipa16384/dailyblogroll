@@ -75,6 +75,32 @@ class DatabaseTests(unittest.TestCase):
         )
         return post_id
 
+    def test_existing_report_table_is_migrated_for_html_supplements(self):
+        legacy = Path(self.temp.name) / "legacy.db"
+        with news_db.connect(legacy) as con:
+            con.execute(
+                """
+                CREATE TABLE news_reports (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    topic_id TEXT NOT NULL,
+                    title TEXT NOT NULL,
+                    markdown TEXT NOT NULL,
+                    generated_at TEXT NOT NULL,
+                    output_path TEXT
+                )
+                """
+            )
+        news_db.initialize(legacy)
+        with news_db.connect(legacy) as con:
+            columns = {
+                row["name"] for row in con.execute(
+                    "PRAGMA table_info(news_reports)"
+                )
+            }
+        self.assertTrue({
+            "summary", "topic_name", "edition_date", "body_json", "public_url"
+        }.issubset(columns))
+
     def test_rotation_prefers_never_published_topic_without_miscounting(self):
         for i in range(1, 3):
             self.add_classified(i, "mmorpgs")
@@ -174,74 +200,60 @@ class ModelTests(unittest.TestCase):
         self.assertEqual(client.responses.calls, 3)
         self.assertEqual([call.args[0] for call in sleep.call_args_list], [2.0, 4.0])
 
-    def test_reporter_renders_verified_attribution_and_url(self):
+    def test_reporter_validates_source_markers_and_builds_references(self):
         result = {
             "title": "Signals from New Eden",
-            "markdown": (
-                "[Belghast on Tales of the Aggronaut](source:P1) reports that the afterlife "
-                "has terrible latency.\n\n## Posts discussed\n\n"
-                "- [Belghast on Tales of the Aggronaut](source:P1): Post 1"
-            ),
+            "summary": "[[P1]] reports from beyond the grave.",
+            "body": ["The afterlife has terrible latency, according to [[P1]]."],
             "used_source_ids": ["P1"],
         }
-        rendered, used = news_reporter.validate_and_render(result, [post(1)])
-        self.assertIn("https://example.test/posts/1", rendered)
-        self.assertIn("[Belghast on Tales of the Aggronaut](https://example.test/posts/1)", rendered)
-        self.assertNotIn("source:P1", rendered)
-        self.assertNotIn("<a href=", rendered)
+        validated, used = news_reporter.validate_report(result, [post(1)])
+        references = news_reporter.references_for_report(validated, [post(1)])
+        segments = news_reporter.segment_text(validated["summary"], references)
         self.assertEqual(used, [1])
+        self.assertEqual(references[0]["blogger"], "Belghast")
+        self.assertEqual(references[0]["blog_name"], "Tales of the Aggronaut")
+        self.assertEqual(segments[0]["reference"]["url"], "https://example.test/posts/1")
 
-    def test_reporter_normalizes_posts_discussed_heading_to_markdown(self):
-        result = {
-            "title": "Heading fix",
-            "markdown": (
-                "Intro paragraph.\n\nPosts discussed\n\n"
-                "- [Belghast on Tales of the Aggronaut](source:P1): Post 1"
-            ),
-            "used_source_ids": ["P1"],
-        }
-        rendered, _ = news_reporter.validate_and_render(result, [post(1)])
-        self.assertIn("## Posts discussed", rendered)
-        self.assertNotIn("\nPosts discussed\n", rendered)
-
-    def test_reporter_rejects_raw_html_in_markdown(self):
-        result = {
-            "title": "HTML output",
-            "markdown": (
-                "<p>Intro</p>\n\n## Posts discussed\n\n"
-                "- [Belghast on Tales of the Aggronaut](source:P1): Post 1"
-            ),
-            "used_source_ids": ["P1"],
-        }
-        with self.assertRaisesRegex(ValueError, "raw HTML"):
-            news_reporter.validate_and_render(result, [post(1)])
-
-    def test_reporter_rejects_missing_blog_name(self):
-        result = {
-            "title": "Bad attribution",
-            "markdown": "[Belghast](source:P1) reports something.",
-            "used_source_ids": ["P1"],
-        }
-        with self.assertRaisesRegex(ValueError, "Attribution"):
-            news_reporter.validate_and_render(result, [post(1)])
-
-    def test_reporter_rejects_declared_but_unlinked_source(self):
+    def test_reporter_rejects_declared_but_unmarked_source(self):
         result = {
             "title": "Bad source list",
-            "markdown": "[Belghast on Tales of the Aggronaut](source:P1) reports something.",
+            "summary": "A broad introduction.",
+            "body": ["Only [[P1]] is actually referenced."],
             "used_source_ids": ["P1", "P2"],
         }
         with self.assertRaisesRegex(ValueError, "do not match"):
-            news_reporter.validate_and_render(result, [post(1), post(2)])
+            news_reporter.validate_report(result, [post(1), post(2)])
+
+    def test_reporter_rejects_unknown_source_marker(self):
+        result = {
+            "title": "Unknown source",
+            "summary": "[[P9]] reports something.",
+            "body": ["A complete paragraph."],
+            "used_source_ids": ["P9"],
+        }
+        with self.assertRaisesRegex(ValueError, "unknown"):
+            news_reporter.validate_report(result, [post(1)])
 
     def test_reporter_rejects_duplicate_declared_source(self):
         result = {
             "title": "Duplicate source",
-            "markdown": "[Belghast on Tales of the Aggronaut](source:P1) reports something.",
+            "summary": "[[P1]] reports something.",
+            "body": ["More context from [[P1]]."],
             "used_source_ids": ["P1", "P1"],
         }
         with self.assertRaisesRegex(ValueError, "duplicates"):
-            news_reporter.validate_and_render(result, [post(1)])
+            news_reporter.validate_report(result, [post(1)])
+
+    def test_reporter_requires_complete_prose(self):
+        result = {
+            "title": "Incomplete",
+            "summary": "",
+            "body": [],
+            "used_source_ids": ["P1"],
+        }
+        with self.assertRaisesRegex(ValueError, "title, summary"):
+            news_reporter.validate_report(result, [post(1)])
 
     def test_fake_clients_do_not_share_call_history(self):
         first = FakeClient({"posts": []})
@@ -362,28 +374,31 @@ class CollectorTests(unittest.TestCase):
 
 
 class OrchestrationTests(unittest.TestCase):
-    def test_generated_document_has_hugo_front_matter(self):
-        generated = dt.datetime(2026, 7, 21, 17, 30, tzinfo=dt.timezone(
-            dt.timedelta(hours=-4)
-        ))
-        document = focused_news.build_document(
-            'AI, Blogs, and "Open" Questions',
-            "Open Web and RSS",
-            "Report body.\n",
-            generated,
+    def test_supplement_template_renders_escaped_prose_and_references(self):
+        references = [{
+            "source_id": "P1",
+            "post_id": 1,
+            "blogger": "Belghast",
+            "blog_name": "Tales of the Aggronaut",
+            "title": "Post 1",
+            "url": "https://example.test/posts/1",
+            "published_at": "2026-07-20T12:00:00+00:00",
+        }]
+        output = focused_news.render_supplement(
+            {
+                "title": "Signals from New Eden",
+                "summary": "[[P1]] sees a pattern.",
+                "body": ["A <script>alert('no')</script> remains text beside [[P1]]."],
+                "edition_date": "2026-07-21",
+                "topic_name": "MMORPGs",
+            },
+            references,
         )
-        self.assertEqual(
-            document,
-            "---\n"
-            "date: '2026-07-21T21:30:00Z'\n"
-            "draft: false\n"
-            'title: "AI, Blogs, and \\"Open\\" Questions"\n'
-            'author: "Focused News"\n'
-            "categories:\n"
-            '  - "Open Web and RSS"\n'
-            "---\n\n"
-            "Report body.\n",
-        )
+        self.assertIn("<h1>Signals from New Eden</h1>", output)
+        self.assertIn("Belghast on Tales of the Aggronaut</a>", output)
+        self.assertIn("&lt;script&gt;", output)
+        self.assertNotIn("<script>alert", output)
+        self.assertIn("<h2>Posts Discussed</h2>", output)
 
     def test_parser_accepts_verbose_flag(self):
         args = focused_news.parser().parse_args(["--verbose"])
@@ -397,34 +412,47 @@ class OrchestrationTests(unittest.TestCase):
         self.assertEqual(focused_news.LOGGER.level, 10)
 
     def test_removed_topic_is_skipped_for_next_configured_topic(self):
-        with tempfile.TemporaryDirectory() as directory, patch.object(
-            news_db,
-            "eligible_topics",
-            return_value=[{"topic_id": "removed"}, {"topic_id": "technology"}],
-        ), patch.object(
-            news_classifier,
-            "load_topics",
-            return_value=[{"id": "technology", "name": "Technology"}],
-        ), patch.object(
-            news_db, "candidate_posts", return_value=[post(1)]
-        ), patch.object(
-            news_reporter,
-            "generate_report",
-            return_value={"title": "Tech Report", "markdown": "draft", "used_source_ids": ["P1"]},
-        ) as generate, patch.object(
-            news_reporter, "validate_and_render", return_value=("rendered\n", [1])
-        ), patch.object(news_db, "save_report") as save:
-            output = focused_news.generate_if_ready(
-                db_path=Path(directory) / "test.db",
-                topics_path="topics.yaml",
-                output_dir=directory,
-                threshold=1,
-            )
+        with tempfile.TemporaryDirectory() as directory:
+            database = Path(directory) / "test.db"
+            news_db.initialize(database)
+            with patch.object(focused_news, "BLOGROLLS_DIR", Path(directory)), \
+                    patch.object(
+                        news_db,
+                        "eligible_topics",
+                        return_value=[
+                            {"topic_id": "removed"},
+                            {"topic_id": "technology"},
+                        ],
+                    ), patch.object(
+                        news_classifier,
+                        "load_topics",
+                        return_value=[{"id": "technology", "name": "Technology"}],
+                    ), patch.object(
+                        news_db, "candidate_posts", return_value=[post(1)]
+                    ), patch.object(
+                        news_reporter,
+                        "generate_report",
+                        return_value={
+                            "title": "Tech Report",
+                            "summary": "[[P1]] reports.",
+                            "body": ["A thoughtful body from [[P1]]."],
+                            "used_source_ids": ["P1"],
+                        },
+                    ) as generate, patch.object(
+                        focused_news, "render_saved_supplements"
+                    ), patch.object(news_db, "save_report") as save:
+                output = focused_news.generate_if_ready(
+                    db_path=database,
+                    topics_path="topics.yaml",
+                    output_dir=directory,
+                    threshold=1,
+                )
         self.assertIsNotNone(output)
         today = dt.date.today()
-        expected_parent = Path(directory) / f"{today:%Y}" / f"{today:%m}" / f"{today:%d}"
+        expected_parent = Path(directory) / f"{today:%Y}" / f"{today:%m}"
         self.assertEqual(output.parent, expected_parent)
-        self.assertTrue(output.name.startswith(f"{today.isoformat()}-"))
+        self.assertTrue(output.name.startswith(f"deep-dive-{today.isoformat()}-"))
+        self.assertEqual(output.suffix, ".html")
         generate.assert_called_once()
         self.assertEqual(generate.call_args.args[0], "Technology")
         self.assertEqual(save.call_args.args[0], "technology")

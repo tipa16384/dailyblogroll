@@ -7,6 +7,7 @@ database file with Daily Blogroll but neither reads nor modifies its tables.
 from __future__ import annotations
 
 import datetime as dt
+import json
 import sqlite3
 from pathlib import Path
 from typing import Iterable
@@ -72,7 +73,12 @@ def initialize(db_path: str | Path = DB_PATH) -> None:
                 title TEXT NOT NULL,
                 markdown TEXT NOT NULL,
                 generated_at TEXT NOT NULL,
-                output_path TEXT
+                output_path TEXT,
+                summary TEXT NOT NULL DEFAULT '',
+                topic_name TEXT NOT NULL DEFAULT '',
+                edition_date TEXT,
+                body_json TEXT,
+                public_url TEXT
             );
 
             CREATE TABLE IF NOT EXISTS news_report_posts (
@@ -89,6 +95,19 @@ def initialize(db_path: str | Path = DB_PATH) -> None:
                 ON news_reports(topic_id, generated_at);
             """
         )
+        report_columns = {
+            row["name"] for row in con.execute("PRAGMA table_info(news_reports)")
+        }
+        migrations = {
+            "summary": "ALTER TABLE news_reports ADD COLUMN summary TEXT NOT NULL DEFAULT ''",
+            "topic_name": "ALTER TABLE news_reports ADD COLUMN topic_name TEXT NOT NULL DEFAULT ''",
+            "edition_date": "ALTER TABLE news_reports ADD COLUMN edition_date TEXT",
+            "body_json": "ALTER TABLE news_reports ADD COLUMN body_json TEXT",
+            "public_url": "ALTER TABLE news_reports ADD COLUMN public_url TEXT",
+        }
+        for column, statement in migrations.items():
+            if column not in report_columns:
+                con.execute(statement)
 
 
 def upsert_feed_state(
@@ -287,19 +306,30 @@ def candidate_posts(
 def save_report(
     topic_id: str,
     title: str,
-    markdown: str,
+    body: Iterable[str],
     post_ids: Iterable[int],
     output_path: str,
     *,
+    summary: str = "",
+    topic_name: str = "",
+    edition_date: str | None = None,
+    public_url: str | None = None,
     db_path: str | Path = DB_PATH,
 ) -> int:
     now = dt.datetime.now(dt.timezone.utc).isoformat()
     ids = list(dict.fromkeys(post_ids))
+    paragraphs = [body] if isinstance(body, str) else list(body)
+    edition_date = edition_date or dt.date.today().isoformat()
     with connect(db_path) as con:
         cur = con.execute(
-            """INSERT INTO news_reports(topic_id, title, markdown, generated_at, output_path)
-               VALUES (?, ?, ?, ?, ?)""",
-            (topic_id, title, markdown, now, output_path),
+            """INSERT INTO news_reports(
+                   topic_id, title, markdown, generated_at, output_path,
+                   summary, topic_name, edition_date, body_json, public_url
+               ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            (
+                topic_id, title, "", now, output_path, summary, topic_name,
+                edition_date, json.dumps(paragraphs, ensure_ascii=False), public_url,
+            ),
         )
         report_id = int(cur.lastrowid)
         con.executemany(
@@ -311,6 +341,55 @@ def save_report(
             [(post_id,) for post_id in ids],
         )
         return report_id
+
+
+def published_reports(db_path: str | Path = DB_PATH) -> list[sqlite3.Row]:
+    """Return HTML supplements in navigation order, oldest first."""
+    with connect(db_path) as con:
+        return con.execute(
+            """
+            SELECT * FROM news_reports
+            WHERE body_json IS NOT NULL
+              AND output_path IS NOT NULL
+              AND public_url IS NOT NULL
+            ORDER BY edition_date, generated_at, id
+            """
+        ).fetchall()
+
+
+def latest_published_report(
+    db_path: str | Path = DB_PATH,
+) -> sqlite3.Row | None:
+    """Return the most recently published HTML supplement."""
+    with connect(db_path) as con:
+        return con.execute(
+            """
+            SELECT * FROM news_reports
+            WHERE body_json IS NOT NULL
+              AND output_path IS NOT NULL
+              AND public_url IS NOT NULL
+            ORDER BY edition_date DESC, generated_at DESC, id DESC
+            LIMIT 1
+            """
+        ).fetchone()
+
+
+def report_references(
+    report_id: int,
+    db_path: str | Path = DB_PATH,
+) -> list[sqlite3.Row]:
+    """Return a report's original posts in their saved association order."""
+    with connect(db_path) as con:
+        return con.execute(
+            """
+            SELECT p.*
+            FROM news_report_posts rp
+            JOIN news_posts p ON p.id = rp.post_id
+            WHERE rp.report_id = ?
+            ORDER BY rp.rowid
+            """,
+            (report_id,),
+        ).fetchall()
 
 
 def expire_text(*, db_path: str | Path = DB_PATH) -> int:

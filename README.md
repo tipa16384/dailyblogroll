@@ -7,6 +7,8 @@ DailyBlogroll is a simple Python tool that generates a "daily blogroll"—a cura
 - **Automated Blogroll Generation:** Collects and compiles links from blogs you read into a daily list.
 - **Customizable Sources:** Easily modify the list of blogs and feeds.
 - **Focus on Gaming & Tech:** Tailored for enthusiasts who want up-to-date content in these niches.
+- **Deep Dive Supplements:** Publishes an occasional narrative feature when
+  enough recent posts converge on one configured topic.
 - **Lightweight & Easy to Use:** Minimal dependencies, runs with Python.
 
 ## How It Works
@@ -41,10 +43,17 @@ pip install -r requirements.txt
 Run the script to generate your daily blogroll:
 
 ```sh
+python focused_news.py
 python blogroll.py
 ```
 
-By default, the output will be printed to the console or written to a file (see options in `blogroll.py`). You can customize which blogs are included by editing the configuration section in `blogroll.py`.
+`focused_news.py` should run first. It may generate a static HTML Deep Dive, but
+does nothing when no topic has enough matching posts. `blogroll.py` then links
+the latest completed supplement from the mutable `index.html`; dated Blogroll
+archives remain unchanged. See [`FOCUSED_NEWS.md`](FOCUSED_NEWS.md) for topic,
+retention, threshold, output, and diagnostic options.
+
+You can customize the included blogs in `feeds.yaml`.
 
 ## Configuration
 
