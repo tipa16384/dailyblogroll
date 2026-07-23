@@ -222,8 +222,8 @@ def generate_if_ready(
         raise
     try:
         render_saved_supplements(db_path=db_path)
-    except Exception as err:
-        LOGGER.warning("Could not rebuild Deep Dive navigation: %s", err)
+    except Exception:
+        LOGGER.exception("Could not rebuild Deep Dive navigation")
     LOGGER.debug("Wrote focused report to %s.", path)
     return path
 
@@ -232,8 +232,8 @@ def run(args) -> Path | None:
     news_db.initialize(args.database)
     try:
         render_saved_supplements(db_path=args.database)
-    except Exception as err:
-        LOGGER.warning("Could not refresh existing Deep Dive pages: %s", err)
+    except Exception:
+        LOGGER.exception("Could not refresh existing Deep Dive pages")
     expired = news_db.expire_text(db_path=args.database)
     LOGGER.debug("Expired cached article text for %d posts.", expired)
     collection = news_collector.collect(
