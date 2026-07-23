@@ -16,6 +16,8 @@ from bs4 import BeautifulSoup
 from collections import defaultdict
 from settings import *
 import db
+import news_db
+import news_reporter
 
 BOT_USER_AGENT = "DailyBlogrollBot/1.0 (+https://westkarana.xyz/)"
 
@@ -436,6 +438,73 @@ def filename_to_path(filename):
         return file_path
     return BLOGROLLS_DIR / filename
 
+
+def latest_supplement_context(today=None):
+    """Return the latest published Deep Dive for the mutable index page."""
+    today = today or datetime.date.today()
+    news_db.initialize(DB_PATH)
+    report = news_db.latest_published_report(db_path=DB_PATH)
+    if report is None:
+        return None
+    output_path = Path(report["output_path"])
+    if not output_path.is_absolute():
+        output_path = ROOT / output_path
+    if not output_path.exists():
+        return None
+    references = [
+        {
+            "source_id": news_reporter.source_id(post["id"]),
+            "blogger": post["blogger"],
+            "blog_name": post["blog_name"],
+        }
+        for post in news_db.report_references(report["id"], db_path=DB_PATH)
+    ]
+    return {
+        "title": report["title"],
+        "summary": news_reporter.expand_source_names(report["summary"], references),
+        "topic": report["topic_name"],
+        "date": report["edition_date"],
+        "url": report["public_url"],
+        "is_new": report["edition_date"] == today.isoformat(),
+    }
+
+
+def render_supplement_promo(supplement):
+    template = env.get_template("supplementpromo.html")
+    variables = {}
+    if supplement is not None:
+        variables["latest_supplement"] = supplement
+    return template.render(vars=variables)
+
+
+def refresh_index_supplement(today=None):
+    """Refresh only the Deep Dive promotion on an existing index page."""
+    index_path = BLOGROLLS_DIR / "index.html"
+    if not index_path.exists():
+        return
+    soup = BeautifulSoup(index_path.read_text(encoding="utf-8"), "html.parser")
+    existing = soup.find("aside", id="latest-deep-dive")
+    supplement = latest_supplement_context(today)
+    changed = False
+    if supplement is None:
+        if existing:
+            existing.decompose()
+            changed = True
+    else:
+        fragment = BeautifulSoup(
+            render_supplement_promo(supplement), "html.parser"
+        ).find("aside")
+        if existing:
+            existing.replace_with(fragment)
+            changed = True
+        else:
+            masthead = soup.find("div", class_="newspaper-container")
+            if masthead:
+                masthead.insert_after(fragment)
+                changed = True
+    if changed:
+        index_path.write_text(str(soup), encoding="utf-8")
+
 def render_html(blog_title, items):
     """Simple HTML rendering (not used by default) render
     renders to a grid 3 across and up to 4 down, each element has the CSS class 'feed-element'
@@ -472,14 +541,19 @@ def render_html(blog_title, items):
 
     jinja_vars["blogs"] = jinja_item_list
     template = env.get_template(BLOG_TEMPLATE)
-    output = template.render(vars=jinja_vars)
+    archive_output = template.render(vars=jinja_vars)
+    index_vars = dict(jinja_vars)
+    supplement = latest_supplement_context(today)
+    if supplement is not None:
+        index_vars["latest_supplement"] = supplement
+    index_output = template.render(vars=index_vars)
 
     filename = f"daily-blogroll-{today.strftime('%Y-%m-%d')}.html"
     path = filename_to_path(filename)
     with open(path, "w", encoding="utf-8") as f:
-        f.write(output)
+        f.write(archive_output)
     with open(BLOGROLLS_DIR / "index.html", "w", encoding="utf-8") as f:
-        f.write(output)
+        f.write(index_output)
     with open(BLOGROLLS_DIR / "latest.txt", "w", encoding="utf-8") as f:
         f.write("\n\n".join(alt_text_list) + "\n")
     return path, title
@@ -521,6 +595,7 @@ def main():
     cfg = load_cfg()
     items = collect_new_items(cfg)
     if not items:
+        refresh_index_supplement()
         print("No fresh posts.")
         return
     # Keep the order stable but not biased: sort by source, then title

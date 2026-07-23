@@ -1,18 +1,25 @@
 # Focused News
 
-`focused_news.py` is an experimental companion to Daily Blogroll. It does not
-import or alter `blogroll.py`, `db.py`, their state file, or their existing
-SQLite tables. It reuses `feeds.yaml` and stores everything it owns in tables
-whose names begin with `news_` in the same `blogroll.db` file.
+`focused_news.py` generates occasional Deep Dive supplements for Daily
+Blogroll. It remains a separate command, reuses `feeds.yaml`, and stores
+everything it owns in tables whose names begin with `news_` in the shared
+`blogroll.db` file. `blogroll.py` reads completed supplement metadata only when
+building the current `index.html`.
 
 The application:
 
 1. polls the configured feeds and temporarily caches cleaned article text;
 2. assigns zero or more configured topics to each new post;
-3. waits until a topic has at least twelve unused, unexpired matches;
+3. waits until a topic has at least six unused, unexpired matches;
 4. chooses the eligible topic that was reported least recently;
-5. asks GPT to write a cohesive, newscaster-style Markdown feature; and
-6. consumes only posts that the validated report actually attributes and links.
+5. asks GPT for a title, short deck, and cohesive newscaster-style paragraphs;
+6. renders a permanent HTML supplement through Jinja; and
+7. consumes only posts that the validated report actually attributes and links.
+
+The focused-news command should run before `blogroll.py`. If it publishes a new
+supplement, the current Daily Blogroll index promotes it with a `New` marker.
+If it publishes nothing, the index continues to link the most recent
+supplement. Dated Daily Blogroll archives never receive this promotion.
 
 ## Running it
 
@@ -91,35 +98,33 @@ changing its ID makes it a different topic.
 
 ### `--output-dir PATH`
 
-Selects the destination for generated Markdown reports. The default is
-`news_reports`. The directory is created when needed. No file is written when
-no topic reaches the threshold or when report validation fails.
+Selects the destination for generated HTML supplements. The default is
+`docs/deep-dives`, beneath the static site root. The directory is created when
+needed. No file is written when no topic reaches the threshold or when report
+validation fails.
 
 ```sh
-python focused_news.py --output-dir draft-reports
+python focused_news.py --output-dir docs/experimental-deep-dives
 ```
 
-Each report begins with minimal Hugo-compatible YAML front matter:
+The output directory must be inside `docs`, because the stored public URL is
+derived from its location relative to that site root. Supplements are arranged
+by year and month:
 
-```yaml
----
-date: '2026-07-21T21:30:00Z'
-draft: false
-title: "Signals from New Eden"
-categories:
-  - "MMORPGs"
----
+```text
+docs/deep-dives/2026/07/deep-dive-2026-07-23-signals-from-new-eden.html
 ```
 
-The date is the report-generation time normalized to UTC. The title comes from
-the generated report, and the category is the selected topic's display name.
-The article body does not repeat the title as a Markdown H1 because Hugo can
-render it from front matter.
+Each page is rendered with `templates/supplementtemplate.html`, uses the
+existing Daily Blogroll stylesheet, and receives title, edition date, topic,
+summary, body paragraphs, references, and Deep Dive navigation as Jinja data.
+The database retains the structured body so previous/next navigation can be
+rebuilt without parsing generated HTML.
 
 ### `--retention-days NUMBER`
 
 Controls how long full article text remains eligible, measured from the post's
-publication time. The default is 7 days. If no usable publication time exists,
+publication time. The default is 10 days. If no usable publication time exists,
 the discovery time is used. After expiry, full text is removed while metadata
 is retained for deduplication and history.
 
@@ -150,7 +155,7 @@ and nothing is generated unless one topic reaches `--threshold`.
 ### `--threshold NUMBER`
 
 Sets the minimum number of unused, unexpired posts that must match one topic
-before it becomes eligible for a report. The default is 12. Only topic matches
+before it becomes eligible for a report. The default is 6. Only topic matches
 with relevance of at least 0.6 count.
 
 ```sh
@@ -211,23 +216,41 @@ python focused_news.py --verbose
 Verbose mode reports feed checks, disabled feeds, cache hits, stored and
 too-short articles, GPT classification batches, expired-text and collection
 totals, topic inventory against the threshold, the selected topic, candidate
-and referenced counts, and the Markdown output path. Article text and complete
-GPT prompts are not logged. Fetch and parsing warnings remain visible without
+and referenced counts, and the HTML output path. Article text and complete GPT
+prompts are not logged. Fetch and parsing warnings remain visible without
 verbose mode.
 
 ## Attribution safety
 
-GPT references candidates with internal links such as:
+GPT references candidates with internal markers such as:
 
-```markdown
-[Belghast on Tales of the Aggronaut](source:P42)
+```text
+[[P42]]
 ```
 
 Before writing a report to the database, the application verifies that every
-source ID exists, its label exactly matches the configured blogger and blog,
-and the declared source list matches the links in the article. It then replaces
-the internal target with the original post URL. A failed validation consumes no
-posts and does not update topic history.
+source ID exists and that the declared source list exactly matches the markers
+in the summary and body. Jinja expands every marker into a link labeled with
+the configured blogger and blog. The final reference list is constructed from
+the database rather than generated prose. Model text is HTML-escaped. A failed
+validation consumes no posts and does not update topic history.
+
+## Publishing and navigation
+
+Completed supplement records store the title, summary, topic name, edition
+date, structured body, filesystem path, and public URL. The associated
+`news_report_posts` rows preserve the posts used for attribution and the
+reference list.
+
+Each focused-news run rebuilds the previous/next links for all HTML supplements
+from the database, which also repairs an interrupted earlier update. Legacy
+Markdown reports remain in report history but are not placed in the HTML
+supplement navigation chain.
+
+When `blogroll.py` runs, its dated archive and mutable index are rendered
+separately. Only `index.html` receives the latest supplement data. If there are
+no fresh Daily Blogroll posts, `blogroll.py` refreshes the existing index
+promotion without creating or modifying a dated archive.
 
 ## Tests
 

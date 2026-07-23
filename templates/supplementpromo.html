@@ -1,0 +1,10 @@
+{% if vars.latest_supplement is defined %}
+<aside id="latest-deep-dive" class="deep-dive-promo">
+    <div class="deep-dive-promo-label">
+        Deep Dive{% if vars.latest_supplement.is_new %}<span class="deep-dive-new">New</span>{% endif %}
+    </div>
+    <a class="deep-dive-promo-title" href="{{ vars.latest_supplement.url }}">{{ vars.latest_supplement.title }}</a>
+    <div class="deep-dive-promo-meta">{{ vars.latest_supplement.topic }} · {{ vars.latest_supplement.date }}</div>
+    <p>{{ vars.latest_supplement.summary }}</p>
+</aside>
+{% endif %}
