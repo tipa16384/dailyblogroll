@@ -75,6 +75,22 @@ class SupplementNavigationTests(unittest.TestCase):
             "Second Report",
         )
 
+    def test_saved_supplement_paths_resolve_from_project_root(self):
+        self.add_report(1, "Relative Report", "2026-07-20")
+        relative_path = Path("docs/deep-dives/relative.html")
+        with news_db.connect(self.db) as con:
+            con.execute(
+                "UPDATE news_reports SET output_path = ?",
+                (str(relative_path),),
+            )
+
+        with patch.object(focused_news, "ROOT", self.root):
+            focused_news.render_saved_supplements(db_path=self.db)
+
+        output = self.root / relative_path
+        self.assertTrue(output.exists())
+        self.assertIn("Relative Report", output.read_text(encoding="utf-8"))
+
 
 class BlogrollPromotionTests(unittest.TestCase):
     def test_latest_context_expands_source_markers_for_index_summary(self):

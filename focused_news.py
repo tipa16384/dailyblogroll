@@ -52,6 +52,12 @@ def output_url(path: Path) -> str:
     return "/" + relative.as_posix()
 
 
+def project_path(path: str | Path) -> Path:
+    """Resolve project-relative paths independently of the launch directory."""
+    result = Path(path)
+    return result if result.is_absolute() else ROOT / result
+
+
 def unique_output_path(output_dir: Path, date: str, title: str) -> Path:
     slug = slugify(title) or "supplement"
     base = output_dir / f"deep-dive-{date}-{slug}.html"
@@ -141,7 +147,7 @@ def render_saved_supplements(*, db_path: str | Path) -> None:
             previous=reports[index - 1] if index > 0 else None,
             next_report=reports[index + 1] if index + 1 < len(reports) else None,
         )
-        write_rendered_supplement(Path(row["output_path"]), output)
+        write_rendered_supplement(project_path(row["output_path"]), output)
 
 
 def generate_if_ready(
@@ -181,7 +187,7 @@ def generate_if_ready(
         len(posts) - len(used_ids),
     )
 
-    output_dir = Path(output_dir)
+    output_dir = project_path(output_dir)
     today = dt.date.today()
     dated_dir = output_dir / f"{today:%Y}" / f"{today:%m}"
     date = today.isoformat()
