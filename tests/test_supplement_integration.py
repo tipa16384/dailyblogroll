@@ -114,6 +114,38 @@ class BlogrollPromotionTests(unittest.TestCase):
             )
             self.assertTrue(context["is_new"])
 
+    def test_latest_context_resolves_relative_output_path_from_project_root(self):
+        report = {
+            "id": 1,
+            "title": "Relative Report",
+            "summary": "A current summary.",
+            "topic_name": "Technology",
+            "edition_date": "2026-07-23",
+            "public_url": "/deep-dives/relative.html",
+            "output_path": "docs/deep-dives/relative.html",
+        }
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            output = root / report["output_path"]
+            output.parent.mkdir(parents=True)
+            output.write_text("published", encoding="utf-8")
+            with patch.object(blogroll, "ROOT", root), patch.object(
+                blogroll.news_db, "initialize"
+            ), patch.object(
+                blogroll.news_db,
+                "latest_published_report",
+                return_value=report,
+            ), patch.object(
+                blogroll.news_db,
+                "report_references",
+                return_value=[],
+            ):
+                context = blogroll.latest_supplement_context(
+                    dt.date(2026, 7, 23)
+                )
+
+        self.assertEqual(context["title"], "Relative Report")
+
     def test_dated_archive_omits_promotion_while_index_includes_it(self):
         with tempfile.TemporaryDirectory() as directory:
             output = Path(directory)

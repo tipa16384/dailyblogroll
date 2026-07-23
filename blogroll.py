@@ -444,7 +444,12 @@ def latest_supplement_context(today=None):
     today = today or datetime.date.today()
     news_db.initialize(DB_PATH)
     report = news_db.latest_published_report(db_path=DB_PATH)
-    if report is None or not Path(report["output_path"]).exists():
+    if report is None:
+        return None
+    output_path = Path(report["output_path"])
+    if not output_path.is_absolute():
+        output_path = ROOT / output_path
+    if not output_path.exists():
         return None
     references = [
         {
