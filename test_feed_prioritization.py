@@ -14,7 +14,7 @@ from unittest.mock import patch, MagicMock
 import datetime
 
 # Import the function we want to test
-from blogroll import collect_new_items, load_state, save_state
+from blogroll import collect_new_items
 
 def setup_test_state():
     """Create test state data with some feeds having recent activity and others not."""
@@ -167,25 +167,28 @@ def test_feed_prioritization():
     try:
         # Mock the necessary functions and modules
         debug_log_lines = []
-        
+
         def mock_write_debug_log(filename, mode='w', encoding='utf-8'):
             class MockFile:
                 def write(self, content):
                     debug_log_lines.extend(content.strip().split('\n'))
+
                 def __enter__(self):
                     return self
+
                 def __exit__(self, *args):
                     pass
+
             return MockFile()
-        
-           mock_get_days_func = mock_db_with_selection_history(selection_history)
-        
+
+        mock_get_days_func = mock_db_with_selection_history(selection_history)
+
         with patch('blogroll.feedparser.parse', side_effect=mock_feedparser_parse), \
-               patch('blogroll.db.get_days_since_last_selection', side_effect=lambda feed_url: mock_get_days_func(None, feed_url)), \
-               patch('blogroll.db.get_all_feed_selection_stats', return_value=[]), \
-               patch('blogroll.db.update_feed_selection'), \
-               patch('blogroll.db.already_seen', return_value=False), \
-               patch('blogroll.db.mark_seen'), \
+             patch('blogroll.db.get_days_since_last_selection', side_effect=lambda feed_url: mock_get_days_func(None, feed_url)), \
+             patch('blogroll.db.get_all_feed_selection_stats', return_value=[]), \
+             patch('blogroll.db.update_feed_selection'), \
+             patch('blogroll.db.already_seen', return_value=False), \
+             patch('blogroll.db.mark_seen'), \
              patch('blogroll.STATE_PATH', Path(temp_state_file)), \
              patch('blogroll.ROOT', Path.cwd()), \
              patch('builtins.open', side_effect=lambda filename, *args, **kwargs: 
@@ -270,12 +273,8 @@ def test_feed_prioritization():
                     print(f"  Actual positions: {[(feed, other_positions.get(feed, 'Not found')) for feed in other_feeds_expected_order]}")
                     success = False
                     
-            if success:
-                print(f"\n✓ PASS: Two-tier ordering by selection history working correctly")
-            else:
-                print(f"\n✗ FAIL: Feed ordering incorrect")
-                
-            return success
+            assert success, "Feed ordering incorrect"
+            print(f"\n✓ PASS: Two-tier ordering by selection history working correctly")
     
     finally:
         # Clean up temp file - handle Windows file locking
@@ -286,12 +285,8 @@ def test_feed_prioritization():
 
 if __name__ == "__main__":
     try:
-        success = test_feed_prioritization()
-        if success:
-            print("\n✓ Test completed successfully!")
-        else:
-            print("\n✗ Test FAILED!")
-            exit(1)
+        test_feed_prioritization()
+        print("\n✓ Test completed successfully!")
     except Exception as e:
         print(f"\nTest failed with error: {e}")
         import traceback

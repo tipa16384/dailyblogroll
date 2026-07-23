@@ -186,8 +186,35 @@ class ModelTests(unittest.TestCase):
         }
         rendered, used = news_reporter.validate_and_render(result, [post(1)])
         self.assertIn("https://example.test/posts/1", rendered)
+        self.assertIn("[Belghast on Tales of the Aggronaut](https://example.test/posts/1)", rendered)
         self.assertNotIn("source:P1", rendered)
+        self.assertNotIn("<a href=", rendered)
         self.assertEqual(used, [1])
+
+    def test_reporter_normalizes_posts_discussed_heading_to_markdown(self):
+        result = {
+            "title": "Heading fix",
+            "markdown": (
+                "Intro paragraph.\n\nPosts discussed\n\n"
+                "- [Belghast on Tales of the Aggronaut](source:P1): Post 1"
+            ),
+            "used_source_ids": ["P1"],
+        }
+        rendered, _ = news_reporter.validate_and_render(result, [post(1)])
+        self.assertIn("## Posts discussed", rendered)
+        self.assertNotIn("\nPosts discussed\n", rendered)
+
+    def test_reporter_rejects_raw_html_in_markdown(self):
+        result = {
+            "title": "HTML output",
+            "markdown": (
+                "<p>Intro</p>\n\n## Posts discussed\n\n"
+                "- [Belghast on Tales of the Aggronaut](source:P1): Post 1"
+            ),
+            "used_source_ids": ["P1"],
+        }
+        with self.assertRaisesRegex(ValueError, "raw HTML"):
+            news_reporter.validate_and_render(result, [post(1)])
 
     def test_reporter_rejects_missing_blog_name(self):
         result = {

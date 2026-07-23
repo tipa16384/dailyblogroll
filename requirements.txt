@@ -8,3 +8,4 @@ openai
 jinja2
 feedgen
 beautifulsoup4
+pytest

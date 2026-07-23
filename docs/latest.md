@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-07-22
+# Daily Blogroll: 2026-07-23
 
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/07/21/frosthaven-scenario-23-spire-basement/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa’s Frosthaven crew bungles Spire Basement hilariously, clogging the start with traps and obstacles before chasing a Living Doom kill for her Trapper quest.
-- **<a href="https://frostilyte.ca/2026/07/21/the-absurdity-of-mewgenics-radio/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte marvels at Mewgenics’ absurdly detailed in-game radio, a pointless-on-paper feature that quietly makes the world feel weirdly alive.
-- **<a href="https://priestwithacause.blogspot.com/2026/07/a-peculiar-casual.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar digs through Data for Azeroth and realizes her supposedly casual World of Warcraft playstyle has earned some surprisingly rare achievements.
-- **<a href="https://pixelnomad.ca/2026/07/21/wo-mining-mining-more-mining/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace is deep in Wurm Online mining grind mode, pushing from 83 toward 99 while juggling meditation and an army of brick-making priests.
-- **<a href="http://tobolds.blogspot.com/2026/07/barrier-to-entry-games.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold argues Pathfinder: Wrath of the Righteous loses plenty of players to complexity, but that same brutal barrier is exactly where the fun lives.
+- **<a href="https://tagn.wordpress.com/2026/07/22/the-ansiblex-plan-the-capacitor-fiasco/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm tears into EVE Online’s Ansiblex jump-bridge capacitor changes, arguing the zone-based nullsec nerf turns travel into an unworkable mess.
+- **<a href="https://wowaltaddiction.blogspot.com/2026/07/back-to-playing-little.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar checks back into WoW with warlock progress, Zul'Aman renown, gathering professions, Loremaster work, and a comically stubborn lack of purple pants.
+- **<a href="https://retroxp.beehiiv.com/p/retro-spotlight-the-house-of-the-dead" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc revisits The House of the Dead and how Sega made zombies, branching paths, and multi-hit enemies stand out in crowded light-gun arcades.
+- **<a href="https://inanage.com/2026/07/23/impressions-palworld-1-0/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel finds Palworld 1.0 still the same compulsive ARK-like loop, only smoother, busier, and good enough to crowd out Hearthstone and Guild Wars 2.
+- **<a href="https://indiecator.org/2026/07/21/volcano-princess-consoles-mobile-new-free-update/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi flags Volcano Princess hitting consoles and mobile July 30 with updated translations, voice acting, new content, and a free Steam update later.
+- **<a href="https://leekscosycorner.com/2026/07/22/tiny-delivery-spotlight/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista spotlights Tiny Delivery, a cosy narrative game about a tiny robot making deliveries while borrowing, meddling, and causing a little chaos.
 ## Writing
 
-- **<a href="https://tagn.wordpress.com/2026/07/21/the-herald-of-blaugust-2026-blaugust-must-go-on/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm kicks off Blaugust 2026, keeping Belghast’s blogging tradition alive with the usual signups, Discord, and room for both daily grinders and casual posters.
-- **<a href="https://wordsundermyname.wordpress.com/2026/07/21/7-21-2026-take-care/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 reflects on building basic self-care habits, surviving summer projects and Poison Everything, and maybe reviving a writing routine before Blaugust.
-## General
-
-- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/07/21/the-questions-your-kids-dont-ask/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar writes about retirement, moving, and the big unasked questions his sons are really asking sideways about whether he’s okay and whether it was worth it.
+- **<a href="https://axxuy.com/blog/2026/tab-cleaning-july-edition/" target="_blank" rel="noopener noreferrer">Axxuy</a>** -- Axxuy rounds up sharp reads on Pandoc link pages, distraction-free writing, PKM skepticism, RSS tradeoffs, and being more public online.
+- **<a href="https://bhagpuss.blogspot.com/2026/07/if-at-first-you-dont-succeed-do.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss pivots from making a Zines Forever upload to musing on zines, archiving old work, and why the format still pulls so hard.
 ## Tech
 
-- **<a href="https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier flags MIT’s rollout of 500-plus AI surveillance cameras with face, object, and behavior classification, and the takeaway is basically just: yikes.
-- **<a href="https://warnercrocker.com/2026/07/21/report-apple-to-launch-subscription-services-for-devices/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner reads Apple’s rumored device leasing plan as another step toward segmented computing, where financing softens sticker shock but widens who gets access.
-- **<a href="http://scripting.com/2026/07/21.html#a143716" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer sketches rss.chat as a three-part RSS ecosystem for writing, reading, and whatever indie developers build in the space between.
-- **<a href="https://brennan.day/adding-thousands-of-lines-to-your-codebase-isnt-impressive-its-actually-bad/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan pushes back on vibe coding bravado, arguing AI-generated mountains of code are a maintenance liability, not a meaningful productivity flex.
+- **<a href="https://www.jeffgeerling.com/blog/2026/open-sauce-gps-time-badge/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff used Claude to build a GPS time badge for Pimoroni Tufty 2350, then logged Open Sauce satellite data for some neat visualization experiments.
+## General
+
+- **<a href="https://www.containsmoderateperil.com/blog/2026/7/22/thoughts-on-work-part-4" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger reflects on retirement by missing the human side of work most: camaraderie, shared knowledge, and the informal help networks AI can’t replace.
+- **<a href="https://www.jwz.org/blog/2026/07/please-keep-this-jackass-out-of-congress/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski blasts Scott Wiener over the Trans March fundraising uproar and related pro-Wiener PAC ties, with zero patience for the whole spectacle.
+- **<a href="https://endgameviable.com/post/2026/07/bullets-after-chemo/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet does a bullet-point check-in on a quick chemo day, messy InoReader feed cleanup, and barely finding time for Dungeon Crawler Carl.
