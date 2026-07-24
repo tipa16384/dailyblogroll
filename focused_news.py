@@ -72,7 +72,8 @@ def unique_output_path(output_dir: Path, date: str, title: str) -> Path:
 
 
 def friendly_date(value: str) -> str:
-    return dt.date.fromisoformat(value).strftime("%A, %-d %B %Y")
+    day = dt.date.fromisoformat(value)
+    return f"{day:%A}, {day.day} {day:%B} {day:%Y}"
 
 
 def render_supplement(
