@@ -631,3 +631,11 @@ feeds:
     category: Gaming
     blogger: Zack
     pronouns: he/him
+  - name: Owlblog
+    url: https://godless-internets.org/feed
+    update_frequency: daily
+    category: Gaming
+    blogger: Owls
+    pronouns: he/him
+    mastodon: "@owls@yshi.org"
+    

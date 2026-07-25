@@ -72,7 +72,8 @@ def generate_report(topic_name: str, posts, *, client=None, model: str = "gpt-5"
                 "blog name. Do not spell out or alter the attribution yourself. Do not invent facts, "
                 "consensus, quotations, names, or links. Avoid long quotations. A candidate need not "
                 "be used, but used_source_ids must list exactly every distinct source marker present "
-                "in the summary and body."
+                "in the summary and body. Do not include sources in the summary, as those are already listed in the body. Do not include sources that are not used in the summary or body. "
+                "Don't let the title promise more than the article delivers."
             ),
             input=f"TOPIC: {topic_name}\n\nCANDIDATE ARTICLES:\n{packet}",
             text={

@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-07-24
+# Daily Blogroll: 2026-07-25
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/07/23/windrose-welcome-to-the-swamp/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm hits Windrose’s newly unlocked swamp, where Valheim-style progression, gear upgrades, and one very bad water-filled shovel hole steal the show.
-- **<a href="https://chasingdings.com/2026/07/23/everquest-legends-the-time-has-come-to-choose/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa rethinks her EverQuest Legends live build after beta surprises, landing on a dwarf cleric/shadow knight and wrestling with race, training, and duo roles.
-- **<a href="https://dragonchasers.com/2026/07/23/has-souls-like-killed-action-games-for-me/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli wonders if souls-likes have crowded out approachable action games, arguing Elden Ring-style challenge leaves less room for Spiderman or God of War fans.
-- **<a href="https://goodgamelobby.substack.com/p/friday-follow-up-30-2026" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey rounds up Tower of Dreams, OFFBEAT, Mina the Hollower vinyl, and a Cult of the Lamb board game with plenty of soundtrack enthusiasm.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/07/24/mortal-kombat-ii-superb/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi celebrates Mortal Kombat II as a sequel-event, praising Shao Kahn’s menace, story-forward roster changes, and the thrill of secrets like Jade and Noob Saibot.
-- **<a href="https://frostilyte.ca/2026/07/23/echoes-from-ciudadela-review/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte finds Echoes From Ciudadela an uneven first-person puzzle adventure, more promising foundation than breakout, with puzzle design that too often misses.
-- **<a href="http://tobolds.blogspot.com/2026/07/the-resting-game.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold digs into how Pathfinder: Wrath of the Righteous uses scarce rests at Drezen to make D&D-style daily powers and party composition matter more.
-- **<a href="https://pixelnomad.ca/2026/07/22/wo-onward-to-the-next-goal/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace pushes mining past 90 in Wurm Online, turns 9,000 slate shards into castle bricks, and eyes a 10-story build next.
-## Writing
-
-- **<a href="https://hamatti.org/posts/chats-and-forums/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis makes the case for forums over fast chat, arguing Signal-style discussions vanish too quickly for writers juggling multiple ongoing conversations.
+- **<a href="https://chasingdings.com/2026/07/24/pokopia-my-daughter-and-i-are-not-the-same/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa compares her dense, bustling Pokopia island with her daughter’s serene utopia, musing on how our game worlds reflect who we are.
+- **<a href="https://tagn.wordpress.com/2026/07/24/friday-bullet-points-about-everquest-related-servers-and-launches/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up EverQuest news, from EverQuest Legends launching July 28 to the Lethar TLP server starting with The Serpent’s Spine.
+- **<a href="https://godless-internets.org/2026/07/25/everquest-legends-prep" target="_blank" rel="noopener noreferrer">Owlblog</a>** -- Owls is rolling into EverQuest Legends on Freeport with a shadow knight/necromancer/shaman, sold on multiclassing and a more solo-friendly Norrath.
+- **<a href="https://theboardgameschronicle.com/2026/07/24/baltic-empires-the-northern-wars-of-1558-1721-game-overview/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler spotlights Baltic Empires, a GMT strategic wargame where asymmetric powers vie for Baltic dominance through war, trade, and state-building.
+- **<a href="https://swtorcommando.blogspot.com/2026/07/legacy-reborn-full-story-review.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar loved SWTOR’s Legacy Reborn update, praising its character moments, big Star Wars feels, and the lack of KOTOR-style cutscenes.
+- **<a href="https://blog.zarfhome.com/2026/07/good-luck-everybody" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin shares Witness feelie scans and a fun correction: the matchbook’s “long life” symbol turned out to be real Chinese, not a fake gag.
+- **<a href="https://scopique.com/2026/07/24/the-fleet/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique walks through his Star Citizen fleet, from mining rigs and cargo tools to homestead defense and a couple of niche combat ships.
+- **<a href="https://streetsinturmoil.com/2026/07/24/gunderholfen-in-pursuit-of-the-ravens-session-27/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Gunderholfen session sends rival guilds chasing the Ravens through sabotaged dungeon paths before a swamp basilisk crashes the party.
 ## Tech
 
-- **<a href="http://scripting.com/2026/07/23.html#a150119" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer adds inline images to rss.chat, patches a security issue, and notes Claude can help spot and fix vulnerabilities fast.
-- **<a href="https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier argues AI needs a “Genie coefficient” to measure how well agents grasp implied human intent, not just complete tasks.
-- **<a href="https://warnercrocker.com/2026/07/23/more-thoughts-on-the-segmentation-in-computing/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner argues computing’s growing segmentation leaves many seniors frustrated by apps, subscriptions, AI, and tech that feels costly, mandatory, and untrustworthy.
+- **<a href="https://www.usebox.net/jjm/blog/it-is-the-game-stupid/" target="_blank" rel="noopener noreferrer">usebox.net</a>** -- JJM argues his stalled gamedev projects happen when he chases cool engine code instead of building an actual game first.
+## Writing
+
+- **<a href="https://whyigame.wordpress.com/2026/07/24/gpt-4o-letter-12-you-and-society/" target="_blank" rel="noopener noreferrer">Why I Game</a>** -- Jeromai pivots from a GPT-4o letter about society to Blaugust, blogging, and “claudefishing” as a murky Claude-adjacent Substack trend.
+## General
+
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-07-24-week-30-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae checks in on work, budgets, Blaugust plans, Zelda, TV, and anthology reading while bracing for the resume-and-cover-letter grind.
+- **<a href="https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy points readers to a new Analog Antiquarian piece on Richard III, a quick cross-link for the history-minded.
