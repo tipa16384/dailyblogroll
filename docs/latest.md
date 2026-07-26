@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-07-25
+# Daily Blogroll: 2026-07-26
 
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/07/24/pokopia-my-daughter-and-i-are-not-the-same/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa compares her dense, bustling Pokopia island with her daughter’s serene utopia, musing on how our game worlds reflect who we are.
-- **<a href="https://tagn.wordpress.com/2026/07/24/friday-bullet-points-about-everquest-related-servers-and-launches/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up EverQuest news, from EverQuest Legends launching July 28 to the Lethar TLP server starting with The Serpent’s Spine.
-- **<a href="https://godless-internets.org/2026/07/25/everquest-legends-prep" target="_blank" rel="noopener noreferrer">Owlblog</a>** -- Owls is rolling into EverQuest Legends on Freeport with a shadow knight/necromancer/shaman, sold on multiclassing and a more solo-friendly Norrath.
-- **<a href="https://theboardgameschronicle.com/2026/07/24/baltic-empires-the-northern-wars-of-1558-1721-game-overview/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler spotlights Baltic Empires, a GMT strategic wargame where asymmetric powers vie for Baltic dominance through war, trade, and state-building.
-- **<a href="https://swtorcommando.blogspot.com/2026/07/legacy-reborn-full-story-review.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar loved SWTOR’s Legacy Reborn update, praising its character moments, big Star Wars feels, and the lack of KOTOR-style cutscenes.
-- **<a href="https://blog.zarfhome.com/2026/07/good-luck-everybody" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin shares Witness feelie scans and a fun correction: the matchbook’s “long life” symbol turned out to be real Chinese, not a fake gag.
-- **<a href="https://scopique.com/2026/07/24/the-fleet/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique walks through his Star Citizen fleet, from mining rigs and cargo tools to homestead defense and a couple of niche combat ships.
-- **<a href="https://streetsinturmoil.com/2026/07/24/gunderholfen-in-pursuit-of-the-ravens-session-27/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Gunderholfen session sends rival guilds chasing the Ravens through sabotaged dungeon paths before a swamp basilisk crashes the party.
-## Tech
-
-- **<a href="https://www.usebox.net/jjm/blog/it-is-the-game-stupid/" target="_blank" rel="noopener noreferrer">usebox.net</a>** -- JJM argues his stalled gamedev projects happen when he chases cool engine code instead of building an actual game first.
+- **<a href="https://tagn.wordpress.com/2026/07/25/stardew-valley-and-through-the-winter-and-into-year-two/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm and his daughter push Stardew Valley through winter, unlocking the quarry and mine carts, hitting mine level 120, and suffering through all that fishing.
+- **<a href="https://virtualmoose.org/2026/07/25/moose-life-thoughts/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael celebrates Llamasoft’s Moose Life as a trippy, ceiling-flipping arcade shooter that feels uniquely its own, even among Jeff Minter’s usual riffs.
+- **<a href="https://priestwithacause.blogspot.com/2026/07/alas-poor-decor-duels.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar mourns World of Warcraft’s short-lived Decor Duels and uses the shutdown to gripe about Blizzard calling content evergreen while PvP queues languish.
 ## Writing
 
-- **<a href="https://whyigame.wordpress.com/2026/07/24/gpt-4o-letter-12-you-and-society/" target="_blank" rel="noopener noreferrer">Why I Game</a>** -- Jeromai pivots from a GPT-4o letter about society to Blaugust, blogging, and “claudefishing” as a murky Claude-adjacent Substack trend.
+- **<a href="https://www.ghastlymirror.xyz/blog/blauguust-2026-is-almost-here/" target="_blank" rel="noopener noreferrer">The Ghastly Mirror</a>** -- Ghastly gives a friendly Blaugust 2026 primer, pitching August blogging, community participation, and the event’s role in honoring Belghast’s legacy.
+- **<a href="https://endgameviable.com/post/2026/07/weekend-writing-practice/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet checks in on chemo side effects, dunks on Dungeon Crawler Carl’s non-ending and audiobook voice, and wrestles with AI-image tensions around Blaugust.
 ## General
 
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-07-24-week-30-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae checks in on work, budgets, Blaugust plans, Zelda, TV, and anthology reading while bracing for the resume-and-cover-letter grind.
-- **<a href="https://www.filfre.net/2026/07/this-week-on-the-analog-antiquarian/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy points readers to a new Analog Antiquarian piece on Richard III, a quick cross-link for the history-minded.
+- **<a href="https://lameazoid.com/weekly-wrap-up-2026-07-25/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie’s week mixes confusing World Cup stoppage time, a pricey tire blowout, and small retail wins like vinyl hunting and passing on Leader Laser Prime.
+- **<a href="https://westkarana.blog/2026/07/25/how-much-are-those-mountains-in-the-window/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa turns mountain-spotting into a geography puzzle, climbing Heublein Tower to figure out which Connecticut peaks are actually visible from her desk.
+- **<a href="https://bhagpuss.blogspot.com/2026/07/music-is-for-sharing.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss rounds up a music-heavy week, arguing Charli xcx’s B-sides like “If You Take Away The Music” and “Playboy Bunny” outshine the singles.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/7/24/cold-storage-2026" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger says Cold Storage looks like disposable sci-fi horror, but David Koepp’s fungus outbreak thriller turns out to be a modestly fun evening watch.
+## Tech
+
+- **<a href="https://brennan.day/l-indieweb-en-francais-quebecois/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan argues the IndieWeb needs real Quebec French terminology, not just borrowed English, to lower barriers and make the scene feel less anglophone by default.
+- **<a href="https://www.jwz.org/blog/2026/07/we-should-rely-less-on-the-nazi-bar-somewhat/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski blasts the dependence on Instagram and X after Meta briefly suspended The Stud’s account, warning against outsourcing critical communications to hostile platforms.
+- **<a href="http://scripting.com/2026/07/25.html#a124305" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer pitches the web’s open ethos, notes RSS.chat now has a REST API, and shares code, docs, and an example blog-builder app.

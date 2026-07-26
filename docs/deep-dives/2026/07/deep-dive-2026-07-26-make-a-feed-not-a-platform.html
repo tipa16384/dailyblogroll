@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="referrer" content="origin-when-cross-origin">
+    <meta http-equiv="Cache-Control" content="max-age=600, must-revalidate">
+    <meta name="description" content="Dave Winer wants podcast apps to ship “subscribable subscription lists,” and he’s backing the talk by turning RSS.chat into feeds and APIs. Brennan’s new garden takes the same tack at micro‑scale: a plain‑text urlminder.txt that powers Beeminder, Eleventy auto‑stubs, and no‑JS previews. He’s also arguing the IndieWeb should speak Québécois French—PSSA, rétrolien—rather than defaulting to English. The through‑line: small, subscribable surfaces that lower friction for people and code alike.">
+    <title>Deep Dive: Make a feed, not a platform — The Daily Blogroll</title>
+    <link rel="stylesheet" href="/dailyblogroll.css?v=2026-07-26">
+    <link rel="icon" href="/icons/favicon-calendar.ico" sizes="any">
+    <link rel="icon" type="image/png" href="/icons/favicon-calendar-512.png" sizes="512x512">
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon-calendar-180.png" sizes="180x180">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QJ21KY6Q3D"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){window.dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-QJ21KY6Q3D');
+</script>
+</head>
+<body class="newspaper supplement">
+    <div class="newspaper-container">
+        <div class="newspaper-headline">
+            <a href="/index.html">The Daily Blogroll</a>
+            <br>
+            <span>Deep Dive Supplement</span>
+        </div>
+    </div>
+
+    <article class="supplement-article">
+        <header class="supplement-header">
+            <div class="supplement-kicker">Open Web and RSS · Sunday, 26 July 2026</div>
+            <h1>Make a feed, not a platform</h1>
+            <p class="supplement-summary">Dave Winer wants podcast apps to ship “subscribable subscription lists,” and he’s backing the talk by turning RSS.chat into feeds and APIs. Brennan’s new garden takes the same tack at micro‑scale: a plain‑text urlminder.txt that powers Beeminder, Eleventy auto‑stubs, and no‑JS previews. He’s also arguing the IndieWeb should speak Québécois French—PSSA, rétrolien—rather than defaulting to English. The through‑line: small, subscribable surfaces that lower friction for people and code alike.</p>
+        </header>
+
+        <div class="supplement-body">
+            
+            <p>Dave Winer isn’t scolding podcast app developers for sport; he’s handing them a feature and daring them to ship it. His pitch: subscribable subscription lists—curated reading lists for podcasts that users follow like a mutual fund, a step beyond static OPML imports, backed by simple network nodes that maintain the lists. He even waves the flag that he helped build the stack podcasting runs on and tells devs to be happy when competitors copy them. Rock the boat already. <a href="http://scripting.com/2026/07/24/140159.html?title=dearPodcastClientDevs">Dave Winer on Scripting News</a></p>
+            
+            <p>And he’s shipping his side of the bargain. RSS.chat’s worknotes are now an RSS feed you can subscribe to, the kind of boring, useful surface that accumulates value with every tiny update. <a href="http://scripting.com/2026/07/24.html#a164313">Dave Winer on Scripting News</a> There’s a standard REST API—server code, client calls, an example “easyblogger” app, and docs—so you don’t have to ask permission to build on it. <a href="http://scripting.com/2026/07/25.html#a142511">Dave Winer on Scripting News</a> He also dropped SQLite support for the server, making install closer to unzip-and-go, and stood up a demo server to catch bugs in the wild. <a href="http://scripting.com/2026/07/22.html#a131531">Dave Winer on Scripting News</a></p>
+            
+            <p>Winer’s diagnosis of the social mess is blunt: he still posts on Twitter because that’s where the people are, Mastodon/Threads/Bluesky didn’t hit critical mass, and the only model that actually forces collaboration is the web itself. He even tips his hat to Musk’s Twitter for leaving room to rant. You can disagree with the vibes and still note the consistency: he’s building for the web, not a new web. <a href="http://scripting.com/2026/07/22/202118.html?title=howTheWebGotGunked">Dave Winer on Scripting News</a></p>
+            
+            <p>He’s also wiring bridges where people already publish. A small example: inboundRss now auto‑posts from the RSS.chat demo to WordPress, and he’s once again arguing WordPress has the right hooks to be the place where text and publishing meet. That’s not a protocol spec; it’s a distribution decision. <a href="http://scripting.com/2026/07/20.html#a210723">Dave Winer on Scripting News</a></p>
+            
+            <p>Underneath, he keeps sketching the same blueprint: a three‑part ecosystem where writing is one product (rss.chat’s group writing app without “follow”), reading can be today’s feed readers or something new that understands the extra metadata, and the unknown space in between is left for indie devs to fill. Every part replaceable, inbound/outbound RSS and textcasting as the contracts, threads baked into the protocol, and notes that he and Claude are already thinking about a reader. <a href="http://scripting.com/2026/07/21/134309.html?title=threepartEcosystem">Dave Winer on Scripting News</a></p>
+            
+            <p>Meanwhile, Brennan’s been busy showing how much you can get by exposing one plain‑text endpoint. His new Eleventy‑based garden at brennan.click serves a urlminder.txt route that concatenates the raw markdown of every published note so Beeminder’s URLminder can count words for an Odometer‑type goal. He uses @photogabble’s interlinker to turn [[double‑bracket]] links into real pages, runs the build twice to auto‑create stub files for anything you’ve linked but not written yet, and does hover‑to‑preview transclusions and footnotes with pure CSS and a bit of Markdown‑it plumbing. No frameworks, one column, modern font stacks, Gruvbox colors. It’s all small pieces, wired with text. <a href="https://brennan.day/creating-a-digital-garden-in-11ty-tracking-my-daily-word-count-with-urlminder/">Brennan on brennan.day</a></p>
+            
+            <p>He’s also cleaning up his own dependencies: most active projects live on GitLab and Source.tube now, with GitHub kept around for career reasons after a public list of grievances, and he’s nuked most corporate social media. The garden is the daily habit he’s incentivizing, not the inbox of a platform. <a href="https://brennan.day/creating-a-digital-garden-in-11ty-tracking-my-daily-word-count-with-urlminder/">Brennan on brennan.day</a></p>
+            
+            <p>Then he pushes on a different kind of interoperability: language. In a separate post, he argues the IndieWeb shouldn’t feel like another anglophone club for francophones and floats Québécois terms where the wiki currently leaves English labels in place—PSSA for POSSE, rétrolien for webmention, jardin clos for walled gardens. He points to Quebec’s OQLF neology track record (courriel, baladodiffusion, etc.), notes the lack of a focused IndieWeb lexicon, and cites mainstream coverage of the fediverse in French, right down to local instances like Qlub. That’s another surface you can subscribe to: words people actually use. <a href="https://brennan.day/l-indieweb-en-francais-quebecois/">Brennan on brennan.day</a></p>
+            
+            <p>If discovery is the pain point in podcasting, a reading‑list‑as‑a‑service is a very web answer; if daily writing is the pain point in personal sites, a plain‑text feed that a robot can count is the same move in miniature. Make small endpoints. Make them legible to humans (in their language) and machines (in their readers). Winer’s turning work notes and curation into feeds; Brennan’s turning a garden into one. More of that, please. <a href="http://scripting.com/2026/07/24.html#a164313">Dave Winer on Scripting News</a> <a href="http://scripting.com/2026/07/24/140159.html?title=dearPodcastClientDevs">Dave Winer on Scripting News</a> <a href="https://brennan.day/creating-a-digital-garden-in-11ty-tracking-my-daily-word-count-with-urlminder/">Brennan on brennan.day</a></p>
+            
+            <p>Ship the lists and I’ll try them against my queue. Keep the RSS.chat API stable and people will quietly build around it. The size of the win is less important than its shape: a thing you can subscribe to today. <a href="http://scripting.com/2026/07/25.html#a142511">Dave Winer on Scripting News</a> <a href="http://scripting.com/2026/07/24/140159.html?title=dearPodcastClientDevs">Dave Winer on Scripting News</a></p>
+            
+        </div>
+
+        <section class="supplement-references">
+            <h2>Posts Discussed</h2>
+            <ul>
+                
+                <li>
+                    <a href="http://scripting.com/2026/07/24/140159.html?title=dearPodcastClientDevs">Dear podcast client devs</a>
+                    <span>— Dave Winer on Scripting News</span>
+                </li>
+                
+                <li>
+                    <a href="http://scripting.com/2026/07/24.html#a164313">Scripting News: Friday, July 24, 2026</a>
+                    <span>— Dave Winer on Scripting News</span>
+                </li>
+                
+                <li>
+                    <a href="http://scripting.com/2026/07/25.html#a142511">Scripting News: Saturday, July 25, 2026</a>
+                    <span>— Dave Winer on Scripting News</span>
+                </li>
+                
+                <li>
+                    <a href="http://scripting.com/2026/07/22.html#a131531">Scripting News: Wednesday, July 22, 2026</a>
+                    <span>— Dave Winer on Scripting News</span>
+                </li>
+                
+                <li>
+                    <a href="http://scripting.com/2026/07/22/202118.html?title=howTheWebGotGunked">How the web got gunked</a>
+                    <span>— Dave Winer on Scripting News</span>
+                </li>
+                
+                <li>
+                    <a href="http://scripting.com/2026/07/20.html#a210723">Scripting News: Monday, July 20, 2026</a>
+                    <span>— Dave Winer on Scripting News</span>
+                </li>
+                
+                <li>
+                    <a href="http://scripting.com/2026/07/21/134309.html?title=threepartEcosystem">Three-part ecosystem</a>
+                    <span>— Dave Winer on Scripting News</span>
+                </li>
+                
+                <li>
+                    <a href="https://brennan.day/creating-a-digital-garden-in-11ty-tracking-my-daily-word-count-with-urlminder/">Creating a Digital Garden in 11ty: Tracking My Daily Word Count with URLminder</a>
+                    <span>— Brennan on brennan.day</span>
+                </li>
+                
+                <li>
+                    <a href="https://brennan.day/l-indieweb-en-francais-quebecois/">L&#39;IndieWeb en français québécois?</a>
+                    <span>— Brennan on brennan.day</span>
+                </li>
+                
+            </ul>
+        </section>
+
+        <nav class="supplement-navigation" aria-label="Deep Dive navigation">
+            <div>
+                
+                <span>Previous Deep Dive</span>
+                <a href="/deep-dives/2026/07/deep-dive-2026-07-25-killing-bridges-with-complexity-and-other-ways-mmo-devs-spend-your-time.html">Killing Bridges with Complexity, and Other Ways MMO Devs Spend Your Time</a>
+                
+            </div>
+            <a class="supplement-home" href="/index.html">The Daily Blogroll</a>
+            <div class="supplement-next">
+                
+            </div>
+        </nav>
+    </article>
+
+    <div class="footer">
+        <p>This Deep Dive is an AI-assisted synthesis of the independently written posts linked above. Please visit the original articles for their authors' complete work.</p>
+        <p>Generated by <a target="_blank" rel="noopener noreferrer" href="https://github.com/tipa16384/dailyblogroll">Daily Blogroll</a></p>
+        <p>Return to <a target="_blank" rel="noopener noreferrer" href="https://chasingdings.com">Chasing Dings!</a></p>
+    </div>
+</body>
+</html>

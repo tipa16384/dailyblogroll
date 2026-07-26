@@ -635,7 +635,14 @@ feeds:
     url: https://godless-internets.org/feed
     update_frequency: daily
     category: Gaming
-    blogger: Owls
+    blogger: owls
     pronouns: he/him
     mastodon: "@owls@yshi.org"
-    
+  - name: Lameazoid
+    url: https://lameazoid.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Ramen Junkie
+    pronouns: he/him
+    mastodon: "@RamenJunkie@retro.pizza"
+    bluesky: "@ramenjunkie.bsky.social"
