@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-07-27
+# Daily Blogroll: 2026-07-28
 
-## Gaming
-
-- **<a href="https://tagn.wordpress.com/2026/07/26/tagn-fantasy-critic-league-2026-week-thirty/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm tracks another tight Fantasy Critic week, with Splatoon Raiders scoring up and Avatar Legends arriving as a big question mark.
-- **<a href="http://tobolds.blogspot.com/2026/07/through-ashes.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold finds Pathfinder: Wrath of the Righteous’ Through the Ashes refreshingly low-level but punishing, fiddly, and worth lowering the difficulty for.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/07/27/get-bass-2/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi finds Get Bass 2 trades the original’s arcade sparkle for slower, fussier fishing sim vibes that demand patience and exploration.
-- **<a href="https://theboardgameschronicle.com/2026/07/26/crusades-via-cc-medieval-part-4-ramla-1101-1105-ad/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler runs three Ramla battles in Commands & Colors Medieval, turning one crossroads into a neat little Crusades mini-campaign.
-- **<a href="https://virtualmoose.org/2026/07/26/cyan-gives-a-peek-at-canceled-myst-prototype-and-other-myst-news/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael rounds up Myst news from Mysterium, including the painful reveal of canceled prototype Project Anglerfish and word of more universe plans.
-## Writing
-
-- **<a href="https://falsemachine.blogspot.com/2026/07/the-common-store-of-monsters.html" target="_blank" rel="noopener noreferrer">False Machine</a>** -- Patrick shares a gloriously weird Veins of the Earth monster roster and digs into encounter tables built for usability, tone, and DIY worldbuilding.
-- **<a href="https://wcrobinson.org/2026/07/26/blaugust-week-0-my-plans-for-the-month-ahead/" target="_blank" rel="noopener noreferrer">WCRobinson</a>** -- WCRobinson maps out a modest Blaugust return, honoring Belghast while aiming for weekly posts and shorter, sharper game reviews.
-- **<a href="https://www.containsmoderateperil.com/blog/2026/7/26/exploring-tolkiens-legendarium-the-defeat-of-sauron" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger pieces together Tolkien’s account of Sauron’s fall, arguing Gil-galad and Elendil overthrow him before Isildur delivers the final blow.
 ## Tech
 
-- **<a href="https://hamatti.org/posts/not-seeking-growth-is-a-perfectly-valid-strategy/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis argues open source and small software projects don’t need endless growth, and that building for a specific audience is perfectly valid.
-- **<a href="http://scripting.com/2026/07/26.html#a153708" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer posts RSS.chat API docs, a WordPress connector, and a very Dave case for open feeds over centralized subscription silos.
+- **<a href="https://chasingdings.com/2026/07/27/blaugust-live-long-enough-to-become-the-villain/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa wrestles with AI’s convenience versus its climate, labor, and coding fallout, especially when work all but forces LLMs into the loop.
+- **<a href="https://www.positech.co.uk/cliffsblog/2026/07/28/financial-research-and-ai/" target="_blank" rel="noopener noreferrer">Cliffski&#x27;s Blog</a>** -- Cliffski explains why he’d rather juggle investments than people, and says LLMs have been surprisingly useful for financial research.
+- **<a href="https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier flags Cognyte’s FalcoNet van as yet another Stingray-style cell-site simulator letting cops sweep up nearby phones en masse.
+## Gaming
+
+- **<a href="https://tagn.wordpress.com/2026/07/27/planning-my-path-to-50-platinum-medals-in-pokemon-go/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm maps out the long Pokemon Go grind to 50 platinum medals, weighing Pokedex gaps, catch goals, and what Niantic still hasn’t released.
+- **<a href="https://oyito.substack.com/p/arranger-is-a-delightful-little-gem" target="_blank" rel="noopener noreferrer">Oya&#x27;s Game Hub</a>** -- Oya says Arranger’s clever row-and-column puzzle mechanics and sincere story made it the perfect low-stress palate cleanser during a gaming slump.
+- **<a href="https://lunasgaminglog.com/2026/07/28/fortune-fragments-review/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna enjoyed Fortune Fragments’ mix of visual novel vibes and hex-tile rune puzzling, with each reading adding fresh twists to the foreteller routine.
+- **<a href="https://thealmightybacklog.wordpress.com/2026/07/27/castlevania-rondo-of-blood/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie tackles Castlevania: Rondo of Blood via Dracula X Chronicles, digging into version choices and Richter Belmont’s place in the series.
+- **<a href="https://retroxp.beehiiv.com/p/past-meets-present-elevator-action-returns" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc uses Elevator Action Returns to show just how dramatically arcade design evolved between 1983 and 1994, without losing the original’s punch.
+- **<a href="https://pixelnomad.ca/2026/07/27/wow-gold-making-wrap-up-week-30-2026/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace cleared over a million in WoW despite spotty auction posting, then cut back from 20 servers to 10 to rebuild consistency.
+- **<a href="https://swtorcommando.blogspot.com/2026/07/weekend-master-mode-flashpoint-pugs.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar hopped into SWTOR master mode flashpoint pugs for fun, from a smooth Esseles run to a late-night Shrine of Silence marathon.
+## Writing
+
+- **<a href="https://indiecator.org/2026/07/27/blaugust-2026-and-ai/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi argues Blaugust should spotlight human, imperfect, personal creation, while pushing back on harassment around this year’s AI policy.
 ## General
 
-- **<a href="https://warnercrocker.com/2026/07/26/sunday-morning-reading-165/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner puts Sunday Morning Reading on hiatus for a travel weekend and points desperate readers toward the archives instead.
-- **<a href="https://www.jwz.org/blog/2026/07/igor/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski drops a one-line TV gag wondering which bottle-blonde dirtbag is Igor the Carpathian.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-07-27-week-31-links/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae spins off a standalone links post, touching on DRM-free ebooks, Ursula K. Le Guin’s house, a new Ottawa fantasy bookstore, and more.
