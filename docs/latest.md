@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-07-28
+# Daily Blogroll: 2026-07-29
 
-## Tech
-
-- **<a href="https://chasingdings.com/2026/07/27/blaugust-live-long-enough-to-become-the-villain/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa wrestles with AI’s convenience versus its climate, labor, and coding fallout, especially when work all but forces LLMs into the loop.
-- **<a href="https://www.positech.co.uk/cliffsblog/2026/07/28/financial-research-and-ai/" target="_blank" rel="noopener noreferrer">Cliffski&#x27;s Blog</a>** -- Cliffski explains why he’d rather juggle investments than people, and says LLMs have been surprisingly useful for financial research.
-- **<a href="https://www.schneier.com/blog/archives/2026/07/cognyte-sells-a-mobile-cell-surveillance-van.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier flags Cognyte’s FalcoNet van as yet another Stingray-style cell-site simulator letting cops sweep up nearby phones en masse.
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/07/27/planning-my-path-to-50-platinum-medals-in-pokemon-go/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm maps out the long Pokemon Go grind to 50 platinum medals, weighing Pokedex gaps, catch goals, and what Niantic still hasn’t released.
-- **<a href="https://oyito.substack.com/p/arranger-is-a-delightful-little-gem" target="_blank" rel="noopener noreferrer">Oya&#x27;s Game Hub</a>** -- Oya says Arranger’s clever row-and-column puzzle mechanics and sincere story made it the perfect low-stress palate cleanser during a gaming slump.
-- **<a href="https://lunasgaminglog.com/2026/07/28/fortune-fragments-review/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna enjoyed Fortune Fragments’ mix of visual novel vibes and hex-tile rune puzzling, with each reading adding fresh twists to the foreteller routine.
-- **<a href="https://thealmightybacklog.wordpress.com/2026/07/27/castlevania-rondo-of-blood/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie tackles Castlevania: Rondo of Blood via Dracula X Chronicles, digging into version choices and Richter Belmont’s place in the series.
-- **<a href="https://retroxp.beehiiv.com/p/past-meets-present-elevator-action-returns" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc uses Elevator Action Returns to show just how dramatically arcade design evolved between 1983 and 1994, without losing the original’s punch.
-- **<a href="https://pixelnomad.ca/2026/07/27/wow-gold-making-wrap-up-week-30-2026/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace cleared over a million in WoW despite spotty auction posting, then cut back from 20 servers to 10 to rebuild consistency.
-- **<a href="https://swtorcommando.blogspot.com/2026/07/weekend-master-mode-flashpoint-pugs.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar hopped into SWTOR master mode flashpoint pugs for fun, from a smooth Esseles run to a late-night Shrine of Silence marathon.
-## Writing
+- **<a href="https://tagn.wordpress.com/2026/07/28/r-e-p-o-initial-impressions/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm says REPO shines as chaotic co-op slapstick, where fumbling gravity-gun loot runs and hilariously broken valuables matter more than actually succeeding.
+- **<a href="http://www.crazykinux.ca/2026/07/the-foundational-rules-of-eve-online.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux digs into EVE Online’s bedrock rules—equal consequences, spaceships first, and nowhere truly safe—as the sandbox’s load-bearing philosophy.
+- **<a href="https://scopique.com/2026/07/28/time-flies-like-an-arrow-with-tempus-gameit/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique likes Tempus Gameit as an easier way to auto-track playtime across Steam, GOG, Epic, Battle.net, Heroic, and screenshots too.
+- **<a href="https://blog.zarfhome.com/2026/07/mysterium-2026-adjacent-news" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin rounds up Mysterium side news: the Myst documentary inches along, fan Age Jalargura is out, and Myst Online’s Descent keeps evolving.
+- **<a href="https://bhagpuss.blogspot.com/2026/07/catzebo-carousel.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss breaks down Neverness To Everness’s cat-run scratchcard event, where cheap tickets feel predictable and the 50k cards bring the real gamble.
+- **<a href="https://priestwithacause.blogspot.com/2026/07/midnight-profession-goals-achieved.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar finally maxed every primary Midnight profession to 100, mostly in-house with alts, spreadsheets, purple tools, and a lot of Abundance runs.
+- **<a href="https://brennan.day/playing-the-games-we-have/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan argues today’s games industry is too expensive, unfinished, and exploitative, making the backlog you already own look smarter by the day.
+## Tech
 
-- **<a href="https://indiecator.org/2026/07/27/blaugust-2026-and-ai/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi argues Blaugust should spotlight human, imperfect, personal creation, while pushing back on harassment around this year’s AI policy.
+- **<a href="https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html" target="_blank" rel="noopener noreferrer">Leaded Solder</a>** -- Mike turns a weirdly pricey 1985 BBC Bridge Companion into Bridgetris, a delightfully nerdy Z80-and-VRAM hardware hacking project.
+- **<a href="http://scripting.com/2026/07/28/115945.html?title=whenTheWallsCameDown" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer sees a new WordPress-to-RSS.chat bridge as a big open-web moment, with RSS acting more like a social web protocol again.
 ## General
 
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-07-27-week-31-links/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae spins off a standalone links post, touching on DRM-free ebooks, Ursula K. Le Guin’s house, a new Ottawa fantasy bookstore, and more.
+- **<a href="https://www.tbray.org/ongoing/When/202x/2026/07/26/Music-Camp" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray makes a warm pitch for amateur music camp: lots of live unamplified playing, older attendees, and real brain-health benefits.
+- **<a href="https://endgameviable.com/post/2026/07/back-to-normal/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet shares stable PET scan news, worries over a worsening right-hand issue, Blaugust prep, and a small helping of Final Fantasy XIV.
+## Writing
+
+- **<a href="https://whyigame.wordpress.com/2026/07/28/gpt-4o-letter-13-lifes-changing-curves/" target="_blank" rel="noopener noreferrer">Why I Game</a>** -- Jeromai uses a GPT-4o prompt as a springboard into blogging motives, process, and what even counts as a post heading into Blaugust.
