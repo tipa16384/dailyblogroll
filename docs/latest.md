@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-07-29
+# Daily Blogroll: 2026-07-30
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/07/28/r-e-p-o-initial-impressions/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm says REPO shines as chaotic co-op slapstick, where fumbling gravity-gun loot runs and hilariously broken valuables matter more than actually succeeding.
-- **<a href="http://www.crazykinux.ca/2026/07/the-foundational-rules-of-eve-online.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux digs into EVE Online’s bedrock rules—equal consequences, spaceships first, and nowhere truly safe—as the sandbox’s load-bearing philosophy.
-- **<a href="https://scopique.com/2026/07/28/time-flies-like-an-arrow-with-tempus-gameit/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique likes Tempus Gameit as an easier way to auto-track playtime across Steam, GOG, Epic, Battle.net, Heroic, and screenshots too.
-- **<a href="https://blog.zarfhome.com/2026/07/mysterium-2026-adjacent-news" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin rounds up Mysterium side news: the Myst documentary inches along, fan Age Jalargura is out, and Myst Online’s Descent keeps evolving.
-- **<a href="https://bhagpuss.blogspot.com/2026/07/catzebo-carousel.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss breaks down Neverness To Everness’s cat-run scratchcard event, where cheap tickets feel predictable and the 50k cards bring the real gamble.
-- **<a href="https://priestwithacause.blogspot.com/2026/07/midnight-profession-goals-achieved.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar finally maxed every primary Midnight profession to 100, mostly in-house with alts, spreadsheets, purple tools, and a lot of Abundance runs.
-- **<a href="https://brennan.day/playing-the-games-we-have/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan argues today’s games industry is too expensive, unfinished, and exploitative, making the backlog you already own look smarter by the day.
-## Tech
-
-- **<a href="https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html" target="_blank" rel="noopener noreferrer">Leaded Solder</a>** -- Mike turns a weirdly pricey 1985 BBC Bridge Companion into Bridgetris, a delightfully nerdy Z80-and-VRAM hardware hacking project.
-- **<a href="http://scripting.com/2026/07/28/115945.html?title=whenTheWallsCameDown" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer sees a new WordPress-to-RSS.chat bridge as a big open-web moment, with RSS acting more like a social web protocol again.
-## General
-
-- **<a href="https://www.tbray.org/ongoing/When/202x/2026/07/26/Music-Camp" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray makes a warm pitch for amateur music camp: lots of live unamplified playing, older attendees, and real brain-health benefits.
-- **<a href="https://endgameviable.com/post/2026/07/back-to-normal/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet shares stable PET scan news, worries over a worsening right-hand issue, Blaugust prep, and a small helping of Final Fantasy XIV.
+- **<a href="https://tagn.wordpress.com/2026/07/29/planet-crafter-and-save-sync/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm digs into Planet Crafter co-op, and how host-held saves can stall opportunistic group play even when the alien survival crafting clicks.
+- **<a href="https://grumpygamer.com/twp2_announce/" target="_blank" rel="noopener noreferrer">Grumpy Gamer</a>** -- Ron Gilbert says Thimbleweed Park 2 is officially in production for early 2028, with the original team returning and self-publishing lined up.
+- **<a href="https://sweetie.games/2026/07/29/the-fight-for-valko-rages-on/" target="_blank" rel="noopener noreferrer">Sweetie Games</a>** -- Sweetie unpacks how Love and Deepspace’s Valko went from new love interest to canceled controversy after backlash, boycotts, and real-world sensitivities collided.
+- **<a href="https://dragonchasers.com/2026/07/29/a-high-five-for-the-solarpunk-devteam/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli gives Solarpunk’s devs props for stress-free automation and delightfully physical drones that really traverse its floating-island world.
+- **<a href="https://frostilyte.ca/2026/07/29/a-low-tier-playthrough-of-pokemon-silver-part-1/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte makes the case that Pokémon Silver’s bad old learnsets are actually the fun part, pushing creative team-building instead of easy all-purpose squads.
+- **<a href="http://tobolds.blogspot.com/2026/07/the-lord-of-nothing.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold finds Wrath of the Righteous: The Lord of Nothing more fun than Through the Ashes, even if its shard-hunting story is much more standard fantasy.
+- **<a href="https://virtualmoose.org/2026/07/29/adventure-games-are-doing-just-fine-july-2026-edition/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael argues adventure games are thriving right now, with recent releases like Endacopia and The Mermaid Mask succeeding despite the usual dead-genre grumbling.
 ## Writing
 
-- **<a href="https://whyigame.wordpress.com/2026/07/28/gpt-4o-letter-13-lifes-changing-curves/" target="_blank" rel="noopener noreferrer">Why I Game</a>** -- Jeromai uses a GPT-4o prompt as a springboard into blogging motives, process, and what even counts as a post heading into Blaugust.
+- **<a href="https://www.readypixelone.com/blog/between-my-thoughts-and-the-page" target="_blank" rel="noopener noreferrer">Ready Pixel One</a>** -- Pixel One explains how Athena helps turn tangled thoughts into drafts, while the lived experience, judgment, and heavy editing still make the writing hers.
+## Tech
+
+- **<a href="https://www.jwz.org/blog/2026/07/the-eye-of-pizza-is-once-again-upon-you/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski resurrected his giant eyeball dome with a cheap projector, fisheye lens, adapter rings, and a very respectable amount of duct tape.
+- **<a href="https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier uses OpenAI’s Hugging Face incident to argue AI agents can go dangerously literal, so benchmarking rogue behavior needs to become standard.
+## General
+
+- **<a href="https://www.containsmoderateperil.com/blog/2026/7/30/the-fall-of-nmenor-by-j-r-r-tolkien-edited-by-brian-sibley-and-read-by-samuel-west" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger highlights The Fall of Númenor as a practical, chronological stitching-together of Tolkien’s scattered Second Age material into one cohesive history.
+- **<a href="https://warnercrocker.com/2026/07/28/a-bit-of-good-news-in-illinois-about-digital-grocery-store-coupons/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner notes Illinois will require grocery stores to honor digital coupon promotions for everyone, a nice win for shoppers stuck without the app.
