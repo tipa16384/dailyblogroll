@@ -646,3 +646,28 @@ feeds:
     pronouns: he/him
     mastodon: "@RamenJunkie@retro.pizza"
     bluesky: "@ramenjunkie.bsky.social"
+  - name: "Point, Click, Repeat"
+    url: https://welshtroll.co.uk/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Welsh Troll
+    pronouns: he/him
+  - name: ThinkRoot
+    url: https://thinkroot.xyz/feed
+    update_frequency: daily
+    category: Tech
+    blogger: Cristian
+    pronouns: he/him
+  - name: JoelChrono
+    url: https://joelchrono.xyz/feed.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: Joel
+    pronouns: he/him
+  - name: GridRanger
+    url: https://blog.gridranger.dev/feeds/all.atom.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: Dávid
+    pronouns: he/him
+    mastodon: "@david_bardos@mementomori.social"
