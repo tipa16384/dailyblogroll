@@ -671,3 +671,22 @@ feeds:
     blogger: Dávid
     pronouns: he/him
     mastodon: "@david_bardos@mementomori.social"
+  - name: theTangentSpace
+    url: https://thetangent.space/feed.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: Tan
+    pronouns: they/them
+  - name: Aneesh Sathe
+    url: https://aneeshsathe.com/index.xml
+    update_frequency: daily
+    category: Tech
+    blogger: Aneesh
+    pronouns: he/him
+  - name: Many Welps
+    url: https://manywelps.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Kluwes
+    pronouns: he/him
+    
