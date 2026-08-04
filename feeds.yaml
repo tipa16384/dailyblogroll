@@ -689,4 +689,16 @@ feeds:
     category: Gaming
     blogger: Kluwes
     pronouns: he/him
+  - name: Through Wolfy's Eyes
+    url: https://wolfyseyes.wordpress.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Wolfy
+    pronouns: they/them
+  - name: Wakupan
+    url: https://wakupanbouquet.hatenablog.com/feed
+    update_frequency: daily
+    category: Gaming
+    blogger: Wakupan
+    pronouns: they/them
     

@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-08-03
+# Daily Blogroll: 2026-08-04
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/08/02/tagn-fantasy-critic-league-2026-week-thirty-one-and-the-halo-effect/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm says Halo: Campaign Evolved shipped at 83.3, boosting his Fantasy Critic lead while counter-picking Bhagpuss took the hit.
-- **<a href="https://chasingdings.com/2026/08/02/everquest-legends-wheres-the-lore/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa wonders why EverQuest Legends promises new lore when EverQuest still does such a shaky job explaining places like Crushbone, Befallen, Runnyeye, and Najena.
-- **<a href="https://thetangent.space/2026/hinge/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan loved the Miyoo Flip for retro gaming and TV play, but repeated hinge failures turned that clamshell dream into a pricey heartbreak.
-- **<a href="https://readonlymemo.com/the-mister-console-mode-is-finally-here-and-its-every-bit-the-ui-i-hoped-it-would-be/" target="_blank" rel="noopener noreferrer">READ ONLY MEMO</a>** -- Wes says MiSTer’s new Console Mode finally makes the FPGA box feel like a proper console, with fast performance and flexible views.
-- **<a href="https://indiecator.org/2026/08/02/celestial-decks-review/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi is hooked on Celestial Decks, praising its deep deckbuilding, mind games, and actual human-made art in a crowded CCG field.
-- **<a href="https://thealmightybacklog.wordpress.com/2026/08/01/marvel-super-heroes-vs-street-fighter/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie finds Marvel Super Heroes vs. Street Fighter polished but awfully familiar, more like a refined expansion than a big leap forward.
-- **<a href="https://priestwithacause.blogspot.com/2026/08/pent-up-classic-energy.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar reflects on WoW Classic nostalgia, from Barrens shower flashbacks to missing that old Burning Crusade feeling without wanting today’s Classic modes.
-## Writing
-
-- **<a href="https://aneeshsathe.com/nakatomi-drift/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh maps out Thickets, Places, Spaces, and Portals as a way to get intellectually lost without just wandering aimlessly.
-- **<a href="https://margotplays.substack.com/p/update-on-whats-next" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot ditched her self-hosted site to get back to writing, then shares why Splatoon Raiders clicked as a stylish, bite-sized Switch 2 favorite.
-- **<a href="https://whyigame.wordpress.com/2026/08/02/gpt-4o-letter-14-enough-is-as-good-as-a-feast/" target="_blank" rel="noopener noreferrer">Why I Game</a>** -- Jeromai uses an AI-written letter on “enough” to argue for a calmer, less all-consuming Blaugust pace this year.
+- **<a href="https://tagn.wordpress.com/2026/08/03/lotro-announces-features-of-the-wolves-of-mordor-expansion/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm side-eyes LOTRO’s oddly unannounced Wolves of Mordor expansion and its new Mordor-only Survival Instincts talent tree, sounding more puzzled than impressed.
+- **<a href="https://wolfyseyes.wordpress.com/2026/08/03/final-fantasy-xivs-berlin-fan-fest-2026-through-wolfys-eyes/" target="_blank" rel="noopener noreferrer">Through Wolfy&#x27;s Eyes</a>** -- Wolfy comes away mostly happy from FFXIV Berlin Fan Fest, especially about Evercold’s Bastion tank, airship zones, and the FFVII raids.
+- **<a href="https://biobreak.wordpress.com/2026/08/03/syps-gaming-goals-august-2026/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp recaps a comfy month of LOTRO and Guild Wars 2, then eyes more completionist hobbiting while debating a GW2 break for FFXIV or Stars Reach.
+- **<a href="https://scopique.com/2026/08/03/is-instancing-a-bad-thing/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique weighs Star Citizen instancing as a tradeoff between curated story control and the sandbox spirit, with hangar jank still looming.
+- **<a href="https://thefriendlynecromancer.blogspot.com/2026/08/its-everquest-for-legends.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- The Friendly Necromancer gets won over by EverQuest Legends, especially its wild three-class multiclassing that turns Beastlord dreams into reality.
 ## General
 
-- **<a href="https://manywelps.com/2026/08/02/a-local-comic-book-store-opened-nearby/" target="_blank" rel="noopener noreferrer">Many Welps</a>** -- Kluwes celebrates a new local comic shop, happily digging through back issues and leaving with Locke & Key and family goodwill.
-- **<a href="https://endgameviable.com/post/2026/08/neck-mri-completed/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet shares an uncomfortable neck MRI, some blog-comment tinkering, and the weary hope that the scan might finally explain the arm issues.
+- **<a href="https://chasingdings.com/2026/08/03/manchester-ct-cruisin-main-street/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa tours Manchester’s Cruisin’ Main Street, mixing working-class car show vibes with fond, funny memories of Beetles, Miatas, and a fuel-hungry Supra.
+- **<a href="https://wakupanbouquet.hatenablog.com/entry/2026/08/04/104208" target="_blank" rel="noopener noreferrer">Wakupan</a>** -- Wakupan shares beloved treasures, from Taiwanese risograph art and glassware to a favorite mug, cat painting, and irresistibly cute glass flower.
+- **<a href="https://warnercrocker.com/2026/08/03/the-odyssey-a-review/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner finds Christopher Nolan’s The Odyssey good but not great, praising the spectacle while feeling the intimate scenes and lead casting miss.
+## Tech
+
+- **<a href="https://0xsid.com/blog/cheap-tokens-are-great" target="_blank" rel="noopener noreferrer">Sid&#x27;s Blog</a>** -- Sid argues DeepSeek V4 Flash and recent LLM price cuts are making AI coding help absurdly cheap, practical, and hard to ignore.
+## Writing
+
+- **<a href="https://frostilyte.ca/2026/08/01/month-in-review-blaugust-demon-tides-titanium-court/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte salutes Blaugust, reflects on encouraging feedback, and gushes over Titanium Court’s clever match-3-meets-strategy design.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/8/4/blaugust-2026-group-project-welcome-to-blaugust" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger uses a Blaugust prompt to revisit his first blog, early film reviews, and the old lesson to write what you know.
+- **<a href="https://bhagpuss.blogspot.com/2026/08/the-first-time.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss uses Blaugust to mull blogging for yourself, reader expectations, and the tempting fantasy of turning the blog into a private club.
