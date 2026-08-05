@@ -341,7 +341,7 @@ feeds:
     group: Tipa
     pronouns: she/her
     skip: False
-    required: False
+    required: True
   - name: Virtual Moose
     url: https://virtualmoose.org/feed/
     update_frequency: daily
@@ -635,7 +635,7 @@ feeds:
     url: https://godless-internets.org/feed
     update_frequency: daily
     category: Gaming
-    blogger: owls
+    blogger: Owls
     pronouns: he/him
     mastodon: "@owls@yshi.org"
   - name: Lameazoid
@@ -652,18 +652,22 @@ feeds:
     category: Gaming
     blogger: Welsh Troll
     pronouns: he/him
+    mastodon: "@welshtroll@gamepad.club"
   - name: ThinkRoot
     url: https://thinkroot.xyz/feed
     update_frequency: daily
     category: Tech
     blogger: Cristian
     pronouns: he/him
+    mastodon: "@thinkroot@social.thinkroot.xyz"
+    bluesky: "@thinkroot.eurosky.social"
   - name: JoelChrono
     url: https://joelchrono.xyz/feed.xml
     update_frequency: daily
     category: Gaming
     blogger: Joel
     pronouns: he/him
+    bluesky: "@joelchrono.xyz"
   - name: GridRanger
     url: https://blog.gridranger.dev/feeds/all.atom.xml
     update_frequency: daily
@@ -683,6 +687,8 @@ feeds:
     category: Tech
     blogger: Aneesh
     pronouns: he/him
+    bluesky: "@aneeshsathe.com"
+    mastodon: "@aneeshsathe.com@aneeshsathe.com"
   - name: Many Welps
     url: https://manywelps.com/feed/
     update_frequency: daily
@@ -695,10 +701,27 @@ feeds:
     category: Gaming
     blogger: Wolfy
     pronouns: they/them
+    bluesky: "@wolfyseyes.bsky.social"
+    mastodon: "@wolfyseyes@gamepad.club"
   - name: Wakupan
     url: https://wakupanbouquet.hatenablog.com/feed
     update_frequency: daily
     category: Gaming
     blogger: Wakupan
     pronouns: they/them
+    bluesky: "@wakupanbouquet.bsky.social"
+  - name: Casual Aggro
+    url: https://casualaggro.wordpress.com/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Ocho
+    pronouns: they/them
+    mastodon: "@Ocho@dosgame.club"
+  - name: I Can't Think of a Name for this Website
+    url: https://littlelum.neocities.org/RSS.xml
+    update_frequency: daily
+    category: Gaming
+    blogger: Littlelum
+    pronouns: they/them
+
     
