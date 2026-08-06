@@ -723,5 +723,18 @@ feeds:
     category: Gaming
     blogger: Littlelum
     pronouns: they/them
-
+  - name: Aging Gamer
+    url: https://www.kgadams.net/feed
+    update_frequency: daily
+    category: Gaming
+    blogger: Kelly
+    pronouns: he/him
+    bluesky: "@kgadams.net"
+  - name: Nerd Girl Thoughts
+    url: https://nerdgirlthoughts.game.blog/feed/
+    update_frequency: daily
+    category: Gaming
+    blogger: Krikket
+    pronouns: she/her
+    mastodon: "@Krikket@mindly.social"
     

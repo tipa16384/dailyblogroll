@@ -1,19 +1,22 @@
-# Daily Blogroll: 2026-08-05
+# Daily Blogroll: 2026-08-06
 
-## Gaming
-
-- **<a href="https://chasingdings.com/2026/08/04/frosthaven-scenario-34-top-of-the-spire/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa’s Frosthaven crew finally drops the Chaos Lord atop the spire, juggling nasty light, spark swarms, traps, and looming retirement plans.
-- **<a href="https://tagn.wordpress.com/2026/08/04/reflections-on-monopoly/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm riffs on RuneScape Monopoly and why no special edition skin can make Monopoly feel less like, well, Monopoly.
-- **<a href="https://casualaggro.wordpress.com/2026/08/04/ttrpg-time-the-adventures-of-orluf-wavebane/" target="_blank" rel="noopener noreferrer">Casual Aggro</a>** -- Ocho spins a lively Tales of Argosa recap as Orluf Wavebane’s new party battles Urgot and explores a temple tied to a previous campaign.
-- **<a href="https://littlelum.neocities.org/blog/2026/blaug/forumgame" target="_blank" rel="noopener noreferrer">I Can&#x27;t Think of a Name for this Website</a>** -- Littlelum digs into forum gaming, spotlighting Mafia and how slower phases, PMs, and text play make social deduction weirder and deeper online.
-- **<a href="https://streetsinturmoil.com/2026/08/04/the-gates-of-power-the-dwarven-realm-session-28/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Dragonbane party hacks through skeletons and hidden crossbowmen in the dwarven realm, then finds clear signs the Ravens were there first.
-- **<a href="https://lameazoid.com/transformers-gun-transformers-combiner/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie checks out a bizarre five-bot gun combiner with clunky kibble, Gobots vibes, and just enough absurdity to justify the impulse buy.
-- **<a href="https://lunasgaminglog.com/2026/08/04/my-july-log/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna’s July log mixes creative highs with lighter gaming, including Rhythm Paradise Groove, Ghost Trick, Fortune Fragments, and Minishoot’ Adventures.
-- **<a href="https://oyito.substack.com/p/final-fantasy-vi-holds-up-even-after" target="_blank" rel="noopener noreferrer">Oya&#x27;s Game Hub</a>** -- Oya finds Final Fantasy VI still hits hard, praising its ensemble cast, solid story, and Kefka despite some very 1994-style storytelling shortcuts.
-- **<a href="https://dragonchasers.com/2026/08/04/bouncing-off-hell-is-us/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli likes Hell is Us’s moody world, puzzles, and story hook, but bails when no map, markers, or journal turn immersion into homework.
-## Writing
-
-- **<a href="https://wcrobinson.org/2026/08/05/blaugust-2026-week-1-the-reasons-i-write-amidst-a-world-threatening-to-leave-it-behind/" target="_blank" rel="noopener noreferrer">WCRobinson</a>** -- WCRobinson makes a heartfelt case for human writing in the Blaugust era, pushing back on social-media churn and generative AI creep.
 ## General
 
-- **<a href="https://www.tbray.org/ongoing/When/202x/2026/08/03/Upside-Down" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray pairs reflective garden photos with a blunt bit of political despair, then lands on calm water as a small way to steady yourself.
+- **<a href="https://westkarana.blog/2026/08/05/metacomet-mountains-identified/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa finally labels the Hartford skyline, tracing peaks from West Peak to Talcott Mountain and Heublein Tower after years of hiking Connecticut’s Metacomet Ridge.
+- **<a href="https://www.jwz.org/blog/2026/08/please-keep-this-clown-out-of-congress-redux/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski blasts Scott Wiener for using Anthropic tech in an interactive attack ad, calling the whole AI-driven stunt gross and cynical.
+## Gaming
+
+- **<a href="https://tagn.wordpress.com/2026/08/05/planet-crafter-rovers-rockets-and-jet-packs-and-more-on-save-sync/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm says Planet Crafter’s brisk terraform loop keeps the survival-crafting grind moving, from oxygen-starved baselets to exploring wrecks and settling on the bluffs.
+- **<a href="https://nerdgirlthoughts.game.blog/2026/08/05/getting-ready-for-the-deluge-of-chore-sims-on-the-horizon/" target="_blank" rel="noopener noreferrer">Nerd Girl Thoughts</a>** -- Krikket embraces the coming wave of chore sims, from Librarian and Supermarket Chaos to more shelf-straightening oddities waiting on her wishlist.
+- **<a href="https://sweetie.games/2026/08/05/what-i-played-this-month-july-2026/" target="_blank" rel="noopener noreferrer">Sweetie Games</a>** -- Sweetie’s July mixed Deltarune, Animal Crossing: New Horizons, and a first mainline Pokémon run with Pearl, all while nudging herself beyond comfort picks.
+- **<a href="https://pixelnomad.ca/2026/08/06/eql-ding-40/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace hit level 40 in EverQuest Live after bouncing through Kedge Keep, Guk, and Splitpaw, though the anti-grouping feel still bugs her.
+- **<a href="https://swtorcommando.blogspot.com/2026/08/goofing-off-on-pts.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar is oddly excited for SWTOR 8.0 PTS, where boosted level 85 characters can test the new operation boss despite the stripped-down, goofy setup.
+- **<a href="https://leekscosycorner.com/2026/08/05/starsand-island-full-release/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista previews Starsand Island’s August 18 full release, highlighting its cozy life-sim mix of farming, fishing, animals, multiplayer, and console launches.
+## Tech
+
+- **<a href="https://www.kgadams.net/sitenews/debugging-comments-nope-its-dam-spam" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly chased WordPress comment failures past Cloudflare and found Dam Spam was the real blocker, finally letting Chris post again after two years.
+- **<a href="http://scripting.com/2026/08/05.html#a211355" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer says RSS.chat now supports WebSub for instant post delivery, while he keeps poking at how RSS might connect with AT Proto.
+- **<a href="https://hamatti.org/posts/e-is-for-environment-variables-python-a-to-z/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis gives a clean Python refresher on environment variables, from os.environ and os.reload_environ to .env loading and secret handling.
+## Writing
+
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-08-05-a-year-of-bearblog-analytics/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae looks over a year of Bearblog stats, finding modest traffic, random spikes, and a readership mostly drawn to customization and Linux posts.
