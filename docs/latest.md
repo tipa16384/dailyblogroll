@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-08-08
+# Daily Blogroll: 2026-08-09
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/08/07/friday-bullet-points-about-the-ongoing-disaster-that-is-xbox-games/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm tears into Xbox Games’ layoffs, fuzzy “Four Cs,” Minecraft fixation, and pricier consoles, arguing Microsoft still looks directionless.
-- **<a href="https://chasingdings.com/2026/08/07/buy-now-the-everquest-legends-cash-shop/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa digs through EverQuest Legends’ cash shop, where ornamentation and convenience items look pricey even if the store isn’t pay-to-win yet.
-- **<a href="https://buried-treasure.org/2026/08/it-consumes/" target="_blank" rel="noopener noreferrer">Buried Treasure</a>** -- John loves how It Consumes turns darkness and limited light into a tense roguelite shooter loop full of unlocks, timing, and doomed runs.
-- **<a href="https://retroxp.beehiiv.com/p/xp-arcade-donkey-kong-3" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc pushes back on Donkey Kong 3 revisionism, arguing Nintendo’s arcade exit was really about shifting focus to Famicom and NES.
-- **<a href="https://www.filfre.net/2026/08/the-life-and-times-of-maxis-part-3-the-sims/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy traces how Will Wright’s Oakland firestorm experience fed into the life-sim thinking that would eventually shape The Sims.
-- **<a href="https://wowaltaddiction.blogspot.com/2026/08/why-ive-stopped-playing-ffxiv.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar says FFXIV is excellent, but its huge story focus, alt-job leveling style, and WoW muscle memory kept it from becoming home.
-- **<a href="https://aywren.com/2026/08/07/ffxiv-phantom-relic-weapons-for-patch-755" target="_blank" rel="noopener noreferrer">Aywren&#x27;s Nook</a>** -- Aywren breaks down FFXIV patch 7.55’s Phantom Relic grind, from crafted items to roulettes, Occult Crescent drops, and the inevitable tome sink.
-- **<a href="https://godless-internets.org/2026/08/07/ding-level-50" target="_blank" rel="noopener noreferrer">Owlblog</a>** -- Owls celebrates finally hitting level 50 in EverQuest Legends, then immediately sets sights on killing Innoruuk and retracing an old necromancer route.
-- **<a href="https://welshtroll.co.uk/post/2026-revised-elder-scrolls-online-roadmap.html" target="_blank" rel="noopener noreferrer">Point, Click, Repeat</a>** -- Welsh Troll reads ESO’s revised roadmap as delays, QoL triage, and a worrying hint that broader Elder Scrolls collaboration could sideline the MMO.
+- **<a href="https://chasingdings.com/2026/08/08/well-im-over-the-hill-now/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa marks turning 65 by tallying a startling lifetime in EverQuest, EQ2, and a long parade of MMORPGs.
+- **<a href="https://indiecator.org/2026/08/07/yashi-sand-driver-announced/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi highlights Yashi – Sand Driver, a cozy desert survival road trip about van upgrades, scavenging, and chasing New Eden with your coyote.
+- **<a href="https://priestwithacause.blogspot.com/2026/08/my-midnight-season-1.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar looks back on WoW: Midnight Season 1, praising better-tuned delves while warning Blizzard’s steady reward drip could tip into burnout.
+- **<a href="https://thealmightybacklog.wordpress.com/2026/08/07/the-legend-of-heroes-trails-in-the-sky/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie finally finishes Trails in the Sky and finds a decent JRPG that doesn’t quite match the towering hype around the series.
+- **<a href="https://thefriendlynecromancer.blogspot.com/2026/08/out-with-najena-in-with-guks-everquest.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- The Friendly Necromancer survives EverQuest Legends server drama, finishes up Najena, dings 30, and heads into the Guks with new AA toys.
+- **<a href="https://frostilyte.ca/2026/08/04/a-low-tier-playthrough-of-pokemon-silver-part-2/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte digs into a low-tier Pokémon Silver run, where Johto’s time-based catches and weekday events make early planning surprisingly fiddly.
 ## Writing
 
-- **<a href="https://axxuy.com/blog/2026/writing-by-hand/" target="_blank" rel="noopener noreferrer">Axxuy</a>** -- Axxuy reflects on drafting by hand versus Neovim, arguing blogs lose none of the words but gain something irreplaceably webby through links.
-- **<a href="https://inanage.com/2026/08/04/what-would-you-say-you-do-around-here/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel argues AI-generated blog images and bot-like replies trade away the human messiness that makes blogging and online communities worth showing up for.
+- **<a href="https://tagn.wordpress.com/2026/08/08/blaugust-embrace-the-hater-within-you/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm riffs on Aftermath’s Hater Week, Adobe misery, overplayed charts, and why bloggers probably shouldn’t pretend to be above strong opinions.
+- **<a href="https://endgameviable.com/post/2026/08/downloading-everquest-legends/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet wrestles with Blaugust motivation, draft-post anxiety, and the curious pull of trying EverQuest Legends for its solo play.
+- **<a href="https://aneeshsathe.com/note-20260808-190650/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh is fed up with online ‘hard disagree’ energy that shuts down curiosity instead of adding anything thoughtful or playful.
+- **<a href="https://manywelps.com/2026/08/04/this-is-my-very-first-blog/" target="_blank" rel="noopener noreferrer">Many Welps</a>** -- Kluwes reflects on ten years of Many Welps, from almost becoming a book blogger to finding a lasting home in games writing.
 ## Tech
 
-- **<a href="https://www.jeffgeerling.com/blog/2026/excited-for-intel-efficiency/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff comes away impressed by Dell’s XPS 13 and Intel’s Core 5 320, especially Fedora 44 support and standout x86 efficiency.
+- **<a href="https://thinkroot.xyz/nota-484" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian’s quick reminder: even on Linux, occasional scans with ClamAV, rkhunter, chkrootkit, and Lynis are just sensible housekeeping.
+## General
+
+- **<a href="https://bhagpuss.blogspot.com/2026/08/things-ive-found-in-back-of-drawer-1-in.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss starts a drawer-diving series with old Legion of Superheroes stickers and the strange half-memory of forgotten collectibles.
