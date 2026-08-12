@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-08-11
+# Daily Blogroll: 2026-08-12
 
-## Tech
-
-- **<a href="https://westkarana.blog/2026/08/10/the-end-of-the-daily-blogroll/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa explains how Discord fatigue led her to build the AI-powered Daily Blogroll from Python, RSS, and TerraChat tech repurposed from Final Fantasy VI fandom.
-- **<a href="https://lameazoid.com/building-a-pigrrl-2/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie looks back on building a Raspberry Pi-powered PiGrrl 2 handheld that worked, barely, and got outclassed by newer emulation devices.
-- **<a href="http://scripting.com/2026/08/10.html#a152855" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer checks in on RSS.chat, cable-streaming sprawl, and recommends The Agency if polished British-style crime stories are your thing.
-- **<a href="https://hamatti.org/posts/j-is-for-json-validation-python-a-to-z/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis gives a brisk Python intro to JSON validation with Pydantic, using Pokédex data to show how schemas catch bad input.
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/08/10/nms10-i-came-i-saw-i-danced/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm logs into No Man’s Sky’s 10th anniversary meetup, dances in the Anomaly, and enjoys the game’s fleeting, friendly stranger encounters.
-- **<a href="https://dragonchasers.com/2026/08/10/early-days-in-the-planet-crafter/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli finds The Planet Crafter bleak but intriguing, with early survival shaped by tight oxygen limits, light death penalties, and lots of little fallback bases.
-- **<a href="https://casualaggro.wordpress.com/2026/08/06/ttrpg-time-woodland-warriors-and-the-adventures-of-the-slimespell-slinging-bullfrog-jeremiah/" target="_blank" rel="noopener noreferrer">Casual Aggro</a>** -- Ocho gushes about Woodland Warriors, where a slime-slinging bullfrog and friends show off how flexible, beginner-friendly Many Worlds can be.
-- **<a href="https://pixelnomad.ca/2026/08/10/look-ma-46/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace hits level 46, braves the planes, blows 150 motes on an accidental bard charm upgrade, then swaps classes again.
-- **<a href="https://swtorcommando.blogspot.com/2026/08/ranking-legacy-of-siths-major-npcs.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar ranks SWTOR: Legacy of the Sith’s standout NPCs, praising how character-driven the expansion became, especially Rass Ordo and Darth Nul.
-- **<a href="https://leekscosycorner.com/2026/08/10/cozy-marbles/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista highlights Cozy Marbles as a chill marble-run builder packed with creative pieces, playful customization, and easygoing race setup.
+- **<a href="https://tagn.wordpress.com/2026/08/11/eve-online-and-departure-planning/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm weighs an EVE Online exit, mulling nullsec logistics, asset safety, and the hassle of leaving New Eden when you’ve got no plan.
+- **<a href="https://theboardgameschronicle.com/2026/08/11/strategy-training-materials-for-inferno-guelphs-and-ghibellines-vie-for-tuscany/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler rounds up helpful Inferno materials, highlighting Tuscany, logistics, treachery, and what sets this Levy & Campaign entry apart.
+- **<a href="https://streetsinturmoil.com/2026/08/11/gunderholfen-guilds-showdown-session-29/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Gunderholfen session sends the Battle Brothers into Level 5 for bugbears, harpies, gargoyles, and fresh clues about the Ravens.
 ## General
 
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-08-10-week-33-links/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae rounds up Blaugust links, indie web tools, Echofeed’s shutdown, and a handy reminder to back up Letterboxd just in case.
-- **<a href="https://www.dnalounge.com/backstage/log/2026/08/10.html" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski marks Hackers’ 31st anniversary with a Cyberdelia night of movie screening, costume contest, Wipeout XL, skate ramps, and dancing.
+- **<a href="https://westkarana.blog/2026/08/11/confirmed-halflings-speak-spanish/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa opens with a halfling-pie gag, then digs into Connecticut politics, tolls, and how federal cuts hit the state’s own Trump voters.
+- **<a href="https://blog.gridranger.dev/my-everyday-superpower" target="_blank" rel="noopener noreferrer">GridRanger</a>** -- Dávid reflects on pattern recognition, from finding metro stations to debugging bugs, and where it helps, misfires, or earns Cassandra treatment.
+- **<a href="https://www.kgadams.net/life/introducing-myself" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly introduces himself through gaming, reading, tech work, retirement, and the health shifts that have complicated life after leaving IBM.
+- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/08/11/a-grandfather-again/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar writes tenderly about granddaughter Swayze, the shock of second-time grandfatherhood, and the ache of loving family from a distance.
+- **<a href="https://wordsundermyname.wordpress.com/2026/08/11/blaugust2026-day-11-washed-out/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 checks in after brutal storms near Cincinnati, thankful the damage was limited even with flickering power, downed limbs, and no internet.
+## Tech
+
+- **<a href="https://www.usebox.net/jjm/blog/outpost-progress/" target="_blank" rel="noopener noreferrer">usebox.net</a>** -- JJM shares steady Outpost progress on ZX Spectrum 48K, from engine rewrites to 53 screens, and it finally sounds on track for 2026.
+- **<a href="https://www.leadedsolder.com/2026/08/11/bbc-bridge-companion-composite-mod.html" target="_blank" rel="noopener noreferrer">Leaded Solder</a>** -- Mike documents a BBC Bridge Companion composite video mod, a fried THS7316, and the oscilloscope-assisted path from RF murk to clearer video.
+## Writing
+
+- **<a href="https://scopique.com/2026/08/11/commune-living/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique riffs on The Daily Blogroll’s shutdown and wonders whether bloggers should band together more like a communal site than scattered solo shops.
+- **<a href="https://nerdgirlthoughts.game.blog/2026/08/06/the-elephant-in-the-room-my-personal-absolutely-unofficial-thoughts-about-this-years-ai-disclaimer/" target="_blank" rel="noopener noreferrer">Nerd Girl Thoughts</a>** -- Krikket unpacks Blaugust’s AI disclaimer, arguing blanket bans are unenforceable and exclusionary while clarifying how this year’s debate evolved.
