@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-08-12
+# Daily Blogroll: 2026-08-13
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/08/11/eve-online-and-departure-planning/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm weighs an EVE Online exit, mulling nullsec logistics, asset safety, and the hassle of leaving New Eden when you’ve got no plan.
-- **<a href="https://theboardgameschronicle.com/2026/08/11/strategy-training-materials-for-inferno-guelphs-and-ghibellines-vie-for-tuscany/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler rounds up helpful Inferno materials, highlighting Tuscany, logistics, treachery, and what sets this Levy & Campaign entry apart.
-- **<a href="https://streetsinturmoil.com/2026/08/11/gunderholfen-guilds-showdown-session-29/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Gunderholfen session sends the Battle Brothers into Level 5 for bugbears, harpies, gargoyles, and fresh clues about the Ravens.
-## General
-
-- **<a href="https://westkarana.blog/2026/08/11/confirmed-halflings-speak-spanish/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa opens with a halfling-pie gag, then digs into Connecticut politics, tolls, and how federal cuts hit the state’s own Trump voters.
-- **<a href="https://blog.gridranger.dev/my-everyday-superpower" target="_blank" rel="noopener noreferrer">GridRanger</a>** -- Dávid reflects on pattern recognition, from finding metro stations to debugging bugs, and where it helps, misfires, or earns Cassandra treatment.
-- **<a href="https://www.kgadams.net/life/introducing-myself" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly introduces himself through gaming, reading, tech work, retirement, and the health shifts that have complicated life after leaving IBM.
-- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/08/11/a-grandfather-again/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar writes tenderly about granddaughter Swayze, the shock of second-time grandfatherhood, and the ache of loving family from a distance.
-- **<a href="https://wordsundermyname.wordpress.com/2026/08/11/blaugust2026-day-11-washed-out/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 checks in after brutal storms near Cincinnati, thankful the damage was limited even with flickering power, downed limbs, and no internet.
-## Tech
-
-- **<a href="https://www.usebox.net/jjm/blog/outpost-progress/" target="_blank" rel="noopener noreferrer">usebox.net</a>** -- JJM shares steady Outpost progress on ZX Spectrum 48K, from engine rewrites to 53 screens, and it finally sounds on track for 2026.
-- **<a href="https://www.leadedsolder.com/2026/08/11/bbc-bridge-companion-composite-mod.html" target="_blank" rel="noopener noreferrer">Leaded Solder</a>** -- Mike documents a BBC Bridge Companion composite video mod, a fried THS7316, and the oscilloscope-assisted path from RF murk to clearer video.
+- **<a href="https://tagn.wordpress.com/2026/08/12/everquest-legends-first-peek-into-this-strange-new-strange-old-world/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm finally jumps into EverQuest Legends and finds Daybreak’s $20-plus-sub throwback clearly aimed at solo-friendly nostalgia over classic EverQuest’s hardcore grind.
+- **<a href="https://chasingdings.com/2026/08/12/everquest-legends-dogs-and-cats-living-together-mass-hysteria/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa maps out a full EverQuest Legends leveling plan for Chris’s Kerran bard, from Steamfont to dragons, with kiting, ports, and juicy low-level dungeons.
+- **<a href="https://sightingames.wordpress.com/2026/08/12/review-pragmata/" target="_blank" rel="noopener noreferrer">Sight-In Games</a>** -- Zack says Pragmata pairs moon-base robot chaos with an unexpectedly warm Hugh-and-Diana story, making Capcom’s sci-fi action game a standout this year.
+- **<a href="https://sweetie.games/2026/08/12/i-dont-need-my-hobbies-mansplained-to-me/" target="_blank" rel="noopener noreferrer">Sweetie Games</a>** -- Sweetie vents about dating-app gamers who mansplain RPGs and visual novels, or assume they can instantly beat her at Sonic Riders.
+- **<a href="http://tobolds.blogspot.com/2026/08/wrath-of-righteous-start-of-act-3.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold finds Wrath of the Righteous Act 3 huge and awkward at first, then realizes mythic quests and rank boosts are the real way forward.
+- **<a href="https://virtualmoose.org/2026/08/12/check-out-the-new-dos-game-europa-panic/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael recommends Europa Panic, a brutally tough but fair EGA-style DOS arcade game with generator hunts, slow lasers, and a nasty purple tentacle timeout.
+- **<a href="https://goodgamelobby.substack.com/p/quest-vibes-andrew-one-interview-denshattack-soundtrack-video-game-music" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey kicks off Quest Vibes with Andrew One, digging into the Denshattack soundtrack and spotlighting the retro-pop collaborators behind its 80 songs.
+- **<a href="https://wowaltaddiction.blogspot.com/2026/08/legion.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar looks back on WoW: Legion as the expansion that saved the game for him, thanks to the Broken Isles, artifact weapons, and class halls.
+- **<a href="https://inanage.com/2026/08/12/switch-to-switch-2/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel talks himself into a Switch 2 with Zelda, Minecraft, and price-hike logic, then admits the refurbished upgrade has fully replaced the old Switch.
 ## Writing
 
-- **<a href="https://scopique.com/2026/08/11/commune-living/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique riffs on The Daily Blogroll’s shutdown and wonders whether bloggers should band together more like a communal site than scattered solo shops.
-- **<a href="https://nerdgirlthoughts.game.blog/2026/08/06/the-elephant-in-the-room-my-personal-absolutely-unofficial-thoughts-about-this-years-ai-disclaimer/" target="_blank" rel="noopener noreferrer">Nerd Girl Thoughts</a>** -- Krikket unpacks Blaugust’s AI disclaimer, arguing blanket bans are unenforceable and exclusionary while clarifying how this year’s debate evolved.
+- **<a href="https://www.ghastlymirror.xyz/blog/so-many-books-nothing-to-read/" target="_blank" rel="noopener noreferrer">The Ghastly Mirror</a>** -- Ghastly wrestles with a reading slump, sparse book-fair picks, and limited shelf space before settling on a Fighting Fantasy gamebook instead.
+## Tech
+
+- **<a href="https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier highlights “context bombing,” where planted prompt injections can make guardrailed AI hacking agents shut themselves down—at least for now.
+## General
+
+- **<a href="https://brennan.day/suspect-happiness-in-pursuit-an-anti-interview-with-unstory/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan digs into the “pursuit of happiness,” using the 50/10/40 model to question how much well-being comes from genes, circumstances, and intentional choices.
