@@ -6,7 +6,7 @@ Checked MMO Casual: recent_activity=True
 Checked Heartless Gamer: recent_activity=False
 Checked Tales of the Aggronaut: recent_activity=False
 Checked Words Under My Name: recent_activity=True
-Checked Dragonchasers: recent_activity=False
+Checked Dragonchasers: recent_activity=True
 Checked Inventory Full: recent_activity=True
 Checked Scopique: recent_activity=False
 Checked The Friendly Necromancer: recent_activity=True
@@ -18,46 +18,46 @@ Checked The Ghastly Mirror: recent_activity=False
 Checked Frostilyte Writes: recent_activity=False
 Checked Scripting News: recent_activity=True
 Checked Coding Horror: recent_activity=False
-Checked Schneier on Security: recent_activity=False
+Checked Schneier on Security: recent_activity=True
 Checked Ongoing: recent_activity=False
-Checked Jamie Zawinski's Blog: recent_activity=False
-Checked Tobold's Blog: recent_activity=False
-Checked Contains Moderate Peril: recent_activity=False
+Checked Jamie Zawinski's Blog: recent_activity=True
+Checked Tobold's Blog: recent_activity=True
+Checked Contains Moderate Peril: recent_activity=True
 Checked Bio Break: recent_activity=False
-Checked In An Age: recent_activity=False
+Checked In An Age: recent_activity=True
 Checked A Pixel Nomad: recent_activity=True
-Checked Aywren's Nook: recent_activity=True
+Checked Aywren's Nook: recent_activity=False
 Checked The Boardgames Chronicle: recent_activity=True
 Checked Mailvaltar: recent_activity=False
 Checked Smith Talks Tech: recent_activity=False
 Checked CrazyKinux's Musings: recent_activity=False
 Checked Tofutush's Blog: recent_activity=False
-Checked Indiecator: recent_activity=True
+Checked Indiecator: recent_activity=False
 Checked Ready Pixel One: recent_activity=False
 Checked WCRobinson: recent_activity=False
 Checked Time to Loot: recent_activity=False
 Checked Axxuy: recent_activity=False
 Checked Hamatti: recent_activity=True
-Checked West Karana: recent_activity=False
+Checked West Karana: recent_activity=True
 Checked Virtual Moose: recent_activity=False
-Checked Going Commando: recent_activity=True
+Checked Going Commando: recent_activity=False
 Checked Priest with a Cause: recent_activity=False
 Checked Grumpy Gamer: recent_activity=False
 Checked usebox.net: recent_activity=False
-Checked Kimimi the Game Eating She-Monster: recent_activity=False
+Checked Kimimi the Game Eating She-Monster: recent_activity=True
 Checked Cliffski's Blog: recent_activity=False
-Checked Life on the Wicked Stage: recent_activity=False
-Checked Luna's Gaming Log: recent_activity=False
+Checked Life on the Wicked Stage: recent_activity=True
+Checked Luna's Gaming Log: recent_activity=True
 Checked Leeks Cosy Corner: recent_activity=False
 Checked Zarf Updates: recent_activity=False
-Checked The Almighty Backlog: recent_activity=True
-Checked READ ONLY MEMO: recent_activity=True
+Checked The Almighty Backlog: recent_activity=False
+Checked READ ONLY MEMO: recent_activity=False
 Checked nicole express: recent_activity=False
 Checked Quarter Circle Forward: recent_activity=False
 Checked Buried Treasure: recent_activity=False
 Checked Margot Plays: recent_activity=False
 Checked Sweetie Games: recent_activity=False
-Checked Good Game Lobby: recent_activity=False
+Checked Good Game Lobby: recent_activity=True
 Checked Alexia Unplugged: recent_activity=False
 Checked Oya's Game Hub: recent_activity=False
 Checked Sid's Blog: recent_activity=False
@@ -78,16 +78,16 @@ Checked Jeff Geerling: recent_activity=False
 Checked Why I Game: recent_activity=False
 Checked Sight-In Games: recent_activity=False
 Checked Owlblog: recent_activity=True
-Checked Lameazoid: recent_activity=True
+Checked Lameazoid: recent_activity=False
 Checked Point, Click, Repeat: recent_activity=True
 Checked ThinkRoot: recent_activity=True
-Checked JoelChrono: recent_activity=False
+Checked JoelChrono: recent_activity=True
 Checked GridRanger: recent_activity=False
 Checked theTangentSpace: recent_activity=True
 Checked Aneesh Sathe: recent_activity=True
 Checked Many Welps: recent_activity=False
 Checked Through Wolfy's Eyes: recent_activity=False
-Checked Wakupan: recent_activity=False
+Checked Wakupan: recent_activity=True
 Checked Casual Aggro: recent_activity=False
 Checked I Can't Think of a Name for this Website: recent_activity=False
 Checked Aging Gamer: recent_activity=True
@@ -96,24 +96,21 @@ Required feeds (always first): ['Chasing Dings!', 'The Ancient Gaming Noob', 'We
 Other feeds to be sorted by selection history: ['An Archaeopteryx', 'Musing over Pints and Coffee', 'MMO Casual', 'Heartless Gamer', 'Tales of the Aggronaut', 'Words Under My Name', 'Dragonchasers', 'Inventory Full', 'Scopique', 'The Friendly Necromancer', "Lisette's Mxtadventures", "Monsterlady's Diary", 'Nik Kantar', 'The Ghastly Mirror', 'Frostilyte Writes', 'Scripting News', 'Coding Horror', 'Schneier on Security', 'Ongoing', "Jamie Zawinski's Blog", "Tobold's Blog", 'Contains Moderate Peril', 'Bio Break', 'In An Age', 'A Pixel Nomad', "Aywren's Nook", 'The Boardgames Chronicle', 'Mailvaltar', 'Smith Talks Tech', "CrazyKinux's Musings", "Tofutush's Blog", 'Indiecator', 'Ready Pixel One', 'WCRobinson', 'Time to Loot', 'Axxuy', 'Hamatti', 'Virtual Moose', 'Going Commando', 'Priest with a Cause', 'Grumpy Gamer', 'usebox.net', 'Kimimi the Game Eating She-Monster', "Cliffski's Blog", 'Life on the Wicked Stage', "Luna's Gaming Log", 'Leeks Cosy Corner', 'Zarf Updates', 'The Almighty Backlog', 'READ ONLY MEMO', 'nicole express', 'Quarter Circle Forward', 'Buried Treasure', 'Margot Plays', 'Sweetie Games', 'Good Game Lobby', 'Alexia Unplugged', "Oya's Game Hub", "Sid's Blog", "Tom's Gaming Vault", 'Donkeyspace', 'Leaded Solder', 'brennan.day', 'Endgame Viable', 'Auric Quanta Strategies', 'False Machine', 'Full Time Casual', 'The Digital Antiquarian', 'Retro XP', 'Westhorpe.net', 'Streets & Spores', 'Scarybooster', 'Jeff Geerling', 'Why I Game', 'Sight-In Games', 'Owlblog', 'Lameazoid', 'Point, Click, Repeat', 'ThinkRoot', 'JoelChrono', 'GridRanger', 'theTangentSpace', 'Aneesh Sathe', 'Many Welps', "Through Wolfy's Eyes", 'Wakupan', 'Casual Aggro', "I Can't Think of a Name for this Website", 'Aging Gamer', 'Nerd Girl Thoughts']
 Feed selection priority order (other feeds):
   Lisette's Mxtadventures: Never selected
-  Auric Quanta Strategies: 156 days since last selection
-  Alexia Unplugged: 144 days since last selection
-  Time to Loot: 119 days since last selection
-  Quarter Circle Forward: 85 days since last selection
-  Westhorpe.net: 85 days since last selection
-  Nik Kantar: 62 days since last selection
-  Coding Horror: 54 days since last selection
-  Donkeyspace: 52 days since last selection
-  Tales of the Aggronaut: 45 days since last selection
-
-Processing feed: West Karana https://westkarana.blog/feed/
-No new entries.
+  Auric Quanta Strategies: 157 days since last selection
+  Alexia Unplugged: 145 days since last selection
+  Time to Loot: 120 days since last selection
+  Quarter Circle Forward: 86 days since last selection
+  Westhorpe.net: 86 days since last selection
+  Nik Kantar: 63 days since last selection
+  Coding Horror: 55 days since last selection
+  Donkeyspace: 53 days since last selection
+  Tales of the Aggronaut: 46 days since last selection
 
 Processing feed: The Ancient Gaming Noob https://tagn.wordpress.com/feed/
-Picking entry: A Brief History of Blaugust https://tagn.wordpress.com/2026/08/15/a-brief-history-of-blaugust/
-Fetching readable content for URL: https://tagn.wordpress.com/2026/08/15/a-brief-history-of-blaugust/
-Fetched article length: 15706 characters
-Picked item: A Brief History of Blaugust from The Ancient Gaming Noob
+Picking entry: TAGN Fantasy Critic League 2026 – Week Thirty-Three and Waiting for Scores https://tagn.wordpress.com/2026/08/16/tagn-fantasy-critic-league-2026-week-thirty-three-and-waiting-for-scores/
+Fetching readable content for URL: https://tagn.wordpress.com/2026/08/16/tagn-fantasy-critic-league-2026-week-thirty-three-and-waiting-for-scores/
+Fetched article length: 5689 characters
+Picked item: TAGN Fantasy Critic League 2026 – Week Thirty-Three and Waiting for Scores from The Ancient Gaming Noob
 Feed cap reached, stopping.
 Updated selection tracking for The Ancient Gaming Noob
 
@@ -128,6 +125,14 @@ Skipping entry older than last_ts: https://chasingdings.com/2026/08/07/buy-now-t
 Skipping entry older than last_ts: https://chasingdings.com/2026/08/07/pokopia-underwater-in-bubbly-basin/
 Skipping entry older than last_ts: https://chasingdings.com/2026/08/04/frosthaven-scenario-34-top-of-the-spire/
 Skipping entry older than last_ts: https://chasingdings.com/2026/08/03/manchester-ct-cruisin-main-street/
+
+Processing feed: West Karana https://westkarana.blog/feed/
+Picking entry: More Movies Without Chris Pratt https://westkarana.blog/2026/08/16/more-movies-without-chris-pratt/
+Fetching readable content for URL: https://westkarana.blog/2026/08/16/more-movies-without-chris-pratt/
+Fetched article length: 5676 characters
+Picked item: More Movies Without Chris Pratt from West Karana
+Feed cap reached, stopping.
+Updated selection tracking for West Karana
 
 Processing feed: Lisette's Mxtadventures https://lisettesmxtadventures.wordpress.com/feed/?alt=rss
 Skipping entry older than last_ts: https://lisettesmxtadventures.wordpress.com/2025/09/25/little-joys-the-numbers/
@@ -649,14 +654,6 @@ Skipping entry older than last_ts: https://grumpygamer.com/economics_of_an_adven
 Skipping entry older than last_ts: https://grumpygamer.com/on_stranger_tides/
 Skipping entry older than last_ts: https://grumpygamer.com/why_adventure_games_suck/
 
-Processing feed: READ ONLY MEMO https://readonlymemo.com/rss/
-Picking entry: 25 years into PCSX2's life, Stuntman is finally playable — and that's the tip of the iceberg for a new fork focused on "the issues on the edge of emulating the PS2" https://readonlymemo.com/pcsx2-stuntman-fork-interview-dirge-of-cerberus-translation/
-Fetching readable content for URL: https://readonlymemo.com/pcsx2-stuntman-fork-interview-dirge-of-cerberus-translation/
-Fetched article length: 30917 characters
-Picked item: 25 years into PCSX2's life, Stuntman is finally playable — and that's the tip of the iceberg for a new fork focused on "the issues on the edge of emulating the PS2" from READ ONLY MEMO
-Feed cap reached, stopping.
-Updated selection tracking for READ ONLY MEMO
-
 Processing feed: Margot Plays https://margotplays.substack.com/feed
 Skipping entry older than last_ts: https://margotplays.substack.com/p/update-on-whats-next
 Skipping entry older than last_ts: https://margotplays.substack.com/p/whats-been-happening
@@ -683,16 +680,12 @@ Processing feed: Sid's Blog https://0xsid.com/blog/rss.xml
 No new entries.
 
 Processing feed: Luna's Gaming Log https://lunasgaminglog.com/feed/
-Skipping already seen entry: https://lunasgaminglog.com/2026/08/11/hustle-culture-scribbles-5/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/08/04/my-july-log/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/07/28/fortune-fragments-review/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/07/14/i-am-excited-that-these-cozy-games-are-getting-a-1-0-release/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/07/07/my-pokopia-progress-100-plus-hours-later/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/07/06/i-dont-need-to-git-gud/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/06/30/my-june-log-and-steam-next-fest-recap/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/06/23/thrifty-business-review/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/06/16/save-point-scribbles-4/
-Skipping entry older than last_ts: https://lunasgaminglog.com/2026/06/09/sledding-game-review/
+Picking entry: Hips N Noses: demo impressions https://lunasgaminglog.com/2026/08/17/hips-n-noses-demo-impressions/
+Fetching readable content for URL: https://lunasgaminglog.com/2026/08/17/hips-n-noses-demo-impressions/
+Fetched article length: 5655 characters
+Picked item: Hips N Noses: demo impressions from Luna's Gaming Log
+Feed cap reached, stopping.
+Updated selection tracking for Luna's Gaming Log
 
 Processing feed: I Can't Think of a Name for this Website https://littlelum.neocities.org/RSS.xml
 No new entries.
@@ -718,23 +711,6 @@ No new entries.
 Processing feed: Jeff Geerling https://www.jeffgeerling.com/blog.xml
 No new entries.
 
-Processing feed: Indiecator https://indiecator.org/feed/
-Picking entry: Eldritch Empathy Interview: LUAL Games on Lovecraft, Empathy, and “Combat” Inspired by Papers, Please https://indiecator.org/2026/08/16/eldritch-empathy-interview/
-Fetching readable content for URL: https://indiecator.org/2026/08/16/eldritch-empathy-interview/
-Fetched article length: 9924 characters
-Picked item: Eldritch Empathy Interview: LUAL Games on Lovecraft, Empathy, and “Combat” Inspired by Papers, Please from Indiecator
-Feed cap reached, stopping.
-Updated selection tracking for Indiecator
-
-Processing feed: The Almighty Backlog https://thealmightybacklog.wordpress.com/feed/
-Picking entry: Blasphemous II https://thealmightybacklog.wordpress.com/2026/08/15/blasphemous-ii/
-Fetching readable content for URL: https://thealmightybacklog.wordpress.com/2026/08/15/blasphemous-ii/
-Rate limited when fetching https://thealmightybacklog.wordpress.com/2026/08/15/blasphemous-ii/, retrying after 2s (attempt 1/10).
-Fetched article length: 17646 characters
-Picked item: Blasphemous II from The Almighty Backlog
-Feed cap reached, stopping.
-Updated selection tracking for The Almighty Backlog
-
 Processing feed: Many Welps https://manywelps.com/feed/
 Skipping entry older than last_ts: https://manywelps.com/2026/08/04/this-is-my-very-first-blog/
 Skipping entry older than last_ts: https://manywelps.com/2026/08/03/everquest-legends-impressions/
@@ -750,14 +726,6 @@ Skipping entry older than last_ts: https://manywelps.com/2026/06/19/coming-back-
 Processing feed: Ongoing https://www.tbray.org/ongoing/ongoing.atom
 No new entries.
 
-Processing feed: Life on the Wicked Stage https://warnercrocker.com/feed/
-Picking entry: Stillness. https://warnercrocker.com/2026/08/15/stillness/
-Fetching readable content for URL: https://warnercrocker.com/2026/08/15/stillness/
-Fetched article length: 1176 characters
-Picked item: Stillness. from Life on the Wicked Stage
-Feed cap reached, stopping.
-Updated selection tracking for Life on the Wicked Stage
-
 Processing feed: Zarf Updates https://blog.zarfhome.com/feeds/posts/default.rss
 No new entries.
 
@@ -765,78 +733,142 @@ Processing feed: nicole express https://nicole.express/feed.xml
 No new entries.
 
 Processing feed: JoelChrono https://joelchrono.xyz/feed.xml
-No new entries.
-
-Processing feed: theTangentSpace https://thetangent.space/feed.xml
-Picking entry: What is a tangent space, anyway? https://thetangent.space/2026/tangent-space/
-Fetching readable content for URL: https://thetangent.space/2026/tangent-space/
-Fetched article length: 7454 characters
-Picked item: What is a tangent space, anyway? from theTangentSpace
+Picking entry: Who am I reading during Blaugust? https://joelchrono.xyz/blog/who-am-i-reading-during-blaugust/
+Fetching readable content for URL: https://joelchrono.xyz/blog/who-am-i-reading-during-blaugust/
+Fetched article length: 3036 characters
+Picked item: Who am I reading during Blaugust? from JoelChrono
 Feed cap reached, stopping.
-Updated selection tracking for theTangentSpace
-
-Processing feed: Through Wolfy's Eyes https://wolfyseyes.wordpress.com/feed/
-Picking entry: Blaugust Check-In https://wolfyseyes.wordpress.com/2026/08/10/blaugust-check-in/
-Fetching readable content for URL: https://wolfyseyes.wordpress.com/2026/08/10/blaugust-check-in/
-Fetched article length: 1925 characters
-Picked item: Blaugust Check-In from Through Wolfy's Eyes
-Feed cap reached, stopping.
-Updated selection tracking for Through Wolfy's Eyes
-
-Processing feed: Wakupan https://wakupanbouquet.hatenablog.com/feed
-Picking entry: 2026.8.13　文章書くタイプのオタクの作業環境【Blaugust】 https://wakupanbouquet.hatenablog.com/entry/2026/08/13/221550
-Fetching readable content for URL: https://wakupanbouquet.hatenablog.com/entry/2026/08/13/221550
-Fetched article length: 2759 characters
-Picked item: 2026.8.13　文章書くタイプのオタクの作業環境【Blaugust】 from Wakupan
-Feed cap reached, stopping.
-Updated selection tracking for Wakupan
-
-Processing feed: An Archaeopteryx https://anarchaeopteryx.bearblog.dev/feed/
-Picking entry: 2026 Week 33 Digest https://anarchaeopteryx.bearblog.dev/2026-08-14-week-33-digest/
-Fetching readable content for URL: https://anarchaeopteryx.bearblog.dev/2026-08-14-week-33-digest/
-Fetched article length: 5094 characters
-Picked item: 2026 Week 33 Digest from An Archaeopteryx
-Feed cap reached, stopping.
-Updated selection tracking for An Archaeopteryx
+Updated selection tracking for JoelChrono
 
 Processing feed: Dragonchasers https://dragonchasers.com/feed/
-No new entries.
-
-Processing feed: Scripting News http://scripting.com/rss.xml
-Picking entry: Thinking out loud on a Saturday morning http://scripting.com/2026/08/15/140129.html?title=thinkingOutLoudOnASaturdayMorning
-Fetching readable content for URL: http://scripting.com/2026/08/15/140129.html?title=thinkingOutLoudOnASaturdayMorning
-Fetched article length: 8073 characters
-Picked item: Thinking out loud on a Saturday morning from Scripting News
+Picking entry: A Reminder for Future Me: Don’t Buy Diablo IV Expansions! https://dragonchasers.com/2026/08/16/a-reminder-for-future-me-dont-buy-diablo-iv-expansions/
+Fetching readable content for URL: https://dragonchasers.com/2026/08/16/a-reminder-for-future-me-dont-buy-diablo-iv-expansions/
+Fetched article length: 5010 characters
+Picked item: A Reminder for Future Me: Don’t Buy Diablo IV Expansions! from Dragonchasers
 Feed cap reached, stopping.
-Updated selection tracking for Scripting News
-
-Processing feed: Jamie Zawinski's Blog https://cdn.jwz.org/blog/feed/
-Picking entry: Today in Clown Storage: PBS https://www.jwz.org/blog/2026/08/today-in-clown-storage-pbs/
-Fetching readable content for URL: https://www.jwz.org/blog/2026/08/today-in-clown-storage-pbs/
-Fetched article length: 1411 characters
-Picked item: Today in Clown Storage: PBS from Jamie Zawinski's Blog
-Feed cap reached, stopping.
-Updated selection tracking for Jamie Zawinski's Blog
-
-Processing feed: A Pixel Nomad https://pixelnomad.ca/feed/
-Picking entry: Back to 40.. again https://pixelnomad.ca/2026/08/15/back-to-40-again/
-Fetching readable content for URL: https://pixelnomad.ca/2026/08/15/back-to-40-again/
-Fetched article length: 769 characters
-Picked item: Back to 40.. again from A Pixel Nomad
-Feed cap reached, stopping.
-Updated selection tracking for A Pixel Nomad
+Updated selection tracking for Dragonchasers
 
 Processing feed: Hamatti https://hamatti.org/feed/feed.xml
+Picking entry: O is for ORM - Python A to Z https://hamatti.org/posts/o-is-for-orm-python-a-to-z/
+Fetching readable content for URL: https://hamatti.org/posts/o-is-for-orm-python-a-to-z/
+Fetched article length: 4373 characters
+Picked item: O is for ORM - Python A to Z from Hamatti
+Feed cap reached, stopping.
+Updated selection tracking for Hamatti
+
+Processing feed: Going Commando http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss
+Picking entry: 8.0 Is Called "Masters of the Force" https://swtorcommando.blogspot.com/2026/08/80-is-called-masters-of-force.html
+Fetching readable content for URL: https://swtorcommando.blogspot.com/2026/08/80-is-called-masters-of-force.html
+Fetched article length: 3018 characters
+Picked item: 8.0 Is Called "Masters of the Force" from Going Commando
+Feed cap reached, stopping.
+Updated selection tracking for Going Commando
+
+Processing feed: Leeks Cosy Corner https://leekscosycorner.com/feed/
+No new entries.
+
+Processing feed: Lameazoid https://lameazoid.com/feed/
+No new entries.
+
+Processing feed: Casual Aggro https://casualaggro.wordpress.com/feed/
+Picking entry: Thieving and Cheesing In Tamriel https://casualaggro.wordpress.com/2026/08/11/thieving-and-cheesing-in-tamriel/
+Fetching readable content for URL: https://casualaggro.wordpress.com/2026/08/11/thieving-and-cheesing-in-tamriel/
+Fetched article length: 3964 characters
+Picked item: Thieving and Cheesing In Tamriel from Casual Aggro
+Feed cap reached, stopping.
+Updated selection tracking for Casual Aggro
+
+Processing feed: Musing over Pints and Coffee https://musingsoverpintsandcoffee.wordpress.com/feed/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/08/11/a-grandfather-again/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/08/06/the-emptyish-nest/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/07/30/whats-worth-building-now/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/07/21/the-questions-your-kids-dont-ask/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/07/14/what-im-not-optimizing-for-anymore/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/07/07/the-rhythms-that-disappeared/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/07/01/starting-over-at-56/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/06/17/the-advice-i-would-give-my-30-year-old-self/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/06/04/what-travel-used-to-mean-versus-what-it-means-now/
+Skipping entry older than last_ts: https://musingsoverpintsandcoffee.wordpress.com/2026/05/20/the-milestones-nobody-mentions/
+
+Processing feed: Words Under My Name https://wordsundermyname.wordpress.com/feed/
+Picking entry: #Blaugust2026 Day 16 – Recovering Dirtbag https://wordsundermyname.wordpress.com/2026/08/16/blaugust2026-day-16-recovering-dirtbag/
+Fetching readable content for URL: https://wordsundermyname.wordpress.com/2026/08/16/blaugust2026-day-16-recovering-dirtbag/
+Fetched article length: 5164 characters
+Picked item: #Blaugust2026 Day 16 – Recovering Dirtbag from Words Under My Name
+Feed cap reached, stopping.
+Updated selection tracking for Words Under My Name
+
+Processing feed: Scopique https://scopique.com/feed/
+No new entries.
+
+Processing feed: The Boardgames Chronicle https://theboardgameschronicle.com/feed/
+Picking entry: Army of the Potomac: Campaigns of 1862 and 1864 – Unboxing & Overview https://theboardgameschronicle.com/2026/08/16/army-of-the-potomac-campaigns-of-1862-and-1864-unboxing-overview/
+Fetching readable content for URL: https://theboardgameschronicle.com/2026/08/16/army-of-the-potomac-campaigns-of-1862-and-1864-unboxing-overview/
+Fetched article length: 1587 characters
+Picked item: Army of the Potomac: Campaigns of 1862 and 1864 – Unboxing & Overview from The Boardgames Chronicle
+Feed cap reached, stopping.
+Updated selection tracking for The Boardgames Chronicle
+
+Processing feed: usebox.net https://www.usebox.net/jjm/blog/index.xml
+No new entries.
+
+Processing feed: Leaded Solder https://www.leadedsolder.com/feed.xml
+No new entries.
+
+Processing feed: Streets & Spores https://streetsinturmoil.com/feed/
+Skipping entry older than last_ts: https://streetsinturmoil.com/2026/08/11/gunderholfen-guilds-showdown-session-29/
+Skipping entry older than last_ts: https://streetsinturmoil.com/2026/08/04/the-gates-of-power-the-dwarven-realm-session-28/
+Skipping entry older than last_ts: https://streetsinturmoil.com/2026/07/24/gunderholfen-in-pursuit-of-the-ravens-session-27/
+Skipping entry older than last_ts: https://streetsinturmoil.com/2026/07/20/slug-house-end-of-investigation-session-26/
+Skipping entry older than last_ts: https://streetsinturmoil.com/2026/07/05/slug-house-slaying-of-the-giant-slug-session-25/
+Skipping entry older than last_ts: https://streetsinturmoil.com/2026/07/01/slug-house-curiosity-room-session-24/
+Skipping entry older than last_ts: https://streetsinturmoil.com/2026/06/30/slug-house-forced-entry-session-23/
+Skipping entry older than last_ts: https://streetsinturmoil.com/2026/06/18/gunderholfen-he-died-a-heros-death-session-22/
+Skipping entry older than last_ts: https://streetsinturmoil.com/2026/06/16/dungeon-ecology-gigaxian-naturalism-is-just-the-beginning/
+Skipping entry older than last_ts: https://streetsinturmoil.com/2026/06/05/frosthaven-among-the-wreckage-54/
+
+Processing feed: GridRanger https://blog.gridranger.dev/feeds/all.atom.xml
+No new entries.
+
+Processing feed: Aging Gamer https://www.kgadams.net/feed
+Picking entry: Thirty one https://www.kgadams.net/sitenews/thirty-one
+Fetching readable content for URL: https://www.kgadams.net/sitenews/thirty-one
+Fetched article length: 3046 characters
+Picked item: Thirty one from Aging Gamer
+Feed cap reached, stopping.
+Updated selection tracking for Aging Gamer
+
+Processing feed: Nerd Girl Thoughts https://nerdgirlthoughts.game.blog/feed/
+Skipping entry older than last_ts: https://nerdgirlthoughts.game.blog/2026/08/06/the-elephant-in-the-room-my-personal-absolutely-unofficial-thoughts-about-this-years-ai-disclaimer/
+Skipping entry older than last_ts: https://nerdgirlthoughts.game.blog/2026/08/05/getting-ready-for-the-deluge-of-chore-sims-on-the-horizon/
+Skipping entry older than last_ts: https://nerdgirlthoughts.game.blog/2026/08/04/blaugust2026-group-project-my-first-blog/
+Skipping entry older than last_ts: https://nerdgirlthoughts.game.blog/2026/08/03/mixtape-monday-a-warm-hug-krikkets-musical-pep-talk/
+Skipping entry older than last_ts: https://nerdgirlthoughts.game.blog/2026/08/02/100-horror-movies-92-days-100horror2026/
+Skipping entry older than last_ts: https://nerdgirlthoughts.game.blog/2026/08/01/blaugust-2026-meet-the-mentors-participant-list/
+Skipping entry older than last_ts: https://nerdgirlthoughts.game.blog/2026/07/23/blaugust-2026-calendar-weekly-prompts-group-projects/
+Skipping entry older than last_ts: https://nerdgirlthoughts.game.blog/2026/07/15/blaugust-2026-is-coming/
+Skipping entry older than last_ts: https://nerdgirlthoughts.game.blog/2025/09/07/blaugust-2025-in-review/
+Skipping entry older than last_ts: https://nerdgirlthoughts.game.blog/2025/09/01/in-review-august-2025/
+
+Processing feed: MMO Casual https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss
+Picking entry: Shadowlands https://wowaltaddiction.blogspot.com/2026/08/shadowlands.html
+Fetching readable content for URL: https://wowaltaddiction.blogspot.com/2026/08/shadowlands.html
+Fetched article length: 4397 characters
+Picked item: Shadowlands from MMO Casual
+Feed cap reached, stopping.
+Updated selection tracking for MMO Casual
+
+Processing feed: The Ghastly Mirror https://www.ghastlymirror.xyz/rss.xml
 Total cap reached, stopping.
 
 === Feed Selection Statistics ===
-https://auricquantastrategies.space/feed/: 156 days since last selection (1 total)
-https://axxuy.xyz/blog/feed.xml: 150 days since last selection (3 total)
-https://alexiaunplugged.com/feed/: 144 days since last selection (1 total)
-https://www.timetoloot.com/feed/: 119 days since last selection (2 total)
-https://quartercircleforward.blog/feed/: 85 days since last selection (2 total)
-https://westhorpe.net/feed/: 85 days since last selection (2 total)
-https://nkantar.com/blog/feed/: 62 days since last selection (2 total)
-https://blog.codinghorror.com/rss/: 54 days since last selection (2 total)
-https://franklantz.substack.com/feed: 52 days since last selection (4 total)
-https://aggronaut.com/feed/: 45 days since last selection (61 total)
+https://auricquantastrategies.space/feed/: 157 days since last selection (1 total)
+https://axxuy.xyz/blog/feed.xml: 151 days since last selection (3 total)
+https://alexiaunplugged.com/feed/: 145 days since last selection (1 total)
+https://www.timetoloot.com/feed/: 120 days since last selection (2 total)
+https://quartercircleforward.blog/feed/: 86 days since last selection (2 total)
+https://westhorpe.net/feed/: 86 days since last selection (2 total)
+https://nkantar.com/blog/feed/: 63 days since last selection (2 total)
+https://blog.codinghorror.com/rss/: 55 days since last selection (2 total)
+https://franklantz.substack.com/feed: 53 days since last selection (4 total)
+https://aggronaut.com/feed/: 46 days since last selection (61 total)
