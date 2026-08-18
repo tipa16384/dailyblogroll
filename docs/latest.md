@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-08-17
+# Daily Blogroll: 2026-08-18
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/08/16/tagn-fantasy-critic-league-2026-week-thirty-three-and-waiting-for-scores/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm’s Fantasy Critic League update is mostly a holding pattern, with Marvel Tokon and Pokemon Pokopia finally posting scores before a quiet August stretch.
-- **<a href="https://lunasgaminglog.com/2026/08/17/hips-n-noses-demo-impressions/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna is sold on Hips N Noses’ bold art, funny banter, and clever mashup of cafe management with Vampire Survivors-style dream combat.
-- **<a href="https://dragonchasers.com/2026/08/16/a-reminder-for-future-me-dont-buy-diablo-iv-expansions/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli liked Diablo IV’s story and monster-smooshing, but Lord of Hate lost him with platform-locked expansion access and unreliable quest progress saves.
-- **<a href="https://swtorcommando.blogspot.com/2026/08/80-is-called-masters-of-force.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar digs into SWTOR 8.0 finally getting the name Masters of the Force, plus confirmation that Galaxy in Chaos brings new story content.
-- **<a href="https://casualaggro.wordpress.com/2026/08/11/thieving-and-cheesing-in-tamriel/" target="_blank" rel="noopener noreferrer">Casual Aggro</a>** -- Ocho is having a great time with ESO’s Return of the Thieves Guild, especially the sneaky rewards, Sheogorath weirdness, and cheese-fueled questing.
-- **<a href="https://theboardgameschronicle.com/2026/08/16/army-of-the-potomac-campaigns-of-1862-and-1864-unboxing-overview/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler highlights Army of the Potomac as a low-complexity GMT Civil War wargame with quick scenarios, campaign rules, and big-picture tactical depth.
-- **<a href="https://wowaltaddiction.blogspot.com/2026/08/shadowlands.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar says WoW: Shadowlands finally made him quit, thanks to covenant math, Maw and Torghast chores, anima grind, and a story payoff that soured.
-## General
-
-- **<a href="https://westkarana.blog/2026/08/16/more-movies-without-chris-pratt/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa rounds up a mixed movie binge, from Satanist-hotel horror-comedy and Old Henry to Fast and Furious confusion and a Hunger Games prequel bail-out.
-- **<a href="https://wordsundermyname.wordpress.com/2026/08/16/blaugust2026-day-16-recovering-dirtbag/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 writes candidly about feeling out of sync at 35, grieving lost years, and no longer feeling at home in games like Destiny 2 and FFXIV.
-## Writing
-
-- **<a href="https://joelchrono.xyz/blog/who-am-i-reading-during-blaugust/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel shares his Blaugust reading list, spotlighting bloggers covering patient gaming, planned obsolescence, games, tech, books, and indie web journeys.
-- **<a href="https://www.kgadams.net/sitenews/thirty-one" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly hits 31 Blaugust posts, crediting brevity and borrowed inspiration, while admitting the pace was exhausting and probably a one-time thing.
+- **<a href="https://tagn.wordpress.com/2026/08/17/blaugust-2026-past-half-way-and-what-i-write-about/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm says Blaugust hasn’t changed his approach much: he’s still logging his gaming life, not chasing guides, reviews, or whatever the RSS argument is.
+- **<a href="https://scopique.com/2026/08/17/terminal-illness-riftborne/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique digs Riftborne, a cheap terminal-window 4X with ASCII vibes, sharp upkeep mechanics, and exactly the kind of menu-heavy old-school friction he wants.
+- **<a href="https://www.ghastlymirror.xyz/blog/playing-wow-introducing-ironforge/" target="_blank" rel="noopener noreferrer">The Ghastly Mirror</a>** -- Ghastly tours WoW’s Ironforge, pokes around the Explorers’ Guild, handles dwarf errands, and wraps Dun Morogh with a dead bear and level 13.
+- **<a href="http://tobolds.blogspot.com/2026/08/incompatible-loot.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold says Pathfinder: Wrath of the Righteous buries players in loot they can’t really use once weapon specialization locks a party into narrow builds.
+- **<a href="https://inanage.com/2026/08/18/ggm-nintendont-remember-much/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel revisits hazy NES memories, from Super Mario Bros. 3 and Zelda II to Blaster Master and the wrong game arriving at Christmas.
+- **<a href="https://virtualmoose.org/2026/08/17/the-joy-of-revisiting-co-open-with-my-kids/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael revisits co-open with his kids and loves how its no-pressure grocery-store wandering sparks exploration, roleplay, and made-up stories.
+- **<a href="https://goodgamelobby.substack.com/p/mina-the-hollower-review-zelda-like-soulslike-retro-adventure" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey is all-in on Mina the Hollower, praising its Link’s Awakening throwback feel, Soulsy challenge, secrets, and burrowing twist.
+- **<a href="https://thefriendlynecromancer.blogspot.com/2026/08/hunting-dragons-surviving-covid.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- Home sick with COVID, The Friendly Necromancer spends the day soloing Nagafen and Lady Vox in EverQuest Legends and hauling off some tasty loot.
 ## Tech
 
-- **<a href="https://hamatti.org/posts/o-is-for-orm-python-a-to-z/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis makes a brisk case for Django ORM, arguing it beats raw SQL for modeling business logic and quick database poking in the shell.
+- **<a href="https://westkarana.blog/2026/08/17/dri-and-a-path-not-taken/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa looks back on CP/M and FlexOS at DRI, then wonders how close she came to the future Maxis business-sim branch of history.
+- **<a href="https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier flags two papers arguing LLM memory still leaks sensitive context too easily, and that better reasoning beats just prompt-fiddling.
+- **<a href="https://brennan.day/outjerked-by-the-trickster/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan responds to circlejerk.blog parodying the IndieWeb scene, crediting the mimicry while chewing over what the satire gets right and wrong.
+## General
+
+- **<a href="https://bhagpuss.blogspot.com/2026/08/wed-just-like-to-ask-you-few-questions.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss spins a questionnaire post into a ramble on interviews, newspapers, The Guardian, and discovering Lana Del Rey through “Video Games.”
