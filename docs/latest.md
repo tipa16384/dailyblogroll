@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-08-20
+# Daily Blogroll: 2026-08-21
 
-## General
-
-- **<a href="https://chasingdings.com/2026/08/19/confessions-of-a-superbacker-blaugust-2026-edition/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa checks in on Kickstarter backs, from Battlestations: Lightspeed’s family-friendly six-player promise to the trillo wind controller’s quiet, recorder-shaped musical appeal.
-- **<a href="https://www.containsmoderateperil.com/blog/2026/8/19/diary-of-a-podcaster-part-20" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger looks back on podcasting’s shift from scrappy Audacity-and-Skype fandom to polished video-first productions that feel slicker but less soulful.
-- **<a href="https://thinkroot.xyz/nota-553" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian drops a blunt minimalist thought: most of us are storing stuff at home we don’t need or haven’t touched in years.
-- **<a href="https://aneeshsathe.com/the-tarpa-player/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh bookmarks The Tarpa Player, a music-related YouTube find, with no extra commentary beyond the pointer.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-08-19-cameras-everywhere/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae writes powerfully about life under constant cameras, from workplace surveillance to influencers, Meta Glasses, and the exhaustion of never really opting out.
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/08/19/stars-reach-arrives-in-early-access/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm sizes up Stars Reach’s Steam Early Access launch: decent crafting foundations, no spaceships yet, and MMO server realities pushing the price above survival-game norms.
-- **<a href="https://blog.zarfhome.com/2026/08/gdc-updates" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin reads GDC 2027’s cheaper expo and new business hall as a practical pivot, not exactly the pure B2B future the branding claims.
-- **<a href="https://leekscosycorner.com/2026/08/19/life-is-strange-double-exposure/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista’s early take on Life is Strange: Double Exposure is warm on older Max, the two-timeline mystery, and an opening chapter that hooks nicely.
-- **<a href="https://aywren.com/2026/08/19/i-finally-played-balatro" target="_blank" rel="noopener noreferrer">Aywren&#x27;s Nook</a>** -- Aywren finally clicks with Balatro after learning to spend early, turning a baffling poker roguelike into a four-hour Steam Deck-friendly rabbit hole.
-- **<a href="https://priestwithacause.blogspot.com/2026/08/a-second-look-at-housing.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar revisits WoW Midnight housing with softened edges: still flawed, but collecting decor and guild house visits add some genuine charm.
+- **<a href="https://westkarana.blog/2026/08/20/a-squaredle-based-magic-system-for-your-roleplaying-table/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa turns Squaredle into a clever tabletop magic framework, riffing on Jonathan Strange & Mr Norrell and D&D-style caster roles.
+- **<a href="https://tagn.wordpress.com/2026/08/20/stardew-valley-unlocking-the-greenhouse/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm’s Stardew Valley greenhouse push brings melons, trout derby prizes, Skull Cavern disasters, and at least one expensive trip to the doctor.
+- **<a href="https://pixelnomad.ca/2026/08/20/eql-now-for-something-completely-different/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace swaps to an EverQuest wizard-shaman-magician trio and is having a blast letting the wizard nuke while the pet tanks.
+- **<a href="https://indiecator.org/2026/08/20/magical-princess-review/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi says Magical Princess is a charming raising sim with surprisingly deep resource juggling, strong story beats, and a lot of endings.
+- **<a href="https://wordsundermyname.wordpress.com/2026/08/20/blaugust2026-day-20-watch-the-sidequests/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 wrestles with FFVII sidequests, Blue Magic, and optional power-ups, wondering why doing the fun stuff so often trivializes the finale.
+## General
+
+- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/08/20/choosing-a-place-at-56/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar writes honestly about choosing where to live after work stops choosing for you, with Arizona’s heat making every option feel loaded.
+- **<a href="https://warnercrocker.com/2026/08/19/were-going-to-need-a-bigger-woodshed/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner uses Jaws and a childhood woodshed threat to vent about adults enabling damage across politics, society, and tech.
 ## Writing
 
-- **<a href="https://axxuy.com/blog/2026/blown-off-course/" target="_blank" rel="noopener noreferrer">Axxuy</a>** -- Axxuy shares a candid Blaugust slump update, with low energy and few posts, but still cheers the month’s wider burst of blogging creativity.
-- **<a href="https://welshtroll.co.uk/post/2026-halfway-there.html" target="_blank" rel="noopener noreferrer">Point, Click, Repeat</a>** -- Welsh Troll hits Blaugust’s midpoint with encouragement, some honest pacing struggles, and a newly found static-site archive bug to fix.
+- **<a href="https://nerdgirlthoughts.game.blog/2026/08/20/good-intentions-dont-get-the-job-done/" target="_blank" rel="noopener noreferrer">Nerd Girl Thoughts</a>** -- Krikket checks in on Blaugust, burnout, and blogging uncertainty, landing on a small, sensible plan: write when it feels right.
+- **<a href="https://wakupanbouquet.hatenablog.com/entry/2026/08/20/060000" target="_blank" rel="noopener noreferrer">Wakupan</a>** -- Wakupan breaks down clear PP versus matte PP for doujinshi covers, then admits special papers might be the real favorite.
+## Tech
+
+- **<a href="https://endgameviable.com/post/2026/08/retiring-old-wordpress-sites/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet cleans up old WordPress sites with Cloudflare Pages, redirects, and Hugo imports, basically doing link rot maintenance the right way.
+- **<a href="http://scripting.com/2026/08/20.html#a205405" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer plugs Slings & Arrows, then digs into a Frontier breakthrough with Claude about built-in verbs and keeping extensibility permissionless.
+- **<a href="https://www.jwz.org/blog/2026/08/facebooks-pervert-glasses-functioning-as-designed/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski points to Meta glasses as surveillance-by-design, with creepy real-world recording stories showing exactly why people hate them.
