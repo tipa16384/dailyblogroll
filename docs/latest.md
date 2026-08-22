@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-08-21
+# Daily Blogroll: 2026-08-22
 
-## Gaming
-
-- **<a href="https://westkarana.blog/2026/08/20/a-squaredle-based-magic-system-for-your-roleplaying-table/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa turns Squaredle into a clever tabletop magic framework, riffing on Jonathan Strange & Mr Norrell and D&D-style caster roles.
-- **<a href="https://tagn.wordpress.com/2026/08/20/stardew-valley-unlocking-the-greenhouse/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm’s Stardew Valley greenhouse push brings melons, trout derby prizes, Skull Cavern disasters, and at least one expensive trip to the doctor.
-- **<a href="https://pixelnomad.ca/2026/08/20/eql-now-for-something-completely-different/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace swaps to an EverQuest wizard-shaman-magician trio and is having a blast letting the wizard nuke while the pet tanks.
-- **<a href="https://indiecator.org/2026/08/20/magical-princess-review/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi says Magical Princess is a charming raising sim with surprisingly deep resource juggling, strong story beats, and a lot of endings.
-- **<a href="https://wordsundermyname.wordpress.com/2026/08/20/blaugust2026-day-20-watch-the-sidequests/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 wrestles with FFVII sidequests, Blue Magic, and optional power-ups, wondering why doing the fun stuff so often trivializes the finale.
 ## General
 
-- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/08/20/choosing-a-place-at-56/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar writes honestly about choosing where to live after work stops choosing for you, with Arizona’s heat making every option feel loaded.
-- **<a href="https://warnercrocker.com/2026/08/19/were-going-to-need-a-bigger-woodshed/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner uses Jaws and a childhood woodshed threat to vent about adults enabling damage across politics, society, and tech.
-## Writing
+- **<a href="https://westkarana.blog/2026/08/22/two-beats-of-inarticulate-joy/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa follows a Kansas violin rabbit hole into Keith Jarrett’s The Köln Concert, finding AI-guided listening surprisingly helpful for hearing the music’s story.
+- **<a href="https://www.filfre.net/2026/08/a-need-for-speed/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy opens with a fond, funny tour of his gloriously impractical car-guy past, from Beetles and Mustangs to an MGB and a beloved VW camper.
+## Gaming
 
-- **<a href="https://nerdgirlthoughts.game.blog/2026/08/20/good-intentions-dont-get-the-job-done/" target="_blank" rel="noopener noreferrer">Nerd Girl Thoughts</a>** -- Krikket checks in on Blaugust, burnout, and blogging uncertainty, landing on a small, sensible plan: write when it feels right.
-- **<a href="https://wakupanbouquet.hatenablog.com/entry/2026/08/20/060000" target="_blank" rel="noopener noreferrer">Wakupan</a>** -- Wakupan breaks down clear PP versus matte PP for doujinshi covers, then admits special papers might be the real favorite.
+- **<a href="https://tagn.wordpress.com/2026/08/21/everquest-legends-level-10-and-decisions-to-be-made/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm muddles his way to level 10 in EverQuest Legends, fleeing bad pulls, squinting at the not-red button, and enjoying the old-school chaos anyway.
+- **<a href="https://thealmightybacklog.wordpress.com/2026/08/22/ace-attorney-investigations-2-prosecutors-gambit/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie digs into Ace Attorney Investigations 2’s Edgeworth-led spin on the series, noting the point-and-click framing changes less than the mountain of text suggests.
+- **<a href="https://wowaltaddiction.blogspot.com/2026/08/rift.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar looks back on RIFT as the polished WoW challenger that briefly had the goods, with dynamic rifts and soul builds that still sound genuinely great.
+- **<a href="https://theboardgameschronicle.com/2026/08/21/cuius-regio-the-thirty-years-war-unboxing-overview/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler gives Cuius Regio a promising first look, highlighting Thirty Years’ War campaigning, fatigue, sieges, and a campaign that feels satisfyingly hefty.
+- **<a href="https://swtorcommando.blogspot.com/2026/08/testing-open-world-difficulty-toggle-on.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar tests SWTOR’s new overland master difficulty on Hutta and finds the slower leveling makes even early pulls feel dangerous again.
 ## Tech
 
-- **<a href="https://endgameviable.com/post/2026/08/retiring-old-wordpress-sites/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet cleans up old WordPress sites with Cloudflare Pages, redirects, and Hugo imports, basically doing link rot maintenance the right way.
-- **<a href="http://scripting.com/2026/08/20.html#a205405" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer plugs Slings & Arrows, then digs into a Frontier breakthrough with Claude about built-in verbs and keeping extensibility permissionless.
-- **<a href="https://www.jwz.org/blog/2026/08/facebooks-pervert-glasses-functioning-as-designed/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski points to Meta glasses as surveillance-by-design, with creepy real-world recording stories showing exactly why people hate them.
+- **<a href="https://0xsid.com/blog/just-want-to-search" target="_blank" rel="noopener noreferrer">Sid&#x27;s Blog</a>** -- Sid nails how search keeps ignoring exact matches across Marketplace, YouTube, and Gmail, swapping user control for fuzzy relevance that’s often just maddening.
+- **<a href="https://blog.gridranger.dev/along-the-edge-ost" target="_blank" rel="noopener noreferrer">GridRanger</a>** -- Dávid digs the Along the Edge soundtrack out of Unity files on Linux, turning a nostalgia mission into a neat little game-audio extraction walkthrough.
+- **<a href="https://hamatti.org/posts/t-is-for-time-machine/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis recommends Python’s time-machine library for testing time-based code, a simple way to freeze or tick the clock without flaky system-time headaches.
+## Writing
+
+- **<a href="https://joelchrono.xyz/blog/streak-of-procrastination/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel talks through a blogging stall, Blaugust pressure, and how Outer Wilds brain-melt isn’t exactly helping the draft backlog move faster.
+- **<a href="https://www.kgadams.net/sitenews/an-opinion-about-rss" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly makes the straightforward case that every blog should have RSS, arguing feeds are basic community-minded, reader-friendly plumbing, not an optional extra.
