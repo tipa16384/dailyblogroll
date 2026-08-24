@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-08-23
+# Daily Blogroll: 2026-08-24
 
-## General
-
-- **<a href="https://tagn.wordpress.com/2026/08/22/binge-watching-here-in-the-summer-of-2026/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up summer TV, from Gilead in The Testaments to Paradise and late-era Rick and Morty, with his usual snark intact.
-- **<a href="https://brennan.day/i-m-looking-for-love/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan pushes back on cynical nihilism, arguing love is real with help from studies on relationships, loneliness, oxytocin, and the body itself.
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/08/22/fear-and-loathing-in-los-norrath/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa hits level 50 in EverQuest Legends, swaps Warrior for Cleric, and finds the endgame suddenly feels more like work than celebration.
-- **<a href="https://margotplays.substack.com/p/week-in-gaming-17th-aug" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot’s week centers on The Duskbloods Switch 2 network test, where server woes, gothic vibes, and confusing virtue PvP made for a mixed debut.
-- **<a href="https://wcrobinson.org/2026/08/22/blaugust-2026-week-3-why-you-shouldnt-skip-on-cassette-beasts/" target="_blank" rel="noopener noreferrer">WCRobinson</a>** -- WCRobinson finally digs into Cassette Beasts, shouting out Frostilyte and making the case for this Pokémon-like indie monster battler.
-- **<a href="https://bhagpuss.blogspot.com/2026/08/shes-one-smart-cookie.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss praises Neverness To Everness for nailing the tricky gacha-protagonist balance, especially through Zero’s sharp dialogue and characterization.
-- **<a href="https://thefriendlynecromancer.blogspot.com/2026/08/beastlord-bard-necromancer-befallen.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- The Friendly Necromancer respecs hard in EverQuest Legends, strips to level 10 skivvies, and tests a weird Beastlord/Bard/Necromancer build in Befallen.
-- **<a href="http://tobolds.blogspot.com/2026/08/skipping-content.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold decides Wrath of the Righteous is long enough already, skipping hated tile puzzles and a serial-killer companion quest on roleplaying grounds.
-- **<a href="https://inanage.com/2026/08/23/ggm-secret-star-fox-shame/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel tells a very 90s Star Fox story: beating it at a Sears kiosk, then feeling awful when it still turned up as the birthday gift.
-- **<a href="https://virtualmoose.org/2026/08/22/croustibat-review/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael reviews Croustibat, a weird 1995 Findus advergame that plays like a kid-friendlier Gobliiins with brute-force puzzles and fish-stick power-ups.
-- **<a href="https://goodgamelobby.substack.com/p/friday-follow-up-34-2026-gamescom-2026" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey heads to Gamescom with a packed demo list, highlighting Please, Watch the Artwork, Amphibian, Memoria Wake, and more before the show floor chaos.
+- **<a href="https://tagn.wordpress.com/2026/08/23/tagn-fantasy-critic-league-2026-week-thirty-four-and-deltarun-chapter-5-arrives-at-last/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm’s Fantasy Critic update finally gets moving as Deltarune Chapter 5 lands an 82.7 and Pokemon Pokopia: Bubbly Basin slips a bit.
+- **<a href="https://chasingdings.com/2026/08/23/yawning/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa speed-levels an EverQuest paladin, camps Ghoulbane, finishes the Soulfire quest, then glamours a better sword to keep the iconic look.
+- **<a href="https://biobreak.wordpress.com/2026/08/21/putting-on-my-vacation-swim-armor-in-lotro/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp settles into a steady LOTRO routine, eyes the end of Angmar/Mordor servers, and starts mulling anniversary-era legendary server alts.
+- **<a href="https://kimimithegameeatingshemonster.com/2026/08/24/airou-de-puzzle-a-real-gem/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi digs Airou de Puzzle as a speedy Super Puzzle Fighter-style PSP puzzler with Monster Hunter cats, silly story beats, and lots of dress-up.
+## General
+
+- **<a href="https://monsterladysdiary.wordpress.com/2026/08/24/the-risks-of-the-internet/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily makes the straightforward case that schools should teach online safety, from phishing and grooming to algorithms, privacy, and cyberbullying.
+- **<a href="https://thetangent.space/2026/digest72/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan’s week ranges from a bat-in-the-bedroom saga to Aristotle, the Odyssey movie, and a spoiler-light appreciation of Terranigma chapter 3.
+- **<a href="https://dragonchasers.com/2026/08/23/week-3-of-the-re-wiring-my-brain-series/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli’s rough week mixes merger anxiety, long shifts, a Neverness to Everness 1.3 binge, and finally spotting a very real alligator.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-08-22-week-34-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s weekly digest is mostly work fatigue, job-hunt stress, cozy mystery reading, anthology sci-fi, and slowly wrapping up Zelda.
+## Tech
+
+- **<a href="https://www.usebox.net/jjm/blog/new-website/" target="_blank" rel="noopener noreferrer">usebox.net</a>** -- JJM ditched Hugo and Bulma for Hakyll and Pico CSS, mostly for simpler templates, cleaner HTML, and fewer upgrade headaches.
+- **<a href="https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier points to research on Silicon Valley fraud and how founders build increasingly elaborate façades to hide underperformance.
+- **<a href="https://godless-internets.org/2026/08/23/webmentions-look-pretty-complicated" target="_blank" rel="noopener noreferrer">Owlblog</a>** -- Owls weighs adding webmentions, likes the community angle, but keeps circling back to specs, microformats, package rot, spam, and abuse worries.
 ## Writing
 
-- **<a href="https://www.ghastlymirror.xyz/blog/blaugust-creator-week-my-favorite-books/" target="_blank" rel="noopener noreferrer">The Ghastly Mirror</a>** -- Ghastly shares favorite reads, spotlighting Hell Followed With Us and Circle of Magic for body horror, queer themes, and classic wizard-school adventure.
+- **<a href="http://www.crazykinux.ca/2026/08/ai-didnt-make-me-creative-but-it-did.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux says AI didn’t make him creative, but it now helps shape EVE podcasts, guides, fiction drafts, and image work.
