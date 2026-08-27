@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-08-26
+# Daily Blogroll: 2026-08-27
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/08/25/everquest-legends-class-decisions-and-blackburrow/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm hits EverQuest Legends’ class lock-in, dumps paladin for wizard, eats the XP loss, and heads back into Blackburrow for offense.
-- **<a href="https://pixelnomad.ca/2026/08/25/wow-gold-making-wrap-up-week-34-2026/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace keeps WoW gold rolling across 10 servers, with rare greys and recipes selling nicely even while she barely plays beyond auction house duty.
-- **<a href="https://indiecator.org/2026/08/22/i-just-rejected-my-100th-review-request-because-of-generative-ai/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi says Indiecator has now rejected 100 games over generative AI use, and lays out a blunt case against AI-made assets and tooling.
-## General
-
-- **<a href="https://westkarana.blog/2026/08/26/movies-without-chris-pratt-masters-of-the-universe/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa roasts Masters of the Universe for its joke-stuffed, not-really-Oklahoma He-Man movie setup, from Prince Adam to Skeletor and Dolph Lundgren.
-- **<a href="https://lameazoid.com/transformers-cyberworld-scourge/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie says Cyberworld Scourge is a super simple Transformer, but the pirate-ship design and undead-looking details absolutely sell it.
-- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/08/25/the-consulting-question/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar wrestles with post-retirement consulting, where feeling flattered quickly gives way to fatigue and bigger questions about purpose after finance.
-- **<a href="https://www.dnalounge.com/backstage/log/2026/08/24.html" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski spots pricey 2013 Prince tickets on eBay and counters with a very Jamie pitch: support DNA Lounge and maybe get the real scraps.
-- **<a href="https://warnercrocker.com/2026/08/23/sunday-morning-reading-169/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner’s latest reading roundup ranges across gaslighting, history wars, forgotten photography, a 99-year-old fiddler, and a sharp Chekhov quote.
+- **<a href="https://tagn.wordpress.com/2026/08/26/planet-crafter-to-the-moon/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm wraps Planet Crafter’s terraforming, then packs for a one-way hop to Selenea, where scarce iridium suddenly makes the moon trip feel precarious.
+- **<a href="https://sweetie.games/2026/08/26/the-power-of-youth-why-i-love-persona/" target="_blank" rel="noopener noreferrer">Sweetie Games</a>** -- Sweetie explains how Persona 5 and Persona 3 Portable landed at the right moments, with youth, justice, and change giving the series lasting personal weight.
+- **<a href="https://www.positech.co.uk/cliffsblog/2026/08/26/challenge-code-and-ui-almost-done/" target="_blank" rel="noopener noreferrer">Cliffski&#x27;s Blog</a>** -- Cliffski’s nearly finished Ridiculous Space Battles challenge mode adds sortable lists, retaliation chains, and replays so players can actually study how they lost.
+- **<a href="https://leekscosycorner.com/2026/08/26/final-fantasy-xiv-things-to-do/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista rounds up easy Final Fantasy XIV fallback activities, from Gold Saucer and fishing to glamour, screenshots, and finally checking on Island Sanctuary.
+- **<a href="https://wowaltaddiction.blogspot.com/2026/08/swtor.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar looks back on SWTOR’s killer eight-class-story hook and why the later shift to one shared narrative quietly broke its altoholic magic.
+- **<a href="https://theboardgameschronicle.com/2026/08/26/race-to-berlin-second-edition-full-game-review-portal-games/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler digs into Race to Berlin’s nasty two-player twist, where you race for Berlin while weaponizing the German armies against your rival.
+- **<a href="https://bhagpuss.blogspot.com/2026/08/thursday-grab-bag.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss’ grab-bag mostly turns into Ananta hype, with Gamescom finally delivering a January 2027 date for the anime-GTA open-world curiosity.
+- **<a href="https://thefriendlynecromancer.blogspot.com/2026/08/poetry-slammers-v3-adding-animation-and.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- The Friendly Necromancer gives Poetry Slammers more life with simple character animation, clearer Star Words, and suffix magnets for plurals and possessives.
 ## Tech
 
-- **<a href="https://www.jeffgeerling.com/blog/2026/unifi-u5g-backup-debugging/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff’s UniFi 5G Backup test hits firmware loops, LTE-only AT&T service, and RedCap compatibility headaches in his mobile homelab build.
-- **<a href="https://thinkroot.xyz/578" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian compares AliExpress pricing for an AMD Wraith Stealth cooler and finds a huge UK-versus-Romania gap, likely tied to geo-pricing, taxes, and shipping.
-- **<a href="http://scripting.com/2026/08/25.html#a123415" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer shares a new Frontier podcast, a handy tip for resuming Claude chats later, and a polite nudge toward the Scripting News email.
-## Writing
+- **<a href="https://aneeshsathe.com/note-20260826-211826/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh jokes that Arch Linux might confer technical legitimacy, then credits Cat Hicks’ software-team psychology for helping him sidestep plenty of industry gatekeeping.
+- **<a href="https://endgameviable.com/post/2026/08/agentic-prompts-to-live-by/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet treats agentic AI like the next productivity tool and shares practical prompts for coding work in Claude Code and Google’s Antigravity IDE.
+- **<a href="https://hamatti.org/posts/x-is-for-xml-parsing-python-a-to-z/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis revisits Python parsing with BeautifulSoup, showing how HTML, XML, and handy CSS selectors can save a lot of scraping pain.
+## General
 
-- **<a href="https://wordsundermyname.wordpress.com/2026/08/25/blaugust2026-day-25-help-me-help-you/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 vents about covering another department’s calls with barely any training, then wisely decides tomorrow’s problem can wait until tomorrow.
+- **<a href="https://www.kgadams.net/life/purpose" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly reflects on retirement, mental health, and why blogging may provide the steady sense of purpose and accomplishment his brain still needs.
