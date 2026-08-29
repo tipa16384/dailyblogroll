@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-08-28
+# Daily Blogroll: 2026-08-29
 
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/08/27/atari-necromancy-as-a-business-model/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa dunks on Atari’s pricey Atari 2600 Activision rereleases, arguing River Raid nostalgia and some snazzy pins aren’t enough to justify the markup.
-- **<a href="https://tagn.wordpress.com/2026/08/27/how-big-should-an-mmorpg-tutorial-be/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm uses EVE Online’s Exordium and its fully voiced tutorial to ask how long an MMORPG onboarding should be before it loses new players.
-- **<a href="https://inanage.com/2026/08/24/ggm-genesis/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel turns a Sega Genesis memory lane trip into a love letter to Sonic 2, Blockbuster rentals, and Dune II blowing his mind.
-- **<a href="https://biobreak.wordpress.com/2026/08/27/going-back-into-rimworld-nude-while-gearing-up-my-lotro-minstrel-with-a-carry-all/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp starts a brutal new RimWorld Naked Brutality run with Dismus, then celebrates a LOTRO carry-all making task-item clutter way less annoying.
-- **<a href="http://www.crazykinux.ca/2026/08/coriolis-great-dark-we-came-to-explore.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux expected Coriolis: The Great Dark exploration, but his group instead gets pulled into a murder mystery full of suspicious clues and funeral intrigue.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/08/28/dirge-of-cerberus-valentines-day/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi finds Dirge of Cerberus a weird but confident Final Fantasy VII shooter experiment, with Vincent Valentine fitting better than the stiff gunplay does.
-## General
-
-- **<a href="https://www.ghastlymirror.xyz/blog/summer-wars/" target="_blank" rel="noopener noreferrer">The Ghastly Mirror</a>** -- Ghastly revisits Summer Wars as a surprisingly current AI cautionary tale, with OZ’s internet dependency feeling uncomfortably close to today.
-- **<a href="http://tobolds.blogspot.com/2026/08/idiocracy.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold pushes back on Idiocracy doomposting, arguing the real story is widening educational inequality rather than one neat culprit like social media or AI.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-08-25-week-35-links/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae rounds up privacy, security, and platform-power reads, with sharp notes on Google data ingestion, Steam’s dominance, and ID-scanning bars.
-## Tech
-
-- **<a href="https://brennan.day/notice-bandwidth-exceeded/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan turns blowing past Netlify’s free bandwidth into a candid post about self-hosting with Docker and Caddy, plus the personal cost of all that focus.
-- **<a href="https://godless-internets.org/2026/08/27/critique-of-microformats2" target="_blank" rel="noopener noreferrer">Owlblog</a>** -- Owls has a rough time indiewebbing with microformats2, arguing its class-based semantics clash badly with Tailwind and feel less clean than HTML tags.
+- **<a href="https://tagn.wordpress.com/2026/08/28/stardew-valley-farm-upgrades-and-stardrops-as-the-second-winter-approaches/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm and his daughter keep pushing Stardew Valley’s Community Center, upgrading the coop for a duck feather and making fishing easier with the cork bobber.
+- **<a href="https://thealmightybacklog.wordpress.com/2026/08/29/marvel-vs-capcom-clash-of-super-heroes/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie revisits Marvel vs. Capcom as a slick, flashy 2D tag fighter that still lands, even if later sequels tend to steal its thunder.
+- **<a href="https://joelchrono.xyz/blog/gris/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel says Gris is a breathtaking watercolor platformer-puzzler, light on challenge but rich in atmosphere, music, and wordless emotional storytelling.
+- **<a href="https://virtualmoose.org/2026/08/28/obscure-game-blog-challenge-roundup/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael rounds up a pile of obscure-game blog posts, celebrating everything from Gazillionaire to Journeyman Project 2 and inviting more people to join in.
+- **<a href="https://margotplays.substack.com/p/thoughts-dealing-with-the-backlog" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot talks backlog anxiety across Steam, Epic, PS5, and Switch, then highlights community projects that make actually playing those games feel doable.
+- **<a href="https://scopique.com/2026/08/28/squadron-42-moved-to-q2-2027/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique breaks down Squadron 42’s delay to Q2 2027 and CIG’s attempts to steady Star Citizen after a rough 4.8 to 4.10 patch run.
+- **<a href="https://frostilyte.ca/2026/08/28/a-low-tier-playthrough-of-pokemon-silver-part-5/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte’s low-tier Pokémon Silver run heads toward Morty, detours through Sudowoodo and Togepi chores, and pauses to roast the Everstone.
 ## Writing
 
-- **<a href="https://thetangent.space/2026/reading/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan checks in on a 2026 reading plan, balancing philosophy books, Greek classics, a buddy-read of Aristotle, and retro games stealing attention.
+- **<a href="https://chasingdings.com/2026/08/28/belonging/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa wrestles with what it really means to belong to the IndieWeb, mixing practical membership steps with a candid, personal take on joining groups.
+- **<a href="https://aywren.com/2026/08/28/on-engagement-blogging-vs-video" target="_blank" rel="noopener noreferrer">Aywren&#x27;s Nook</a>** -- Aywren compares blogging and YouTube, arguing video makes conversation easier while blogs still offer a more lasting home for thoughtful discussion.
+## General
+
+- **<a href="https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy points readers to a new Analog Antiquarian post, a quick cross-link to his companion site’s latest historical essay.
+- **<a href="https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier’s weekly squid post spotlights Rhode Island’s very smelly ‘Squidpocalypse of ’26,’ featuring twenty tons of spilled squid.
+## Tech
+
+- **<a href="https://www.containsmoderateperil.com/blog/2026/8/29/should-i-stay-or-should-i-go" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger weighs IndieWeb ideals against the real cost and hassle of leaving Squarespace, framing self-hosting as possible but hardly painless.
