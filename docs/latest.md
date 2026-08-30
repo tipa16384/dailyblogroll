@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-08-29
+# Daily Blogroll: 2026-08-30
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/08/28/stardew-valley-farm-upgrades-and-stardrops-as-the-second-winter-approaches/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm and his daughter keep pushing Stardew Valley’s Community Center, upgrading the coop for a duck feather and making fishing easier with the cork bobber.
-- **<a href="https://thealmightybacklog.wordpress.com/2026/08/29/marvel-vs-capcom-clash-of-super-heroes/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie revisits Marvel vs. Capcom as a slick, flashy 2D tag fighter that still lands, even if later sequels tend to steal its thunder.
-- **<a href="https://joelchrono.xyz/blog/gris/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel says Gris is a breathtaking watercolor platformer-puzzler, light on challenge but rich in atmosphere, music, and wordless emotional storytelling.
-- **<a href="https://virtualmoose.org/2026/08/28/obscure-game-blog-challenge-roundup/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael rounds up a pile of obscure-game blog posts, celebrating everything from Gazillionaire to Journeyman Project 2 and inviting more people to join in.
-- **<a href="https://margotplays.substack.com/p/thoughts-dealing-with-the-backlog" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot talks backlog anxiety across Steam, Epic, PS5, and Switch, then highlights community projects that make actually playing those games feel doable.
-- **<a href="https://scopique.com/2026/08/28/squadron-42-moved-to-q2-2027/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique breaks down Squadron 42’s delay to Q2 2027 and CIG’s attempts to steady Star Citizen after a rough 4.8 to 4.10 patch run.
-- **<a href="https://frostilyte.ca/2026/08/28/a-low-tier-playthrough-of-pokemon-silver-part-5/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte’s low-tier Pokémon Silver run heads toward Morty, detours through Sudowoodo and Togepi chores, and pauses to roast the Everstone.
-## Writing
-
-- **<a href="https://chasingdings.com/2026/08/28/belonging/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa wrestles with what it really means to belong to the IndieWeb, mixing practical membership steps with a candid, personal take on joining groups.
-- **<a href="https://aywren.com/2026/08/28/on-engagement-blogging-vs-video" target="_blank" rel="noopener noreferrer">Aywren&#x27;s Nook</a>** -- Aywren compares blogging and YouTube, arguing video makes conversation easier while blogs still offer a more lasting home for thoughtful discussion.
-## General
-
-- **<a href="https://www.filfre.net/2026/08/this-week-on-the-analog-antiquarian/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy points readers to a new Analog Antiquarian post, a quick cross-link to his companion site’s latest historical essay.
-- **<a href="https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier’s weekly squid post spotlights Rhode Island’s very smelly ‘Squidpocalypse of ’26,’ featuring twenty tons of spilled squid.
+- **<a href="https://tagn.wordpress.com/2026/08/29/honest-game-trailers-does-steam-and-steam-accessories/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm is glad Honest Game Trailers tackled Steam, from Half-Life 2-era digital distribution woes to sales, backlogs, Valve hardware, and early access.
+- **<a href="https://chasingdings.com/2026/08/29/everquest-legends-a-moment-of-clarity/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa shares how she’s using AI with EverQuest Legends logs, from vibe-coding a parser in Electron and TypeScript to ChatGPT-assisted build analysis.
+- **<a href="https://blog.gridranger.dev/chevron-locked-games" target="_blank" rel="noopener noreferrer">GridRanger</a>** -- Dávid rounds up Stargate-like games, especially Exogate Initiative’s base-management vibe and a charming unofficial Stargate point-and-click adventure.
+- **<a href="https://dragonchasers.com/2026/08/29/knowing-when-to-quit/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli argues it’s fine to drop games when sunk-cost guilt turns Steam-sale abundance and backlog management into homework.
+- **<a href="https://lunasgaminglog.com/2026/08/26/congratulations-to-the-giveaway-winners/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna announces her giveaway winners and gives another cheerful shout for PancitoMerge and the story-rich delivery game Fading Serenades.
+- **<a href="https://retroxp.beehiiv.com/p/past-meets-present-assault-suit-leynos" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc revisits Assault Suit Leynos, aka Target Earth, as an early Genesis standout that missed big sales but earned cult-classic longevity.
+- **<a href="https://welshtroll.co.uk/post/2026-the-fomo-factory.html" target="_blank" rel="noopener noreferrer">Point, Click, Repeat</a>** -- Welsh Troll says World of Tanks’ nonstop battle passes, mini-passes, events, and premium pressures have turned 16-year nostalgia into exhaustion.
+- **<a href="https://wordsundermyname.wordpress.com/2026/08/29/blaugust2026-day-29-baby-steps/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 gives Elite: Dangerous another real shot, finding slow progress through controls, docking, and Frame Shift frustration oddly rewarding.
+- **<a href="https://pixelnomad.ca/2026/08/29/wo-horrible-place-for-a-rift/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace spots a Wurm Online rift in an absolutely awful mountainside location and keeps the verdict short: horrible.
 ## Tech
 
-- **<a href="https://www.containsmoderateperil.com/blog/2026/8/29/should-i-stay-or-should-i-go" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger weighs IndieWeb ideals against the real cost and hassle of leaving Squarespace, framing self-hosting as possible but hardly painless.
+- **<a href="http://scripting.com/2026/08/29.html#a214445" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer skips rude exit-popups, enjoys a beautiful Catskills day, and quietly pitches the nightly Scripting News email instead.
+- **<a href="https://www.jwz.org/blog/2026/08/my-friends-call-it-the-big-d/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski is once again haunted by a mysteriously vanishing D key that only a Mac reboot or launching NoMachine seems to fix.
+## General
+
+- **<a href="https://warnercrocker.com/2026/08/27/leopards-dont-change-their-spots/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner is deeply skeptical that Meta’s kid-safety settlement is anything more than a pricey PR move that still leaves Zuckerberg in control.
