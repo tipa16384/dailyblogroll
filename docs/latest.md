@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-09-01
+# Daily Blogroll: 2026-09-02
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/08/31/august-2026-in-review/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm wraps up Blaugust with 35 posts, a brief event history, and a very funny spam invite to join the Illuminati.
-- **<a href="https://chasingdings.com/2026/08/31/everquest-legends-the-true-endgame/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa says EverQuest’s real endgame is epic quests, faction juggling, and race unlocks—not just Plane of Sky best-in-slot farming.
-- **<a href="https://streetsinturmoil.com/2026/08/31/gunderholfen-through-claws-teeth-session-30/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Gunderholfen crew escapes Level 5 the hard way, fighting griffons and worgs just to limp back toward town.
-- **<a href="https://blog.zarfhome.com/2026/09/visible-witness" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin releases The Witness source and scans, while weighing its 1938 atmosphere against its shallower mystery and dated Orientalism.
-- **<a href="http://tobolds.blogspot.com/2026/08/star-wars-zero-company-first-impressions.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold loves Star Wars Zero Company’s tactical combat and wildly flexible companion respecs, even if mission maps sound pretty fixed.
-- **<a href="https://biobreak.wordpress.com/2026/08/31/when-lotro-adds-colors-to-its-crayon-box/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp enjoys LOTRO’s bright Umbar palette, grabs an elk mount, and finds Octopath Traveler exactly the comfy JRPG mood he needed.
+- **<a href="https://chasingdings.com/2026/09/01/blaugust-2026-retrospective/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa wrapped 31-for-31 Blaugust, reflected on Belghast and the IndieWeb, and said EverQuest Legends basically carried her posting month.
+- **<a href="https://tagn.wordpress.com/2026/09/01/the-everquest-lethar-tlp-server-opens-up-with-the-serpents-spine/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm highlights EverQuest’s new Lethar TLP server starting with The Serpent’s Spine, a very WoW-era guided leveling experiment turned nostalgia play.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/09/01/my-refreshing-break/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily returns from a summer blogging break refreshed, with fanfiction, finished games, privacy worries, and a nostalgic GBA boss post queued up.
+- **<a href="https://inanage.com/2026/09/02/digital-license-transfer/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel sees Xbox’s disc-linked transferable digital license idea as the first real crack in the wall of digital game ownership.
+- **<a href="https://godless-internets.org/2026/08/31/the-sun-sets-on-blaugust-2026" target="_blank" rel="noopener noreferrer">Owlblog</a>** -- Owls closed out a 31-post Blaugust by reflecting on EQL, idea droughts, and keeping the blog personal instead of too meta.
 ## Writing
 
-- **<a href="https://wakupanbouquet.hatenablog.com/entry/2026/08/31/235816" target="_blank" rel="noopener noreferrer">Wakupan</a>** -- Wakupan says Blaugust proved consistency boosts visibility and habits, while picking a clear topic makes blogging a lot more fun.
-- **<a href="https://endgameviable.com/post/2026/08/stumbling-over-the-blaugust-finish-line/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet finishes 31-for-31 in Blaugust, then wonders whether shorter posts and helper tools fit better than forced daily writing.
-- **<a href="https://www.ghastlymirror.xyz/blog/finishing-blaugust-2026-with-a-bang/" target="_blank" rel="noopener noreferrer">The Ghastly Mirror</a>** -- Ghastly ends Blaugust on a high note, reflecting on 15 posts, community link-sharing, and a likely September blogging break.
+- **<a href="https://tofutush.github.io/posts/2026-08-18.html" target="_blank" rel="noopener noreferrer">Tofutush&#x27;s Blog</a>** -- Tofutush argues AI “tells” in text and art mostly just misfire on real people, especially non-native and neurodivergent creators.
+- **<a href="https://axxuy.com/blog/2026/september/" target="_blank" rel="noopener noreferrer">Axxuy</a>** -- Axxuy says work and exhaustion wrecked Blaugust plans, but the blog’s still alive and they’re hoping September goes better.
 ## Tech
 
-- **<a href="https://www.usebox.net/jjm/blog/creepy-crawlies/" target="_blank" rel="noopener noreferrer">usebox.net</a>** -- JJM points to kernel.org’s AI crawler mess as a bleak internet arms race that burns CPU and makes hosting git repos feel pointless.
+- **<a href="https://www.tbray.org/ongoing/When/202x/2026/09/01/Un-Racing" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray fixed a Quamina data race, then used the detour to explain why he’s done accepting most LLM-generated PRs.
+- **<a href="https://www.kgadams.net/sitenews/adding-word-counts-to-the-archive-page" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly added WordPress archive word counts with a PHP snippet, plus some honest notes on caching, SQL, and where the logic still wobbles.
+- **<a href="https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan argues open source needs to stop normalizing far-right politics, focusing this post on DHH, Shopify, Ruby Central, and Rails money.
+- **<a href="https://scopique.com/2026/09/01/hear-me-out-wireless-ai-ouija/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique pitches a gloriously cursed wireless AI Ouija board powered by magnets, motors, a mic, and just enough engineering to spook the group chat.
 ## General
 
-- **<a href="https://indiecator.org/2026/08/31/trying-to-quit-the-smokes-again/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi vents through day one of quitting nicotine, swapping smoking rituals for patches, a zero-nicotine vape, and hopefully more writing.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-08-31-week-36-links/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae posts a week 36 link roundup spanning anarchism, a Xerox bug, affordability, and Blaugust amid job-hunting exhaustion.
+- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/09/01/the-variance-report/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar audits retirement like a business review and finds the real surprise wasn’t reading or fitness, but writing without planning for it.
