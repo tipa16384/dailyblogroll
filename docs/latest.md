@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-09-02
+# Daily Blogroll: 2026-09-03
 
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/09/01/blaugust-2026-retrospective/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa wrapped 31-for-31 Blaugust, reflected on Belghast and the IndieWeb, and said EverQuest Legends basically carried her posting month.
-- **<a href="https://tagn.wordpress.com/2026/09/01/the-everquest-lethar-tlp-server-opens-up-with-the-serpents-spine/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm highlights EverQuest’s new Lethar TLP server starting with The Serpent’s Spine, a very WoW-era guided leveling experiment turned nostalgia play.
-- **<a href="https://monsterladysdiary.wordpress.com/2026/09/01/my-refreshing-break/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily returns from a summer blogging break refreshed, with fanfiction, finished games, privacy worries, and a nostalgic GBA boss post queued up.
-- **<a href="https://inanage.com/2026/09/02/digital-license-transfer/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel sees Xbox’s disc-linked transferable digital license idea as the first real crack in the wall of digital game ownership.
-- **<a href="https://godless-internets.org/2026/08/31/the-sun-sets-on-blaugust-2026" target="_blank" rel="noopener noreferrer">Owlblog</a>** -- Owls closed out a 31-post Blaugust by reflecting on EQL, idea droughts, and keeping the blog personal instead of too meta.
-## Writing
-
-- **<a href="https://tofutush.github.io/posts/2026-08-18.html" target="_blank" rel="noopener noreferrer">Tofutush&#x27;s Blog</a>** -- Tofutush argues AI “tells” in text and art mostly just misfire on real people, especially non-native and neurodivergent creators.
-- **<a href="https://axxuy.com/blog/2026/september/" target="_blank" rel="noopener noreferrer">Axxuy</a>** -- Axxuy says work and exhaustion wrecked Blaugust plans, but the blog’s still alive and they’re hoping September goes better.
-## Tech
-
-- **<a href="https://www.tbray.org/ongoing/When/202x/2026/09/01/Un-Racing" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray fixed a Quamina data race, then used the detour to explain why he’s done accepting most LLM-generated PRs.
-- **<a href="https://www.kgadams.net/sitenews/adding-word-counts-to-the-archive-page" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly added WordPress archive word counts with a PHP snippet, plus some honest notes on caching, SQL, and where the logic still wobbles.
-- **<a href="https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan argues open source needs to stop normalizing far-right politics, focusing this post on DHH, Shopify, Ruby Central, and Rails money.
-- **<a href="https://scopique.com/2026/09/01/hear-me-out-wireless-ai-ouija/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique pitches a gloriously cursed wireless AI Ouija board powered by magnets, motors, a mic, and just enough engineering to spook the group chat.
+- **<a href="https://tagn.wordpress.com/2026/09/02/making-level-76-in-pokemon-go-and-onward-to-level-77/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm hits level 76 in Pokémon Go after grinding platinum medals and Team GO Rocket, and now the real hurdle to 77 is the task list.
+- **<a href="https://sightingames.wordpress.com/2026/09/02/review-resident-evil-4-2023/" target="_blank" rel="noopener noreferrer">Sight-In Games</a>** -- Zack says the Resident Evil 4 remake nails that action-horror-camp mix and stays a great entry point, even if it stumbles here and there.
+- **<a href="https://theboardgameschronicle.com/2026/09/02/punica-rome-vs-carthage-full-game-review-phalanx/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler spotlights Punica: Rome vs Carthage as a fast, tense, luck-free two-player duel where asymmetric cards and Hannibal do the heavy lifting.
+- **<a href="https://leekscosycorner.com/2026/09/02/grand-theft-auto-vi-thoughts/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista comes away from Grand Theft Auto VI’s extended look impressed by the livelier world, Jay and Lucia, and the mix of chaos and quieter character beats.
+- **<a href="https://sweetie.games/2026/09/02/what-i-played-this-month-august-2026/" target="_blank" rel="noopener noreferrer">Sweetie Games</a>** -- Sweetie’s August was mostly Persona 4 Golden, with Monster Prom laughs and Animal Crossing: New Horizons comfort keeping the backlog momentum going.
+- **<a href="https://frostilyte.ca/2026/09/01/month-in-review-slay-the-spire-2-fields-of-mistria/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte marks nine years of blogging while unpacking a big month of Slay the Spire 2, changed drafting habits, and a first A10 clear.
+- **<a href="https://virtualmoose.org/2026/09/01/text-adventures-are-still-doing-alright/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael points to IF Comp and IntroComp as proof text adventures are still thriving, with plenty of free interactive fiction worth trying.
+- **<a href="https://margotplays.substack.com/p/week-in-gaming-24th-aug-2" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot rounds up Gamescom vibes, indie showcase finds, Fable hype, GTA 6 thoughts, and first impressions of a new Windows handheld.
 ## General
 
-- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/09/01/the-variance-report/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar audits retirement like a business review and finds the real surprise wasn’t reading or fitness, but writing without planning for it.
+- **<a href="https://westkarana.blog/2026/09/03/movies-without-chris-pratt-abraham-lincoln-vampire-hunter/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa digs Abraham Lincoln, Vampire Hunter less for accuracy than for its Springfield romance, slavery storyline, and painterly Mississippi-to-New Orleans stretch.
+## Tech
+
+- **<a href="https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier shares surreal emails from an AI agent that frame captchas, IP reputation, and email deliverability as the real security perimeter.
+## Writing
+
+- **<a href="https://joelchrono.xyz/blog/my-mom-may-get-into-sci-fi-books/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel is thrilled his mom is finally open to science fiction, and he’s nudging her toward Brave New World despite a Spanish-language shelf problem.
+- **<a href="https://wordsundermyname.wordpress.com/2026/08/31/blaugust2026-day-31-thirty-one/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 closes Blaugust with gratitude, a tribute to the folks keeping it going, and a heartfelt defense of human creativity over AI slop.
