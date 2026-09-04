@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-09-03
+# Daily Blogroll: 2026-09-04
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/09/02/making-level-76-in-pokemon-go-and-onward-to-level-77/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm hits level 76 in Pokémon Go after grinding platinum medals and Team GO Rocket, and now the real hurdle to 77 is the task list.
-- **<a href="https://sightingames.wordpress.com/2026/09/02/review-resident-evil-4-2023/" target="_blank" rel="noopener noreferrer">Sight-In Games</a>** -- Zack says the Resident Evil 4 remake nails that action-horror-camp mix and stays a great entry point, even if it stumbles here and there.
-- **<a href="https://theboardgameschronicle.com/2026/09/02/punica-rome-vs-carthage-full-game-review-phalanx/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler spotlights Punica: Rome vs Carthage as a fast, tense, luck-free two-player duel where asymmetric cards and Hannibal do the heavy lifting.
-- **<a href="https://leekscosycorner.com/2026/09/02/grand-theft-auto-vi-thoughts/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista comes away from Grand Theft Auto VI’s extended look impressed by the livelier world, Jay and Lucia, and the mix of chaos and quieter character beats.
-- **<a href="https://sweetie.games/2026/09/02/what-i-played-this-month-august-2026/" target="_blank" rel="noopener noreferrer">Sweetie Games</a>** -- Sweetie’s August was mostly Persona 4 Golden, with Monster Prom laughs and Animal Crossing: New Horizons comfort keeping the backlog momentum going.
-- **<a href="https://frostilyte.ca/2026/09/01/month-in-review-slay-the-spire-2-fields-of-mistria/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte marks nine years of blogging while unpacking a big month of Slay the Spire 2, changed drafting habits, and a first A10 clear.
-- **<a href="https://virtualmoose.org/2026/09/01/text-adventures-are-still-doing-alright/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael points to IF Comp and IntroComp as proof text adventures are still thriving, with plenty of free interactive fiction worth trying.
-- **<a href="https://margotplays.substack.com/p/week-in-gaming-24th-aug-2" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot rounds up Gamescom vibes, indie showcase finds, Fable hype, GTA 6 thoughts, and first impressions of a new Windows handheld.
+- **<a href="https://tagn.wordpress.com/2026/09/03/planet-crafter-speed-run-me-to-the-moon/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm says Planet Crafter’s Selenea moon terraforming flew by because their NASA-style prep meant an automated base and T5 gear were running almost immediately.
+- **<a href="https://buried-treasure.org/2026/09/ignoble/" target="_blank" rel="noopener noreferrer">Buried Treasure</a>** -- John’s taken with Ignoble, an auto-battler incremental where brutal deaths, huge skill trees, and ever-changing early zones keep the grind feeling fresh.
+- **<a href="https://goodgamelobby.substack.com/p/gamescom-2026-the-mix-showcase-bad-magpie-memoria-wake-dungeon-lurker" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey recaps early Gamescom 2026 and The Mix, spotlighting standout indies, dev chats, and why smaller showcase events can really help games break through.
+- **<a href="https://kimimithegameeatingshemonster.com/2026/09/04/zangeki-no-reginleiv-waggle-woes/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi finds Zangeki no Reginleiv dragged down by fussy Wii waggle controls, imprecise swordplay, and combat that just never looks or feels right.
+- **<a href="https://dragonchasers.com/2026/09/03/why-i-quit-a-plague-tale-requiem/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli kicks off a quitting-games series with A Plague Tale: Requiem, citing clunky combat, bleak vibes, and playing it out of obligation.
+- **<a href="https://pixelnomad.ca/2026/09/02/wow-gold-wrap-up-week-35-2026/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace’s WoW gold week was slower, with recipes and transmog leading sales while Midnight’s pet changes keep that market nearly frozen.
+- **<a href="https://lunasgaminglog.com/2026/08/31/9-indie-games-second-half-of-2026/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna rounds up nine late-2026 indie games she’s excited for, from Orbitals to Magical Blush, with a clear soft spot for stylish, promising demos.
 ## General
 
-- **<a href="https://westkarana.blog/2026/09/03/movies-without-chris-pratt-abraham-lincoln-vampire-hunter/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa digs Abraham Lincoln, Vampire Hunter less for accuracy than for its Springfield romance, slavery storyline, and painterly Mississippi-to-New Orleans stretch.
-## Tech
-
-- **<a href="https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier shares surreal emails from an AI agent that frame captchas, IP reputation, and email deliverability as the real security perimeter.
+- **<a href="https://lameazoid.com/beast-box-bb-76-lovegun/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie digs Beast Box BB-76 Lovegun’s box-transforming triple-changer puzzle, even if the thin bits and loose parts make durability feel a little dicey.
 ## Writing
 
-- **<a href="https://joelchrono.xyz/blog/my-mom-may-get-into-sci-fi-books/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel is thrilled his mom is finally open to science fiction, and he’s nudging her toward Brave New World despite a Spanish-language shelf problem.
-- **<a href="https://wordsundermyname.wordpress.com/2026/08/31/blaugust2026-day-31-thirty-one/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 closes Blaugust with gratitude, a tribute to the folks keeping it going, and a heartfelt defense of human creativity over AI slop.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/9/4/blaugust-2026-participant-survey" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger’s gathering feedback on Blaugust 2026, asking participants how the blogging festival should evolve around sites, comments, RSS, and AI.
+## Tech
+
+- **<a href="http://scripting.com/2026/09/03/010848.html?title=whyILoveProgramming" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer boils programming down to puzzles, problem-solving, self-discovery, and the quiet joy of collaborating with another mind through a good API.
+- **<a href="https://www.jwz.org/blog/2026/09/i-pay-my-parking-tickets-like-any-other-corporate-person-a-million-dollars-at-a-time/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski skewers Waymo’s mountain of San Francisco parking tickets, arguing fines are just a price when you’re a rich corporation.
+- **<a href="https://warnercrocker.com/2026/09/03/recommended-for-apple-geeks-lex-on-tech/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner recommends Lex Friedman’s new Apple-focused Lex On Tech for its welcome attention to apps, developers, and a fresher voice in Apple coverage.
