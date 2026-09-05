@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-09-04
+# Daily Blogroll: 2026-09-05
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/09/03/planet-crafter-speed-run-me-to-the-moon/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm says Planet Crafter’s Selenea moon terraforming flew by because their NASA-style prep meant an automated base and T5 gear were running almost immediately.
-- **<a href="https://buried-treasure.org/2026/09/ignoble/" target="_blank" rel="noopener noreferrer">Buried Treasure</a>** -- John’s taken with Ignoble, an auto-battler incremental where brutal deaths, huge skill trees, and ever-changing early zones keep the grind feeling fresh.
-- **<a href="https://goodgamelobby.substack.com/p/gamescom-2026-the-mix-showcase-bad-magpie-memoria-wake-dungeon-lurker" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey recaps early Gamescom 2026 and The Mix, spotlighting standout indies, dev chats, and why smaller showcase events can really help games break through.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/09/04/zangeki-no-reginleiv-waggle-woes/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi finds Zangeki no Reginleiv dragged down by fussy Wii waggle controls, imprecise swordplay, and combat that just never looks or feels right.
-- **<a href="https://dragonchasers.com/2026/09/03/why-i-quit-a-plague-tale-requiem/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli kicks off a quitting-games series with A Plague Tale: Requiem, citing clunky combat, bleak vibes, and playing it out of obligation.
-- **<a href="https://pixelnomad.ca/2026/09/02/wow-gold-wrap-up-week-35-2026/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace’s WoW gold week was slower, with recipes and transmog leading sales while Midnight’s pet changes keep that market nearly frozen.
-- **<a href="https://lunasgaminglog.com/2026/08/31/9-indie-games-second-half-of-2026/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna rounds up nine late-2026 indie games she’s excited for, from Orbitals to Magical Blush, with a clear soft spot for stylish, promising demos.
-## General
-
-- **<a href="https://lameazoid.com/beast-box-bb-76-lovegun/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie digs Beast Box BB-76 Lovegun’s box-transforming triple-changer puzzle, even if the thin bits and loose parts make durability feel a little dicey.
+- **<a href="https://chasingdings.com/2026/09/04/final-fantasy-resonance/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa is intrigued by Final Fantasy Resonance bringing back FFBE’s combo-heavy theorycrafting while ditching the wallet-devouring gacha that killed the original.
+- **<a href="https://tagn.wordpress.com/2026/09/04/everquest-legends-pilgrimage-to-freeport/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm treats EverQuest Legends like a nostalgia road trip, leaving Blackburrow at 14 for the long old-school run toward Freeport and beyond.
+- **<a href="https://priestwithacause.blogspot.com/2026/09/final-pre-blizzcon-thoughts.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar is more than ready for BlizzCon to finally say something concrete about WoW Classic, Camelot, and whatever retail announces next.
+- **<a href="https://thealmightybacklog.wordpress.com/2026/09/05/the-third-sin/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie says Blasphemous II’s free Third Sin expansion is a short, gorgeous Castlevania-flavored detour with a new castle, enemies, and a whip.
+- **<a href="https://www.filfre.net/2026/09/porsche-unleashed/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy spins a funny Porsche story—complete with an accidental Cayenne rental—before turning to Need for Speed: Porsche Unleashed and car-culture history.
+- **<a href="https://retroxp.beehiiv.com/p/it-s-new-to-me-battle-pinball" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc digs Battle Pinball, a weird 1994 3DO import where two players battle simultaneously on character-themed tables instead of just chasing scores.
+- **<a href="https://welshtroll.co.uk/post/2026-a-watched-pot-never-boils.html" target="_blank" rel="noopener noreferrer">Point, Click, Repeat</a>** -- Welsh Troll wonders how long is too long for Star Citizen and Squadron 42, especially when crowdfunding freedom starts to look directionless.
+- **<a href="https://bhagpuss.blogspot.com/2026/09/hethereau-across-river-new-district-or.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss goes sightseeing around Hethereau, trying to figure out whether its long-teased off-limits district is actually changing or just looking prettier.
 ## Writing
 
-- **<a href="https://www.containsmoderateperil.com/blog/2026/9/4/blaugust-2026-participant-survey" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger’s gathering feedback on Blaugust 2026, asking participants how the blogging festival should evolve around sites, comments, RSS, and AI.
+- **<a href="https://wcrobinson.org/2026/08/31/blaugust-2026-week-5-hitting-my-limit/" target="_blank" rel="noopener noreferrer">WCRobinson</a>** -- WCRobinson wraps Blaugust by admitting weekly posting was a stretch, but says the push helped them write faster and finally ship reviews.
 ## Tech
 
-- **<a href="http://scripting.com/2026/09/03/010848.html?title=whyILoveProgramming" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer boils programming down to puzzles, problem-solving, self-discovery, and the quiet joy of collaborating with another mind through a good API.
-- **<a href="https://www.jwz.org/blog/2026/09/i-pay-my-parking-tickets-like-any-other-corporate-person-a-million-dollars-at-a-time/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski skewers Waymo’s mountain of San Francisco parking tickets, arguing fines are just a price when you’re a rich corporation.
-- **<a href="https://warnercrocker.com/2026/09/03/recommended-for-apple-geeks-lex-on-tech/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner recommends Lex Friedman’s new Apple-focused Lex On Tech for its welcome attention to apps, developers, and a fresher voice in Apple coverage.
+- **<a href="https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff restomods a 1995 TrueTime box into a Raspberry Pi stratum 1 NTP server, with GNSS, Chrony, and just enough cautionary Telstra energy.
+## General
+
+- **<a href="https://thinkroot.xyz/nota-606" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian tosses out a tiny, open-ended question about why so many people like the color blue, then lets the comments run with it.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-09-04-week-36-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s weekly digest mixes job-search stress with Kindaichi reading, P5 Tactica, Fate/GO, Traitors, and the struggle not to overextend themself.
