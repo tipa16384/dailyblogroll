@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-09-05
+# Daily Blogroll: 2026-09-06
 
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/09/04/final-fantasy-resonance/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa is intrigued by Final Fantasy Resonance bringing back FFBE’s combo-heavy theorycrafting while ditching the wallet-devouring gacha that killed the original.
-- **<a href="https://tagn.wordpress.com/2026/09/04/everquest-legends-pilgrimage-to-freeport/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm treats EverQuest Legends like a nostalgia road trip, leaving Blackburrow at 14 for the long old-school run toward Freeport and beyond.
-- **<a href="https://priestwithacause.blogspot.com/2026/09/final-pre-blizzcon-thoughts.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar is more than ready for BlizzCon to finally say something concrete about WoW Classic, Camelot, and whatever retail announces next.
-- **<a href="https://thealmightybacklog.wordpress.com/2026/09/05/the-third-sin/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie says Blasphemous II’s free Third Sin expansion is a short, gorgeous Castlevania-flavored detour with a new castle, enemies, and a whip.
-- **<a href="https://www.filfre.net/2026/09/porsche-unleashed/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy spins a funny Porsche story—complete with an accidental Cayenne rental—before turning to Need for Speed: Porsche Unleashed and car-culture history.
-- **<a href="https://retroxp.beehiiv.com/p/it-s-new-to-me-battle-pinball" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc digs Battle Pinball, a weird 1994 3DO import where two players battle simultaneously on character-themed tables instead of just chasing scores.
-- **<a href="https://welshtroll.co.uk/post/2026-a-watched-pot-never-boils.html" target="_blank" rel="noopener noreferrer">Point, Click, Repeat</a>** -- Welsh Troll wonders how long is too long for Star Citizen and Squadron 42, especially when crowdfunding freedom starts to look directionless.
-- **<a href="https://bhagpuss.blogspot.com/2026/09/hethereau-across-river-new-district-or.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss goes sightseeing around Hethereau, trying to figure out whether its long-teased off-limits district is actually changing or just looking prettier.
+- **<a href="https://tagn.wordpress.com/2026/09/06/blizzcon-bingo-looking-forward-to-blizzcon-2026/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm runs through likely BlizzCon 2026 reveals, from WoW Midnight and The Last Titan to Classic dates and more Season of Discovery-style experiments.
+- **<a href="https://chasingdings.com/2026/09/06/everquest-legends-a-knight-of-kerra/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa power-levels a Paladin/Monk/Enchanter in EverQuest Legends to finish the Fiery Avenger setup before Kunark epic quests arrive.
+- **<a href="https://swtorcommando.blogspot.com/2026/09/adventures-on-pts-part-whatever.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar digs into SWTOR PTS ops testing, where tweaking a new boss is neat, but blind veteran-mode progression sounds gloriously chaotic.
+- **<a href="http://tobolds.blogspot.com/2026/09/classic-games-and-cheap-tricks.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold argues Star Wars Zero Company leans on one-and-done scripted set pieces, while XCOM 2’s randomness gives it far better replay value.
+- **<a href="https://biobreak.wordpress.com/2026/09/04/the-joys-of-overleveling-in-lotro/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp happily defends overleveling in LOTRO, enjoying breezy Bree-land questing while also building a strong Octopath Traveler party.
+- **<a href="https://streetsinturmoil.com/2026/09/02/gunderholfen-the-wight-of-nharzed-session-31/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Gunderholfen crew recruits fresh magic users and pushes deeper into undead dwarf territory while Grimoire sits this dungeon run out.
+- **<a href="https://inanage.com/2026/09/04/7-days-to-die-undead-legacy/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel finds 7 Days to Die’s Undead Legacy overhaul slows crafting so much that it accidentally pushes the game further into loot-first play.
 ## Writing
 
-- **<a href="https://wcrobinson.org/2026/08/31/blaugust-2026-week-5-hitting-my-limit/" target="_blank" rel="noopener noreferrer">WCRobinson</a>** -- WCRobinson wraps Blaugust by admitting weekly posting was a stretch, but says the push helped them write faster and finally ship reviews.
+- **<a href="https://nerdgirlthoughts.game.blog/2026/09/05/blaugust-2026-in-review/" target="_blank" rel="noopener noreferrer">Nerd Girl Thoughts</a>** -- Krikket recaps a big Blaugust 2026 with nearly 180 participants, lots of first-timers, and the full spread of posting awards.
+- **<a href="https://aneeshsathe.com/exstasis/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh shares a brief poem about poetry holding words in form until they finally leap from someone’s lips.
+- **<a href="https://thefriendlynecromancer.blogspot.com/2026/09/my-blaugust-2026-post-mortem.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- The Friendly Necromancer looks back on finishing Blaugust, mixing EverQuest Legends, D&D, dev logs, and some honest doubts about what the posting sprint accomplished.
 ## Tech
 
-- **<a href="https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff restomods a 1995 TrueTime box into a Raspberry Pi stratum 1 NTP server, with GNSS, Chrony, and just enough cautionary Telstra energy.
+- **<a href="https://www.usebox.net/jjm/blog/loading-from-tape-again/" target="_blank" rel="noopener noreferrer">usebox.net</a>** -- JJM revisits ZX Spectrum tape loading with the kids, complete with volume fiddling, fake cassettes, and the timeless problem of too many games.
 ## General
 
-- **<a href="https://thinkroot.xyz/nota-606" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian tosses out a tiny, open-ended question about why so many people like the color blue, then lets the comments run with it.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-09-04-week-36-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s weekly digest mixes job-search stress with Kindaichi reading, P5 Tactica, Fate/GO, Traitors, and the struggle not to overextend themself.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/09/04/optimus-prime-always-in-my-heart/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily writes a heartfelt tribute to Peter Cullen, reflecting on Optimus Prime’s impact and a treasured meeting at TFCon.
