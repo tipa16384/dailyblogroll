@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-09-06
+# Daily Blogroll: 2026-09-07
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/09/06/blizzcon-bingo-looking-forward-to-blizzcon-2026/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm runs through likely BlizzCon 2026 reveals, from WoW Midnight and The Last Titan to Classic dates and more Season of Discovery-style experiments.
-- **<a href="https://chasingdings.com/2026/09/06/everquest-legends-a-knight-of-kerra/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa power-levels a Paladin/Monk/Enchanter in EverQuest Legends to finish the Fiery Avenger setup before Kunark epic quests arrive.
-- **<a href="https://swtorcommando.blogspot.com/2026/09/adventures-on-pts-part-whatever.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar digs into SWTOR PTS ops testing, where tweaking a new boss is neat, but blind veteran-mode progression sounds gloriously chaotic.
-- **<a href="http://tobolds.blogspot.com/2026/09/classic-games-and-cheap-tricks.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold argues Star Wars Zero Company leans on one-and-done scripted set pieces, while XCOM 2’s randomness gives it far better replay value.
-- **<a href="https://biobreak.wordpress.com/2026/09/04/the-joys-of-overleveling-in-lotro/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp happily defends overleveling in LOTRO, enjoying breezy Bree-land questing while also building a strong Octopath Traveler party.
-- **<a href="https://streetsinturmoil.com/2026/09/02/gunderholfen-the-wight-of-nharzed-session-31/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Gunderholfen crew recruits fresh magic users and pushes deeper into undead dwarf territory while Grimoire sits this dungeon run out.
-- **<a href="https://inanage.com/2026/09/04/7-days-to-die-undead-legacy/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel finds 7 Days to Die’s Undead Legacy overhaul slows crafting so much that it accidentally pushes the game further into loot-first play.
+- **<a href="https://thetangent.space/2026/digest74/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan’s back-to-school week mixes classroom reshuffling, a busted RGB30 mod, more Terranigma, and RetroArch audio woes on the Pocket Reform.
+- **<a href="https://wordsundermyname.wordpress.com/2026/09/06/now-what/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 hits that familiar post-finish slump after Final Fantasy VII and Doom: The Dark Ages, with a backlog ready but nothing feeling right.
+- **<a href="https://margotplays.substack.com/p/week-in-gaming-31st-aug-3" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot’s week is all about cozy co-op, handheld tinkering, Big Walk puzzling with Luna, and sampling indie picks like Wanderstop.
+- **<a href="https://kimimithegameeatingshemonster.com/2026/09/07/kisou-shinden-gen-kaiser-comfortably-cliched/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi finds Kisou Shinden Gen-kaiser delightfully packed with ’90s anime-mecha clichés, with brisk, restrictive design that feels more cozy than limiting.
 ## Writing
 
-- **<a href="https://nerdgirlthoughts.game.blog/2026/09/05/blaugust-2026-in-review/" target="_blank" rel="noopener noreferrer">Nerd Girl Thoughts</a>** -- Krikket recaps a big Blaugust 2026 with nearly 180 participants, lots of first-timers, and the full spread of posting awards.
-- **<a href="https://aneeshsathe.com/exstasis/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh shares a brief poem about poetry holding words in form until they finally leap from someone’s lips.
-- **<a href="https://thefriendlynecromancer.blogspot.com/2026/09/my-blaugust-2026-post-mortem.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- The Friendly Necromancer looks back on finishing Blaugust, mixing EverQuest Legends, D&D, dev logs, and some honest doubts about what the posting sprint accomplished.
+- **<a href="https://hamatti.org/posts/people-and-blogs-interview/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis talks blogging as a long-running counterweight to video, plus how software notes, reviews, and deeper reading-driven ideas turn into posts.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/9/6/my-five-ws-of-reading" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger runs through his reading habits, from horror and ghost stories to ideal armchair ambience, and makes the case for reading in any form.
 ## Tech
 
-- **<a href="https://www.usebox.net/jjm/blog/loading-from-tape-again/" target="_blank" rel="noopener noreferrer">usebox.net</a>** -- JJM revisits ZX Spectrum tape loading with the kids, complete with volume fiddling, fake cassettes, and the timeless problem of too many games.
-## General
-
-- **<a href="https://monsterladysdiary.wordpress.com/2026/09/04/optimus-prime-always-in-my-heart/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily writes a heartfelt tribute to Peter Cullen, reflecting on Optimus Prime’s impact and a treasured meeting at TFCon.
+- **<a href="https://endgameviable.com/post/2026/09/google-maps-voice-change/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet clocks Google Maps swapping out its old navigation voice for a younger, AI-sounding one with plenty of vocal fry.
+- **<a href="https://brennan.day/tending-the-garden-i-have-a-current-state-of-affairs/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan takes stock of his digital garden, arguing for more maintenance, optimism, and fewer shiny new seedlings across his corner of the internet.
+- **<a href="https://www.kgadams.net/sitenews/resolving-the-mariadb-and-fedora-problem" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly finally fixes a Fedora MariaDB startup bug, tracing it to systemd-tmpfiles choking because the root directory had the wrong ownership.
+- **<a href="https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier points to car camouflage meant to evade Flock cameras—maybe impractical, but definitely a striking bit of surveillance counterplay.
+- **<a href="http://scripting.com/2026/09/06.html#a172205" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer says Claude is equal parts helpful and maddening while he ports Frontier, great at spotting failures but constantly breaking things too.
+- **<a href="https://www.jwz.org/blog/2026/09/i-agree-with-this-message-7/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski shares another gloriously glitched billboard photo, the kind of urban tech failure that looks weirdly like source code.
