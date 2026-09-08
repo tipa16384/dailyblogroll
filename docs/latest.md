@@ -1,20 +1,17 @@
-# Daily Blogroll: 2026-09-07
+# Daily Blogroll: 2026-09-08
 
+## General
+
+- **<a href="https://tagn.wordpress.com/2026/09/07/reflections-on-star-trek-at-60/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm looks back on Star Trek’s 60th with memories of tiny black-and-white TVs and why the show’s color production helped it endure.
+- **<a href="https://blog.gridranger.dev/eyespace-2026/?focus=post-2026-09-07" target="_blank" rel="noopener noreferrer">GridRanger</a>** -- Dávid serves a cozy photo post with first-time apple pie, sugar-free baking, pogácsa, and a nice nod after yesterday’s blogroll feature.
+- **<a href="https://warnercrocker.com/2026/09/06/sunday-morning-reading-171/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner puts Sunday Morning Reading on hiatus for a happier reason this week: celebrating his grandson’s fifth birthday.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-09-07-week-37-links/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae rounds up a properly miscellaneous links post, from Blaugust and chronic illness to Yukon cheetahs, airports, COVID, and Linux IPTV.
 ## Gaming
 
-- **<a href="https://thetangent.space/2026/digest74/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan’s back-to-school week mixes classroom reshuffling, a busted RGB30 mod, more Terranigma, and RetroArch audio woes on the Pocket Reform.
-- **<a href="https://wordsundermyname.wordpress.com/2026/09/06/now-what/" target="_blank" rel="noopener noreferrer">Words Under My Name</a>** -- Blockade85 hits that familiar post-finish slump after Final Fantasy VII and Doom: The Dark Ages, with a backlog ready but nothing feeling right.
-- **<a href="https://margotplays.substack.com/p/week-in-gaming-31st-aug-3" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot’s week is all about cozy co-op, handheld tinkering, Big Walk puzzling with Luna, and sampling indie picks like Wanderstop.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/09/07/kisou-shinden-gen-kaiser-comfortably-cliched/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi finds Kisou Shinden Gen-kaiser delightfully packed with ’90s anime-mecha clichés, with brisk, restrictive design that feels more cozy than limiting.
-## Writing
-
-- **<a href="https://hamatti.org/posts/people-and-blogs-interview/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis talks blogging as a long-running counterweight to video, plus how software notes, reviews, and deeper reading-driven ideas turn into posts.
-- **<a href="https://www.containsmoderateperil.com/blog/2026/9/6/my-five-ws-of-reading" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger runs through his reading habits, from horror and ghost stories to ideal armchair ambience, and makes the case for reading in any form.
-## Tech
-
-- **<a href="https://endgameviable.com/post/2026/09/google-maps-voice-change/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet clocks Google Maps swapping out its old navigation voice for a younger, AI-sounding one with plenty of vocal fry.
-- **<a href="https://brennan.day/tending-the-garden-i-have-a-current-state-of-affairs/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan takes stock of his digital garden, arguing for more maintenance, optimism, and fewer shiny new seedlings across his corner of the internet.
-- **<a href="https://www.kgadams.net/sitenews/resolving-the-mariadb-and-fedora-problem" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly finally fixes a Fedora MariaDB startup bug, tracing it to systemd-tmpfiles choking because the root directory had the wrong ownership.
-- **<a href="https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier points to car camouflage meant to evade Flock cameras—maybe impractical, but definitely a striking bit of surveillance counterplay.
-- **<a href="http://scripting.com/2026/09/06.html#a172205" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer says Claude is equal parts helpful and maddening while he ports Frontier, great at spotting failures but constantly breaking things too.
-- **<a href="https://www.jwz.org/blog/2026/09/i-agree-with-this-message-7/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski shares another gloriously glitched billboard photo, the kind of urban tech failure that looks weirdly like source code.
+- **<a href="http://www.crazykinux.ca/2026/09/learning-how-to-haul-safely-in-eve.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux shares an EVE Online hauling scare, and how one predictable station warp turned a routine low-sec milk run into a tense lesson.
+- **<a href="https://aywren.com/2026/09/07/ffxiv-why-you-shouldnt-fear-frontlines-pvp" target="_blank" rel="noopener noreferrer">Aywren&#x27;s Nook</a>** -- Aywren makes the case that FFXIV Frontlines is less scary than it sounds, with easy rewards, low pressure, and beginner-friendly quirks.
+- **<a href="https://wowaltaddiction.blogspot.com/2026/09/august-month-in-review.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar’s August recap admits the tracker lied, but Vancouver downtime still meant WoW, a little Guild Wars 2, and finally finishing Blaugust.
+- **<a href="https://virtualmoose.org/2026/09/07/aerial_knights-mrfreezy-thoughts/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael says Aerial_Knight’s MrFreezy is a stylish, satisfying puzzle game, even if late-game power-up choices and hidden level gimmicks get fiddly.
+- **<a href="https://dragonchasers.com/2026/09/07/checking-in-on-the-planet-crafter/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli’s still hooked on The Planet Crafter, where jet boots, a rover, and rockets finally make terraforming feel faster and more dramatic.
+- **<a href="https://pixelnomad.ca/2026/09/07/wow-gold-making-wrap-up-week-36-2026/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace’s WoW gold week was mostly smaller transmog sales, some delves and crafting, and the looming question of Blizzard’s 5-million-gold mount.
+- **<a href="https://bhagpuss.blogspot.com/2026/09/some-random-observations-on-games-ive.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss wanders through recent gaming thoughts, screenshot habits, and the sheer UI overload of Black Desert Online in a deliberately loose ramble.
