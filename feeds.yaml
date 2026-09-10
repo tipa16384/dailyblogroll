@@ -710,6 +710,7 @@ feeds:
     blogger: Wakupan
     pronouns: they/them
     bluesky: "@wakupanbouquet.bsky.social"
+    skip: True
   - name: Casual Aggro
     url: https://casualaggro.wordpress.com/feed/
     update_frequency: daily
