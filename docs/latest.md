@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-09-09
+# Daily Blogroll: 2026-09-10
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/09/08/twenty-years-of-eve-online-reflecting-on-some-numbers/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm marks 20 years in EVE Online by crunching ISK and assets, basically a veteran’s check-in on not being “space poor.”
-- **<a href="https://scopique.com/2026/09/08/time-and-distance-in-gameplay/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique contrasts Ultima Online’s hometown pull with Star Citizen’s planet tech, arguing big worlds need local reasons to keep players grounded.
-- **<a href="https://retroxp.beehiiv.com/p/re-release-this-b-o-b" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc makes the case for B.O.B., a rough-but-worthwhile Gray Matter oddity whose highs almost outweigh the cheap deaths and clunky reputation.
-- **<a href="https://thefriendlynecromancer.blogspot.com/2026/09/sailing-takes-me-away-to-where-are-we.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- The Friendly Necromancer and Dylan learn Raft the hard way, from starvation and shark hats to finally understanding shark bait and island diving.
-- **<a href="http://tobolds.blogspot.com/2026/09/kiting-in-zcom.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold ports old EverQuest instincts into Star Wars Zero Company, using taunts and a jetpack Mandalorian to make kiting surprisingly effective.
-- **<a href="https://biobreak.wordpress.com/2026/09/08/octopath-traveler-and-the-indecisive-gamer/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp mulls grinding in Octopath Traveler, eyes Final Fantasy Resonance, and wonders why trying something new feels harder than it used to.
-## Tech
+- **<a href="https://chasingdings.com/2026/09/09/everquest-legends-the-new-dungeon-crawl/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa dives into EverQuest Legends’ new Dungeon Crawl and immediately gets tripped up by an invisible guano harvester in Nagafen’s Lair.
+- **<a href="https://tagn.wordpress.com/2026/09/09/planet-crafter-krakatoa-west-of-java/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm chronicles Planet Crafter’s Aqualis start, where island naming gets wonderfully out of hand and clams spit out surprisingly juicy loot.
+- **<a href="https://theboardgameschronicle.com/2026/09/09/root-the-homeland-expansion-unboxing-overview/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler says Root’s Homeland Expansion looks huge, with three table-influenced factions, two new maps, and a clever proxy-war vibe.
+- **<a href="https://sweetie.games/2026/09/09/i-miss-project-diva/" target="_blank" rel="noopener noreferrer">Sweetie Games</a>** -- Sweetie misses Project Diva’s arcade-style Vocaloid rhythm games and isn’t convinced Project Sekai’s mobile gacha swap fills that hole.
+- **<a href="https://streetsinturmoil.com/2026/09/08/a-pirate-campaign-under-constrution/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David swaps old-school D&D for Pirate Borg, deciding it fits his nephew’s pirate TTRPG campaign way better than clerics and thieves ever could.
+## Writing
 
-- **<a href="https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html" target="_blank" rel="noopener noreferrer">Leaded Solder</a>** -- Mike digs into classic Mac resources and shows how to embed a custom bitmap font in a HyperCard stack.
-- **<a href="https://www.jeffgeerling.com/blog/2026/opennmc-apc-ups-replacement-card/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff tests OpenNMC, an open-source APC UPS management card replacement with NUT support that looks a lot friendlier than a $500 NMC3.
-- **<a href="https://thinkroot.xyz/motivele-reticentei-fata-de-arch-linux-si-depasirea-lor-609" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian argues Arch Linux’s scary reputation is mostly psychological, with archinstall, docs, and careful updates making it less intimidating than advertised.
+- **<a href="https://wakupanbouquet.hatenablog.com/entry/2026/09/09/232422" target="_blank" rel="noopener noreferrer">Wakupan</a>** -- Wakupan discovers revision is actually fun, especially after outside feedback exposed weak phrasing, personal tics, and what polishing fiction can really do.
 ## General
 
-- **<a href="https://www.tbray.org/ongoing/When/202x/2026/09/08/Emily-Got-Canceled" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray makes the Autistici/Inventati takedown painfully concrete through Emily’s site and email vanishing, with basically no real defense available.
-- **<a href="https://joelchrono.xyz/blog/2026-w36/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel’s weeknotes cover cutting YouTube, cleaning feeds, Bandcamp Friday pickups, and a grab bag of reading, podcasts, Silksong, and UFO 50.
-- **<a href="https://lameazoid.com/60-years-of-star-trek/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie celebrates Star Trek’s 60th by ranking personal favorites, with DS9, TNG, the TOS movies, and Lower Decks getting the love.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/09/09/the-seven-rings-the-haunting-somewhere-in-time/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily enjoyed The Seven Rings’ ghostly finale and time-travel curse-breaking, even if some Poole Manor decluttering and predictability dragged a little.
+- **<a href="https://nerdgirlthoughts.game.blog/2026/09/07/mixtape-monday-okay-with-not-being-okay/" target="_blank" rel="noopener noreferrer">Nerd Girl Thoughts</a>** -- Krikket channels a rough few weeks into an 87-minute stress mixtape full of emo, pop-punk, and letting yourself not be okay.
+- **<a href="https://www.dnalounge.com/backstage/log/2026/09/07.html" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski makes a brisk case for voting DNA Lounge Best Nightclub and Live Music Venue to help the independent spot fend off bureaucracy.
+## Tech
+
+- **<a href="https://www.usebox.net/jjm/blog/the-effects-of-walking/" target="_blank" rel="noopener noreferrer">usebox.net</a>** -- JJM says a privacy-friendly pedometer helped turn lunchtime walks into a real habit, bugs and all, with 150km August bragging rights.
+- **<a href="http://scripting.com/2026/09/09.html#a005031" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer shrugs at AI phone hype, gripes that Gemini can’t answer basic Pixel 9 Pro questions, and keeps plugging away on Atlantis.
+- **<a href="https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier flags a nasty security shift: AI agents can turn even vague exploit rumors into attacks fast enough to break current embargo norms.
