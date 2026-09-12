@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-09-11
+# Daily Blogroll: 2026-09-12
 
-## Gaming
+## Writing
 
-- **<a href="https://tagn.wordpress.com/2026/09/10/games-i-have-blogged-about-over-the-last-20-years/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm kicks off TAGN’s 20th anniversary by trimming two decades of game coverage into a top-20 list and explaining how categories differ from tags.
-- **<a href="https://oyito.substack.com/p/in-a-nutshell-summer-2026" target="_blank" rel="noopener noreferrer">Oya&#x27;s Game Hub</a>** -- Oya rounds up a packed summer of Ghost Trick, Big Walk, reviews, and books, with the clear takeaway that Ghost Trick absolutely won people over.
-- **<a href="https://sightingames.wordpress.com/2026/09/10/review-mio-memories-in-orbit/" target="_blank" rel="noopener noreferrer">Sight-In Games</a>** -- Zack says MIO: Memories in Orbit looks gorgeous and has intriguing sci-fi lore, but its punishing difficulty makes this Metroidvania a frustrating climb.
-- **<a href="https://lunasgaminglog.com/2026/09/11/my-august-log/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna’s August was a blur of Sovereign Tower, ReStory, Big Walk, and more, with cozy management sims and co-op puzzling carrying the month.
-- **<a href="https://goodgamelobby.substack.com/p/gamescom-2026-interviews-amaze-walk-the-frog-usual-june-battle-vision" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey wraps Gamescom with a Battle Vision interview and quick hits on indie standouts like Walk The Frog, Lucky Punk, Rover’s Tale, and Moomin.
-- **<a href="https://inanage.com/2026/09/10/impressions-kingdom-come-deliverance-2/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel is 31 hours into Kingdom Come: Deliverance 2 and still mostly brewing potions, but the muddy medieval immersion has clearly got its hooks in.
-- **<a href="https://swtorcommando.blogspot.com/2026/09/server-populations-based-on-conquest.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar digs through SWTOR Total Galactic War leaderboards to compare server populations, using Conquest points as a practical activity snapshot.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/09/11/ys-vi-the-ark-of-napishtim-a-future-for-falcom/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi revisits Ys VI as Falcom’s big comeback, arguing its 2D-on-3D style and crackling action still feel like a promise fulfilled.
+- **<a href="https://tagn.wordpress.com/2026/09/11/blogging-and-regrets-over-the-last-two-decades/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm marks 20 years of blogging by mulling regrets, road-not-taken moments, and his long-running annoyance with the blog’s name.
 ## General
 
-- **<a href="https://axxuy.com/blog/2026/what-is-nature/" target="_blank" rel="noopener noreferrer">Axxuy</a>** -- Axxuy reflects on parks, trails, and forests to argue that even “nature” is often a carefully built environment, not untouched wilderness.
-- **<a href="https://www.containsmoderateperil.com/blog/2026/9/10/the-movie-questionnaire" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger tackles a film questionnaire with favorites, grudges, quotes, and scenes, mixing classic cinema appreciation with some gloriously scrappy personal picks.
-- **<a href="https://brennan.day/a-quarter-of-a-century-later/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan reflects on 9/11’s long cultural shadow, from fear and war to internet-era media, memory, conspiracy, and how later generations inherit it.
+- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/09/11/friendship-after-50/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar takes stock of post-50 friendship during an Arizona move, finding four real late-night calls rooted in work, college, and swim-parent life.
+- **<a href="https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy points readers to a new Analog Antiquarian post on the Tudor kings, a quick detour from digital history into worldly wonders.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-09-11-week-37-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s weekly digest mixes job-hunt chaos, a Red Cross first-aid course, Yokomizo Seishi, golden-age SF, TV, and some games.
+- **<a href="http://tobolds.blogspot.com/2026/09/trumps-best-idea.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold argues Trump’s proposed $5,000 dividend would work best as a tax-the-rich redistribution plan and a sharper Democratic counterplay.
+- **<a href="https://thinkroot.xyz/photo-622" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian shares a photo-journal shot of a flame at a gas pipe for #the100pics, short and purely visual.
 ## Tech
 
-- **<a href="https://www.kgadams.net/gear/deploying-a-synology-nas" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly swaps aging ReadyNAS and Time Capsule gear for a Synology 925+, praising DSM and SMB-friendly backups while noting one looming caveat.
+- **<a href="https://aneeshsathe.com/your-ide-is-more-than-a-text-editor-mister-torres-neighborhood-ep-1/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh bookmarks a video on why your IDE is more than a text editor, calling it a strong setup and a good watch.
+- **<a href="https://warnercrocker.com/2026/09/11/observations-and-questions-after-apples-latest-iphone-duo-and-apple-watch-event/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner sizes up Apple’s latest event, seeing steady iPhone Pro updates and a cautious, maybe-still-niche bet on the folding iPhone Duo.
+## Gaming
+
+- **<a href="https://bhagpuss.blogspot.com/2026/09/murder-in-place-riders-at-gate.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss rounds up game odds and ends, including a brief, unconvinced look at browser MMO MurderCartel and its slick-but-not-for-me 2D style.
+- **<a href="http://www.crazykinux.ca/2026/09/is-eve-online-still-worth-playing-in.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux says EVE Online is absolutely still worth playing in 2026, if you can love a harsh MMO that wastes your time and fights back.
+- **<a href="https://biobreak.wordpress.com/2026/09/11/fallout-follies-and-palia-daliances-and-lotro-oho/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp bounces between Fallout 76, Palia, and LOTRO, enjoying newbie generosity, grumbling at character deletion, and dragging his Captain onward.
+- **<a href="https://joelchrono.xyz/blog/return-to-land-of-eem/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel returns to Land of Eem after six months, winging a family TTRPG session with Wally’s Waffles and Rats and a lot less prep than planned.
