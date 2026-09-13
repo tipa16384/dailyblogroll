@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-09-12
+# Daily Blogroll: 2026-09-13
 
-## Writing
-
-- **<a href="https://tagn.wordpress.com/2026/09/11/blogging-and-regrets-over-the-last-two-decades/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm marks 20 years of blogging by mulling regrets, road-not-taken moments, and his long-running annoyance with the blog’s name.
-## General
-
-- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/09/11/friendship-after-50/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar takes stock of post-50 friendship during an Arizona move, finding four real late-night calls rooted in work, college, and swim-parent life.
-- **<a href="https://www.filfre.net/2026/09/this-week-on-the-analog-antiquarian/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy points readers to a new Analog Antiquarian post on the Tudor kings, a quick detour from digital history into worldly wonders.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-09-11-week-37-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s weekly digest mixes job-hunt chaos, a Red Cross first-aid course, Yokomizo Seishi, golden-age SF, TV, and some games.
-- **<a href="http://tobolds.blogspot.com/2026/09/trumps-best-idea.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold argues Trump’s proposed $5,000 dividend would work best as a tax-the-rich redistribution plan and a sharper Democratic counterplay.
-- **<a href="https://thinkroot.xyz/photo-622" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian shares a photo-journal shot of a flame at a gas pipe for #the100pics, short and purely visual.
-## Tech
-
-- **<a href="https://aneeshsathe.com/your-ide-is-more-than-a-text-editor-mister-torres-neighborhood-ep-1/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh bookmarks a video on why your IDE is more than a text editor, calling it a strong setup and a good watch.
-- **<a href="https://warnercrocker.com/2026/09/11/observations-and-questions-after-apples-latest-iphone-duo-and-apple-watch-event/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner sizes up Apple’s latest event, seeing steady iPhone Pro updates and a cautious, maybe-still-niche bet on the folding iPhone Duo.
 ## Gaming
 
-- **<a href="https://bhagpuss.blogspot.com/2026/09/murder-in-place-riders-at-gate.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss rounds up game odds and ends, including a brief, unconvinced look at browser MMO MurderCartel and its slick-but-not-for-me 2D style.
-- **<a href="http://www.crazykinux.ca/2026/09/is-eve-online-still-worth-playing-in.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux says EVE Online is absolutely still worth playing in 2026, if you can love a harsh MMO that wastes your time and fights back.
-- **<a href="https://biobreak.wordpress.com/2026/09/11/fallout-follies-and-palia-daliances-and-lotro-oho/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp bounces between Fallout 76, Palia, and LOTRO, enjoying newbie generosity, grumbling at character deletion, and dragging his Captain onward.
-- **<a href="https://joelchrono.xyz/blog/return-to-land-of-eem/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel returns to Land of Eem after six months, winging a family TTRPG session with Wally’s Waffles and Rats and a lot less prep than planned.
+- **<a href="https://tagn.wordpress.com/2026/09/13/tagn-fantasy-critic-league-2026-week-thirty-seven-with-some-updates/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm returns to Fantasy Critic with score shuffles, as Rhythm Heaven Groove rises and Crimson Moon dings his standing.
+- **<a href="https://frostilyte.ca/2026/09/12/10-things-i-wish-i-knew-sooner-in-mewgenics/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte shares practical Mewgenics starter advice, especially prioritizing Butch upgrades, hoarding gear, and valuing Speed above basically everything.
+- **<a href="https://leekscosycorner.com/2026/09/12/6-upcoming-indie-games-2026/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista rounds up late-2026 indie hopes, from Witchbrook and Grave Seasons to Dressmaker, Otterly Lost, and Over The Hill.
+- **<a href="https://wcrobinson.org/2026/09/12/gaming-photo-album-metroid-prime-4-beyond/" target="_blank" rel="noopener noreferrer">WCRobinson</a>** -- WCRobinson posts a spoiler-warning Metroid Prime 4: Beyond screenshot gallery, celebrating Samus, bosses, and Viewros’ standout visuals.
+- **<a href="https://priestwithacause.blogspot.com/2026/09/classic-is-real-warcraft-forever.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar is all-in on Warcraft Classic+, praising BlizzCon’s new zones, raids, race-class combos, visual toggles, and that emotional trailer.
+- **<a href="https://thealmightybacklog.wordpress.com/2026/09/12/lil-gator-game/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie finds Lil Gator Game tapping straight into 3D platformer nostalgia and the bittersweet pull of recapturing childhood.
+- **<a href="https://virtualmoose.org/2026/09/13/metroid-thoughts/" target="_blank" rel="noopener noreferrer">Virtual Moose</a>** -- Michael finally finishes NES Metroid, praising its weird, mysterious vibe even while grumbling about death recovery and old-school friction.
+- **<a href="https://thefriendlynecromancer.blogspot.com/2026/09/plane-of-hate-dungeon-crawl-two-tales.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- The Friendly Necromancer recounts two brutal EverQuest Legends Plane of Hate runs, ending with a maddening rare-creature bug.
+## General
+
+- **<a href="https://tofutush.github.io/posts/2026-08-19.html" target="_blank" rel="noopener noreferrer">Tofutush&#x27;s Blog</a>** -- Tofutush recaps a packed Xinjiang trip with Kashgar, Tashqurghan, desert rides, altitude, Tajik food, and several excellent animal sightings.
+- **<a href="https://lameazoid.com/weekly-wrap-up-2026-09-12/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie’s weekly wrap mixes roof work, Transformers finds, McDonald’s Godzilla x Hello Kitty toy hunting, and a couple of books.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/09/10/how-deep-is-your-love/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily recounts a romantic dream featuring Kit Fisto, warm water, a glowing pool, and an underwater kiss into darkness.
+## Tech
+
+- **<a href="http://scripting.com/2026/09/13.html#a152333" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer riffs on working with Claude, Frontier scripts, RSS updates, and the messy practical limits of social posting.
