@@ -350,6 +350,7 @@ feeds:
     pronouns: he/him
     bluesky: "@virtualmoose.bsky.social"
     mastodon: "@virtualmoose.org@virtualmoose.org"
+    skip: True
   - name: Going Commando
     url: http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss
     update_frequency: daily

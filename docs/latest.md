@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-09-14
+# Daily Blogroll: 2026-09-15
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/09/13/eve-online-and-the-road-to-csm-21/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm eyes EVE Online’s CSM 21 election with heavy skepticism, arguing CCP keeps sidelining player feedback for force-projection nerfs, HUD changes, and side projects.
-- **<a href="https://readonlymemo.com/micro-rom-some-of-the-september-news-thats-fit-to-print/" target="_blank" rel="noopener noreferrer">READ ONLY MEMO</a>** -- Wes serves a snack-size ROM roundup with fan translation and patch notes, plus links on Witch of the Dark Castle, Saburo Jinguji, Satellaview, and Blue Dragon.
-- **<a href="https://pixelnomad.ca/2026/09/13/wow-its-blizzcon-weekend/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace is mildly tempted by World of Warcraft Forever’s level-60 fresh start after BlizzCon, even if she’s still mostly guild-hunting and gold-making.
-- **<a href="https://godless-internets.org/2026/09/14/valheim-10" target="_blank" rel="noopener noreferrer">Owlblog</a>** -- Owls kicks off Valheim 1.0 with bears, dual-wield Early Axes, a comfy longhouse, and an accidental second Eikthyr kill.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/09/14/tetris-2-bombliss-we-have-tetris-at-home/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi makes a charming case for Famicom Tetris 2 and BomBliss, loving its homely presentation more than any claim to definitive Tetris greatness.
-- **<a href="https://goodgamelobby.substack.com/p/good-game-lobby-gaming-club" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey introduces Good Game Lobby’s Discord gaming club, where the community nominates short indie picks and is currently playing Firewatch for September.
-- **<a href="https://bhagpuss.blogspot.com/2026/09/what-are-chances.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss riffs on gacha luck across Genshin Impact, Noah’s Heart, Wuthering Waves, and Neverness To Everness, while admitting he rarely wants to swap characters.
-## Tech
-
-- **<a href="https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier says Microsoft’s 972-fix Windows patch shows AI is supercharging vulnerability discovery, and the safe patching window is basically immediate now.
-- **<a href="https://www.containsmoderateperil.com/blog/2026/9/12/unintuitive-software-incessant-updates-and-bloat" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger unloads on bloated, paternalistic software design and nonstop updates, then gives Nintendo’s Switch setup a rare gold star for actually feeling intuitive.
+- **<a href="https://chasingdings.com/2026/09/14/retroworld-expo-2026/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa enjoyed RetroWorld Expo, grabbed a retro Polaroid Go 3, and came away charmed by its tiny, muddy instant photos anyway.
+- **<a href="https://tagn.wordpress.com/2026/09/14/blizzcon-2026-monday-morning-reactions-featuring-actual-wow-classic-plus/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm reacts to BlizzCon 2026 with surprise and delight that WoW Classic Plus is real as World of Warcraft Forever.
+- **<a href="https://blog.zarfhome.com/2026/09/late-summer-mysteries" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin surveys several mystery-shaped games, praising The Mermaid Mask’s dual protagonists while knocking its banter-heavy writing and slow evidence grind.
+- **<a href="https://scopique.com/2026/09/14/no-mans-sky-and-living-worlds/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique is hooked again by No Man’s Sky COSMOS, even if old save baggage and Sentinel combat still make returning a little messy.
+- **<a href="https://retroxp.beehiiv.com/p/past-meets-present-chibi-robo-plug-into-adventure" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc makes the case for Chibi-Robo! Plug Into Adventure! as a weird, lovely GameCube gem about cleaning, family dysfunction, and offbeat charm.
+- **<a href="https://streetsinturmoil.com/2026/09/14/the-gates-of-power-death-in-its-many-forms-session-32/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David recaps a brutal Dragonbane megadungeon session as the Battle Brothers push into the Gates of Power and tangle with skeletons and a Death Dog.
+- **<a href="https://biobreak.wordpress.com/2026/09/14/over-the-moon-about-world-of-warcraft-forever/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp is absolutely buzzing over World of Warcraft Forever, calling Blizzard’s Classic Plus reveal a huge, carefully judged evolution of WoW Classic.
 ## General
 
-- **<a href="https://www.kgadams.net/life/am-i-bored" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly digs into boredom as a lack of fulfilling activity, sketching out different ways people escape it beyond just staying busy.
-- **<a href="http://tobolds.blogspot.com/2026/09/when-your-15-minutes-are-over.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold reflects on fading internet fame, burned-out creators, and why influencer dreams usually don’t translate into lasting financial security.
-- **<a href="https://warnercrocker.com/2026/09/13/sunday-morning-reading-172/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner’s reading roundup circles AI, democracy, geology, and the future of readers themselves, with Bryan Cantrill and Paul Ford among the highlights.
+- **<a href="http://www.heartlessgamer.com/2026/09/packers-something-something-vikings-9.html" target="_blank" rel="noopener noreferrer">Heartless Gamer</a>** -- Heartless breaks down the Packers’ collapse against the Vikings, pinning it more on bad decisions and 29 unanswered points than the refs.
+- **<a href="https://joelchrono.xyz/blog/2026-w37/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel’s weeknotes bounce from Ocarina of Time and a six-hour Play Station podcast to BBQ, coffee, and a handy photo-cleaning app.
+## Tech
+
+- **<a href="https://thetangent.space/2026/navier-stokes/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan uses OpenAI’s claimed Navier-Stokes breakthrough to argue AI-driven math risks stripping the beauty, struggle, and human meaning from mathematics.
+- **<a href="https://thinkroot.xyz/de-ce-bitwarden-flatpak-nu-se-conecta-la-vaultwarden-628" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian explains why Bitwarden Flatpak wouldn’t talk to Vaultwarden behind Caddy and Tailscale, and how an SSL_CERT_FILE override fixed it.
+## Writing
+
+- **<a href="https://brennan.day/i-ceo-how-medium-com-went-from-being-anti-ai-to-pro-ai/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan tees up a critique of Medium’s shift from human-centered publishing ideals toward a more pro-AI stance.
