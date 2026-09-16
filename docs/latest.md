@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-09-15
+# Daily Blogroll: 2026-09-16
 
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/09/14/retroworld-expo-2026/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa enjoyed RetroWorld Expo, grabbed a retro Polaroid Go 3, and came away charmed by its tiny, muddy instant photos anyway.
-- **<a href="https://tagn.wordpress.com/2026/09/14/blizzcon-2026-monday-morning-reactions-featuring-actual-wow-classic-plus/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm reacts to BlizzCon 2026 with surprise and delight that WoW Classic Plus is real as World of Warcraft Forever.
-- **<a href="https://blog.zarfhome.com/2026/09/late-summer-mysteries" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin surveys several mystery-shaped games, praising The Mermaid Mask’s dual protagonists while knocking its banter-heavy writing and slow evidence grind.
-- **<a href="https://scopique.com/2026/09/14/no-mans-sky-and-living-worlds/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique is hooked again by No Man’s Sky COSMOS, even if old save baggage and Sentinel combat still make returning a little messy.
-- **<a href="https://retroxp.beehiiv.com/p/past-meets-present-chibi-robo-plug-into-adventure" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc makes the case for Chibi-Robo! Plug Into Adventure! as a weird, lovely GameCube gem about cleaning, family dysfunction, and offbeat charm.
-- **<a href="https://streetsinturmoil.com/2026/09/14/the-gates-of-power-death-in-its-many-forms-session-32/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David recaps a brutal Dragonbane megadungeon session as the Battle Brothers push into the Gates of Power and tangle with skeletons and a Death Dog.
-- **<a href="https://biobreak.wordpress.com/2026/09/14/over-the-moon-about-world-of-warcraft-forever/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp is absolutely buzzing over World of Warcraft Forever, calling Blizzard’s Classic Plus reveal a huge, carefully judged evolution of WoW Classic.
-## General
-
-- **<a href="http://www.heartlessgamer.com/2026/09/packers-something-something-vikings-9.html" target="_blank" rel="noopener noreferrer">Heartless Gamer</a>** -- Heartless breaks down the Packers’ collapse against the Vikings, pinning it more on bad decisions and 29 unanswered points than the refs.
-- **<a href="https://joelchrono.xyz/blog/2026-w37/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel’s weeknotes bounce from Ocarina of Time and a six-hour Play Station podcast to BBQ, coffee, and a handy photo-cleaning app.
-## Tech
-
-- **<a href="https://thetangent.space/2026/navier-stokes/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan uses OpenAI’s claimed Navier-Stokes breakthrough to argue AI-driven math risks stripping the beauty, struggle, and human meaning from mathematics.
-- **<a href="https://thinkroot.xyz/de-ce-bitwarden-flatpak-nu-se-conecta-la-vaultwarden-628" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian explains why Bitwarden Flatpak wouldn’t talk to Vaultwarden behind Caddy and Tailscale, and how an SSL_CERT_FILE override fixed it.
+- **<a href="https://tagn.wordpress.com/2026/09/15/no-mans-sky-and-the-cosmos-update/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm checks out No Man’s Sky’s Cosmos update, from launch hiccups to space station directorship and the welcome addition of proper solar system maps.
+- **<a href="https://margotplays.substack.com/p/reviews-wanderstop" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot finds Wanderstop a thoughtful, cozy tea game about burnout and change, with strong themes, some motion-sickness caveats, and approachable crafting.
+- **<a href="https://swtorcommando.blogspot.com/2026/09/i-was-wrong-about-levelling-difficulty.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar comes around on SWTOR’s new levelling difficulty, saying veteran and master modes make early planets, side quests, and storytelling feel meaningful again.
 ## Writing
 
-- **<a href="https://brennan.day/i-ceo-how-medium-com-went-from-being-anti-ai-to-pro-ai/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan tees up a critique of Medium’s shift from human-centered publishing ideals toward a more pro-AI stance.
+- **<a href="https://hamatti.org/posts/why-do-we-take-notes/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis argues note-taking still matters in the LLM era because the real value is thinking, rewriting, and making connections, not just stockpiling notes.
+- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/09/15/a-twelve-year-reading-plan-with-room-for-dragons/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar stretches a reading plan to twelve years, mixing classics like Borges and Ishiguro with plenty of fantasy and sci-fi still in the rotation.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/09/15/my-favourite-castles-in-westeros/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily ranks her favorite Westeros castles, with Dragonstone leading thanks to its moody Targaryen vibe, seaside isolation, and extremely handy dragon access.
+## General
+
+- **<a href="https://endgameviable.com/post/2026/09/disappearing-daylight/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet shares a rough health update, side-eyes World of Warcraft: Forever, and keeps pushing through Final Fantasy XIV’s Endwalker existential dread.
+- **<a href="https://dragonchasers.com/2026/09/15/fail-swearing-off-social-media-didnt-make-much-difference/" target="_blank" rel="noopener noreferrer">Dragonchasers</a>** -- Nimgimli says quitting social media without replacing the social part backfired, landing on the very relatable conclusion that everyone needs a third space.
+## Tech
+
+- **<a href="https://www.jwz.org/blog/2026/09/records-of-enemy-surveillance/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski spotlights Records of Enemy Surveillance, a stark look at Flock license-plate cameras and the ugly reality of normalizing pervasive monitoring.
+- **<a href="http://scripting.com/2026/09/15.html#a141224" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer is thinking big about Frontier again, from scriptable apps like WordPress and Mastodon to RSS-powered updates and JavaScript ambitions.
+- **<a href="https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier argues post-9/11 mass surveillance has sprawled from national security into everyday policing, fueled by private-sector data collection and brokers.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/9/14/thinking-out-loud-tech-edition" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger talks shop on expanding his blog directory, paying for AI summaries, and buying an Insta360 Link 2 for possible video essays.
