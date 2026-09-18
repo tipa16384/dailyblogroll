@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-09-17
+# Daily Blogroll: 2026-09-18
 
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/09/16/you-never-forget-your-first-viking/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa’s back in Valheim, but even easier portals and a tiny cheat may not be enough to push her past the early grind to Mistlands.
-- **<a href="https://tagn.wordpress.com/2026/09/16/planet-crafter-arrival-on-skeo/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm wraps up Aqualis in Planet Crafter, then blasts off to free bonus planet Skeo for another round of terraforming and number-go-up tinkering.
-- **<a href="https://theboardgameschronicle.com/2026/09/16/interview-with-david-thompson-designer-of-undaunted-2200-revolution-on-pre-order/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- Michal chats with David Thompson about Undaunted 2200: Revolution, the planned finale to the Callisto trilogy and seventh entry in the series.
-- **<a href="https://sweetie.games/2026/09/16/is-adding-a-yosuke-romance-too-much-work/" target="_blank" rel="noopener noreferrer">Sweetie Games</a>** -- Sweetie isn’t buying Atlus’s ‘too much work’ line on skipping a Yosuke romance in Persona 4 Revival, especially with fans asking for years.
-- **<a href="https://priestwithacause.blogspot.com/2026/09/why-wow-forever-let-me-explain.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar lays out why WoW Forever clicks for players who want old-school World of Warcraft vibes without replaying the same solved Classic script forever.
-- **<a href="https://leekscosycorner.com/2026/09/16/woodo-review-unveiling-nostalgia-and-charm/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista says Woodo’s tactile diorama-building, cosy nostalgia, and low-pressure pace make it a charming little game to sink into.
-- **<a href="https://pixelnomad.ca/2026/09/14/wow-gold-making-wrap-up-week-37-2026/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace still cleared over a million WoW gold despite missed auction days, then promptly spent some on three copies of WoW Forever.
-- **<a href="https://biobreak.wordpress.com/2026/09/16/wow-forever-making-plans-for-an-amazing-azeroth-entrance/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp’s channeling BlizzCon hype into practical WoW Forever prep: pre-order, names, guild hunt, and the eternal main-character debate.
-## General
-
-- **<a href="https://bhagpuss.blogspot.com/2026/09/beryl-at-bill.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss swaps games for a Dorset getaway, sharing windy Portland Bill, farm animals, and Beryl the dog bouncing back on antibiotics.
-- **<a href="http://tobolds.blogspot.com/2026/09/the-demographics-of-voting.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold reflects on how U.S. voting demographics scrambled old assumptions, and why judging voter-ID barriers from Europe is trickier than it looks.
-- **<a href="https://www.kgadams.net/geekdom/star-trek-is-60-years-old" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly marks Star Trek’s 60th by tracing his fandom from scary childhood credits to marathon rewatches, movies, books, and lifelong Trek affection.
+- **<a href="https://chasingdings.com/2026/09/17/kunark-news/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa digs the latest Kunark teases, from spooky Nektropos Castle to mystery-race speculation that keeps circling back to the Shissar.
+- **<a href="https://tagn.wordpress.com/2026/09/17/my-first-valheim-1-0-achievement-was-death/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm checks out Valheim 1.0’s Deep North, cross-play, and new goodies, only for leftover mods to turn his first achievement into death.
+- **<a href="https://wowaltaddiction.blogspot.com/2026/09/guild-wars-3-evercold-and-another-try.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar’s tempted by Guild Wars 3’s fresh start and FFXIV Evercold’s pull, but catching up in Eorzea still sounds like the hard part.
+- **<a href="https://sightingames.wordpress.com/2026/09/17/bill-skarsgard-revealed-as-hideo-kojimas-new-it-boy-for-upcoming-action-espionage-game-physint/" target="_blank" rel="noopener noreferrer">Sight-In Games</a>** -- Zack is all-in on Bill Skarsgård leading Kojima’s Physint, a casting pick that feels tailor-made for Kojima’s action-espionage weirdness.
+- **<a href="https://frostilyte.ca/2026/09/17/a-low-tier-playthrough-of-pokemon-silver-part-6/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte pushes a scrappy Pokémon Silver low-tier team through the Rocket Hideout, juggling EXP Share, awkward level caps, and one lagging Winston.
+- **<a href="https://kimimithegameeatingshemonster.com/2026/09/18/essential-experiences-dungeon-crawlers/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi celebrates first-person dungeon crawlers like Wizardry for their danger, atmosphere, and imagination-firing mazes, with a nod to the modern remake.
+- **<a href="https://goodgamelobby.substack.com/p/friday-follow-up-38" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey’s weekly indie roundup spotlights Well Dweller, Nomori, Lily’s World XD, and a Skate Story deluxe soundtrack worth keeping on your radar.
+- **<a href="https://streetsinturmoil.com/2026/09/16/dragonbane-gunderholfen-campaign-dm-comments/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David reflects on running Gunderholfen in Dragonbane, praising the megadungeon’s flexibility while noting magic hiccups and a rougher opening stretch.
 ## Tech
 
-- **<a href="https://warnercrocker.com/2026/09/15/if-youre-moving-from-1password-to-apple-passwords-check-out-these-resources/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner points 1Password users eyeing Apple Passwords to solid migration guides, while admitting today’s tech choices can feel like picking the least bad option.
+- **<a href="https://www.tbray.org/ongoing/When/202x/2026/09/18/On-Regulating-AI" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray argues AI regulation and standards are premature, saying the LLM bubble, shaky ROI, and existing law make committees a bad bet.
+- **<a href="https://scopique.com/2026/09/17/another-log-on-the-fire/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique finds a new obsession in CRUMB, a circuit simulator that scratches the urge to tinker without buying a bench full of electronics gear.
+## General
+
+- **<a href="https://lameazoid.com/godzilla-egg-toys-godzilla-and-mothra/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie checks out oddball Godzilla egg transformers, finding neat silhouettes and fun gimmicks despite limited articulation and some hollow compromises.
+## Writing
+
+- **<a href="https://brennan.day/would-you-like-to-reload-a-previous-save-yes-no/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan turns the classic redo-your-life fantasy into a bittersweet thought experiment about regret, lost work, and what a perfect reload would erase.
