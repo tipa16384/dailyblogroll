@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-09-19
+# Daily Blogroll: 2026-09-20
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/09/18/friday-bullet-points-about-launches-updates-and-endings/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up Nintendo’s tariff-sale shrug, Switch 2 deal gripes, and Monsters & Memories finally hitting early access in a very Friday grab bag.
-- **<a href="https://indiecator.org/2026/09/19/warota-live-next-to-demon-kings-castle-early-access/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi spotlights WAROTA’s playful hook: build a village, swap classes with hats, and fend off monsters next to a demon-king idol.
-- **<a href="https://aywren.com/2026/09/18/ffxiv-beastmaster-adventures-and-impressions" target="_blank" rel="noopener noreferrer">Aywren&#x27;s Nook</a>** -- Aywren enjoys FFXIV Beastmaster’s FATE-train nostalgia and beast collecting, even if the combat side sounds slower and less exciting.
-- **<a href="https://inanage.com/2026/09/18/valheim-1-0-its-all-coming-back/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel returns to Valheim 1.0 and quickly remembers the charm, the slog, and the uniquely maddening hunt for crucial biome resources.
-- **<a href="https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy digs into how Lemmings went from early-’90s phenomenon to faded franchise, tracing the many small choices behind the drop-off.
-- **<a href="https://retroxp.beehiiv.com/p/retro-spotlight-alien-syndrome" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc highlights how Alien Syndrome changed across arcade and home versions, making hardware-era port differences part of the game’s appeal.
-## Tech
-
-- **<a href="https://0xsid.com/blog/intellectual-fitness" target="_blank" rel="noopener noreferrer">Sid&#x27;s Blog</a>** -- Sid argues AI convenience, from WhatsApp chatbots to EV-charge math, can make thinking as sedentary as modern life made our bodies.
-- **<a href="https://www.jeffgeerling.com/blog/2026/vcf-midwest-21-ntp-time/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff shares his VCF Midwest booth, showing off NTP across vintage Macs, a TrueTime Pi, and one very cautionary battery-bombed Mac IIcx.
-- **<a href="https://thinkroot.xyz/nota-638" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian makes a straightforward Linux packaging plea: if XApp is for everyone, it should ship beyond .deb to rpm, Flatpak, and maybe Snap.
+- **<a href="https://tagn.wordpress.com/2026/09/19/wow-forever-getting-the-band-back-together/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm sorts out what WoW Forever actually is: an alternate-2006 Azeroth with new content, horizontal progression, and plenty of skepticism about Blizzard sticking to it.
+- **<a href="https://chasingdings.com/2026/09/19/valheim-eikthyr-down/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa preps hard, solos Valheim’s Eikthyr, and finds aggressive melee beats cautious archery—plus a little accidental Elden Ring dodging.
+- **<a href="https://swtorcommando.blogspot.com/2026/09/the-legacy-of-legacy-of-siths-story.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar argues SWTOR’s Legacy of the Sith told a good story far too slowly, stretched by installment pacing and an ambitious class-story-style structure.
+- **<a href="https://margotplays.substack.com/p/week-in-gaming-7th-sept-45" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot’s Hamburg trip turns into a gaming tour, from MediaMarkt’s giant physical-game floor to GameBros, with Switch 2 preorder stress on the side.
+- **<a href="https://bhagpuss.blogspot.com/2026/09/valheim-forever.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss joins the latest Valheim return and wonders why leaving the Meadows is ever necessary when the early-game loop is already so cozy.
+- **<a href="http://tobolds.blogspot.com/2026/09/not-interested-in-far-future.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold has no patience for Gamescom or BlizzCon long-range hype when Steam’s flood, early access, and endless updates already outpace anyone’s time.
 ## General
 
-- **<a href="https://lunasgaminglog.com/2026/09/18/this-post-is-all-over-the-place/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna writes candidly about heavy adulting, creative burnout, and bouncing off games while waiting for her usual spark to come back.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-09-18-week-38-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s brief weekly digest checks in on job-hunting, low energy, a cold, some Golden Age SF, and very little gaming.
-- **<a href="https://joelchrono.xyz/blog/who-is-my-pixel-neighbor/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel weighs Pixel Area’s neat communal-web idea against its LLM baggage, then lands on cautious optimism after talking with its creator.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/09/18/__trashed-2/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily finally deletes Facebook, driven out by harassment, politics, and Veilguard discourse that turned scrolling into something exhausting instead of social.
+- **<a href="https://www.jwz.org/blog/2026/09/batman-the-doome/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski digs up a 1581 Batman grimoire, marvels at its wild woodcuts, and notes it’s basically more Protestant-Catholic infighting.
+- **<a href="https://biobreak.wordpress.com/2026/09/18/bose-knows-baseball-and-music/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp scores a cheap Bose Wave, catalogs 1,632 CDs on Discogs, and says goodbye to a swollen-battery Hiby player.
+## Tech
+
+- **<a href="http://scripting.com/2026/09/19.html#a174001" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer wrangles an Atlantis bug, tests a new publishing setup, and spins up a podcast with Claude proving useful on clear, concrete tasks.
+- **<a href="https://warnercrocker.com/2026/09/18/take-ai-leaders-at-their-word-or-call-their-bluff/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner says if AI leaders claim their tech is dangerous, we should regulate it hard—or call the bluff instead of swallowing more hype.
+## Writing
+
+- **<a href="https://www.containsmoderateperil.com/blog/2026/9/19/blaugust-2026-participant-survey-results" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger’s Blaugust survey says the festival’s in good shape, with newcomers especially happy and Discord seeming to gate the strongest community experience.
