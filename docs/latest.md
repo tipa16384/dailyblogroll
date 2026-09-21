@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-09-20
+# Daily Blogroll: 2026-09-21
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/09/19/wow-forever-getting-the-band-back-together/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm sorts out what WoW Forever actually is: an alternate-2006 Azeroth with new content, horizontal progression, and plenty of skepticism about Blizzard sticking to it.
-- **<a href="https://chasingdings.com/2026/09/19/valheim-eikthyr-down/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa preps hard, solos Valheim’s Eikthyr, and finds aggressive melee beats cautious archery—plus a little accidental Elden Ring dodging.
-- **<a href="https://swtorcommando.blogspot.com/2026/09/the-legacy-of-legacy-of-siths-story.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar argues SWTOR’s Legacy of the Sith told a good story far too slowly, stretched by installment pacing and an ambitious class-story-style structure.
-- **<a href="https://margotplays.substack.com/p/week-in-gaming-7th-sept-45" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot’s Hamburg trip turns into a gaming tour, from MediaMarkt’s giant physical-game floor to GameBros, with Switch 2 preorder stress on the side.
-- **<a href="https://bhagpuss.blogspot.com/2026/09/valheim-forever.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss joins the latest Valheim return and wonders why leaving the Meadows is ever necessary when the early-game loop is already so cozy.
-- **<a href="http://tobolds.blogspot.com/2026/09/not-interested-in-far-future.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold has no patience for Gamescom or BlizzCon long-range hype when Steam’s flood, early access, and endless updates already outpace anyone’s time.
+- **<a href="https://tagn.wordpress.com/2026/09/20/tagn-fantasy-critic-league-2026-week-thirty-eight/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm checks Fantasy Critic League week 38, where Trails in the Sky 2nd Chapter and Fire Emblem land big review scores.
+- **<a href="http://www.crazykinux.ca/2026/09/if-we-had-six-months-to-make-eve-online.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux boils EVE fix ideas down to a livelier New Eden, with shifting resources and space weather driving players into motion.
+- **<a href="https://pixelnomad.ca/2026/09/20/solo-rpg-cartograph/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace starts a Cartograph solo RPG notebook adventure, mapping scholars and sentient wasps with fountain-pen-loving enthusiasm.
+- **<a href="https://theboardgameschronicle.com/2026/09/20/first-impressions-for-la-der-des-ders-the-war-to-end-war/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler finds La Der des Ders packs the whole First World War into a brisk evening wargame without skimping on strategic texture.
+- **<a href="https://priestwithacause.blogspot.com/2026/09/taking-peek-at-forever-beta.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar peeks into WoW Classic Forever’s beta, noting huge queues, bustling starter zones, and the new tauren Plainsrunning racial.
+- **<a href="https://kimimithegameeatingshemonster.com/2026/09/21/ace-combat-x-skies-of-deception-plane-talking/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi loves Ace Combat X for its weighty mission choices, but it’s the radio chatter that really sells the drama.
 ## General
 
-- **<a href="https://monsterladysdiary.wordpress.com/2026/09/18/__trashed-2/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily finally deletes Facebook, driven out by harassment, politics, and Veilguard discourse that turned scrolling into something exhausting instead of social.
-- **<a href="https://www.jwz.org/blog/2026/09/batman-the-doome/" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski digs up a 1581 Batman grimoire, marvels at its wild woodcuts, and notes it’s basically more Protestant-Catholic infighting.
-- **<a href="https://biobreak.wordpress.com/2026/09/18/bose-knows-baseball-and-music/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp scores a cheap Bose Wave, catalogs 1,632 CDs on Discogs, and says goodbye to a swollen-battery Hiby player.
+- **<a href="https://aneeshsathe.com/note-20260921-043920/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh revisits Trinity’s motorcycle scene in Matrix Reloaded and comes away impressed—and missing his bike.
+- **<a href="https://thetangent.space/2026/digest75/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan’s weekly digest covers a rough parenting week, an encouraging first Scouts session, banking frustrations, and teaching kids on a cute keyboard.
+- **<a href="https://lameazoid.com/in-the-news-2026-09-20/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie rounds up GameStop retro carts, CHVRCHES album teases, and the ongoing annoyance of AI bot spam.
 ## Tech
 
-- **<a href="http://scripting.com/2026/09/19.html#a174001" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer wrangles an Atlantis bug, tests a new publishing setup, and spins up a podcast with Claude proving useful on clear, concrete tasks.
-- **<a href="https://warnercrocker.com/2026/09/18/take-ai-leaders-at-their-word-or-call-their-bluff/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner says if AI leaders claim their tech is dangerous, we should regulate it hard—or call the bluff instead of swallowing more hype.
-## Writing
-
-- **<a href="https://www.containsmoderateperil.com/blog/2026/9/19/blaugust-2026-participant-survey-results" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger’s Blaugust survey says the festival’s in good shape, with newcomers especially happy and Discord seeming to gate the strongest community experience.
+- **<a href="https://www.kgadams.net/geekdom/large-ai-firms-ask-for-regulation" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly weighs Anthropic and OpenAI backing AI regulation, arguing safety rules matter most where systems can harm vulnerable people or control machines.
+- **<a href="https://brennan.day/llms-democratize-extraction-and-scale-malice/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan argues LLMs make scraping, spam, and bad-faith extraction cheap and easy, turning the open web into a much harsher place.
+- **<a href="https://thinkroot.xyz/distributia-linux-perfecta-pentru-mine-care-probabil-nu-exista-639" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian sketches his ideal Linux distro: Mint-like stability, Fedora-fresh apps, GNOME, easy installs, solid gaming, and definitely no AUR.
