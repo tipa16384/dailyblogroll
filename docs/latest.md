@@ -1,20 +1,20 @@
-# Daily Blogroll: 2026-09-21
+# Daily Blogroll: 2026-09-22
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/09/20/tagn-fantasy-critic-league-2026-week-thirty-eight/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm checks Fantasy Critic League week 38, where Trails in the Sky 2nd Chapter and Fire Emblem land big review scores.
-- **<a href="http://www.crazykinux.ca/2026/09/if-we-had-six-months-to-make-eve-online.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux boils EVE fix ideas down to a livelier New Eden, with shifting resources and space weather driving players into motion.
-- **<a href="https://pixelnomad.ca/2026/09/20/solo-rpg-cartograph/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace starts a Cartograph solo RPG notebook adventure, mapping scholars and sentient wasps with fountain-pen-loving enthusiasm.
-- **<a href="https://theboardgameschronicle.com/2026/09/20/first-impressions-for-la-der-des-ders-the-war-to-end-war/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler finds La Der des Ders packs the whole First World War into a brisk evening wargame without skimping on strategic texture.
-- **<a href="https://priestwithacause.blogspot.com/2026/09/taking-peek-at-forever-beta.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar peeks into WoW Classic Forever’s beta, noting huge queues, bustling starter zones, and the new tauren Plainsrunning racial.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/09/21/ace-combat-x-skies-of-deception-plane-talking/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi loves Ace Combat X for its weighty mission choices, but it’s the radio chatter that really sells the drama.
-## General
-
-- **<a href="https://aneeshsathe.com/note-20260921-043920/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh revisits Trinity’s motorcycle scene in Matrix Reloaded and comes away impressed—and missing his bike.
-- **<a href="https://thetangent.space/2026/digest75/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan’s weekly digest covers a rough parenting week, an encouraging first Scouts session, banking frustrations, and teaching kids on a cute keyboard.
-- **<a href="https://lameazoid.com/in-the-news-2026-09-20/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie rounds up GameStop retro carts, CHVRCHES album teases, and the ongoing annoyance of AI bot spam.
+- **<a href="https://chasingdings.com/2026/09/21/guild-wars-2-parasocial-relationships/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa digs into Guild Wars 2’s Visions of Eternity, where Asura chaos, Vloxx’s reality reboot, and the Commander role all rub her the wrong way.
+- **<a href="https://tagn.wordpress.com/2026/09/21/no-mans-sky-expedition-23-starting-off-with-our-journey-continues/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm starts No Man’s Sky Expedition 23, flips multiplayer off, and enjoys Cosmos as a nostalgia-heavy tour through the game’s past updates.
+- **<a href="https://oyito.substack.com/p/becoming-the-harbinger-of-chaos-with" target="_blank" rel="noopener noreferrer">Oya&#x27;s Game Hub</a>** -- Oya has a blast with Astro Bot’s giant sponge power-up, gleefully smashing through a hot-bath maze with haptics making the chaos even sweeter.
+- **<a href="https://bhagpuss.blogspot.com/2026/09/head-in-clouds.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss wrestles with gaming overload versus drought, using Xbox cloud limits and GeForce Now to poke at the hobby’s endless contradictions.
+- **<a href="http://tobolds.blogspot.com/2026/09/avalon-riven-veil.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold says Avalon: The Riven Veil looks great, but long setup, dense iconography, and a three-hour-plus runtime make it a rough fit for game night.
 ## Tech
 
-- **<a href="https://www.kgadams.net/geekdom/large-ai-firms-ask-for-regulation" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly weighs Anthropic and OpenAI backing AI regulation, arguing safety rules matter most where systems can harm vulnerable people or control machines.
-- **<a href="https://brennan.day/llms-democratize-extraction-and-scale-malice/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan argues LLMs make scraping, spam, and bad-faith extraction cheap and easy, turning the open web into a much harsher place.
-- **<a href="https://thinkroot.xyz/distributia-linux-perfecta-pentru-mine-care-probabil-nu-exista-639" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian sketches his ideal Linux distro: Mint-like stability, Fedora-fresh apps, GNOME, easy installs, solid gaming, and definitely no AUR.
+- **<a href="https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier spotlights GPT-6 Astra cracking an old Enigma message by building its own simulator and Bombe around a ROSENOW crib.
+- **<a href="https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff argues Raspberry Pi 5’s firmware RAM lock makes technical sense but still undercuts the Pi’s hardware-hacking ethos.
+- **<a href="http://scripting.com/2026/09/21.html#a175435" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer has Claude catalog Atlantis verbs, wants Frontier to get websockets, and keeps chipping away at old Mac-era breakage.
+## General
+
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-09-21-week-39-links/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s weekly links bounce from bioblitzes and solo TTRPGs to Ace Combat, disability discourse, nostalgic music, and fish-versus-nuclear-plant climate weirdness.
+- **<a href="https://joelchrono.xyz/blog/2026-w38/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel’s weeknotes mix Mexican Independence Day, War of the Worlds, Final Fantasy IV, Gunstar Heroes, and a pleasantly busy blogging week.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/09/21/its-in-his-kiss-answers-in-the-diary/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily finds Hyacinth a refreshing Bridgerton lead, with Italian diary translation, jewel hunting, and thankfully less forced-marriage melodrama.
+- **<a href="https://www.dnalounge.com/backstage/log/2026/09/21.html" target="_blank" rel="noopener noreferrer">Jamie Zawinski&#x27;s Blog</a>** -- Jamie Zawinski previews DNA Lounge’s Folsom weekend lineup, from Brüt and Bare Chest to Brooke Candy and Violet Chachki.
