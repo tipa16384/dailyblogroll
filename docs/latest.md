@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-09-24
+# Daily Blogroll: 2026-09-25
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/09/23/the-cradle-of-war-update-ansiblex-nerfs/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm argues EVE Online’s Cradle of War update fixates on Ansiblex nerfs, making nullsec fights duller even as alliances quickly adapt.
-- **<a href="https://leekscosycorner.com/2026/09/23/revisiting-skyrim-on-ps5-a-fresh-dragonborn-adventure/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista is back in Skyrim on PS5 with a Dark Elf, hoping this cozy autumn replay finally becomes the run where she finishes it.
-- **<a href="https://sweetie.games/2026/09/23/here-are-some-games-i-want-a-remake-of/" target="_blank" rel="noopener noreferrer">Sweetie Games</a>** -- Sweetie rounds up dream remakes, especially Persona 1 and 2 and Dragon Quest IV, with an eye toward accessibility and preserving their charm.
-- **<a href="https://retroxp.beehiiv.com/p/guest-feature-james-bond-007-everything-or-nothing" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc revisits James Bond 007: Everything or Nothing as a fascinating early-2000s Bond game and an overlooked precursor to 007 First Light.
-- **<a href="https://swtorcommando.blogspot.com/2026/09/1500-posts-about-swtor.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar marks 1,500 SWTOR posts with a stats-and-search-terms look back, including why “swtor private server” keeps sending people over.
-- **<a href="https://theboardgameschronicle.com/2026/09/23/revolutions-france-1820-1880-game-overview/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler spotlights Revolutions: France 1820-1880, a negotiation-heavy political simulation where alliances, coups, and presentation do the heavy lifting.
-## Tech
-
-- **<a href="https://www.usebox.net/jjm/blog/using-emacs/" target="_blank" rel="noopener noreferrer">usebox.net</a>** -- JJM traces a long path from WordStar and joe through vim and neovim to emacs, finally making it click by bringing vim habits along.
-- **<a href="https://brennan.day/static-site-generators-for-beginners/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan offers a beginner-friendly static site generator primer, while sensibly insisting you learn plain HTML and CSS before adding abstraction.
-- **<a href="https://thinkroot.xyz/nota-646" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian highlights WhatsApp terms that grant broad rights over uploaded content, and notes the same Meta-wide logic reaches Instagram, Messenger, and more.
-## General
-
-- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/09/23/a-band-worth-leaving-the-house-for/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar says good live music is more than familiar songs: crowd energy, the room, and bands like the Cheektones make the night work.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-09-22-friendship/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae writes candidly about friendship anxiety, ADHD, and the guilt of drifting from people as a job ending stirs up autumn melancholy.
+- **<a href="https://tagn.wordpress.com/2026/09/24/stardew-valley-into-year-three-and-the-calico-desert-festival/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm hits Stardew Valley year three after finally cracking Skull Cavern, cashing Qi’s reward, and turning farm automation into more Calico Desert time.
+- **<a href="https://chasingdings.com/2026/09/24/valheim-elder-down/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa gets Valheim’s Elder kill and achievement, then builds a dojo to grind mace and blocking skills before braving a fresh swamp.
+- **<a href="https://mailvaltar.wordpress.com/2026/09/24/my-desert-my-arrakis-my-dune/" target="_blank" rel="noopener noreferrer">Mailvaltar</a>** -- Mailvaltar restarts Dune: Awakening again, sold on singleplayer’s permanent Deep Desert bases, no housing sprawl, and less multiplayer lag.
+- **<a href="https://wowaltaddiction.blogspot.com/2026/09/catching-up-in-guild-wars-2.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar is happily catching up in Guild Wars 2, finding it more compelling than WoW lately while still only considering a Dawntrail return in FFXIV.
+- **<a href="https://goodgamelobby.substack.com/p/friday-follow-up-39-2026" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey’s roundup spotlights TOEM 2, Songs of Glimmerwick, Okko The Exiled, and Christopher Larkin’s Moonlighter 2 soundtrack with plenty of wishlist energy.
+- **<a href="https://kimimithegameeatingshemonster.com/2026/09/25/deadalus-right-game-in-the-wrong-genre/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi makes the case that Deadalus, aka Robotica, works better as a roguelite than an FPS, with randomized floors and run-managing tension.
+- **<a href="https://bhagpuss.blogspot.com/2026/09/ask-not-for-whom-verses-morn-because-i.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss sizes up Neverness To Everness’s next update and wonders if its breakneck, wildly varied content drops have left the game with an identity problem.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/09/23/climb-every-mountain/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily vents about the gamer instinct to brute-force mountains in Skyrim, The Witcher 3, and Death Stranding instead of finding the obvious easier path.
 ## Writing
 
-- **<a href="https://www.kgadams.net/life/how-many-blog-posts-left" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly does the unnerving math on how many blog posts and words he may have left, then turns it into a gentle reminder about limited time.
+- **<a href="https://blog.zarfhome.com/2026/09/twenty-years" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin reflects on John M. Ford twenty years on, revisiting Aspects and the comfort, questions, and rereads his work still inspires.
+## Tech
+
+- **<a href="https://www.tbray.org/ongoing/When/202x/2026/09/24/The-Purpose-Isnt-What-It-Does" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray argues POSIWID is a lousy shortcut, saying systems have multiple purposes and we need sharper language for talking about GenAI, capitalism, and power.
+- **<a href="https://aneeshsathe.com/note-20260925-054340/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh shares a quick linkpost pointing to Substack’s ‘cool new way to post’ and his own blyg site.
+- **<a href="http://scripting.com/2026/09/24.html#a151337" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer shares a new Frontier example script for building an RSS feed from a single Mastodon account, a small peek at the project’s progress.
