@@ -1,14 +1,14 @@
 {
   "https://anarchaeopteryx.bearblog.dev/feed/": {
-    "modified": "Fri, 25 Sep 2026 07:18:01 GMT",
+    "modified": "Sat, 26 Sep 2026 08:48:39 GMT",
     "last_ts": 1790100153
   },
   "https://musingsoverpintsandcoffee.wordpress.com/feed/": {
-    "modified": "Wed, 23 Sep 2026 14:35:32 GMT",
+    "modified": "Sat, 26 Sep 2026 04:25:57 GMT",
     "last_ts": 1790170775
   },
   "https://www.heartlessgamer.com/feeds/posts/default?alt=rss": {
-    "modified": "Tue, 22 Sep 2026 21:21:57 GMT",
+    "modified": "Fri, 25 Sep 2026 19:34:22 GMT",
     "last_ts": 1789421516
   },
   "https://aggronaut.com/feed/": {
@@ -25,8 +25,8 @@
     "last_ts": 1789487624
   },
   "https://bhagpuss.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"19da94e1d999b598d552060b48f0ec3efa0e9d923ece2f62ae2a93a95b11149e\"",
-    "modified": "Fri, 25 Sep 2026 10:42:53 GMT",
+    "etag": "W/\"5f2b1b9839b364d499687896ebdaad82899d4ff3661b564e976375e0be95c494\"",
+    "modified": "Sat, 26 Sep 2026 12:29:54 GMT",
     "last_ts": 1790247724
   },
   "https://scopique.com/feed/": {
@@ -35,23 +35,23 @@
     "last_ts": 1790078258
   },
   "https://thefriendlynecromancer.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"eb40ef7b9064a832ab016741edfe16708909ca6e7aca660ed32d266a36312b96\"",
-    "modified": "Fri, 25 Sep 2026 09:20:35 GMT",
-    "last_ts": 1789227612
+    "etag": "W/\"cf08da8e223233676140c9cf556d09614fbf58d47fd07a0928ffb1c9a7be1386\"",
+    "modified": "Sat, 26 Sep 2026 00:35:25 GMT",
+    "last_ts": 1790367761
   },
   "https://www.antipope.org/charlie/blog-static/atom.xml": {
     "last_ts": 0
   },
   "https://tagn.wordpress.com/feed/": {
-    "modified": "Thu, 24 Sep 2026 19:34:00 GMT",
-    "last_ts": 1790262928
+    "modified": "Fri, 25 Sep 2026 15:33:25 GMT",
+    "last_ts": 1790349348
   },
   "https://lisettesmxtadventures.wordpress.com/feed/?alt=rss": {
     "modified": "Tue, 30 Sep 2025 12:28:34 GMT",
     "last_ts": 1764349855
   },
   "https://monsterladysdiary.wordpress.com/feed/": {
-    "modified": "Thu, 24 Sep 2026 18:42:29 GMT",
+    "modified": "Sat, 26 Sep 2026 11:24:12 GMT",
     "last_ts": 1790164800
   },
   "https://nkantar.com/blog/feed/": {
@@ -60,8 +60,8 @@
     "last_ts": 1781395200
   },
   "https://frostilyte.ca/feed/": {
-    "modified": "Thu, 24 Sep 2026 20:40:07 GMT",
-    "last_ts": 1789646993
+    "modified": "Fri, 25 Sep 2026 13:45:40 GMT",
+    "last_ts": 1790342669
   },
   "http://scripting.com/rss.html": {
     "etag": "\"c39a3e45f1bb8de4eca4e203be266c3a\"",
@@ -87,8 +87,8 @@
     "last_ts": 1760709600
   },
   "http://biobreak.wordpress.com/feed/": {
-    "modified": "Thu, 24 Sep 2026 13:01:19 GMT",
-    "last_ts": 1790082053
+    "modified": "Sat, 26 Sep 2026 04:13:04 GMT",
+    "last_ts": 1790341203
   },
   "https://www.joelonsoftware.com/feed/": {
     "etag": "W/\"93822cf81dc6b455a0d98af5ea95f6db\"",
@@ -96,20 +96,20 @@
     "last_ts": 1671454900
   },
   "https://www.schneier.com/feed/": {
-    "etag": "W/\"26ba33cbb9692efd302b4abb6ee193ea\"",
-    "modified": "Fri, 25 Sep 2026 03:37:59 GMT",
-    "last_ts": 1790074965
+    "etag": "W/\"968a2dd5ce13b1c27f877ce19af10f46\"",
+    "modified": "Fri, 25 Sep 2026 21:08:35 GMT",
+    "last_ts": 1790370494
   },
   "http://feeds2.feedburner.com/ToboldsBlog": {
-    "modified": "Thu, 24 Sep 2026 13:58:34 GMT",
-    "last_ts": 1789900198
+    "modified": "Sat, 26 Sep 2026 09:46:11 GMT",
+    "last_ts": 1790403741
   },
   "https://cdn.jwz.org/blog/feed/": {
-    "modified": "Wed, 23 Sep 2026 01:00:58 GMT",
+    "modified": "Sat, 26 Sep 2026 03:59:07 GMT",
     "last_ts": 1790039198
   },
   "http://inanage.com/feed/": {
-    "modified": "Mon, 21 Sep 2026 15:28:26 GMT",
+    "modified": "Mon, 21 Sep 2026 15:29:51 GMT",
     "last_ts": 1789734374
   },
   "https://mailvaltar.wordpress.com/feed/": {
@@ -117,13 +117,13 @@
     "last_ts": 1790253530
   },
   "https://theboardgameschronicle.com/feed/": {
-    "modified": "Wed, 23 Sep 2026 13:00:00 GMT",
+    "modified": "Fri, 25 Sep 2026 13:00:00 GMT",
     "last_ts": 1790168400,
-    "etag": "W/\"ab8494dea224b8718a5dd8fc6c39d318\""
+    "etag": "W/\"89ca64da1a27c7c3395662dcc3adc803\""
   },
   "http://scripting.com/rss.xml": {
-    "etag": "\"9979befdae132e8f67e5c9c60dcf9924\"",
-    "modified": "Thu, 24 Sep 2026 15:14:24 GMT",
+    "etag": "\"98b796549857e94364bca73788ed0add\"",
+    "modified": "Fri, 25 Sep 2026 21:33:28 GMT",
     "last_ts": 1790262817
   },
   "https://aywren.com/feed.xml": {
@@ -132,15 +132,15 @@
     "last_ts": 1789757221
   },
   "https://chasingdings.com/feed/": {
-    "modified": "Thu, 24 Sep 2026 15:11:00 GMT",
-    "last_ts": 1790262660
+    "modified": "Sat, 26 Sep 2026 00:18:43 GMT",
+    "last_ts": 1790381923
   },
   "http://manchester.patch.com/articles.atom": {
     "last_ts": 0
   },
   "https://www.tbray.org/ongoing/ongoing.atom": {
-    "etag": "\"2906b-65c49bb4b3cb0\"",
-    "modified": "Fri, 25 Sep 2026 07:33:24 GMT",
+    "etag": "\"2906b-65c5f8530691d\"",
+    "modified": "Sat, 26 Sep 2026 09:33:06 GMT",
     "last_ts": 1790276400
   },
   "https://smithtalkstech.com/feed/": {
@@ -153,7 +153,7 @@
     "last_ts": 1763447400
   },
   "https://feeds.feedburner.com/CrazykinuxsMusing": {
-    "modified": "Thu, 24 Sep 2026 13:55:51 GMT",
+    "modified": "Sat, 26 Sep 2026 02:08:28 GMT",
     "last_ts": 1789916865
   },
   "https://indiecator.org/feed/": {
@@ -166,16 +166,16 @@
     "last_ts": 1787097600
   },
   "https://wcrobinson.org/feed/": {
-    "modified": "Sun, 13 Sep 2026 15:37:29 GMT",
+    "modified": "Sat, 26 Sep 2026 04:13:40 GMT",
     "last_ts": 1789218999
   },
   "https://feeds.feedburner.com/squarespace/AxkEtpjNxtZ": {
-    "modified": "Fri, 25 Sep 2026 07:50:18 GMT",
+    "modified": "Sat, 26 Sep 2026 01:55:02 GMT",
     "last_ts": 1785329865
   },
   "https://www.timetoloot.com/feed/": {
-    "etag": "\"60a658c843989873b4b11c715f089308\"",
-    "modified": "Thu, 24 Sep 2026 18:53:53 GMT",
+    "etag": "\"d7dd438c88844f6341bf2227c0063854\"",
+    "modified": "Sat, 26 Sep 2026 00:18:43 GMT",
     "last_ts": 1776552276
   },
   "https://axxuy.xyz/blog/feed.xml": {
@@ -184,8 +184,8 @@
     "last_ts": 1773446400
   },
   "https://blog.codinghorror.com/rss/": {
-    "etag": "W/\"3cb42-J50LvOs4KJ6nCt24hwE+VKAkRyM\"",
-    "last_ts": 1788150957
+    "etag": "W/\"3960b-D71jGIdAGy//vOhSJqHRvsXmzfI\"",
+    "last_ts": 1790369644
   },
   "https://hamatti.org/feed/feed.xml": {
     "etag": "\"a78fdbcdc3a672d70ed604c5becdf294-ssl-df\"",
@@ -196,7 +196,7 @@
     "last_ts": 1788134400
   },
   "http://swtorcommando.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"0c9056e6de4048b24c6d41370de048668e15cd6bf3d0b3095444d2e2ca989a5d\"",
+    "etag": "W/\"463d85056c81ef02ca0e7ffca84313769b828470bf38545d416ed95e20e18003\"",
     "modified": "Fri, 25 Sep 2026 09:57:26 GMT",
     "last_ts": 1790202569
   },
@@ -206,8 +206,8 @@
     "last_ts": 1789307024
   },
   "https://priestwithacause.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"415c23cbb6416607256935b2b21e93ad84e9972bf3f8c6e9554e3d798c745ed2\"",
-    "modified": "Thu, 24 Sep 2026 20:24:25 GMT",
+    "etag": "W/\"619a373fbfab72b9c66ed12c73b0ccba0b5c9ef6e47d23e071c5e470f40663fd\"",
+    "modified": "Sat, 26 Sep 2026 10:59:59 GMT",
     "last_ts": 1790001942
   },
   "https://www.grumpygamer.com/rss": {
@@ -216,7 +216,7 @@
     "last_ts": 1785369600
   },
   "https://pixelnomad.ca/feed/": {
-    "modified": "Thu, 24 Sep 2026 15:01:07 GMT",
+    "modified": "Sat, 26 Sep 2026 05:24:20 GMT",
     "last_ts": 1789995375
   },
   "https://westkarana.xyz/rss.xml": {
@@ -225,7 +225,7 @@
     "last_ts": 1761436800
   },
   "https://www.usebox.net/jjm/blog/index.xml": {
-    "etag": "W/\"6ab613c9-908e\"",
+    "etag": "\"6ab613c9-908e\"",
     "modified": "Fri, 25 Sep 2026 06:25:13 GMT",
     "last_ts": 1790230305
   },
@@ -235,7 +235,7 @@
     "etag": "W/\"bea2d863f780fbe48d7621740b56eb9d\""
   },
   "https://wowaltaddiction.blogspot.com/feeds/posts/default?alt=rss": {
-    "etag": "W/\"4c384d3b87b2fb703873ae2bd498cd272e069c01bc1787dfe2c4bbe853df79a5\"",
+    "etag": "W/\"9a8d99fe37718b837ac38f8eb3d131798b729af6fe8a36820b1c7190bae23805\"",
     "modified": "Thu, 24 Sep 2026 14:46:35 GMT",
     "last_ts": 1790261195
   },
@@ -250,11 +250,11 @@
     "last_ts": 1765134763
   },
   "http://www.containsmoderateperil.com/blog?format=rss": {
-    "etag": "W/\"bd8daaff7293e5af6d897b16da90a436\"",
-    "last_ts": 1790081932
+    "etag": "W/\"ec2214269d9c6707262a1f029f6e6198\"",
+    "last_ts": 1790276033
   },
   "https://warnercrocker.com/feed/": {
-    "modified": "Thu, 24 Sep 2026 22:18:04 GMT",
+    "modified": "Fri, 25 Sep 2026 13:08:05 GMT",
     "last_ts": 1789906359
   },
   "https://lunasgaminglog.com/feed/": {
@@ -285,7 +285,7 @@
     "last_ts": 1789360118
   },
   "https://quartercircleforward.blog/feed/": {
-    "modified": "Mon, 13 Jul 2026 07:53:09 GMT",
+    "modified": "Tue, 26 May 2026 11:38:57 GMT",
     "last_ts": 1779493229
   },
   "https://nicole.express/feed.xml": {
@@ -298,16 +298,16 @@
     "last_ts": 1770925771
   },
   "https://buried-treasure.org/feed/": {
-    "etag": "\"ec01a611f1d70dd75e4431b0680327f9-gzip\"",
-    "modified": "Fri, 04 Sep 2026 10:32:54 GMT",
-    "last_ts": 1788517974
+    "etag": "\"f21c43fc0a897fe9f42ccfd9b83d7d33-gzip\"",
+    "modified": "Fri, 25 Sep 2026 14:35:31 GMT",
+    "last_ts": 1790346931
   },
   "https://alexiaunplugged.com/feed/": {
-    "modified": "Thu, 24 Sep 2026 10:52:56 GMT",
+    "modified": "Fri, 04 Sep 2026 18:01:35 GMT",
     "last_ts": 1774359763
   },
   "https://margotplays.substack.com/feed": {
-    "etag": "W/\"5e7d8-ydZzBNP5oa/BpuvuS51ORn25SyE\"",
+    "etag": "W/\"5e7d8-wSnP1mm1c6TcrAGj6LWqUvAOQIs\"",
     "last_ts": 1790148989
   },
   "https://sweetie.games/feed/": {
@@ -315,11 +315,11 @@
     "last_ts": 1790179200
   },
   "https://goodgamelobby.substack.com/feed": {
-    "etag": "W/\"1499ef-96is7mrE6xWu17OLrhXiS4AhVV4\"",
+    "etag": "W/\"1499ef-c/3pz0QG8Fv5vPImxZ5dIVrK7uU\"",
     "last_ts": 1790331425
   },
   "https://oyito.substack.com/feed": {
-    "etag": "W/\"d632d-57lXF/uvs0atlh2L/OG5fqF378c\"",
+    "etag": "W/\"d632d-/rHa2GCIaURSKD0+F03ghwW//XU\"",
     "last_ts": 1790062285
   },
   "https://0xsid.com/blog/rss.xml": {
@@ -331,16 +331,16 @@
     "last_ts": 1784239673
   },
   "https://franklantz.substack.com/feed": {
-    "etag": "W/\"a4364-XQyYKXDqC2vauxvl1vlXBs1HZPA\"",
+    "etag": "W/\"a4364-QPPuXqUH+y7vDaQYrJqrc6gDzn0\"",
     "last_ts": 1787592817
   },
   "https://www.leadedsolder.com/feed.xml": {
-    "etag": "W/\"6ab56082-46e16\"",
+    "etag": "\"6ab56082-46e16\"",
     "modified": "Thu, 24 Sep 2026 17:40:18 GMT",
     "last_ts": 1788825600
   },
   "https://brennan.day/feed.xml": {
-    "etag": "\"c7f9e3c77f7694b94445022a22c2700b-ssl-df\"",
+    "etag": "\"0655b17043529072f2bdc54ab01be71b-ssl-df\"",
     "last_ts": 1790128800
   },
   "https://endgameviable.com/index.xml": {
@@ -358,7 +358,7 @@
     "last_ts": 1790035200
   },
   "https://falsemachine.blogspot.com/feeds/posts/default": {
-    "etag": "W/\"80f49f6b368d30b1d8ef3272b549923303af592d876bc31f011262ec843de5cb\"",
+    "etag": "W/\"57b67dcbcdbf3bc3e341b3909027581ed26c1fa3ea464bd3aaed2d012f47925a\"",
     "modified": "Thu, 24 Sep 2026 12:57:06 GMT",
     "last_ts": 1785149524
   },
@@ -368,12 +368,12 @@
     "last_ts": 1783102266
   },
   "https://www.filfre.net/feed/": {
-    "etag": "\"62e62027fc012ca8a9b89a1ddd383dfd\"",
-    "modified": "Tue, 22 Sep 2026 07:06:58 GMT",
+    "etag": "\"0b28feaa76e7935ce4a594560e0633b3\"",
+    "modified": "Fri, 25 Sep 2026 14:02:50 GMT",
     "last_ts": 1789745995
   },
   "https://rss.beehiiv.com/feeds/FlxjAIihEr.xml": {
-    "etag": "W/\"273a6fec04baaf9eb8c4e365abc2d947\"",
+    "etag": "W/\"ac3327a27c90e1124a3c45046c5f46f5\"",
     "last_ts": 1790164820
   },
   "https://westhorpe.net/feed/": {
@@ -382,7 +382,7 @@
     "last_ts": 1779451317
   },
   "https://streetsinturmoil.com/feed/": {
-    "modified": "Thu, 24 Sep 2026 17:55:02 GMT",
+    "modified": "Sat, 26 Sep 2026 04:13:42 GMT",
     "last_ts": 1789568617
   },
   "https://scarybooster.blogspot.com/feeds/posts/default": {
@@ -391,16 +391,16 @@
     "last_ts": 1784291463
   },
   "https://www.jeffgeerling.com/blog.xml": {
-    "etag": "\"6f37-65c01793c94c0-gzip\"",
-    "modified": "Mon, 21 Sep 2026 17:20:59 GMT",
-    "last_ts": 1790010000
+    "etag": "\"6f24-65c5035062c40-gzip\"",
+    "modified": "Fri, 25 Sep 2026 15:16:57 GMT",
+    "last_ts": 1790349360
   },
   "https://whyigame.wordpress.com/feed/": {
     "modified": "Sun, 20 Sep 2026 06:24:07 GMT",
     "last_ts": 1786757973
   },
   "https://sightingames.wordpress.com/feed/": {
-    "modified": "Tue, 22 Sep 2026 19:14:16 GMT",
+    "modified": "Sat, 26 Sep 2026 06:48:57 GMT",
     "last_ts": 1790085602
   },
   "https://godless-internets.org/feed": {
@@ -416,18 +416,18 @@
     "last_ts": 1788214328
   },
   "https://thinkroot.xyz/feed": {
-    "etag": "\"rss-6ab61836\"",
-    "modified": "Fri, 25 Sep 2026 06:44:06 GMT",
+    "etag": "\"rss-6ab7b227\"",
+    "modified": "Sat, 26 Sep 2026 11:53:11 GMT",
     "last_ts": 1790239537
   },
   "https://joelchrono.xyz/feed.xml": {
-    "etag": "W/\"a73214f92f9dbaeae47597ce764638bf\"",
-    "modified": "Fri, 25 Sep 2026 03:26:56 GMT",
-    "last_ts": 1790039909
+    "etag": "W/\"886940de0a8799929dcfda0ca7ed5a5f\"",
+    "modified": "Sat, 26 Sep 2026 05:29:34 GMT",
+    "last_ts": 1790304127
   },
   "https://blog.gridranger.dev/feeds/all.atom.xml": {
-    "etag": "\"46ea1ce7f2c8d65ebb45091a18798f4c058511a2043bb4ea0ae9a82d899940bc\"",
-    "modified": "Thu, 10 Sep 2026 19:57:47 GMT",
+    "etag": "\"d650ea4f7d1f019fa511575d22172809485b2716188658734117539d0be4500c\"",
+    "modified": "Sat, 26 Sep 2026 09:17:08 GMT",
     "last_ts": 1788809700
   },
   "https://thetangent.space/feed.xml": {
@@ -440,7 +440,7 @@
     "last_ts": 1790315020
   },
   "https://manywelps.com/feed/": {
-    "modified": "Mon, 14 Sep 2026 17:41:22 GMT",
+    "modified": "Mon, 14 Sep 2026 17:39:35 GMT",
     "last_ts": 1785894752
   },
   "https://wolfyseyes.wordpress.com/feed/": {
@@ -460,11 +460,11 @@
     "last_ts": 1785846600
   },
   "https://www.kgadams.net/feed": {
-    "modified": "Wed, 23 Sep 2026 13:30:00 GMT",
+    "modified": "Fri, 25 Sep 2026 13:30:00 GMT",
     "last_ts": 1790170200
   },
   "https://nerdgirlthoughts.game.blog/feed/": {
-    "modified": "Sat, 12 Sep 2026 13:24:21 GMT",
+    "modified": "Sat, 26 Sep 2026 04:14:47 GMT",
     "last_ts": 1788786000
   }
 }

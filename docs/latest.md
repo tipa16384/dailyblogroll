@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-09-25
+# Daily Blogroll: 2026-09-26
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/09/24/stardew-valley-into-year-three-and-the-calico-desert-festival/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm hits Stardew Valley year three after finally cracking Skull Cavern, cashing Qi’s reward, and turning farm automation into more Calico Desert time.
-- **<a href="https://chasingdings.com/2026/09/24/valheim-elder-down/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa gets Valheim’s Elder kill and achievement, then builds a dojo to grind mace and blocking skills before braving a fresh swamp.
-- **<a href="https://mailvaltar.wordpress.com/2026/09/24/my-desert-my-arrakis-my-dune/" target="_blank" rel="noopener noreferrer">Mailvaltar</a>** -- Mailvaltar restarts Dune: Awakening again, sold on singleplayer’s permanent Deep Desert bases, no housing sprawl, and less multiplayer lag.
-- **<a href="https://wowaltaddiction.blogspot.com/2026/09/catching-up-in-guild-wars-2.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar is happily catching up in Guild Wars 2, finding it more compelling than WoW lately while still only considering a Dawntrail return in FFXIV.
-- **<a href="https://goodgamelobby.substack.com/p/friday-follow-up-39-2026" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey’s roundup spotlights TOEM 2, Songs of Glimmerwick, Okko The Exiled, and Christopher Larkin’s Moonlighter 2 soundtrack with plenty of wishlist energy.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/09/25/deadalus-right-game-in-the-wrong-genre/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi makes the case that Deadalus, aka Robotica, works better as a roguelite than an FPS, with randomized floors and run-managing tension.
-- **<a href="https://bhagpuss.blogspot.com/2026/09/ask-not-for-whom-verses-morn-because-i.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss sizes up Neverness To Everness’s next update and wonders if its breakneck, wildly varied content drops have left the game with an identity problem.
-- **<a href="https://monsterladysdiary.wordpress.com/2026/09/23/climb-every-mountain/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily vents about the gamer instinct to brute-force mountains in Skyrim, The Witcher 3, and Death Stranding instead of finding the obvious easier path.
-## Writing
-
-- **<a href="https://blog.zarfhome.com/2026/09/twenty-years" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin reflects on John M. Ford twenty years on, revisiting Aspects and the comfort, questions, and rereads his work still inspires.
+- **<a href="https://chasingdings.com/2026/09/25/malifaux-4e-rasputina-abominable-vs-misaki-oyabun/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa jumps back into Malifaux’s fall league, ditches struggling Colette, and gets another win with Rasputina while eyeing new modes and Gaining Grounds.
+- **<a href="https://tagn.wordpress.com/2026/09/25/planet-crafter-terraformed-skeo/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm wraps Planet Crafter’s free Skeo with a nice appreciation of its dramatic terraforming, unlockable exploration, and loot-heavy icy-to-tropical transformation.
+- **<a href="https://buried-treasure.org/2026/09/ambrosia-sky/" target="_blank" rel="noopener noreferrer">Buried Treasure</a>** -- John says Ambrosia Sky is basically Prey meets PowerWash Simulator, with Saturn-ring stations, fungal cleanup, immersive-sim puzzles, and a grappling tether.
+- **<a href="https://thefriendlynecromancer.blogspot.com/2026/09/trolls-hate-and-vr-fakery-in-everquest.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- The Friendly Necromancer details the absurd EverQuest Legends faction grind to unlock Trolls, plus a few handy farming tricks and wishlist tweaks.
+- **<a href="https://frostilyte.ca/2026/09/25/20-more-somehow-even-smaller-mazes-review/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte recommends 20 More, Somehow Even Smaller, Mazes as a free, breezy antidote to time-sink games, with clever little twists throughout.
+- **<a href="http://tobolds.blogspot.com/2026/09/are-mmorpgs-and-ai-related.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold wonders whether MMORPG discourse and today’s AI criticism share a deeper link, via names like Ed Zitron and Cory Doctorow.
 ## Tech
 
-- **<a href="https://www.tbray.org/ongoing/When/202x/2026/09/24/The-Purpose-Isnt-What-It-Does" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray argues POSIWID is a lousy shortcut, saying systems have multiple purposes and we need sharper language for talking about GenAI, capitalism, and power.
-- **<a href="https://aneeshsathe.com/note-20260925-054340/" target="_blank" rel="noopener noreferrer">Aneesh Sathe</a>** -- Aneesh shares a quick linkpost pointing to Substack’s ‘cool new way to post’ and his own blyg site.
-- **<a href="http://scripting.com/2026/09/24.html#a151337" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer shares a new Frontier example script for building an RSS feed from a single Mastodon account, a small peek at the project’s progress.
+- **<a href="https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/" target="_blank" rel="noopener noreferrer">Coding Horror</a>** -- Jeff Atwood shares a moving Stack Overflow story that argues human help mattered more than any LLM ever could.
+- **<a href="https://www.jeffgeerling.com/blog/2026/homelabfest-announcement/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff is launching HomelabFest in St. Louis for homelabbers into self-hosting, efficient servers, old hardware, racks, and budget builds.
+- **<a href="https://biobreak.wordpress.com/2026/09/25/the-attraction-of-small-single-use-tech/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp makes a cozy case for tiny single-purpose gadgets, especially an X3 e-reader and iPod Nano combo for distraction-free porch reading.
+## General
+
+- **<a href="https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier spots a Tennessee family squid dissection event and, naturally, invites readers to go take pictures.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/9/24/even-more-wise-quotes" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger shares a brisk batch of wise quotes on knowledge, science, change, and cleaning up your own messes.
+## Writing
+
+- **<a href="https://joelchrono.xyz/blog/when-a-blogpost-eats-another/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel reflects on a sci-fi movie post that grew into something else, with some fun side-chat about blogging formats and punctuation habits.
