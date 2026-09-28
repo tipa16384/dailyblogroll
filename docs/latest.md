@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-09-27
+# Daily Blogroll: 2026-09-28
 
-## Writing
-
-- **<a href="https://westkarana.blog/2026/09/26/daily-blogroll-an-ai-retrospective/" target="_blank" rel="noopener noreferrer">West Karana</a>** -- Tipa looks back on Daily Blogroll, arguing AI summaries helped surface indie blogs even as scaling curation and anti-AI backlash sank the project.
-## General
-
-- **<a href="https://tagn.wordpress.com/2026/09/26/binge-watching-past-labor-day/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up recent binge-watching, from another twisty Harlan Coben Netflix mystery to Silo’s AI-heavy bridge season and Lucky on Apple TV.
-- **<a href="https://lameazoid.com/posts/weekly-wrap-up-2026-09-26/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie’s week was a time-warp of vacation days, work reshuffles, and Transformers hunting, with Target preorder chaos finally easing a bit.
-- **<a href="https://warnercrocker.com/2026/09/24/human-nature-artificial-intelligence-and-hive-mindlessness/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner riffs on leadership, groupthink, and Meta’s Muse, arguing human follow-the-leader instincts make the AI moment feel more hive mind than progress.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-09-24-week-39-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s weekly digest covers sickness, job-hunt burnout, and getting hooked on Hyperion and Fall of Hyperion during a rough in-between stretch.
-- **<a href="https://thinkroot.xyz/photo-653" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian shares a simple photo-journal moment: went out for eclairs, came home with more goodies than planned.
 ## Gaming
 
-- **<a href="http://www.crazykinux.ca/2026/09/millions-of-assets-later-im-finely-done.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux finished a massive EVE Online asset haul across 153 systems, turning repetitive logistics into a practical crash course in lowsec survival.
-- **<a href="https://pixelnomad.ca/2026/09/24/eql-sky-more-sky-and-even-more-sky/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace says EverQuest Legends is mostly daily sky grinding, class unlocks, and gear farming right now—more obligation than fun, honestly.
-- **<a href="https://priestwithacause.blogspot.com/2026/09/my-forever-social-conundrum.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar is excited for WoW Forever, but worries the same social pressures and race-to-keep-up mindset could spoil what she loves about World of Warcraft.
-- **<a href="https://margotplays.substack.com/p/week-in-gaming-21st-sept-6" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot’s week mixed sickness, cozy puzzle games, and a surprisingly well-run Xbox Fanfest, even if the Fable demo slots were long gone.
-- **<a href="https://retroxp.beehiiv.com/p/retro-spotlight-might-magic-clash-of-heroes" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc traces how Might & Magic evolved into Clash of Heroes, the Capybara-made DS spinoff that turned tactical RPG ideas into puzzle battles.
+- **<a href="https://tagn.wordpress.com/2026/09/27/tagn-fantasy-critic-league-2026-week-thirty-nine-and-looking-for-scores/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up Fantasy Critic week 39, with Control Resonant and Silent Hill: Townfall posting solid scores while Nighthawks still waits on reviews.
+- **<a href="https://theboardgameschronicle.com/2026/09/27/1920-nest-of-eagles-unboxing-overview/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler spotlights 1920: Nest of Eagles, a Polish-Soviet War hex-and-counter game with friction lines, reaction movement, and a friendlier learning curve.
+- **<a href="https://swtorcommando.blogspot.com/2026/09/return-of-character-creation-hangar.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar is delighted SWTOR’s 8.0 PTS brings back animated character creation hangar backgrounds, restoring some lost environmental storytelling.
+- **<a href="https://kimimithegameeatingshemonster.com/2026/09/28/forgotten-realms-demon-stone-casting-a-cinematic-spell/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi gushes over Forgotten Realms: Demon Stone as a gloriously kinetic D&D action game with cinematic pacing and smart little tactical flourishes.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/9/27/lotro-how-to-resolve-the-patch-server-bug" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger shares a straightforward workaround for LOTRO’s patch server bug, including launcher flags for both default installs and Steam.
+- **<a href="http://www.crazykinux.ca/2026/09/what-does-leader-of-eves-largest.html" target="_blank" rel="noopener noreferrer">CrazyKinux&#x27;s Musings</a>** -- CrazyKinux pulls leadership lessons from an Asher Elias interview, framing EVE Online coalition management as logistics, herding, and player retention.
+## Writing
+
+- **<a href="https://www.kgadams.net/geekdom/blogging-isnt-dead" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly argues blogging isn’t dead, just diminished, with IndieWeb and frustration over social media ownership keeping the personal web alive.
+## General
+
+- **<a href="https://bhagpuss.blogspot.com/2026/09/stupid-is.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss follows a recommendation rabbit hole into 2Hollis and The Femcels, sharing a brisk, catchy tour of new music discoveries.
+- **<a href="https://warnercrocker.com/2026/09/27/sunday-morning-reading-174/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner’s Sunday links roam across AI harms, misinformation, simpler living, sports writing, and gambling’s ugly modern shadow.
 ## Tech
 
-- **<a href="https://brennan.day/kindness-as-first-class-citizen-in-programming/" target="_blank" rel="noopener noreferrer">brennan.day</a>** -- Brennan argues programming should treat kindness as intentional infrastructure, pushing back on the culture-war nonsense framing empathy as weakness.
+- **<a href="http://scripting.com/2026/09/27.html#a155053" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer reflects on Apple’s missed support for Frontier and celebrates getting the old DocServer building again during the port.
+- **<a href="https://lameazoid.com/posts/sn-moving-the-blog-to-hugo/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie moves the blog from WordPress to Hugo, chasing a leaner Markdown-first workflow, more control, and fewer platform headaches.
+- **<a href="https://thinkroot.xyz/the-people-who-wont-give-up-a-2012-thinkpad-656" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian shares a video on the enduring appeal of the 2012 ThinkPad, that old-school laptop holdout favorite.
