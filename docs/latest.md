@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-10-02
+# Daily Blogroll: 2026-10-03
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/10/01/everquest-legends-some-additional-unrest/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm heads from old Freeport to Faydwer in EverQuest Legends, fondly ditching the Sea of Tears boat for a safer translocator hop.
-- **<a href="https://chasingdings.com/2026/10/01/everquest-legends-welcome-to-nektropos-castle/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa bounces off rusty EQ2 controls but still gets intrigued by EverQuest Legends’ pre-ruin Nektropos Castle, with puzzles, traps, and deeply ominous dolls.
-- **<a href="https://endgameviable.com/post/2026/10/final-fantasy-slurry/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet pokes at FFXIV’s post-Endwalker lore spiral, shrugs at WoW Forever, and frames the whole MMO roundup as one big mixed bag.
-- **<a href="https://wowaltaddiction.blogspot.com/2026/09/reinstalled-ffxiv-still-logging-out-of.html" target="_blank" rel="noopener noreferrer">MMO Casual</a>** -- Joar got pushed back to FFXIV by a Guild Wars 2 jumping puzzle, while World of Warcraft currently inspires little beyond logging straight back out.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/10/02/knot-in-3d-speed-space-and-the-humble-spectrum/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi digs into Knot in 3D on the Spectrum, a first-person Snake twist whose tiny premise still squeezes out real tension.
-- **<a href="https://lameazoid.com/posts/beast-box-infinity-sacred-power-robo/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie checks out Beast Box Infinity’s Sacred Power Robo, a four-beast combiner riffing on the Four Symbols with lots of tiny transforming charm.
-- **<a href="https://monsterladysdiary.wordpress.com/2026/10/01/syberia-journey-to-the-unknown/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily comes away charmed by Syberia’s vague old-school puzzles, Kate Walker’s journey, and the slow-burn mystery around automatons and mammoths.
-## Tech
-
-- **<a href="https://welshtroll.co.uk/post/2026-when-help-becomes-a-hindrance.html" target="_blank" rel="noopener noreferrer">Point, Click, Repeat</a>** -- Welsh Troll riffs on syntax highlighting, arguing modern coding themes often overdo color while older CRT-era restraint was easier on the eyes.
-- **<a href="https://thinkroot.xyz/nota-667" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian shares a translated tale of a smart vacuum that works, dies, revives after service, then promptly goes bad again.
-- **<a href="https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier surveys campaign finance data showing US politicians quietly spending on AI tools like OpenAI and Anthropic despite public skepticism.
+- **<a href="https://tagn.wordpress.com/2026/10/02/valheim-and-a-strange-lack-of-trolls/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm is back in Valheim 1.0, grumbling about broken achievements, miserable raft sailing, and a suspicious troll shortage that might be seed- or mod-related.
+- **<a href="https://streetsinturmoil.com/2026/10/02/the-gates-of-power-sword-dragon-session-33/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Sword & Dragon crew adds a necromancer, loots the dwarven city, and cleverly uses a throne to herd skeletons out of the way.
+- **<a href="http://tobolds.blogspot.com/2026/10/transport-fever-3-first-impressions.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold finds Transport Fever 3 fun and intuitive, with nice train-building hooks, but immersion-breaking anachronistic industries and a tutorial bug sour the ride.
+- **<a href="https://biobreak.wordpress.com/2026/10/02/diablo-iii-whats-a-shrunken-head-between-friends/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp is happily steamrolling Diablo III with a pet-heavy Witch Doctor, using it as a Blizzard-flavored stand-in while waiting on WoW Forever.
+- **<a href="https://lunasgaminglog.com/2026/10/01/spooktober-play-along-with-me/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna’s Spooktober backlog invite lines up creepy picks like Doki Doki Literature Club, Bloomtown, Slay the Princess, and more for October play-alongs.
+- **<a href="https://oyito.substack.com/p/in-a-nutshell-september" target="_blank" rel="noopener noreferrer">Oya&#x27;s Game Hub</a>** -- Oya’s September recap mixes Dispatch, Spanish study, and Ace Attorney with PlayTranslate on the AYN Thor for a neat language-learning gaming combo.
+- **<a href="https://bhagpuss.blogspot.com/2026/10/nivalis-nights-smattering-of-random.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss is enjoying Nivalis Nights but mostly wrestling GeForce Now screenshots, UI clutter, and the eternal problem of taking decent action shots.
+- **<a href="https://frostilyte.ca/2026/10/01/month-in-review-valheim-fields-of-mistria-rhell/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte’s September gaming recap praises Fields of Mistria’s writing and hooks, then dunks on how mining drags its farming-game progression down.
 ## General
 
-- **<a href="https://www.kgadams.net/critters/sapphire-and-the-boys" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly’s excerpt appears truncated, but it looks like a personal post rather than a game writeup.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-10-01-finances-six-months/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae breaks down how moving, job gear, and long-delayed basics ate into savings despite a steadier financial footing.
+- **<a href="https://swtorcommando.blogspot.com/2026/10/star-wars-stuff-ive-been-watching-on.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar rounds up Disney+ Star Wars watches, finding Maul: Shadow Lord surprisingly good while The Ninth Jedi spin-off still leaves Kara underwhelming.
+- **<a href="https://joelchrono.xyz/blog/september-2026-summary/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel’s September wrap-up hits podcasts, movies, manga, TV, books, and games, with Final Fantasy IV, Emio, Blame!, and Lanterns leading the highlights.
+## Writing
+
+- **<a href="https://indiecator.org/2026/10/01/introducing-october-a-fun-alternative-to-inktober/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi kicks off OCtober, a daily original-character drawing challenge with rising time limits and a very clear no-AI-slop rule.
+## Tech
+
+- **<a href="http://scripting.com/2026/10/02.html#a154407" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer likes AI assistants moving into real-world services, then revisits BloggerCon and RSS 2.0 to argue bootstrapping beats BigCo reinvention.
