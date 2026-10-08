@@ -554,6 +554,7 @@ feeds:
     pronouns: he/they
     mastodon: "@brennanbrown@me.dm"
     bluesky: "@brennanbrown.ca"
+    skip: True
   - name: Endgame Viable
     url: https://endgameviable.com/index.xml
     update_frequency: daily
@@ -690,6 +691,7 @@ feeds:
     pronouns: he/him
     bluesky: "@aneeshsathe.com"
     mastodon: "@aneeshsathe.com@aneeshsathe.com"
+    skip: True
   - name: Many Welps
     url: https://manywelps.com/feed/
     update_frequency: daily
