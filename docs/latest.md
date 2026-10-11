@@ -1,20 +1,19 @@
-# Daily Blogroll: 2026-10-10
+# Daily Blogroll: 2026-10-11
 
-## Gaming
-
-- **<a href="https://tagn.wordpress.com/2026/10/09/the-road-to-csm21-the-official-candidates-list/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up EVE Online’s CSM21 candidates, links campaign posts, and adds his own snarky bias notes for voters bothering to pay attention.
-- **<a href="https://www.ghastlymirror.xyz/blog/farewell-to-project-alterac/" target="_blank" rel="noopener noreferrer">The Ghastly Mirror</a>** -- Ghastly says goodbye to WoW’s Project Alterac with a chaotic final party, GM-granted level 60s, dancing, Dalaran detours, and a very silly Hogger boat raid.
-- **<a href="https://wcrobinson.org/2026/10/09/pragmata-review-an-innovative-endearing-space-adventure-that-only-gets-better/" target="_blank" rel="noopener noreferrer">WCRobinson</a>** -- WCRobinson is all-in on Pragmata’s lunar mystery, inventive hacking-and-shooting, and the sweet Hugh-and-Diana dynamic that keeps getting better.
-- **<a href="https://www.filfre.net/2026/10/an-ion-storm-part-1-the-gamers-penthouse/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy kicks off an Ion Storm history by tracing how Doom-era id Software turned game developers into rock stars, with Romero embodying the whole swaggering shift.
-- **<a href="https://thealmightybacklog.wordpress.com/2026/10/10/castlevania-bloodlines/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie digs into Castlevania: Bloodlines as a bold Mega Drive detour, highlighting its 1917 setting, dual heroes, and Dracula-by-way-of-Stoker weirdness.
-- **<a href="https://streetsinturmoil.com/2026/10/09/gates-of-power-dragon-ranch-session-34/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s campaign turns delightfully logistical as the party adopts a horse-sized hatchling, buys a farm, and starts building a full-on Dragon Ranch.
-- **<a href="https://priestwithacause.blogspot.com/2026/10/three-worlds-of-warcraft.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar unpacks how WoW Forever reshapes Blizzard’s ecosystem, stirring excitement, jealousy, and confusion between retail, Classic, and this new middle lane.
-- **<a href="https://lunasgaminglog.com/2026/10/08/spooktober-week-1-update/" target="_blank" rel="noopener noreferrer">Luna&#x27;s Gaming Log</a>** -- Luna’s Spooktober starts strong with Doki Doki Literature Club, while Bloomtown charms with pixel art and mystery even as its JRPG busywork drags.
-- **<a href="https://bhagpuss.blogspot.com/2026/10/eight-steps-on-path-to-sedition.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss returns to EverQuest II for the Paths of Sedition pre-expansion event, finding eight new adventure quests enough to pull him back into Norrath.
-## Tech
-
-- **<a href="https://www.jeffgeerling.com/blog/2026/radxa-q8b-double-pi-5/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff says Radxa’s Dragon Q8B looks like a beast versus the Raspberry Pi 5, though OS setup and generic arm64 boot support are still rough.
 ## General
 
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-10-09-week-41-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s weekly digest mixes new-job jitters, election anxiety, Pentiment, Japanese mystery fiction, reality TV, and the first creep of winter malaise.
-- **<a href="https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier goes fishing off Gloucester, catches a longfin squid, and promptly grills it hot and fast—honestly, sounds like a great day.
+- **<a href="https://tagn.wordpress.com/2026/10/10/the-state-of-streaming-at-our-house-in-the-fall-of-2026/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm argues streaming never had a real golden age, and that Netflix’s red-envelope DVD era beat today’s fragmented, more annoying video services.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/10/08/not-quite-to-neverland/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily recounts a Peter Pan dream that turns tense fast, with a race to Neverland slowed by ominous obstacles and a growing sense something’s off.
+- **<a href="https://lameazoid.com/posts/weekly-wrap-up-2026-10-10/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie’s week is a comfy haul of practical buys, a TCL tablet for comics, and Transformers pickups like Beast Box Jetstream and Siege Bluestreak.
+- **<a href="https://biobreak.wordpress.com/2026/10/09/what-we-listen-to-isnt-cool-and-thats-ok/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp pushes back on music snobbery, celebrating dorky, nostalgic collections from eurodance and Disney park CDs to instrumental records and old DJ sets.
+- **<a href="https://warnercrocker.com/2026/10/09/rip-mike-ditka/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner remembers Mike Ditka as a Chicago football icon whose toughness defined the Bears, the city, and generations of fans.
+## Gaming
+
+- **<a href="https://chasingdings.com/2026/10/10/dominus-automa-we-need-to-talk/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa checks back in on Dominus Automa, where autobattling now includes an LLM chat hero and Telegram updates that feel equal parts handy and weird.
+- **<a href="https://leekscosycorner.com/2026/10/10/mr-records-demo/" target="_blank" rel="noopener noreferrer">Leeks Cosy Corner</a>** -- Krista digs MR.RECORDS’ record-shop setup and surreal rhythm worlds, with George’s music-driven adventure looking stylish, varied, and easy to root for.
+## Tech
+
+- **<a href="https://www.tbray.org/ongoing/When/202x/2026/10/10/Color-Study-Fuji-vs-Pixel" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray compares autumn shots from a Pixel 10 and Fujifilm X-T5, and the Fuji wins on depth and low-light color.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/10/9/pc-housekeeping-and-system-maintenance" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger uses HWiNFO64 and ChatGPT to sanity-check his PC, landing on a practical case for dusting, airflow, and cheaper maintenance than replacement.
+- **<a href="https://thinkroot.xyz/the-fascinating-story-of-logitech-the-swiss-computer-empire-that-outsmarted-microsoft-685" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian shares a video on Logitech’s rise and how the Swiss peripheral giant outmaneuvered Microsoft.
+- **<a href="http://scripting.com/2026/10/10.html#a165325" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer built a small Node app solo to generate a Markdown-only version of Scripting News, and found the experience surprisingly revealing.
