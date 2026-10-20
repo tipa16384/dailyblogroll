@@ -1,19 +1,20 @@
-# Daily Blogroll: 2026-10-19
+# Daily Blogroll: 2026-10-20
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/10/18/tagn-fantasy-critic-league-2026-week-forty-two/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up a late Fantasy Critic shakeup, with Valor Mortis, Castlevania: Belmont’s Curse, and Planet Zoo 2 nudging the standings.
-- **<a href="https://frostilyte.ca/2026/10/18/next-fest-october-2026-prison-of-husks-first-impressions/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte digs into Prison of Husks, a FromSoft-style demo whose gear-based progression and hidden equipment made its boss fights click.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/10/19/baldurs-gate-iii-keep-gating/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi gushes over Baldur’s Gate III as a deeply reactive RPG whose tactical freedom and Astarion-fueled emotional pull still hit hard.
-- **<a href="https://margotplays.substack.com/p/week-in-gaming-12th-oct-9" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot talks herself into a Retroid Pocket Duo, chasing OLED dual-screen bliss for DS and 3DS emulation without going full handheld overkill.
-## General
-
-- **<a href="https://thetangent.space/2026/digest77/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan’s fortnightly digest bounces from Nier: Automata and Terranigma to record-player tinkering, teaching stress, and half-term relief.
-- **<a href="http://tobolds.blogspot.com/2026/10/in-favor-of-french-model.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold argues disruptive protests target governments more effectively than school shootings, framing both as symptoms of young people’s desperation.
-- **<a href="https://thinkroot.xyz/nota-799" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian calls it on The100Pics, bowing out of the photo event with a short, clean note of burnout.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-10-17-week-42-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s weekly digest checks in on new-job nerves, disappointing library mysteries, reality TV, Raptors anticipation, and Fate/GO event progress.
+- **<a href="https://tagn.wordpress.com/2026/10/19/into-over-the-hill/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm is all-in on Over the Hill, praising Funselektor’s stylized off-road driving, obsessive vehicle physics, and a weekend-devouring Steam launch.
+- **<a href="https://thealmightybacklog.wordpress.com/2026/10/19/new-super-luckys-tale/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie finally digs into New Super Lucky’s Tale, chasing that old-school Spyro and Crash collectathon magic after Lil Gator Game rekindled the craving.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/10/19/jiralhanae-invasion/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily recounts a vivid Halo-flavored dream of fleeing Jiralhanae, with Tartarus shout-outs and some very personal Brute-related grievances.
+- **<a href="https://retroxp.beehiiv.com/p/past-meets-present-slap-fight" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc breaks down how Slap Fight mixes Xevious-style shooting with Gradius upgrades and secret-hunting that subtly teaches the best weapons for each stretch.
+- **<a href="https://inanage.com/2026/10/20/ashlands-and-the-north/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel says Valheim’s Ashlands wasn’t as brutal as advertised, then unloads on Fader as a tedious boss slog and outdated guides as their own menace.
+- **<a href="https://pixelnomad.ca/2026/10/19/wow-gold-making-wrap-up-week-42-2026/" target="_blank" rel="noopener noreferrer">A Pixel Nomad</a>** -- Stargrace pulled in 4.5 million WoW gold on pets, recipes, transmog, and crafting, while reshuffling auction alts ahead of WoW:Forever.
+- **<a href="https://bhagpuss.blogspot.com/2026/10/next-fest-autumn-2026-choosing.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss wrestles with Steam Next Fest’s messy tagging to pick demos, sticking mostly to familiar territory like MMORPGs, point-and-clicks, and strategy.
 ## Tech
 
-- **<a href="http://scripting.com/2026/10/18.html#a155532" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer ties his Markdown-web gripes to Chrome’s power, then pivots to a blunt complaint about US healthcare still running on phone tag.
-- **<a href="https://lameazoid.com/posts/in-the-news-2026-10-18/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie speedruns gripes about Epic’s Linux launcher, Character AI’s collapse, and Microsoft 365 storage cuts with appropriately cranky energy.
-- **<a href="https://scopique.com/2026/10/18/markdown-is-getting-me-down/" target="_blank" rel="noopener noreferrer">Scopique</a>** -- Scopique likes how Markdown can look in Obsidian, but hates how writing in raw syntax flips TTRPG prep from prose brain to coding brain.
+- **<a href="https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier flags a leaked Cellebrite document describing Advanced Unlocks, a possible new iPhone radio-based AFU zero-day with roughly 8-meter range.
+- **<a href="https://biobreak.wordpress.com/2026/10/19/scoring-a-5-ipod-shuffle-but-does-it-work/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp scores a $5 second-gen iPod Shuffle at a thrift store and gets a charming little retro win, battery anxiety and weird iTunes autofill included.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/10/19/remote-controls" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger tracks a media-player playback glitch to a dying Zidoo remote, then does the homework to find a backward-compatible replacement.
+## General
+
+- **<a href="https://joelchrono.xyz/blog/2026-w42/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel’s weeknotes bounce from card magic and a possibly dying SSD to gifted copies of Outer Wilds, fountain pens, books, and everyday life stuff.
+- **<a href="https://warnercrocker.com/2026/10/19/the-tushy-bidet-is-a-lifestyle-changer/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner says a Tushy Spa bidet turned out to be a genuinely welcome household upgrade, installed by his handier son-in-law.
