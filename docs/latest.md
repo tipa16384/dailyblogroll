@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-10-27
+# Daily Blogroll: 2026-10-28
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/10/26/the-final-wait-for-wow-forever/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm wraps up the WoW Forever beta, side-eyes Reddit outrage, and waits to see how layering and launch land with the real crowd.
-- **<a href="https://endgameviable.com/post/2026/10/checking-out-world-of-warcraft-forever/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet finds WoW Forever is basically WoW Classic with a modern UI—less self-punishing, still grindy, and not exactly inspiring spontaneous grouping.
-- **<a href="https://swtorcommando.blogspot.com/2026/10/halfway-through-galactic-season-11.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar hits level 100 in SWTOR Galactic Season 11, feels the companion-heavy objectives drag, and is very ready for Masters of the Force news.
-- **<a href="https://welshtroll.co.uk/post/2026-the-alchemist-of-torchlight-2-is-stirring.html" target="_blank" rel="noopener noreferrer">Point, Click, Repeat</a>** -- Welsh Troll digs into Torchlight 2’s surprising new beta branch, with Steam matchmaking, controller support, fixes, and some AI-assisted codebase archaeology.
-- **<a href="https://inanage.com/2026/10/26/valheim-complete/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel finishes Valheim 1.0 after 118 hours and argues the no-metal-through-portals rule adds more logistics slog than meaningful challenge.
-- **<a href="https://retroxp.beehiiv.com/p/past-meets-present-the-ninja-saviors-return-of-the-warriors" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc traces how Taito’s basic Ninja Warriors became the much richer Ninja Saviors, a robo-ninja beat ’em up with real crowd-control depth.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-10-25-dos2/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s Divinity: Original Sin 2 session brings skinks, soul jars, Trompdoy illusions, and the special pain of accidentally donating 400 gold in loot.
-## Tech
-
-- **<a href="https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier flags research showing AI models can hide arbitrary capabilities behind secret triggers, which is a pretty grim limit on audit-by-elicitation.
-- **<a href="https://biobreak.wordpress.com/2026/10/26/happy-25th-birthday-to-the-ipod/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp celebrates the iPod’s 25th with modded Classics, porch listening, and a reminder that Apple killed a gadget some people still genuinely love.
-- **<a href="https://thinkroot.xyz/20-desk-setup-upgrades-that-actually-matter-812" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian shares a video roundup of 20 desk setup upgrades that supposedly actually matter, aimed squarely at practical workspace tinkerers.
-- **<a href="https://warnercrocker.com/2026/10/26/the-iphone-duo-and-lack-of-liquid-glass-seem-confusing-to-me/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner puzzles over the iPhone Duo’s sidebar-heavy UI and wonders why Apple’s Liquid Glass ambitions don’t seem to show up here.
+- **<a href="https://chasingdings.com/2026/10/27/willy-and-charlie-solitaire/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa digs Willy and Charlie: Solitaire as a head-to-head deckbuilding solitaire mashup with faction cards, carryover strategy, and some delightfully busted shop upgrades.
+- **<a href="https://tagn.wordpress.com/2026/10/27/over-the-hill-gimli-ridge-and-the-waddington-scree-trail/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm heads deeper into Over the Hill, where Gimli Ridge’s swamps, janky physics, and a nerve-wracking boardwalk make mud-driving sound weirdly compelling.
+- **<a href="https://lameazoid.com/posts/review-transformers-tfone-studio-series-elita-1/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie finds Transformers One’s Studio Series Elita-1 impressively complex but frustratingly fiddly, with clean looks undermined by parts that won’t stay put.
+- **<a href="https://bhagpuss.blogspot.com/2026/10/of-mice-and-cats.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss wraps up Steam Next Fest demos, praising Hela: of Mice & Magic for its polished, no-save confidence and surprisingly winning mouse adventure.
 ## General
 
-- **<a href="https://joelchrono.xyz/blog/2026-w43/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel’s weeknotes bounce from Outer Wilds: Echoes of the Eye and Dune Messiah to card tricks, trip prep, and an unexpected patio dog.
+- **<a href="https://blog.codinghorror.com/suffering-as-a-feature/" target="_blank" rel="noopener noreferrer">Coding Horror</a>** -- Jeff Atwood spotlights dreamagainusa.org, using endless scrolling to make America’s wealth inequality feel brutally experiential instead of abstract.
+- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/10/27/guest-post-yoshi-reviews-the-move/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar hands things to Yoshi, whose dog’s-eye review of the Ohio-to-Arizona move is anxious, funny, and extremely hard on hotels.
+- **<a href="https://www.kgadams.net/tiny-thoughts/michael-mikhail-bennett-is-ai-generated" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly posts a piece titled Michael (Mikhail) Bennett is AI generated, but the excerpt provided doesn’t include enough of the argument to say more.
+## Tech
+
+- **<a href="https://www.leadedsolder.com/2026/10/27/camelforth-on-real-hardware-stack-repair.html" target="_blank" rel="noopener noreferrer">Leaded Solder</a>** -- Mike gets CamelForth booting on real SG-1000 hardware, with the Soggy-1000 and an original SK-1100 keyboard proving emulator theory in practice.
+- **<a href="https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff documents a niche but handy Noctua fan swap for a Calnex Rb/GPS frequency reference, mainly to make his atomic-clock gear desk-friendly.
+- **<a href="https://hamatti.org/posts/sharing-notes-with-hermes-and-agora/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis shares an early Obsidian prototype that publishes individual notes as temporary, private URLs via Hermes and Agora—basically lightweight note-sharing without SaaS baggage.
+- **<a href="http://scripting.com/2026/10/27.html#a142341" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer argues the web’s old model is ending, and pitches BigUndo, RSS, and Markdown as the small-parts path forward.
+## Writing
+
+- **<a href="https://tofutush.github.io/posts/2026-10-27.html" target="_blank" rel="noopener noreferrer">Tofutush&#x27;s Blog</a>** -- Tofutush offers a brisk, approachable primer on reading Arabic script via Uyghurche examples, covering letter forms, connections, and the truly evil non-connectors.
