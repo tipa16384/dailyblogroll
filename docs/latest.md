@@ -1,20 +1,22 @@
-# Daily Blogroll: 2026-10-30
+# Daily Blogroll: 2026-10-31
 
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/10/29/malifaux-rasputina-abominable-vs-somer-teeth-jones-bayou-boss/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa recaps a tense Malifaux league match where Rasputina faced Som’er Teeth Jones’s wildly summoning Big Hat crew and early positioning mistakes complicated her schemes.
-- **<a href="https://tagn.wordpress.com/2026/10/29/the-no-mans-sky-forsaken-update-brings-ios-support-forsaken-traders-and-more-corvette-things/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm is all-in on No Man’s Sky Forsaken, especially iOS support, spooky forsaken traders, and those long-awaited corvette landing pad and module additions.
-- **<a href="https://sightingames.wordpress.com/2026/10/29/review-martha-is-dead/" target="_blank" rel="noopener noreferrer">Sight-In Games</a>** -- Zack finds Martha is Dead’s Tuscany-set horror and identity-swapping mystery compelling, but its extreme gore and mutilation make the experience hard to recommend.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/10/30/la-corda-doro-2-koeis-second-symphony/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi digs into La Corda d’Oro 2’s easier onboarding and cleaner music systems, which make Koei’s classical romance sim less exhausting to actually play.
-- **<a href="https://priestwithacause.blogspot.com/2026/10/my-3-biggest-concerns-for-wow-forever.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar is excited for WoW Forever but wary of long-term risks, especially megaservers, sharding, and the crowded-world feel they can create.
-- **<a href="https://goodgamelobby.substack.com/p/friday-follow-up-44-2026" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey rounds up cozy and indie picks like Danchi Days, Usagi Shima, Hot Wax, and Greetings from El Rey, plus a shout for Cataclismo’s soundtrack.
-- **<a href="https://thealmightybacklog.wordpress.com/2026/10/29/metal-gear-solid/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie revisits Metal Gear Solid as a still-tense PS1 stealth classic, praising Kojima’s unmistakable auteur style and the game’s enduring replay value.
-- **<a href="https://biobreak.wordpress.com/2026/10/29/my-starting-world-of-warcraft-forever-trio/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp shows off his planned World of Warcraft Forever roster: a Night Elf Druid main, a Dwarf Shaman alt, and a maybe-Warlock-or-Priest Gnome.
-## General
-
-- **<a href="https://axxuy.com/blog/2026/rest-in-peace-patrick-stewart/" target="_blank" rel="noopener noreferrer">Axxuy</a>** -- Axxuy shares a brief, heartfelt tribute to Patrick Stewart, mourning his death at 86 and the inspiring ideals he brought to the world.
-- **<a href="https://warnercrocker.com/2026/10/29/bryan-adams-dives-into-protesting-with-new-song-lake-ontario/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner highlights Bryan Adams’s new protest song “Lake Ontario,” applauding its anti-Trump jab and wishing there were more songs like it.
+- **<a href="https://tagn.wordpress.com/2026/10/30/return-to-art-of-rally/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm revisits Art of Rally and spots Over the Hill’s DNA everywhere, even if his own rally runs still end in trees and cautious grandma corners.
+- **<a href="https://margotplays.substack.com/p/thoughts-heart-of-neon" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot’s Heart of Neon takeaway is less retro-game history than Jeff Minter’s warmth, creativity, and the human communities built around his work.
 ## Tech
 
-- **<a href="https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier points to research on fraudulent North Korean IT workers, a sharp reminder that hiring pipelines can become an insider-threat attack surface.
-- **<a href="https://thinkroot.xyz/nota-814" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian says he built three blog platforms to replace Calamus and now has the pleasantly annoying problem of liking all four options.
+- **<a href="https://www.tbray.org/ongoing/When/202x/2026/10/29/CoSocial-AGM" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray argues CoSocial’s paid, Canadian Mastodon co-op shows how decentralized social media can stay sane, transparent, and mostly troll-free.
+- **<a href="http://scripting.com/2026/10/30.html#a202937" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer jumps from dog-training videos and Claude to blogging, democracy, Google, ChatGPT art, and sports congratulations in classic stream form.
+- **<a href="https://www.leadedsolder.com/2026/10/31/rc2026-soggy-camelforth-happy-halloween-demo.html" target="_blank" rel="noopener noreferrer">Leaded Solder</a>** -- Mike wraps RetroChallenge by teaching CamelForth some Halloween tricks, wrangling TMS9918A sprites, loops, and pumpkins onto the Sega SG-1000.
+- **<a href="https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff cheers UTC killing leap seconds, mainly because a first-ever negative leap second sounded like a great way to break computers everywhere.
+## General
+
+- **<a href="https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy points readers to a fresh Analog Antiquarian post, this time a London-themed detour in his companion site’s worldly-wonders lane.
+- **<a href="https://bhagpuss.blogspot.com/2026/10/tunes-we-don-need-no-stinkin-tunes.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss reflects on music-post curation, half-remembered YouTube finds, and why discovery still matters even when the tunes barely stick.
+- **<a href="https://lameazoid.com/posts/reviews-beast-box-bb-68-jetstream/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie checks out Beast Box Jetstream, a smaller transforming penguin with tight joints, neat articulation, and a surprisingly fiddly cube conversion.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-10-30-week-44-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae juggles retail shift anxiety, murder mysteries, Vincent Price, Traitors rankings, sports watching, Fate/GO grinding, and DOS2 progress.
+- **<a href="http://www.heartlessgamer.com/2026/10/packers-beat-panthers-score-27.html" target="_blank" rel="noopener noreferrer">Heartless Gamer</a>** -- Heartless is happy to bank an ugly Packers win over the Panthers, especially since scoring 27 means an old meme gets another lap.
+## Writing
+
+- **<a href="https://monsterladysdiary.wordpress.com/2026/10/30/i-read-all-the-bridgerton-books-heres-why-i-wont-be-watching-the-show/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily says reading all the Bridgerton books only pushed her further from the show, mostly over its adaptation changes and casting choices.
