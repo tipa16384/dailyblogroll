@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-10-31
+# Daily Blogroll: 2026-11-01
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/10/30/return-to-art-of-rally/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm revisits Art of Rally and spots Over the Hill’s DNA everywhere, even if his own rally runs still end in trees and cautious grandma corners.
-- **<a href="https://margotplays.substack.com/p/thoughts-heart-of-neon" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot’s Heart of Neon takeaway is less retro-game history than Jeff Minter’s warmth, creativity, and the human communities built around his work.
-## Tech
-
-- **<a href="https://www.tbray.org/ongoing/When/202x/2026/10/29/CoSocial-AGM" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray argues CoSocial’s paid, Canadian Mastodon co-op shows how decentralized social media can stay sane, transparent, and mostly troll-free.
-- **<a href="http://scripting.com/2026/10/30.html#a202937" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer jumps from dog-training videos and Claude to blogging, democracy, Google, ChatGPT art, and sports congratulations in classic stream form.
-- **<a href="https://www.leadedsolder.com/2026/10/31/rc2026-soggy-camelforth-happy-halloween-demo.html" target="_blank" rel="noopener noreferrer">Leaded Solder</a>** -- Mike wraps RetroChallenge by teaching CamelForth some Halloween tricks, wrangling TMS9918A sprites, loops, and pumpkins onto the Sega SG-1000.
-- **<a href="https://www.jeffgeerling.com/blog/2026/rejoice-the-utc-leap-second-is-dead/" target="_blank" rel="noopener noreferrer">Jeff Geerling</a>** -- Jeff cheers UTC killing leap seconds, mainly because a first-ever negative leap second sounded like a great way to break computers everywhere.
+- **<a href="https://tagn.wordpress.com/2026/10/31/october-2026-in-review/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up WordPress theme chaos, PHP2Shell jitters, classic editor nonsense, and a few gaming callbacks while crossing the 8,000-post mark.
+- **<a href="https://indiecator.org/2026/10/31/steam-next-fest-2026-october/" target="_blank" rel="noopener noreferrer">Indiecator</a>** -- Magi gripes about AI-clogged Steam Next Fest, then highlights actual indie gems like Towers of Babble with help from smarter filtering tools.
+- **<a href="https://aywren.com/2026/10/31/ffxiv-spooky-time-update" target="_blank" rel="noopener noreferrer">Aywren&#x27;s Nook</a>** -- Aywren shares a Halloween-themed FFXIV update video, with love for All Saints’ Wake and hanging out in Sneaky Hollow.
+- **<a href="https://blog.zarfhome.com/2026/11/visible-enchanter" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin releases Visible Enchanter for everyone, with source code, manual scans, and some sharp appreciation for Enchanter’s story-first design.
+- **<a href="https://frostilyte.ca/2026/10/31/did-ai-slop-ruin-next-fest/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte argues Steam Next Fest wasn’t ruined by AI slop so much as overwhelmed by sheer scale and too many hopeful devs.
+- **<a href="http://tobolds.blogspot.com/2026/10/frosthaven-digital-has-improved.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold says Frosthaven Digital’s 1.0 finally fixes onboarding with a gentler prequel campaign, even if the difficulty options still feel awkward.
+- **<a href="https://biobreak.wordpress.com/2026/10/30/lotro-welcoming-the-wolves-of-mordor/" target="_blank" rel="noopener noreferrer">Bio Break</a>** -- Syp is enjoying LOTRO’s Wolves of Mordor as a scenic, lava-filled distraction with new zones, survival mechanics, and mysteries about Sauron’s wolf army.
+- **<a href="https://thealmightybacklog.wordpress.com/2026/10/31/the-exit-8/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie digs into The Exit 8 as a sharp piece of liminal horror, tapping backrooms unease and anomaly-spotting for its creepy hook.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-10-31-dos2/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s Divinity: Original Sin 2 diary covers smashing Magisters at Fort Joy, odd Ifan aggro, and the usual mountain of inventory management.
 ## General
 
-- **<a href="https://www.filfre.net/2026/10/this-week-on-the-analog-antiquarian/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy points readers to a fresh Analog Antiquarian post, this time a London-themed detour in his companion site’s worldly-wonders lane.
-- **<a href="https://bhagpuss.blogspot.com/2026/10/tunes-we-don-need-no-stinkin-tunes.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss reflects on music-post curation, half-remembered YouTube finds, and why discovery still matters even when the tunes barely stick.
-- **<a href="https://lameazoid.com/posts/reviews-beast-box-bb-68-jetstream/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie checks out Beast Box Jetstream, a smaller transforming penguin with tight joints, neat articulation, and a surprisingly fiddly cube conversion.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-10-30-week-44-digest/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae juggles retail shift anxiety, murder mysteries, Vincent Price, Traitors rankings, sports watching, Fate/GO grinding, and DOS2 progress.
-- **<a href="http://www.heartlessgamer.com/2026/10/packers-beat-panthers-score-27.html" target="_blank" rel="noopener noreferrer">Heartless Gamer</a>** -- Heartless is happy to bank an ugly Packers win over the Panthers, especially since scoring 27 means an old meme gets another lap.
-## Writing
+- **<a href="https://godless-internets.org/2026/11/01/eating-around-town" target="_blank" rel="noopener noreferrer">Owlblog</a>** -- Owls gives a tasty Chicago food crawl, from stress-ordering Milly’s pizza to a much-improved brunch at Creepies.
+- **<a href="https://warnercrocker.com/2026/11/01/sunday-morning-reading-179/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner is taking Sunday Morning Reading off this week after Halloween with the grandkids, with a promise to return next Sunday.
+## Tech
 
-- **<a href="https://monsterladysdiary.wordpress.com/2026/10/30/i-read-all-the-bridgerton-books-heres-why-i-wont-be-watching-the-show/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily says reading all the Bridgerton books only pushed her further from the show, mostly over its adaptation changes and casting choices.
+- **<a href="https://thinkroot.xyz/jurnal/am-citit-articolul-de-ce-vrea-sam-altman-sa-renunt" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian pushes back on Sam Altman’s cloud-first vision, arguing cloud platforms mainly want your data, not to help users.
