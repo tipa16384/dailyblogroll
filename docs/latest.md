@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-11-02
+# Daily Blogroll: 2026-11-03
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/11/01/tagn-fantasy-critic-league-2026-week-forty-four-and-phantom-blade-zero/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm tracks Fantasy Critic League’s week 44 shakeups as Phantom Blade Zero lands strong, One Piece: Grand Gourmet slips, and Shawn still can’t climb the standings.
-- **<a href="https://www.ghastlymirror.xyz/blog/games-im-playing-on-halloween-2026/" target="_blank" rel="noopener noreferrer">The Ghastly Mirror</a>** -- Ghastly lines up a spooky backlog with World of Warcraft’s Hallow’s End on Chromiecraft and the vampire RPG Cabernet stealing the show.
-- **<a href="https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/" target="_blank" rel="noopener noreferrer">READ ONLY MEMO</a>** -- Wes spotlights the long, very human fan-translation saga behind The Legend of Xanadu, with 15 years of hacking, art, and collaboration finally paying off.
-- **<a href="https://mailvaltar.wordpress.com/2026/11/01/what-do-ravens-witches-and-musicians-have-in-common/" target="_blank" rel="noopener noreferrer">Mailvaltar</a>** -- Mailvaltar checks in on Neverness to Everness 1.4, liking Blackbird’s Salem-style story less than the band drama around Akane and Lines.
-- **<a href="https://inanage.com/2026/11/02/impressions-enshrouded-1-0/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel finds Enshrouded 1.0 neither quite Valheim nor quite action RPG, but 30 hours later he’s mostly won over despite the constant base-hopping friction.
-- **<a href="https://retroxp.beehiiv.com/p/celebrating-20-years-of-the-wii" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc kicks off a hub for Retro XP’s Wii 20th-anniversary coverage, basically planting the flag for a full celebration of Nintendo’s motion-control era.
-- **<a href="https://theboardgameschronicle.com/2026/11/01/spiel-2026-essen-my-impressions/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler reports two happy, exhausting days at SPIEL Essen 2026 packed with demos, booth visits, surprise finds, and plenty of board-game talk.
-- **<a href="https://priestwithacause.blogspot.com/2026/11/can-modern-wows-levelling-be-fixed.html" target="_blank" rel="noopener noreferrer">Priest with a Cause</a>** -- Shintar pokes at retail WoW leveling, arguing freer zone scaling helps but empty worlds and weak quest XP still make the journey feel off.
+- **<a href="https://tagn.wordpress.com/2026/11/02/the-imperium-deployment-to-siseide/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm heads into EVE Online low-sec with the Imperium’s pirate-themed Siseide deployment, hauling his ancient Archon and spotting some jump-fatigue slapstick en route.
+- **<a href="https://streetsinturmoil.com/2026/11/02/gunderholfen-narrow-corridors-of-level-5-session-37/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Dragonbane crew pushes deeper into Gunderholfen’s Level 5, mapping tight corridors, dodging suspicious levers, and promptly attracting a giant spider.
+- **<a href="https://kimimithegameeatingshemonster.com/2026/11/02/bangai-o-spirits-a-little-dispiriting-actually/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi finds Bangai-O Spirits fascinating but exhausting, with puzzle-heavy stages, fiddly weapon choices, and DS-screen chaos making Treasure’s challenge feel a bit woolly.
+- **<a href="https://margotplays.substack.com/p/week-in-gaming-26th-oct-11" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot’s week is all about handheld anticipation, backlog reality, Caravan SandWitch plans, and mixed feelings on Gloomy Eyes’ clunky puzzles.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-11-02-dos2/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae stumbles through a busy Divinity: Original Sin 2 ship chapter with teleport pyramids, inventory chaos, a bone spider, and one endangered black cat.
 ## General
 
-- **<a href="https://tofutush.github.io/posts/2026-11-01.html" target="_blank" rel="noopener noreferrer">Tofutush&#x27;s Blog</a>** -- Tofutush’s October was low-key but busy enough: Minecraft glowstone grinding, a restarted conlang, a digital orrery, and signing next year’s apartment lease.
-## Tech
-
-- **<a href="https://hamatti.org/posts/djangonaut-log-3-into-the-orbit/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis recaps a slower Djangonaut week of DjangoGirls PRs, pytest sessions, CI weirdness, and an RSVP-status bug fix still carrying into next week.
-- **<a href="https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier points to an eye-popping spike in AI-assisted vulnerability discovery and sums it up plainly: software security has entered a new world.
+- **<a href="https://thetangent.space/2026/digest79/" target="_blank" rel="noopener noreferrer">theTangentSpace</a>** -- Tan’s week mixes pumpkins, kids, a magical first kingfisher sighting, and more Symphony of the Night alongside Aristotle chat.
+- **<a href="https://joelchrono.xyz/blog/october-2026-summary/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel rounds up an October heavy on gaming and reading, with Dune Messiah and Battle Angel Alita standing out from a packed media month.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/11/1/revisiting-doctor-who-part-2" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger revisits classic Tom Baker-era Doctor Who, praising Gothic horror, Gallifrey politics, Davros, and some surprisingly creepy robots and monsters.
+- **<a href="https://bhagpuss.blogspot.com/2026/11/four-shows-five-seasons-okay-four-and.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss finally circles back to TV after a Suno-fueled detour, squeezing in Doctor Who, The Boroughs, and Deadloch around weather and dog care.
 ## Writing
 
-- **<a href="https://axxuy.com/blog/2026/november-writing-month-2026/" target="_blank" rel="noopener noreferrer">Axxuy</a>** -- Axxuy is doing a personal November writing challenge, aiming for 10,000 blog words since NaNoWriMo is gone but the urge to write isn’t.
+- **<a href="https://monsterladysdiary.wordpress.com/2026/11/02/hosted-confuse-ray/" target="_blank" rel="noopener noreferrer">Monsterlady&#x27;s Diary</a>** -- Emily lays out why managed WordPress suits a hobby writer better than self-hosting: less PHP panic, fewer maintenance chores, more actual writing.
+## Tech
+
+- **<a href="http://scripting.com/2026/11/02.html#a163902" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer talks through a better web for writers while juggling Atlantis, Bonbon, FeedLand, and the ongoing hunt for a proper debugger.
+- **<a href="https://lameazoid.com/posts/projects-using-ai-to-streamline-blogging/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie uses AI for blogging plumbing, not prose, from migrating WordPress to Hugo to automating Joplin posts and quick banner creation.
