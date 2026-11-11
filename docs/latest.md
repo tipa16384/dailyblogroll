@@ -1,19 +1,22 @@
-# Daily Blogroll: 2026-11-10
+# Daily Blogroll: 2026-11-11
 
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/11/09/what-did-you-do-during-the-ea-wars-mommy/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa riffs on EA’s Saudi-led buyout news, then happily dives into Steam’s Wing Commander drop and the cozy blobber Underkeep.
-- **<a href="https://tagn.wordpress.com/2026/11/09/wow-forever-first-weekend-notes/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm settles into WoW Forever’s vanilla comfort, alt-hopping through Azeroth while Blizzard boasts its biggest WoW launch ever.
-- **<a href="https://retroxp.beehiiv.com/p/20-years-of-the-wii-boom-blox-bash-party" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc revisits Boom Blox Bash Party, the Steven Spielberg-and-EA Wii oddity that turned motion controls and physics puzzles into a clever family game.
-- **<a href="https://bhagpuss.blogspot.com/2026/11/soulframe-pre-alpha-first-impressions.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss finds Soulframe’s Alca intriguingly open, but quickly ditches the objective rails to wander and poke at its early systems.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-11-09-dos2/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s Divinity: Original Sin 2 session is all tangled quests, shady Driftwood basements, ghostly nuisances, and very little concern for dead Magisters.
-## General
-
-- **<a href="http://www.heartlessgamer.com/2026/11/packers-beat-patriots.html" target="_blank" rel="noopener noreferrer">Heartless Gamer</a>** -- Heartless celebrates the Packers’ Foxboro rout, with Jordan Love airing it out despite a shaky run game and Josh Jacobs getting hurt.
-- **<a href="https://joelchrono.xyz/blog/2026-w45/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel’s weeknotes bounce from Retroshelf and Ocarina of Time to Godzilla Minus Zero, card magic, church hangouts, and badminton.
+- **<a href="https://chasingdings.com/2026/11/10/frosthaven-scenario-120-under-the-influence/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa’s Frosthaven group cheesed Scenario 120’s orb objective while a brutal random-card rule made Trapper planning gloriously fall apart.
+- **<a href="https://tagn.wordpress.com/2026/11/10/the-eve-online-fractures-skies-expansion-arrives/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm sizes up EVE Online’s Fractured Skies, from free Omega bait to CCP’s latest attempt at making new players stick around.
+- **<a href="https://franklantz.substack.com/p/game-design-is-hard" target="_blank" rel="noopener noreferrer">Donkeyspace</a>** -- Frank digs into Towers of Babble’s hardest design problems, contrasting its procedural puzzle chaos with Order of the Sinking Star’s hand-built intent.
+- **<a href="https://inanage.com/2026/11/08/forever-past/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel eyes World of Warcraft: Forever’s huge launch numbers with skepticism, mostly wondering whether horizontal progression can really keep WoW players hooked.
+- **<a href="https://margotplays.substack.com/p/week-in-gaming-2nd-nov-12" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot picked the Steam Deck for travel, then got completely absorbed by Minishoot’ Adventures and its charming twin-stick Zelda-like exploration.
+- **<a href="https://frostilyte.ca/2026/11/10/annihilated-review/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte finds Annihilated’s branching routes and companion-dependent combat compelling, even if its story differences don’t always justify every replay equally.
+- **<a href="https://streetsinturmoil.com/2026/11/10/gunderholfen-dungeon-hospitality-session-38/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Gunderholfen party keeps camping in the dungeon, explores Level 5, and very possibly trusts some suspiciously friendly dwarves way too much.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/11/10/why-world-of-warcraft-forever-is-not-for-me" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger explains why World of Warcraft: Forever’s group-dependent, friction-heavy combat and rigid old-school rotations are pretty much the opposite of his MMO tastes.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-11-10-dos2/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s Divinity: Original Sin 2 session was mostly confused wandering, unhelpful NPCs, an accidentally freed lich, and no clearer idea where Mordus went.
 ## Tech
 
-- **<a href="https://warnercrocker.com/2026/11/09/sounding-off-on-apples-consistently-inconsistent-sound-routing-issues/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner vents about Apple’s maddening AirPods, HomePods, Siri, and timer-routing weirdness, where the only consistent thing is inconsistency.
-- **<a href="http://scripting.com/2026/11/09.html#a143754" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer argues the web’s old easy interop got captured by big companies, while his Markdown feed unexpectedly pulls more traffic than HTML.
-- **<a href="https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier flags a nasty decade-old OpenSSH flaw affecting musl-based Linux systems, where oversized passwords can bypass disabled password logins.
-- **<a href="https://thinkroot.xyz/jurnal/ubuntu-sistemul-de-operare-londonez-care-promitea-sa-distruga-windows-apoi-a-pie" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian shares a video on Ubuntu’s rise as a would-be Windows killer and its later loss of desktop momentum.
+- **<a href="https://www.tbray.org/ongoing/When/202x/2026/11/08/Long-Links" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray’s latest link roundup fixates on AI slop-spotting, with Pangram, STORIED · COLORS, and some uneasy anti-LLM soul-searching.
+## General
+
+- **<a href="https://lameazoid.com/posts/review-transformers-earthrise-smokescreen/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie likes Earthrise Smokescreen’s G1-accurate robot mode and shoulder cannons, but thinks the rally-car alt mode really needed bolder paint.
+## Writing
+
+- **<a href="https://hamatti.org/posts/theres-a-blog-post-for-everything/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis riffs on prolific blogging as a learning tool, arguing developers should write things down early and search their own notes first.
