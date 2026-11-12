@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-11-11
+# Daily Blogroll: 2026-11-12
 
 ## Gaming
 
-- **<a href="https://chasingdings.com/2026/11/10/frosthaven-scenario-120-under-the-influence/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa’s Frosthaven group cheesed Scenario 120’s orb objective while a brutal random-card rule made Trapper planning gloriously fall apart.
-- **<a href="https://tagn.wordpress.com/2026/11/10/the-eve-online-fractures-skies-expansion-arrives/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm sizes up EVE Online’s Fractured Skies, from free Omega bait to CCP’s latest attempt at making new players stick around.
-- **<a href="https://franklantz.substack.com/p/game-design-is-hard" target="_blank" rel="noopener noreferrer">Donkeyspace</a>** -- Frank digs into Towers of Babble’s hardest design problems, contrasting its procedural puzzle chaos with Order of the Sinking Star’s hand-built intent.
-- **<a href="https://inanage.com/2026/11/08/forever-past/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel eyes World of Warcraft: Forever’s huge launch numbers with skepticism, mostly wondering whether horizontal progression can really keep WoW players hooked.
-- **<a href="https://margotplays.substack.com/p/week-in-gaming-2nd-nov-12" target="_blank" rel="noopener noreferrer">Margot Plays</a>** -- Margot picked the Steam Deck for travel, then got completely absorbed by Minishoot’ Adventures and its charming twin-stick Zelda-like exploration.
-- **<a href="https://frostilyte.ca/2026/11/10/annihilated-review/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte finds Annihilated’s branching routes and companion-dependent combat compelling, even if its story differences don’t always justify every replay equally.
-- **<a href="https://streetsinturmoil.com/2026/11/10/gunderholfen-dungeon-hospitality-session-38/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David’s Gunderholfen party keeps camping in the dungeon, explores Level 5, and very possibly trusts some suspiciously friendly dwarves way too much.
-- **<a href="https://www.containsmoderateperil.com/blog/2026/11/10/why-world-of-warcraft-forever-is-not-for-me" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger explains why World of Warcraft: Forever’s group-dependent, friction-heavy combat and rigid old-school rotations are pretty much the opposite of his MMO tastes.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-11-10-dos2/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae’s Divinity: Original Sin 2 session was mostly confused wandering, unhelpful NPCs, an accidentally freed lich, and no clearer idea where Mordus went.
-## Tech
-
-- **<a href="https://www.tbray.org/ongoing/When/202x/2026/11/08/Long-Links" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray’s latest link roundup fixates on AI slop-spotting, with Pangram, STORIED · COLORS, and some uneasy anti-LLM soul-searching.
+- **<a href="https://chasingdings.com/2026/11/11/everquest-legends-nerfs-and-cash-shops/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa digs into EverQuest Legends’ Kunark expansion, where cash-shop Reincarnation and a Denon’s Desperate Dirge nerf have players side-eyeing progression.
+- **<a href="https://tagn.wordpress.com/2026/11/11/over-the-hill-exploring-asgard-mountain/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm finds Over the Hill’s Asgard Mountain tougher and more rewarding, with rougher trails, nastier recoveries, and exploration that finally makes the scenery feel earned.
+- **<a href="https://oyito.substack.com/p/in-a-nutshell-october-2026" target="_blank" rel="noopener noreferrer">Oya&#x27;s Game Hub</a>** -- Oya rounds up October with Neva, ReStory, Rusty Lake, Cube Escape, and a miss on The Everlasting—cozy, creepy, and a little disappointed by romantasy.
+- **<a href="https://swtorcommando.blogspot.com/2026/11/80-gearing-info-controversy.html" target="_blank" rel="noopener noreferrer">Going Commando</a>** -- Shintar breaks down SWTOR 8.0 gearing: deterministic vendor buys, in-place upgrades, stat tweaking at cap, and the usual pre-expansion controversy.
+- **<a href="http://www.heartlessgamer.com/2026/11/archeage-chronicles-early-access-day-1.html" target="_blank" rel="noopener noreferrer">Heartless Gamer</a>** -- Heartless finds ArcheAge Chronicles oddly quiet for an MMO-lite: floaty combo combat improves, but dead-feeling zones and limited local social tools sting.
 ## General
 
-- **<a href="https://lameazoid.com/posts/review-transformers-earthrise-smokescreen/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie likes Earthrise Smokescreen’s G1-accurate robot mode and shoulder cannons, but thinks the rally-car alt mode really needed bolder paint.
+- **<a href="https://endgameviable.com/post/2026/11/nfl-week-9/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet’s Week 9 NFL recap is mostly Commanders despair, NFC East scoreboard-watching, and a fantasy win powered by Brock Purdy and Bucky Irving.
+- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/11/11/the-town-that-saved-the-bar/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar uses Prescott’s Palace saloon story to make the town feel vivid: when Whiskey Row burned, locals apparently saved the bar and kept pouring.
+- **<a href="https://thefriendlynecromancer.blogspot.com/2026/11/tom-purdue-cosmic-radiation-and-bad.html" target="_blank" rel="noopener noreferrer">The Friendly Necromancer</a>** -- The Friendly Necromancer launches Cosmic Radiation and Bad Luck, an experimental electronic album shaped by his Stage IV lung cancer experience.
+## Tech
+
+- **<a href="https://www.kgadams.net/geekdom/jensen-huang-cheater-and-spy-enabler" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly unloads on Nvidia CEO Jensen Huang over the reported affair and alleged leak implications, with extra disgust reserved for the family fallout.
+- **<a href="http://scripting.com/2026/11/11.html#a185507" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer asks non-techie writers about their Markdown setups, then pivots hard into backing Bernie Sanders as the Democrats’ path forward.
+- **<a href="https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier flags Penlink’s Webloc, which lets police mine location trails from weather, gaming, email, and religious apps on your phone.
 ## Writing
 
-- **<a href="https://hamatti.org/posts/theres-a-blog-post-for-everything/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis riffs on prolific blogging as a learning tool, arguing developers should write things down early and search their own notes first.
+- **<a href="https://bhagpuss.blogspot.com/2026/11/soulframe-pre-alpha-first-impressions_0402166242.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss explains why Soulframe keeps taking over the blog: early impressions are fun to write, and he’s plainly having a great time with it.
