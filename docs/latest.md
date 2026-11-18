@@ -1,22 +1,20 @@
-# Daily Blogroll: 2026-11-17
+# Daily Blogroll: 2026-11-18
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/11/17/stardew-valley-horses-hardwood-and-the-wizards-ex-wife/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm’s Stardew Valley farm life hits new milestones: horse stables, Willy’s boat repairs, and the wizard’s ex-wife sending them swampward.
-- **<a href="https://chasingdings.com/2026/11/16/malifaux-rasputina-vs-sandeep-desai-and-rusty-alyce/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa opens with AI gripes, then gets to the good stuff: a lightly attended Malifaux tournament and Rasputina squaring off against Sandeep Desai.
-- **<a href="https://thealmightybacklog.wordpress.com/2026/11/16/botany-manor/" target="_blank" rel="noopener noreferrer">The Almighty Backlog</a>** -- Ellie recommends Botany Manor as a short, calming puzzle game about coaxing rare plants to bloom by piecing together scattered horticultural clues.
-- **<a href="https://blog.zarfhome.com/2026/11/visible-zorker-schedule-note" target="_blank" rel="noopener noreferrer">Zarf Updates</a>** -- Andrew Plotkin is pausing Visible Zorker’s regular cadence in December to compare three Zork 1 source versions, bug fixes and all.
-- **<a href="https://inanage.com/2026/11/17/pregame-of-the-year/" target="_blank" rel="noopener noreferrer">In An Age</a>** -- Azuriel roasts the absurdity of GTA6 snagging Game Awards nominations, including Best Performance, before the game is even out.
-- **<a href="https://endgameviable.com/post/2026/11/games-lately-november-edition/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet rounds up November gaming with Modern Warfare 4, Ravenfield, WoW: Forever, zombie hordes, and GTA VI looming over the SSD.
-- **<a href="https://goodgamelobby.substack.com/p/milki-delivery-review-cozy-indie-game" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey unexpectedly falls for Milki Delivery, a cozy bike-courier game where cute vibes and Milki’s milk runs make resource gathering click.
-## Writing
-
-- **<a href="https://falsemachine.blogspot.com/2026/11/a-review-of-mistress-of-mistresses-by.html" target="_blank" rel="noopener noreferrer">False Machine</a>** -- Patrick finds E.R. Eddison’s Mistress of Mistresses gloriously strange: pagan prayer, portal fantasy, dynastic drama, and intense masculine relationships all at once.
-- **<a href="https://axxuy.com/blog/2026/blogging-on-the-bus/" target="_blank" rel="noopener noreferrer">Axxuy</a>** -- Axxuy realizes the bus ride to visit their partner is perfect for offline blogging, touch-typing, and making the commute feel pleasantly shorter.
+- **<a href="http://tobolds.blogspot.com/2026/11/pathfinder-kingmaker-as-easy-gaming.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold revisits Pathfinder: Kingmaker as comfort gaming, praising kineticist while grumbling that its story companions are awkward enough to tempt some light modding.
+- **<a href="https://retroxp.beehiiv.com/p/20-years-of-the-wii-wario-land-shake-it" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc highlights how Wario Land: Shake It! turned the Wii’s non-HD limits into a strength with lavish hand-drawn 2D animation.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-11-16-dos2/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae chips away at Divinity: Original Sin 2’s Wrecker’s Cove, unimpressed by Void grossness but delighted by teleporting a shark onto land.
+- **<a href="https://frostilyte.ca/2026/11/17/a-promising-new-asymmetric-puzzler-two-two-agents-first-impressions/" target="_blank" rel="noopener noreferrer">Frostilyte Writes</a>** -- Frostilyte likes Two & Two Agents as a playful asymmetric co-op puzzler, especially its communication-driven demo and clever encoded-language puzzles.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/11/17/video-game-size-and-ssd-prices" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger argues ballooning installs like GTA 6’s 212GB sting more now that SSD prices have shot up and upgrades feel out of reach.
+- **<a href="https://joelchrono.xyz/blog/outer-wilds-echoes-of-the-eye/" target="_blank" rel="noopener noreferrer">JoelChrono</a>** -- Joel warmly recommends playing Outer Wilds: Echoes of the Eye completely blind, calling it a beautifully integrated extra adventure worth savoring later.
 ## Tech
 
-- **<a href="https://www.leadedsolder.com/2026/11/17/apple-iie-clone-loose-crystal.html" target="_blank" rel="noopener noreferrer">Leaded Solder</a>** -- Mike digs into a weird Apple II clone with flimsy plastics, a loose speaker, and a probably bootleg ASCII-branded 65C02.
+- **<a href="https://bhagpuss.blogspot.com/2026/11/chairs-missing.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss admits cheaping out on a Baldur's Gate 3-capable PC backfired, then says ChatGPT surprisingly helped rescue the machine.
+- **<a href="http://scripting.com/2026/11/17.html#a195653" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer tees up BonBon’s release and pitches it, with help from Claude Code, as a writer-first web project aimed squarely at tech’s usual mess.
+- **<a href="https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier points to reporting that France’s refrigerator cyberattacks are being tied to Iran, though the U.S. assessment is still only low-confidence.
+- **<a href="https://warnercrocker.com/2026/11/17/double-standards-on-double-screens-as-face-unlock-comes-to-iphone-duo/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner says Face Unlock on the iPhone Duo boosts convenience, but it also muddies Apple’s usual security-first line versus proper Face ID.
 ## General
 
-- **<a href="https://musingsoverpintsandcoffee.wordpress.com/2026/11/17/the-next-date-on-the-calendar/" target="_blank" rel="noopener noreferrer">Musing over Pints and Coffee</a>** -- Joar argues the activities that stick are the ones with a built-in next date and a little commitment, from OLLI to dance classes.
-- **<a href="http://www.heartlessgamer.com/2026/11/vikings-stomp-packers.html" target="_blank" rel="noopener noreferrer">Heartless Gamer</a>** -- Heartless keeps it simple and delighted: the Vikings crushed the Packers 30-10, and Thanksgiving suddenly looks sweeter.
+- **<a href="https://lameazoid.com/posts/review-transformers-jem-x-transformers-blaster/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie dives into the Jem x Transformers Blaster set, especially the gloriously weird Kiss Players cassette references and its unexpectedly sharp deco.
+- **<a href="https://thinkroot.xyz/galerie/3-body-problem" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian posts a quick meme shot titled 3 Body Problem, more gallery wink than essay.
