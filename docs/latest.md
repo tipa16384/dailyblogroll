@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-11-21
+# Daily Blogroll: 2026-11-22
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/11/20/wow-forever-notes-from-fields-of-westfall/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm is happily lost in WoW Forever’s familiar routines, wondering whether Blizzard’s hook is novelty or just the timeless alt-making treadmill.
-- **<a href="https://chasingdings.com/2026/11/19/final-fantasy-resonance-more-exvius-than-brave/" target="_blank" rel="noopener noreferrer">Chasing Dings!</a>** -- Tipa says Final Fantasy Resonance distills Brave Exvius into a cleaner, turn-based adventure that keeps the crystals, chocobos, and Visions while ditching the gacha sprawl.
-- **<a href="https://sightingames.wordpress.com/2026/11/19/review-assassins-creed-rogue-remastered/" target="_blank" rel="noopener noreferrer">Sight-In Games</a>** -- Zack finds Assassin’s Creed Rogue Remastered’s Templar-switch premise promising, but says the French and Indian War spin-off earns its long-standing bad reputation.
-- **<a href="https://www.filfre.net/2026/11/diablo-ii/" target="_blank" rel="noopener noreferrer">The Digital Antiquarian</a>** -- Jimmy revisits how Diablo II expanded Blizzard North’s hellish loot loop without losing the brutal simplicity that made the first game so hard to quit.
-- **<a href="https://kimimithegameeatingshemonster.com/2026/11/20/kaisoku-tenshi-super-sonic/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi spotlights Kaisoku Tenshi: Super Sonic, a weird PS1 platformer-beat ’em up where speed, inertia, and dash-kicks matter more than obscurity suggests.
-- **<a href="http://www.heartlessgamer.com/2026/11/thoughts-from-grand-theft-auto-vi-pc.html" target="_blank" rel="noopener noreferrer">Heartless Gamer</a>** -- Heartless is impressed by Grand Theft Auto VI’s Leonida and story, but hopes the launch-day quick-time feel gives way to proper sandbox chaos.
-- **<a href="https://goodgamelobby.substack.com/p/friday-follow-up-47-2026" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey rounds up Dice Have No Eyes and Volvy’s Adventure: Reslimed, then gushes over GTA 6 as a delayed blockbuster that looks worth the wait.
-## Tech
-
-- **<a href="https://www.tbray.org/ongoing/When/202x/2026/11/18/AI-Patterns" target="_blank" rel="noopener noreferrer">Ongoing</a>** -- Tim Bray sketches AI’s current sweet spot as 'singleton apps'—useful one-person software projects—while doubting that niche scales to most real-world development.
+- **<a href="https://tagn.wordpress.com/2026/11/21/friday-bullet-points-on-saturday-about-eve-online-during-the-seasonal-news-lull/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up EVE Online’s quiet season with Deteriorated’s Alliance Tournament win and an October MER showing Crimson Harvest’s smaller-than-usual economic bump.
+- **<a href="https://www.positech.co.uk/cliffsblog/2026/11/21/so-i-released-a-game/" target="_blank" rel="noopener noreferrer">Cliffski&#x27;s Blog</a>** -- Cliffski launches Ridiculous Space Battles into Early Access, reflects on hobby-dev freedom, and vents about the ugly toxicity that still dogs game releases.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-11-20-dos2/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae finishes mopping up Divinity: Original Sin 2’s Wrecker’s Cove with more Deathfog, dead dwarves, and the usual inventory-management comedown.
+- **<a href="https://bhagpuss.blogspot.com/2026/11/high-school-daze.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss returns to Wuthering Waves on GeForce Now, then gets sidetracked by its surprisingly full-on school-life sim, Second Coming of Solaris: Unwritten Dreams.
+- **<a href="http://tobolds.blogspot.com/2026/11/a-whale-of-box.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold unboxes an absurdly lavish storage vault for The Elder Scrolls: Betrayal of the Second Era and cheerfully admits it’s pure whale behavior.
 ## General
 
-- **<a href="https://franklantz.substack.com/p/life-after-games" target="_blank" rel="noopener noreferrer">Donkeyspace</a>** -- Frank uses SET, the Riemann Hypothesis, and AI to riff on how solving problems may be messier and more human than neat theory allows.
-- **<a href="https://www.kgadams.net/life/yardwork-part-one-the-destruction" target="_blank" rel="noopener noreferrer">Aging Gamer</a>** -- Kelly trades games for real-life teardown mode, documenting a big landscaping reset of flower beds, trees, and long-neglected backyard boxes.
-- **<a href="https://endgameviable.com/post/2026/11/nfl-week-10/" target="_blank" rel="noopener noreferrer">Endgame Viable</a>** -- UltrViolet recaps Week 10 with Commanders playoff math, strong alternate teams, and an AI fantasy win powered by Jayden Daniels, James Cook, and Cam Skattebo.
+- **<a href="https://wcrobinson.org/2026/11/21/a-new-adventure-my-two-weeks-in-india/" target="_blank" rel="noopener noreferrer">WCRobinson</a>** -- WCRobinson shares a two-week India trip that nearly died at Heathrow over a visa error before turning into a photo-heavy family holiday.
+- **<a href="https://lameazoid.com/posts/weekly-wrap-up-2026-11-21/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie’s weekly wrap-up hops from Rings of Power and SWAT Exiles to Blokees, a Transformers Advent calendar, and a Batman Hush Catwoman kit.
 ## Writing
 
-- **<a href="https://streetsinturmoil.com/2026/11/19/caddisworm-like-a-dragon-sure/" target="_blank" rel="noopener noreferrer">Streets &amp; Spores</a>** -- David turns caddisworm larvae into fantasy fuel, imagining silk-glued armor, battlefield scraps, and treasure-hoarding 'caddiswyrms' straight out of a monster manual.
+- **<a href="https://falsemachine.blogspot.com/2026/11/what-fuck-is-actually-hot-in-indie-rpgs.html" target="_blank" rel="noopener noreferrer">False Machine</a>** -- Patrick pokes at what’s “hot” in indie RPGs, contrasting giant names like Daggerheart and Dungeon Crawler Carl with the small-press scene.
+## Tech
+
+- **<a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier’s post veers into a comment-thread dive on logic, Gödel, Turing machines, and why computers can’t fully verify their own foundations.
+- **<a href="https://www.containsmoderateperil.com/blog/2026/11/19/how-to-bypass-discord-quests" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger shares a Windows shortcut trick to open Discord straight to your chosen server and channel, skipping the app’s Quests page.
+- **<a href="https://thinkroot.xyz/jurnal/pentru-a-traduce-texte-din-alte-limbi-in-romaneste" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian admits he’s drifting back to Google Translate and other Big Tech services because they’re simply faster and easier than the alternatives.
+- **<a href="http://scripting.com/2026/11/21.html#a153347" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer spotlights new Markdown-powered sites and BonBon demos, with a little evangelism for lightweight publishing on the side.
