@@ -1,22 +1,22 @@
-# Daily Blogroll: 2026-11-22
+# Daily Blogroll: 2026-11-23
 
 ## Gaming
 
-- **<a href="https://tagn.wordpress.com/2026/11/21/friday-bullet-points-on-saturday-about-eve-online-during-the-seasonal-news-lull/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up EVE Online’s quiet season with Deteriorated’s Alliance Tournament win and an October MER showing Crimson Harvest’s smaller-than-usual economic bump.
-- **<a href="https://www.positech.co.uk/cliffsblog/2026/11/21/so-i-released-a-game/" target="_blank" rel="noopener noreferrer">Cliffski&#x27;s Blog</a>** -- Cliffski launches Ridiculous Space Battles into Early Access, reflects on hobby-dev freedom, and vents about the ugly toxicity that still dogs game releases.
-- **<a href="https://anarchaeopteryx.bearblog.dev/2026-11-20-dos2/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae finishes mopping up Divinity: Original Sin 2’s Wrecker’s Cove with more Deathfog, dead dwarves, and the usual inventory-management comedown.
-- **<a href="https://bhagpuss.blogspot.com/2026/11/high-school-daze.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss returns to Wuthering Waves on GeForce Now, then gets sidetracked by its surprisingly full-on school-life sim, Second Coming of Solaris: Unwritten Dreams.
-- **<a href="http://tobolds.blogspot.com/2026/11/a-whale-of-box.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold unboxes an absurdly lavish storage vault for The Elder Scrolls: Betrayal of the Second Era and cheerfully admits it’s pure whale behavior.
-## General
-
-- **<a href="https://wcrobinson.org/2026/11/21/a-new-adventure-my-two-weeks-in-india/" target="_blank" rel="noopener noreferrer">WCRobinson</a>** -- WCRobinson shares a two-week India trip that nearly died at Heathrow over a visa error before turning into a photo-heavy family holiday.
-- **<a href="https://lameazoid.com/posts/weekly-wrap-up-2026-11-21/" target="_blank" rel="noopener noreferrer">Lameazoid</a>** -- Ramen Junkie’s weekly wrap-up hops from Rings of Power and SWAT Exiles to Blokees, a Transformers Advent calendar, and a Batman Hush Catwoman kit.
-## Writing
-
-- **<a href="https://falsemachine.blogspot.com/2026/11/what-fuck-is-actually-hot-in-indie-rpgs.html" target="_blank" rel="noopener noreferrer">False Machine</a>** -- Patrick pokes at what’s “hot” in indie RPGs, contrasting giant names like Daggerheart and Dungeon Crawler Carl with the small-press scene.
+- **<a href="https://tagn.wordpress.com/2026/11/22/tagn-fantasy-critic-league-2026-week-forty-seven-and-grand-theft-auto-vi/" target="_blank" rel="noopener noreferrer">The Ancient Gaming Noob</a>** -- Wilhelm rounds up Fantasy Critic chaos as Grand Theft Auto VI drops a monster 98.7 and steamrolls a week otherwise crowded with small PC indies.
+- **<a href="https://retroxp.beehiiv.com/p/20-years-of-the-wii-madworld" target="_blank" rel="noopener noreferrer">Retro XP</a>** -- Marc revisits MadWorld to ask why ultra-violent Wii games felt like smart bets, even when niche realities kept that market smaller than hoped.
+- **<a href="https://theboardgameschronicle.com/2026/11/22/coast-watchers-first-impressions-gmt-games/" target="_blank" rel="noopener noreferrer">The Boardgames Chronicle</a>** -- The Chronicler digs into Coast Watchers after three plays, highlighting its hidden-information spy-vs-patrol design and strong South Pacific intelligence theme.
+- **<a href="https://goodgamelobby.substack.com/p/5-indie-games-to-play-instead-of-grand-theft-auto-6" target="_blank" rel="noopener noreferrer">Good Game Lobby</a>** -- Sey counters Grand Theft Auto VI fever with five crime-flavored indies, from Retro City Rampage and Shakedown: Hawaii to Promise Mascot Agency.
+- **<a href="https://anarchaeopteryx.bearblog.dev/2026-11-22-smtvv/" target="_blank" rel="noopener noreferrer">An Archaeopteryx</a>** -- Anarchae starts a fourth Shin Megami Tensei V: Vengeance run and happily dives into Tokyo Tower progress, side quests, and lore-heavy story speculation.
+- **<a href="https://bhagpuss.blogspot.com/2026/11/its-all-gone-gta-crazy.html" target="_blank" rel="noopener noreferrer">Inventory Full</a>** -- Bhagpuss side-eyes the Grand Theft Auto VI takeover of blogland, while admitting Lana Del Rey hosting an in-game radio station is weirdly tempting.
+- **<a href="http://tobolds.blogspot.com/2026/11/wizards-with-crossbows.html" target="_blank" rel="noopener noreferrer">Tobold&#x27;s Blog</a>** -- Tobold finds low-level Pathfinder: Kingmaker spellcasters weirdly incentivized to use crossbows, especially once digital combat pacing burns through spell slots.
 ## Tech
 
-- **<a href="https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier’s post veers into a comment-thread dive on logic, Gödel, Turing machines, and why computers can’t fully verify their own foundations.
-- **<a href="https://www.containsmoderateperil.com/blog/2026/11/19/how-to-bypass-discord-quests" target="_blank" rel="noopener noreferrer">Contains Moderate Peril</a>** -- Roger shares a Windows shortcut trick to open Discord straight to your chosen server and channel, skipping the app’s Quests page.
-- **<a href="https://thinkroot.xyz/jurnal/pentru-a-traduce-texte-din-alte-limbi-in-romaneste" target="_blank" rel="noopener noreferrer">ThinkRoot</a>** -- Cristian admits he’s drifting back to Google Translate and other Big Tech services because they’re simply faster and easier than the alternatives.
-- **<a href="http://scripting.com/2026/11/21.html#a153347" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer spotlights new Markdown-powered sites and BonBon demos, with a little evangelism for lightweight publishing on the side.
+- **<a href="https://hamatti.org/posts/djangonaut-log-6-other-life-got-in-the-way/" target="_blank" rel="noopener noreferrer">Hamatti</a>** -- Juhis has a low-output Djangonaut week, but still finds perspective, team camaraderie, and a nice community win around Django and Raffaella Suardini.
+- **<a href="http://scripting.com/2026/11/22.html#a151736" target="_blank" rel="noopener noreferrer">Scripting News</a>** -- Dave Winer shares fresh BonBon progress, WordPress integration plans, and a bigger pitch for a simpler Markdown-based web for writers.
+- **<a href="https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html" target="_blank" rel="noopener noreferrer">Schneier on Security</a>** -- Bruce Schneier argues AI companies keep dodging accountability by treating chatbot output as protected speech when convenient and mere machine error otherwise.
+## General
+
+- **<a href="https://warnercrocker.com/2026/11/22/sunday-morning-reading-182/" target="_blank" rel="noopener noreferrer">Life on the Wicked Stage</a>** -- Warner’s weekly reading stack is a pretty grim but sharp tour through AI anxiety, tech failures, and politics getting uglier together.
+## Writing
+
+- **<a href="https://kimimithegameeatingshemonster.com/2026/11/23/one-night-at-the-dancing-dragon-confidence-trick/" target="_blank" rel="noopener noreferrer">Kimimi the Game Eating She-Monster</a>** -- Kimimi gets candid about Twine nerves, reminding herself that interactive fiction is still real design even when it looks like just words and choices.
